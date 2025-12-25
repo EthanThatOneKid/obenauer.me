@@ -15,13 +15,43 @@ const client = new GoogleGenAI({ apiKey: API_KEY });
 async function getOrCreateStore(displayName: string) {
   console.log(`Checking for existing store: ${displayName}...`);
 
-  const pager = await client.fileSearchStores.list();
+  // Use explicit 'any' casting to navigate the Pager object since TS definitions seem to mismatch or be opaque.
+  const pager: any = await client.fileSearchStores.list();
 
   let existing: any = null;
-  // Iterate asynchronously over the pager
-  for await (const store of pager) {
-    if (store.displayName === displayName) {
-        existing = store;
+
+  // Based on the tutorial:
+  // let page = pager.page;
+  // while(true) { for (const store of page) ... if (!pager.hasNextPage()) break; page = await pager.nextPage(); }
+
+  let page = pager.page;
+  // If page is undefined, maybe the pager is directly iterable or has items?
+  // Let's assume standard pagination if .page exists, otherwise try fallback.
+
+  if (!page && pager.fileSearchStores) {
+      page = pager.fileSearchStores;
+  }
+
+  // Fallback for empty list or different structure
+  if (!page) page = [];
+
+  while (true) {
+    for (const store of page) {
+        if (store.displayName === displayName) {
+            existing = store;
+            break;
+        }
+    }
+
+    if (existing) break;
+
+    if (typeof pager.hasNextPage === 'function' && pager.hasNextPage()) {
+         if (typeof pager.nextPage === 'function') {
+            page = await pager.nextPage();
+         } else {
+             break;
+         }
+    } else {
         break;
     }
   }
@@ -32,11 +62,6 @@ async function getOrCreateStore(displayName: string) {
   }
 
   console.log(`Creating new store: ${displayName}...`);
-  // Based on .d.ts inspection:
-  // CreateFileSearchStoreParameters { config?: CreateFileSearchStoreConfig }
-  // CreateFileSearchStoreConfig { displayName?: string }
-  // So it should be create({ config: { displayName: "..." } })
-
   const newStore = await client.fileSearchStores.create({
     config: { displayName }
   });
@@ -75,10 +100,7 @@ async function main() {
     console.log(`Uploading ${filename}...`);
 
     try {
-      // Based on .d.ts inspection:
-      // uploadToFileSearchStore(params: { fileSearchStoreName: string, file: string | Blob, config?: ... })
-
-      const uploadResult = await client.fileSearchStores.uploadToFileSearchStore({
+      let uploadOp = await client.fileSearchStores.uploadToFileSearchStore({
         fileSearchStoreName: store.name,
         file: filePath,
         config: {
@@ -87,9 +109,26 @@ async function main() {
         }
       });
 
-      console.log(`Successfully uploaded ${filename}. Operation:`, uploadResult.name);
+      console.log(`Upload started for ${filename}:`, uploadOp.name);
 
-      await new Promise(r => setTimeout(r, 1000));
+      // Poll for completion
+      while (!uploadOp.done) {
+          console.log(`Waiting for ${filename} processing...`);
+          await new Promise(r => setTimeout(r, 1000));
+
+          // The error said "Object literal may only specify known properties, and 'name' does not exist in type 'OperationGetParameters'"
+          // It seems it expects the operation object itself or something else.
+          // The tutorial said: advancedUploadOp = await ai.operations.get({ operation: advancedUploadOp });
+
+          // We need to cast to 'any' or match the expected type.
+          // Since uploadOp is the operation object, let's pass it.
+          // TS might complain if the types don't exactly match (e.g. strict checks).
+
+          uploadOp = await client.operations.get({ operation: uploadOp } as any);
+      }
+
+      console.log(`Successfully processed ${filename}`);
+
     } catch (error) {
       console.error(`Error processing ${filename}:`, error);
     }
