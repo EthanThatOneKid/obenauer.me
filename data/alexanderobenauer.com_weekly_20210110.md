@@ -1,0 +1,123 @@
+What if you could build apps in minutes?
+
+[
+
+Alexander Obenauer
+==================
+
+](/)
+
+[
+
+![The Weekly](/assets/svgs/title-theweekly.svg)
+===============================================
+
+](/weekly/)
+
+Updates published most weeks. Want to receive them by email?
+
+[Or subscribe to the RSS feed »](https://alexanderobenauer.com/assets/feed/rss.xml)
+
+* * *
+
+[
+
+All archives
+
+
+
+
+
+](/weekly/)
+
+[
+
+February 1, 2025
+
+I wrote a book!
+
+
+
+
+
+](/weekly/20250201)
+
+[
+
+June 22, 2024
+
+Thinking about the interfaces with which we think
+
+
+
+
+
+](/weekly/20240622)
+
+[
+
+January 21, 2024
+
+A new experiment, and an Ink & Switch collab
+
+
+
+
+
+](/weekly/20240121)
+
+[
+
+October 21, 2023
+
+An understanding of time in the OS of the future
+
+
+
+
+
+](/weekly/20231021)
+
+[
+
+August 28, 2023
+
+How semantic zoom supports agency in personal software
+
+
+
+
+
+](/weekly/20230828)
+
+January 10, 2021
+
+What if you could build apps in minutes?
+========================================
+
+In a day, you might design an interface that will take weeks or months to develop. Then you’ll find out it should be a little bit different. More weeks.
+
+The coding step of the process of building software takes infinitely more time than it should, and it grinds every process it is a part of down to first gear.
+
+To develop the experiments and demos for my research work — exploring the ideas for the future of the operating system — I needed something that didn’t exist:
+
+A framework that would let me develop wild ideas in minutes, not months.
+
+In today’s LN 001, I share an early demo of the framework I’ve been working on to allow me to do just that.
+
+Read it here:
+[LN 001: Building apps in minutes, not months](/labnotes/001)
+
+* * *
+
+Looking for more to read? This week I also published a new post: [Build and rebuild](/thinking/rebuild).
+
+* * *
+
+My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
+
+[Home](/) // / [Email](mailto:alexander@obenauer.com?subject=Hey%20there!&body=Alex%2C%0A%0AI%20was%20just%20on%20your%20website%2C%20and...%20%0A%0A) // [Bluesky](https://bsky.app/profile/alexanderobenauer.com) / [Mastodon](https://mastodon.social/@alexobenauer) / [Twitter](https://twitter.com/alexobenauer) // [RSS](/assets/feed/rss.xml) / [Newsletter](/weekly/)
+
+My work is graciously supported by the community. [Want to support my work? See memberships.](/membership)
+
+[Go to the member portal →](https://lab.alexanderobenauer.com)
