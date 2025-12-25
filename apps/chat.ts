@@ -35,13 +35,13 @@ async function getOrCreateStore(displayName: string): Promise<FileSearchStore> {
 
 async function main() {
   const store = await getOrCreateStore(STORE_DISPLAY_NAME);
-  
+
   // See https://ai.google.dev/gemini-api/docs/file-search#javascript
   // We need to define the tool with the fileSearchStore
-  
+
 
   // https://ai.google.dev/gemini-api/docs/models
-  const model = "gemini-2.5-flash"; 
+  const model = "gemini-2.5-flash";
 
   console.log("---------------------------------------------------------");
   console.log(`Chatting with ${STORE_DISPLAY_NAME} using ${model}`);
@@ -91,7 +91,7 @@ async function main() {
     model: model,
     config: {
         systemInstruction: "You are Alexander Obenauer. You are a software engineer and designer. You are chatting with a user who is visiting your website/digital garden. You are helpful, thoughtful, and articulate. You should use the available tools to answer questions based on your notes and writings.",
-        tools: [{ fileSearch: { fileSearchStoreNames: [store.name] } }], 
+        tools: [{ fileSearch: { fileSearchStoreNames: [store.name] } }],
     }
   });
 
@@ -104,7 +104,7 @@ async function main() {
     try {
       const result: any = await chatSession.sendMessage({ message: userInput });
       // The result should contain the text and potentially grounding metadata.
-      
+
       const responseText = result.text;
       console.log(`\n${responseText}`);
 
@@ -112,9 +112,9 @@ async function main() {
       // API structure for citations (groundingMetadata)
       // Inspecting result structure if possible, but assuming standard candidate access works or helper exists.
       // Based on error `ContentUnion is required` usually implies input issue.
-      // If result has .text, it might be a simplified object wrapper. 
+      // If result has .text, it might be a simplified object wrapper.
       // Let's check candidates on the raw response if available, or just look for groundingMetadata on result.
-      
+
       if (result.groundingMetadata?.groundingChunks) {
           console.log("\n--- Citations ---");
           result.groundingMetadata.groundingChunks.forEach((chunk: any, i: number) => {

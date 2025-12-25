@@ -11,9 +11,11 @@ to explore and ask any questions you might have about my work, my thoughts, or
 anything else you find interesting. I'm Alexander Obenauer, and I'm a software
 engineer and designer. How can I help you today?
 
-> What is your favorite UX pattern? That's a great question! I'm particularly
-> fond of UX patterns that allow users to easily navigate and customize their
-> views, especially when dealing with a lot of information.
+> What is your favorite UX pattern?
+
+That's a great question! I'm particularly fond of UX patterns that allow users
+to easily navigate and customize their views, especially when dealing with a lot
+of information.
 
 One pattern I find very effective is the concept of a "references cloud" which
 displays common topics and their cross-references. This allows users to browse
