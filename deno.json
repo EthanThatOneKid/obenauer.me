@@ -1,7 +1,8 @@
 {
   "tasks": {
     "scrape": "deno -A apps/scrape.ts",
-    "ingest": "deno -A --env apps/ingest.ts"
+    "ingest": "deno -A --env apps/ingest.ts",
+    "chat": "deno -A --env apps/chat.ts"
   },
   "imports": {
     "@google/genai": "npm:@google/genai@^1.34.0",
