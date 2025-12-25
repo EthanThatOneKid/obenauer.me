@@ -14,6 +14,13 @@ if (import.meta.main) {
     const turndownService = new TurndownService();
 
     // Ensure data directory exists
+    try {
+      await Deno.remove("data", { recursive: true });
+    } catch (error) {
+      if (!(error instanceof Deno.errors.NotFound)) {
+        throw error;
+      }
+    }
     await Deno.mkdir("data", { recursive: true });
 
     // Limit concurrency to avoid overwhelming the server or getting blocked
