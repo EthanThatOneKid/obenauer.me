@@ -1,4 +1,4 @@
-import TurndownService from "npm:turndown";
+import TurndownService from "turndown";
 
 if (import.meta.main) {
   try {
