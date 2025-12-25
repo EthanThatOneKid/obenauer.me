@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 [
 
 LAB NOTES
@@ -351,12 +345,6 @@ I’ve published [the full source on GitHub](https://github.com/alexobenauer/obs
 [Next: LN 016 »](/labnotes/016)
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

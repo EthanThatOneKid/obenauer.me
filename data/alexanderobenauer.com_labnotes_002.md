@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 [
 
 LAB NOTES
@@ -349,12 +343,6 @@ Increasingly, many of our things live in our computers. Universal data portabili
 [Next: LN 003 »](/labnotes/003)
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

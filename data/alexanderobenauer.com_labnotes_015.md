@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 [
 
 LAB NOTES
@@ -362,12 +356,6 @@ If you’re interested in trying it out, stay tuned – I’ll let you know when
 [Next: EXP 001 »](/labnotes/exp001)
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 [
 
 ![The Weekly](/assets/svgs/title-theweekly.svg)
@@ -21,10 +15,6 @@ Subscribe
 ](/weekly/)
 
 Updates published most weeks. Want to receive them by email?
-
-Don’t fill this out if you’re human:
-
-Subscribe
 
 [Or subscribe to the RSS feed »](https://alexanderobenauer.com/assets/feed/rss.xml)
 
@@ -124,12 +114,6 @@ I’ve been a big fan of what they’re building: you can create “vals” (lit
 _If you’d like to find out more about becoming a sponsor, [head to alexanderobenauer.com/sponsorship/](https://alexanderobenauer.com/sponsorship/). June and July are currently available._
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

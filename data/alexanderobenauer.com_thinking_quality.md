@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 Thinking in Progress  • • •
 ---------------------------
 
@@ -49,12 +43,6 @@ Further reading
 Opening with the same passage from Art & Fear, Jeff Atwood discusses this nicely in [Quantity Always Trumps Quality](https://blog.codinghorror.com/quantity-always-trumps-quality/) as well as with specific application to software development in [When Understanding means Rewriting](https://blog.codinghorror.com/when-understanding-means-rewriting/).
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

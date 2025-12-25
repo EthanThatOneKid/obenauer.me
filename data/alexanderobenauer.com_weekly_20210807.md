@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 [
 
 ![The Weekly](/assets/svgs/title-theweekly.svg)
@@ -21,10 +15,6 @@ Subscribe
 ](/weekly/)
 
 Updates published most weeks. Want to receive them by email?
-
-Don’t fill this out if you’re human:
-
-Subscribe
 
 [Or subscribe to the RSS feed »](https://alexanderobenauer.com/assets/feed/rss.xml)
 
@@ -130,12 +120,6 @@ Curious to hear your thoughts.
 Also: Are you a Mail Pilot user? Big news is ahead. Next week on Tuesday August 10, check our Slack or [Twitter](https://twitter.com/mailpilotapp) for the first in a series of things I have to share.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

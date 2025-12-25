@@ -16,10 +16,6 @@ ALEXANDER OBENAUER
 
 Want to receive my work as I publish it?
 
-Don’t fill this out if you’re human:
-
- Subscribe
-
 Book
 
 [
@@ -525,10 +521,6 @@ Misc
 * * *
 
 Want to receive my work as I publish it?
-
-Don’t fill this out if you’re human:
-
- Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

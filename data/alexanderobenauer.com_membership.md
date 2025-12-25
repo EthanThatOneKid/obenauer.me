@@ -1,4 +1,4 @@
-Join the Little Lab(function(c) { var script = document.createElement("script"); script.src = "https://js.memberful.com/embed.js"; script.onload = function() { Memberful.setup(c) }; document.head.appendChild(script); })({ site: \["https://alexander.memberful.com"\] });
+Join the Little Lab
 
 [
 
@@ -11,10 +11,6 @@ Alexander Obenauer
 [Twitter](https://twitter.com/alexobenauer)
 
 Want to receive my work as I publish it?
-
-Don’t fill this out if you’re human:
-
- Subscribe
 
 * * *
 
@@ -132,10 +128,6 @@ This memebership program is administered by the LLC _Obenauer Studiorum_, the na
 [Privacy policy ↗](/privacy)
 
 Want to receive my work as I publish it?
-
-Don’t fill this out if you’re human:
-
- Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

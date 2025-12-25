@@ -1,4 +1,4 @@
-OLLOS  body, html { --background-color: #F2F0ED; background: #F2F0ED; } #top-left { margin-top: 50px; font-size: 28px; margin-left: -50px; } @media (max-width: 800px) { #top-left { margin-left: auto; margin-right: auto; } } article { font-family: 'Crimson Pro', serif; font-weight: 300; } article b, article strong { font-weight: 600; } article a:link:not(.no-underline) { text-decoration: underline; text-decoration-thickness: 1px; } .article-width { max-width: 90%; } @media (max-width: 760px) { .article-width, .fullwidth { max-width: none; } } .tufte-big { font-size: 26px; line-height: 32px; max-width: 600px; } .big-shadow { /\* https://smoothshadows.com/#djEsMSw1LDAuMDgsNzYsNjcsMCwjMDMwNzEyLCNmMmYwZWQsI2ZmZmZmZiwy \*/ box-shadow: 0px 3px 3px rgba(3, 7, 18, 0.02), 0px 11px 12px rgba(3, 7, 18, 0.03), 0px 24px 27px rgba(3, 7, 18, 0.05), 0px 43px 49px rgba(3, 7, 18, 0.06), 0px 67px 76px rgba(3, 7, 18, 0.08); } .wider { margin: 0 -60px; } p.dropcap::first-letter { float: left; line-height: 100%; font-size: 300%; /\* margin-top: 0.025em; \*/ margin-bottom: -0.2em; margin-right: 0.1em; } @media (max-width: 760px) { #link-list { word-break: break-all; } } .hidden { display: none; }
+OLLOS
 
 [AO |](/) EXP 002
 
@@ -21,10 +21,6 @@ ALEXANDER OBENAUER
 [Email](mailto:alexander@obenauer.com?subject=Hey%20there!&body=Alex%2C%0A%0AI%20was%20just%20reading%20about%20OLLOS%2C%20and...%20%0A%0A)   [Bluesky](https://bsky.app/profile/alexanderobenauer.com)   [Mastodon](https://mastodon.social/@alexobenauer)   [Twitter](https://twitter.com/alexobenauer)
 
 Want to receive my work as I publish it?
-
-Don’t fill this out if you’re human:
-
- Subscribe
 
 ![OLLOS icon](/assets/imgs/ollos-icon.png)
 
@@ -122,8 +118,6 @@ From [an update](https://lab.alexanderobenauer.com/updates/spaced-review) sent t
 > **Recommending things to read.** Whenever I find an article I might be interested in, I drop it into OLLOS’ prompt input, which adds it to my timeline. If I don’t read it that day, it starts to show up in my spaced review.
 >
 > **Replying to emails later,** and reviewing sent emails that haven’t received responses yet.
->
-> [Experimenting with spaced review in OLLOS](https://lab.alexanderobenauer.com/updates/spaced-review)
 
 This system worked well for things that I might want to dig into when more time allowed (such as links to read later, and review of past notes), but it often got clogged with things that I needed to do, but which I hadn’t scheduled or completed yet (such as tasks or emails which needed replies). Later iterations with different kinds of filters or sort orders helped, but I’ve since removed this part of OLLOS, and replaced it with a new concept. One of the primary goals when creating OLLOS was to have an interface which could reflect the development and decay in importance of the things in our lives, letting each item live on its own epoch. This implies a different “sort order” of active items, and indeed, it’s a particularly useful extension on the OLLOS concept. It still uses this “spaced review” mechanism, but in an interface dedicated to reviewing active items. As it leaves the timeline, I’ll save its discussion for another essay.
 
@@ -198,10 +192,6 @@ Some interesting explorations of time and log interfaces:
 *   [https://twitter.com/rich\_cahill/status/1610646632546156545](https://twitter.com/rich_cahill/status/1610646632546156545)
 
 Want to receive my work as I publish it?
-
-Don’t fill this out if you’re human:
-
- Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

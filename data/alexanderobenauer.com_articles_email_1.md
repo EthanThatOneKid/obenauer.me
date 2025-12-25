@@ -1,4 +1,4 @@
-Mail Pilot 5: For the love of it.articles.email.1 { background: black; color: white; } #header, #article { max-width: 640px; margin: 0 auto; } h1#headline { font-size: 80px; line-height: 83px; text-align: center; } @media (max-width: 499px) { h1#headline { font-size: 50px; line-height: 53px; } } p#details { font-family: "Courier New"; font-size: 12px; text-align: center; color: var(--secondary-text-color); margin: 15px 0; } #article p:not(.sans) { font-size: 21px; line-height: 30px; font-weight: normal; font-family: 'Newsreader', serif; margin-bottom: 15px; } #article p:not(.sans) .sans { font-size: 16px; } #article p.dropcap::first-letter { font-family: 'Nanum Myeongjo', serif; float: left; line-height: 95%; /\* width: 120%; \*/ /\* width: .7em; \*/ font-size: 300%; margin-right: 4px; } #article h2 { margin-top: 45px; margin-bottom: 15px; letter-spacing: -0.5px; } #article h3 { margin-top: 25px; margin-bottom: 15px; font-size: 20px; line-height: 24px; letter-spacing: -0.25px; } #article h4 { margin-top: 25px; margin-bottom: 15px; font-size: 16px; letter-spacing: normal; }
+Mail Pilot 5: For the love of it
 
 [
 
@@ -6,12 +6,6 @@ Alexander Obenauer
 ==================
 
 ](/)
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 Mail Pilot 5: For the love of it
 ================================
@@ -89,12 +83,6 @@ What else can you expect from me this year? Every week, on Saturdays, I send out
 I’ve learned a lot from ten years of building email clients, all of which Five builds on. Mail Pilot 4 was an ambitious project that explored an entirely new kind of design and interaction with email, and these experiments have more natural conclusions in Five. With everything learned, I hope to make Mail Pilot 5 simply great.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 [
 
 ![The Weekly](/assets/svgs/title-theweekly.svg)
@@ -21,10 +15,6 @@ Subscribe
 ](/weekly/)
 
 Updates published most weeks. Want to receive them by email?
-
-Don’t fill this out if you’re human:
-
-Subscribe
 
 [Or subscribe to the RSS feed »](https://alexanderobenauer.com/assets/feed/rss.xml)
 
@@ -121,12 +111,6 @@ I’m looking for a developer to contract some hours with each week on Mail Pilo
 If you’re interested, fill out this [application](https://forms.gle/Gbm7f8tm6LRHR8QM6), or reach out [by email](mailto:alexander@obenauer.com). And if you know someone who would be a good fit, please send this their way!
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

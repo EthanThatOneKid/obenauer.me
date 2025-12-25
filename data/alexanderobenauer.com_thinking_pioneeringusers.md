@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 Thinking in Progress  • • •
 ---------------------------
 
@@ -32,12 +26,6 @@ This is one of the many benefits I get out of handling all support myself: I get
 And one of the benefits of [building a community of users](/thinking/gatheracommunity) is that pioneering users can engage with one another, often riffing on each other’s thoughts and ideas.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

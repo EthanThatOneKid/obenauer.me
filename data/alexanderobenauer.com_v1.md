@@ -13,12 +13,6 @@ My experiments often involve designing and developing many ideas — some of whi
 
 My work is graciously supported by the community — if you want to join us, see [memberships](/membership).
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 * * *
 
 The future of the operating system
@@ -209,12 +203,6 @@ Subscribe by RSS
 * * *
 
 [I wrote a book!](/weekly/20250201/) · [Thinking about the interfaces with which we think](/weekly/20240622/) · [A new experiment, and an Ink & Switch collab](/weekly/20240121/) · [An understanding of time in the OS of the future](/weekly/20231021/) · [How semantic zoom supports agency in personal software](/weekly/20230828/) · [A gestural environment for the OS of the future](/weekly/20230729/) · [Making the OS of the future more helpful](/weekly/20230422/) · [**All archives »**](/weekly/)
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

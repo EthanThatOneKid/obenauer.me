@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 [
 
 ![The Weekly](/assets/svgs/title-theweekly.svg)
@@ -21,10 +15,6 @@ Subscribe
 ](/weekly/)
 
 Updates published most weeks. Want to receive them by email?
-
-Don’t fill this out if you’re human:
-
-Subscribe
 
 [Or subscribe to the RSS feed »](https://alexanderobenauer.com/assets/feed/rss.xml)
 
@@ -127,12 +117,6 @@ In my work, I am both the researcher and the practitioner; I work in both theory
 One key insight from Hamming: Though sometimes the activities within the two are the same (for me — ideating, writing, developing), always knowing when you’re doing science versus engineering is critical to being effective. In independent research, we may flip between the two regularly, and though the context switch is not always easy, it should be done intentionally.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

@@ -1,4 +1,4 @@
-2023  h1.huge { font-weight: normal; font-size: 150px; letter-spacing: -6px; line-height: 100px; margin-left: -11px; margin-bottom: -20px; } @media (min-width: 800px) { h1.huge { font-size: 300px; line-height: 300px; letter-spacing: -12px; margin-left: -22px; margin-bottom: -40px; } } article a:hover { text-decoration: underline; background: var(--accent-color); color: var(--accent-opposite-color); border-radius: 3px; text-shadow: none; } article .large p { font-size: 1.8rem; line-height: 2.4rem; } p.dropcap::first-letter { float: left; line-height: 100%; font-size: 300%; /\* margin-top: 0.025em; \*/ margin-bottom: -0.2em; margin-right: 0.1em; } @media (min-width: 800px) { /\* .prose.serif.big p, .prose.serif.big ol, .prose.serif.big ul { font-size: 21px; line-height: 28px; margin-bottom: 16px; } \*/ p.dropcap::first-letter { /\* margin-bottom: -50px; margin-right: 4px; \*/ } }
+2023
 
 [
 
@@ -11,10 +11,6 @@ Alexander Obenauer
 [Twitter](https://twitter.com/alexobenauer)
 
 Want to receive my work as I publish it?
-
-Don’t fill this out if you’re human:
-
- Subscribe
 
 2023
 ====
@@ -109,10 +105,6 @@ It’s funny to think: two years into publishing lab notes on the OS of the futu
 That’s what’s on my mind for 2023: “_Now_ it’s getting interesting.”
 
 Want to receive my work as I publish it?
-
-Don’t fill this out if you’re human:
-
- Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

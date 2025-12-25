@@ -1,4 +1,4 @@
-Reimagining email  @media (min-width: 800px) { #articleHeader p { margin-right: -100px; } }
+Reimagining email
 
 [
 
@@ -6,12 +6,6 @@ Alexander Obenauer
 ==================
 
 ](/)
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 ![](/assets/svgs/illo-reimaginingemail.svg)
 
@@ -143,12 +137,6 @@ And, of course, a few stories and pictures from the journey that are fun to shar
 If you want to receive the next chapter when it is published, sign up below.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 ![](/assets/svgs/illo-independentresearch.svg)
 
 How I approach my core work
@@ -185,12 +179,6 @@ And, ultimately, if I can help others to engage in this kind of inquisitive thou
 Whether it’s butterflies, music, software, or anything else — I hope you find your spark, and I hope you get the opportunity to contribute your own node into the graph of human knowledge.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

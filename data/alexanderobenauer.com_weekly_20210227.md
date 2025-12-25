@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 [
 
 ![The Weekly](/assets/svgs/title-theweekly.svg)
@@ -21,10 +15,6 @@ Subscribe
 ](/weekly/)
 
 Updates published most weeks. Want to receive them by email?
-
-Don’t fill this out if you’re human:
-
-Subscribe
 
 [Or subscribe to the RSS feed »](https://alexanderobenauer.com/assets/feed/rss.xml)
 
@@ -121,12 +111,6 @@ Quite simply: I’m actually building this OS user environment! This demo enviro
 It is an extraordinarily rewarding thing to build, because every time an idea comes up for the operating system of the future, I now build it into my OS and use it as I go about my day. This has me iterating on ideas far further (and faster) than I could before. Many of these newly iterated ideas will start showing up in the Lab Notes in the coming weeks.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

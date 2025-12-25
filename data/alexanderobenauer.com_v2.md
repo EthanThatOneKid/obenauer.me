@@ -13,10 +13,6 @@ Alexander Obenauer
 
 Want to receive my work as I publish it?
 
-Don’t fill this out if you’re human:
-
- Subscribe
-
 * * *
 
 Interfaces we think with
@@ -253,10 +249,6 @@ Newsletter
 New stuff,
 on Saturdays
 
-Don’t fill this out if you’re human:
-
- Subscribe
-
 [You can also catch it on RSS →](/assets/feed/rss.xml)
 
 Interviews & misc.
@@ -270,10 +262,6 @@ You can sponsor the Little Lab for one or more months. For helping make this ind
 [Sponsor the Little Lab’s work →](/sponsorship/)
 
 Want to receive my work as I publish it?
-
-Don’t fill this out if you’re human:
-
- Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

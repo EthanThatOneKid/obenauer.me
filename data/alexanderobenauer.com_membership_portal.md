@@ -1,4 +1,4 @@
-Membership Portal — AlexanderObenauer.comwindow.MemberfulOptions = {site: "https://alexander.memberful.com"}; (function() { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js'; setup = function() { window.MemberfulEmbedded.setup(); } s.addEventListener("load", setup, false); ( document.getElementsByTagName('head')\[0\] || document.getElementsByTagName('body')\[0\] ).appendChild( s ); })(); body { --main-bg-color: var(--callout-bg-color2); }
+Membership Portal — AlexanderObenauer.com
 
 [
 
@@ -6,12 +6,6 @@ Alexander Obenauer
 ==================
 
 ](/)
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 This is the old member portal — [click here to go to the new one](https://lab.alexanderobenauer.com).
 
@@ -28,12 +22,6 @@ Message
 -------
 
 Have a question? Something you’d like to see in the next member mag? Send a message here. Questions of general interest may be included in members-only areas.
-
-Message:
-
-Your name:  Your email:  Send
-
-(function() { // console.log(document.querySelector('.toShow')); document.querySelector('.toShow').classList.remove('show'); })();
 
 Experimenting with spaced review in OLLOS
 -----------------------------------------
@@ -103,12 +91,6 @@ Want to share your support of this research?
 [Share on Twitter](https://twitter.com/intent/tweet?text=I'm%20a%20supporting%20member%20of%20%40alexobenauer's%20research.%20You%20can%20support%20too%3A%20https%3A//alexanderobenauer.com) / [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//alexanderobenauer.com&title=Alexander%20Obenauer's%20research%20on%20personal%20computing&summary=I'm%20a%20supporting%20member%20of%20Alexander%20Obenauer's%20research.%20You%20can%20support%20too.&source=) / [Send Email](mailto:?subject=Research%20I'm%20supporting&body=I'm%20a%20supporting%20member%20of%20Alexander%20Obenauer's%20research.%20You%20can%20support%20too%3A%20https%3A//alexanderobenauer.com)
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

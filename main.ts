@@ -12,6 +12,7 @@ if (import.meta.main) {
     }
 
     const turndownService = new TurndownService();
+    turndownService.remove(['script', 'style', 'nav', 'footer', 'form', 'aside', 'iframe', 'noscript']);
 
     // Ensure data directory exists
     try {

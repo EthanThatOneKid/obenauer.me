@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 Thinking in Progress  • • •
 ---------------------------
 
@@ -41,12 +35,6 @@ The unexpected benefits of gathering a community started before I had even shipp
 Additionally, the existence of a customer community led me to discover [pioneering users](/thinking/pioneeringusers), a kind of user that, when supported the right way, can help propel a product forward. And within the community, pioneering users can riff on each other’s ideas and remarks.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

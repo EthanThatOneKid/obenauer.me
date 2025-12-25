@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 Thinking in Progress  • • •
 ---------------------------
 
@@ -91,12 +85,6 @@ Further on [Akin’s Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/a
 > \[43\] You really understand something the third time you see it (or the first time you teach it.)
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 

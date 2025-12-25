@@ -7,12 +7,6 @@ Alexander Obenauer
 
 ](/)
 
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
-
 Thinking in Progress  • • •
 ---------------------------
 
@@ -54,12 +48,6 @@ In sum
 We do not know how things connect looking forward, only looking backward. So create wildly, explore boundlessly. Don’t limit yourself to just what seems applicable; trust that everything will connect later.
 
 * * *
-
-Don’t fill this out if you’re human:
-
-Want to receive my work as I publish it?
-
-Subscribe
 
 My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 
