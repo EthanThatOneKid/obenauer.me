@@ -12,7 +12,16 @@ if (import.meta.main) {
     }
 
     const turndownService = new TurndownService();
-    turndownService.remove(['script', 'style', 'nav', 'footer', 'form', 'aside', 'iframe', 'noscript']);
+    turndownService.remove([
+      "script",
+      "style",
+      "nav",
+      "footer",
+      "form",
+      "aside",
+      "iframe",
+      "noscript",
+    ]);
 
     // Ensure data directory exists
     try {
@@ -41,7 +50,7 @@ if (import.meta.main) {
         let filename = url.replace("https://", "").replace("http://", "");
         // Remove trailing slash if present
         if (filename.endsWith("/")) {
-            filename = filename.slice(0, -1);
+          filename = filename.slice(0, -1);
         }
         // Replace slashes with underscores or keep directory structure?
         // User asked for "a new directory, data which contains all of the scraped markdown files"
@@ -50,18 +59,16 @@ if (import.meta.main) {
 
         // If filename is empty (root), call it index
         if (filename === "alexanderobenauer.com") {
-             filename = "alexanderobenauer.com_index";
+          filename = "alexanderobenauer.com_index";
         }
 
         const filepath = `data/${filename}.md`;
         await Deno.writeTextFile(filepath, markdown);
         console.log(`Saved to ${filepath}`);
-
       } catch (err) {
         console.error(`Error processing ${url}:`, err);
       }
     }
-
   } catch (error) {
     if (error instanceof Deno.errors.NotFound) {
       console.error("sitemap.xml not found.");

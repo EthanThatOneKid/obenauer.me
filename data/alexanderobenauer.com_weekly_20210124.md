@@ -2,15 +2,13 @@ The Inverted OS, Part 2
 
 [
 
-Alexander Obenauer
-==================
+# Alexander Obenauer
 
 ](/)
 
 [
 
-![The Weekly](/assets/svgs/title-theweekly.svg)
-===============================================
+# ![The Weekly](/assets/svgs/title-theweekly.svg)
 
 ](/weekly/)
 
@@ -18,15 +16,11 @@ Updates published most weeks. Want to receive them by email?
 
 [Or subscribe to the RSS feed »](https://alexanderobenauer.com/assets/feed/rss.xml)
 
-* * *
+---
 
 [
 
 All archives
-
-
-
-
 
 ](/weekly/)
 
@@ -36,10 +30,6 @@ February 1, 2025
 
 I wrote a book!
 
-
-
-
-
 ](/weekly/20250201)
 
 [
@@ -47,10 +37,6 @@ I wrote a book!
 June 22, 2024
 
 Thinking about the interfaces with which we think
-
-
-
-
 
 ](/weekly/20240622)
 
@@ -60,10 +46,6 @@ January 21, 2024
 
 A new experiment, and an Ink & Switch collab
 
-
-
-
-
 ](/weekly/20240121)
 
 [
@@ -71,10 +53,6 @@ A new experiment, and an Ink & Switch collab
 October 21, 2023
 
 An understanding of time in the OS of the future
-
-
-
-
 
 ](/weekly/20231021)
 
@@ -84,41 +62,46 @@ August 28, 2023
 
 How semantic zoom supports agency in personal software
 
-
-
-
-
 ](/weekly/20230828)
 
 January 24, 2021
 
-The Inverted OS, Part 2
-=======================
+# The Inverted OS, Part 2
 
 This week, let’s dig deeper.
 
-Expanding on last week’s concept for the future of the operating system, the next lab note is now live.
+Expanding on last week’s concept for the future of the operating system, the
+next lab note is now live.
 
-Dive in:
-[LN 003: Universal reference containers](/labnotes/003)
+Dive in: [LN 003: Universal reference containers](/labnotes/003)
 
+Just jumping in now? To make everything clearer for new and returning readers, I
+tidied up these three introductory pieces:
 
+- [How I approach my core work](/work/) is an article that discusses how I
+  approach my core work as independent research, and the purpose of the Lab
+  Notes in how they contribute to that work.
 
-Just jumping in now? To make everything clearer for new and returning readers, I tidied up these three introductory pieces:
+- [The future of the operating system](/os/) is an article that introduces this
+  research, discussing the importance of the questions being asked and specific
+  aims for the research going forward.
 
-*   [How I approach my core work](/work/) is an article that discusses how I approach my core work as independent research, and the purpose of the Lab Notes in how they contribute to that work.
+- [LN 000](/labnotes/000) is now a living guide to diving into the lab notes; a
+  sort of table of contents.
 
-*   [The future of the operating system](/os/) is an article that introduces this research, discussing the importance of the questions being asked and specific aims for the research going forward.
+---
 
-*   [LN 000](/labnotes/000) is now a living guide to diving into the lab notes; a sort of table of contents.
+My book, _Bootstrapping Computing_, is
+[available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
 
+[Home](/) // /
+[Email](mailto:alexander@obenauer.com?subject=Hey%20there!&body=Alex%2C%0A%0AI%20was%20just%20on%20your%20website%2C%20and...%20%0A%0A)
+// [Bluesky](https://bsky.app/profile/alexanderobenauer.com) /
+[Mastodon](https://mastodon.social/@alexobenauer) /
+[Twitter](https://twitter.com/alexobenauer) // [RSS](/assets/feed/rss.xml) /
+[Newsletter](/weekly/)
 
-* * *
-
-My book, _Bootstrapping Computing_, is [available for purchase now](https://buddybindery.com/products/bootstrapping-computing)!
-
-[Home](/) // / [Email](mailto:alexander@obenauer.com?subject=Hey%20there!&body=Alex%2C%0A%0AI%20was%20just%20on%20your%20website%2C%20and...%20%0A%0A) // [Bluesky](https://bsky.app/profile/alexanderobenauer.com) / [Mastodon](https://mastodon.social/@alexobenauer) / [Twitter](https://twitter.com/alexobenauer) // [RSS](/assets/feed/rss.xml) / [Newsletter](/weekly/)
-
-My work is graciously supported by the community. [Want to support my work? See memberships.](/membership)
+My work is graciously supported by the community.
+[Want to support my work? See memberships.](/membership)
 
 [Go to the member portal →](https://lab.alexanderobenauer.com)
