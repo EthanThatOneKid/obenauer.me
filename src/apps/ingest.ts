@@ -1,28 +1,20 @@
 import { GoogleGenAI } from "@google/genai";
 import { join } from "@std/path";
 
+import { Document, FileSearchStore, OperationHelper, PagerHelper } from "../types.ts";
+
 // https://alexanderobenauer.com/
 const STORE_DISPLAY_NAME = "Alexander Obenauer Website";
 const DATA_DIR = "data";
 
 const client = new GoogleGenAI({
-  apiKey: Deno.env.get("GOOGLE_GEMINI_API_KEY"),
+  apiKey: Deno.env.get("GOOGLE_GENERATIVE_AI_API_KEY"),
 });
-
-type FileSearchStore = {
-  name: string;
-  displayName: string;
-};
-
-type Document = {
-  name: string;
-  displayName: string;
-};
 
 async function getOrCreateStore(displayName: string): Promise<FileSearchStore> {
   console.log(`Checking for existing store: ${displayName}...`);
 
-  const pager: any = await client.fileSearchStores.list();
+  const pager = await client.fileSearchStores.list() as unknown as PagerHelper<FileSearchStore>;
 
   // Iterate through all pages of stores
   let currentPager = pager;
@@ -37,7 +29,11 @@ async function getOrCreateStore(displayName: string): Promise<FileSearchStore> {
     }
 
     if (currentPager.hasNextPage && currentPager.hasNextPage()) {
-      currentPager = await currentPager.nextPage();
+      if (currentPager.nextPage) {
+        currentPager = await currentPager.nextPage();
+      } else {
+        break;
+      }
     } else {
       break;
     }
@@ -58,10 +54,11 @@ async function getExistingFileNames(storeName: string): Promise<Set<string>> {
 
   try {
     // Use a larger page size to reduce requests, though default might be fine.
-    let currentPager: any = await client.fileSearchStores.documents.list({
+    // Cast to unknown first to avoid lint error, then to PagerHelper
+    let currentPager = await client.fileSearchStores.documents.list({
       parent: storeName,
       pageSize: 100,
-    } as any);
+    } as unknown as any) as unknown as PagerHelper<Document>;
 
     while (true) {
       if (currentPager.page) {
@@ -73,7 +70,11 @@ async function getExistingFileNames(storeName: string): Promise<Set<string>> {
       }
 
       if (currentPager.hasNextPage && currentPager.hasNextPage()) {
-        currentPager = await currentPager.nextPage();
+        if (currentPager.nextPage){
+             currentPager = await currentPager.nextPage();
+        } else {
+             break;
+        }
       } else {
         break;
       }
@@ -135,7 +136,8 @@ async function main() {
     console.log(`Uploading ${filename}...`);
 
     try {
-      let uploadOp: any = await client.fileSearchStores.uploadToFileSearchStore(
+      // @ts-ignore: cast to unknown to avoid lint errors with internal type mismatches
+      let uploadOp = await client.fileSearchStores.uploadToFileSearchStore(
         {
           fileSearchStoreName: store.name,
           file: filePath,
@@ -144,7 +146,7 @@ async function main() {
             displayName: filename,
           },
         },
-      );
+      ) as unknown as OperationHelper;
 
       console.log(`Upload started for ${filename}:`, uploadOp.name);
 
@@ -154,7 +156,9 @@ async function main() {
         await new Promise((r) => setTimeout(r, 1000));
 
         // Refresh operation status
-        uploadOp = await client.operations.get({ operation: uploadOp } as any);
+        // Cast argument to any because valid types are not fully inferred/available
+        // @ts-ignore: implicit any in cast
+        uploadOp = await client.operations.get({ operation: uploadOp } as unknown as any) as unknown as OperationHelper;
       }
 
       console.log(`Successfully processed ${filename}`);
