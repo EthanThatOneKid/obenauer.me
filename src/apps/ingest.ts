@@ -1,7 +1,12 @@
 import { GoogleGenAI } from "@google/genai";
 import { join } from "@std/path";
 
-import { Document, FileSearchStore, OperationHelper, PagerHelper } from "../types.ts";
+import {
+  Document,
+  FileSearchStore,
+  OperationHelper,
+  PagerHelper,
+} from "../types.ts";
 
 // https://alexanderobenauer.com/
 const STORE_DISPLAY_NAME = "Alexander Obenauer Website";
@@ -14,7 +19,9 @@ const client = new GoogleGenAI({
 async function getOrCreateStore(displayName: string): Promise<FileSearchStore> {
   console.log(`Checking for existing store: ${displayName}...`);
 
-  const pager = await client.fileSearchStores.list() as unknown as PagerHelper<FileSearchStore>;
+  const pager = await client.fileSearchStores.list() as unknown as PagerHelper<
+    FileSearchStore
+  >;
 
   // Iterate through all pages of stores
   let currentPager = pager;
@@ -70,10 +77,10 @@ async function getExistingFileNames(storeName: string): Promise<Set<string>> {
       }
 
       if (currentPager.hasNextPage && currentPager.hasNextPage()) {
-        if (currentPager.nextPage){
-             currentPager = await currentPager.nextPage();
+        if (currentPager.nextPage) {
+          currentPager = await currentPager.nextPage();
         } else {
-             break;
+          break;
         }
       } else {
         break;
@@ -158,7 +165,9 @@ async function main() {
         // Refresh operation status
         // Cast argument to any because valid types are not fully inferred/available
         // @ts-ignore: implicit any in cast
-        uploadOp = await client.operations.get({ operation: uploadOp } as unknown as any) as unknown as OperationHelper;
+        uploadOp = await client.operations.get(
+          { operation: uploadOp } as unknown as any,
+        ) as unknown as OperationHelper;
       }
 
       console.log(`Successfully processed ${filename}`);
