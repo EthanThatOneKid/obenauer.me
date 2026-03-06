@@ -5,10 +5,10 @@ const STORE_DISPLAY_NAME = "Alexander Obenauer Website";
 const STORE_NAME = "fileSearchStores/alexander-obenauer-website-ifief78chjms";
 
 // Define specific message structure if CoreMessage is not found
-type LocalCoreMessage = 
-  | { role: 'system'; content: string }
-  | { role: 'user'; content: string }
-  | { role: 'assistant'; content: string };
+type LocalCoreMessage =
+  | { role: "system"; content: string }
+  | { role: "user"; content: string }
+  | { role: "assistant"; content: string };
 
 async function main() {
   const model = "gemini-2.5-flash";
@@ -41,7 +41,6 @@ async function main() {
     messages.push({ role: "user", content: userInput });
 
     try {
-
       // @ts-ignore: 'sources' property or 'maxSteps' might be missing in Deno's type resolution for this version
       const { text, sources } = await generateText({
         model: google(model),
@@ -51,13 +50,13 @@ async function main() {
           }),
         },
         // @ts-ignore: maxSteps is supported in runtime but type definition might be outdated in this environment
-        maxSteps: 5, 
+        maxSteps: 5,
         messages: messages as any, // Cast to any to avoid CoreMessage mismatch if library version differs
       });
 
       console.log(`\n${text}`);
 
-      // Typed source 
+      // Typed source
       type GroundingSource = { uri?: string; title?: string };
 
       if (sources && sources.length > 0) {

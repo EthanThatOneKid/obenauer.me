@@ -32,21 +32,32 @@ You can also run a single-shot query:
 deno task chat "How do I create a world?"
 ```
 
+### Update
+
+This is the recommended way to refresh the local knowledge base. It syncs the
+sitemap with the latest URLs, crops irrelevant content, scrapes the pages, and
+formats the results:
+
+```bash
+deno task update
+```
+
 ### Ingest
 
-To ingest markdown files from the `data/` directory into the vector store:
+To ingest the cleaned markdown files from the `documents/` directory into the
+vector store:
 
 ```bash
 deno task ingest
 ```
 
-### Scrape
+### Individual Tasks
 
-To scrape the website (if needed for data gathering):
+If needed, you can run the components of the update pipeline individually:
 
-```bash
-deno task scrape
-```
+- **Sync Sitemap**: `deno task sync-sitemap` (Syncs `sitemap.xml` with RSS feed)
+- **Scrape**: `deno task scrape` (Scrapes URLs in `sitemap.xml` to `documents/`)
+- **Format**: `deno task fmt` (Formats the markdown in `documents/`)
 
 ### Example Interaction
 
@@ -90,7 +101,9 @@ crucial for a positive user experience.
 ## Inspiration
 
 I was inspired by Justin Lee's project, [inav.al](https://inav.al/), a curated
-museum of an individual's thoughts and ideas.
+museum of an individual's thoughts and ideas. Read more about the inspiration
+behind it in
+[Justin Lee's LinkedIn post](https://www.linkedin.com/posts/justin1ee_i-need-to-prove-that-ai-agents-can-do-more-activity-7374804713906606080-nan-/).
 
 ---
 

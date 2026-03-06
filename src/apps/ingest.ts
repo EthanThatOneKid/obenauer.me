@@ -10,7 +10,7 @@ import {
 
 // https://alexanderobenauer.com/
 const STORE_DISPLAY_NAME = "Alexander Obenauer Website";
-const DATA_DIR = "data";
+const DATA_DIR = "documents";
 
 const client = new GoogleGenAI({
   apiKey: Deno.env.get("GOOGLE_GENERATIVE_AI_API_KEY"),
@@ -102,14 +102,26 @@ async function main() {
     throw new Error("Store name is undefined");
   }
 
-  // Read data directory
-  const files: string[] = [];
-  try {
-    for await (const dirEntry of Deno.readDir(DATA_DIR)) {
-      if (dirEntry.isFile && dirEntry.name.endsWith(".md")) {
-        files.push(dirEntry.name);
+  // Read data directory recursively
+  async function walkFiles(dir: string): Promise<string[]> {
+    const files: string[] = [];
+    for await (const dirEntry of Deno.readDir(dir)) {
+      const entryPath = join(dir, dirEntry.name);
+      if (dirEntry.isDirectory) {
+        files.push(...(await walkFiles(entryPath)));
+      } else if (dirEntry.isFile && dirEntry.name.endsWith(".md")) {
+        // Return path relative to DATA_DIR to preserve ingest logic
+        files.push(
+          entryPath.replace(DATA_DIR + "/", "").replace(DATA_DIR + "\\", ""),
+        );
       }
     }
+    return files;
+  }
+
+  let files: string[] = [];
+  try {
+    files = await walkFiles(DATA_DIR);
   } catch (error) {
     if (error instanceof Deno.errors.NotFound) {
       console.error(`Data directory '${DATA_DIR}' not found.`);

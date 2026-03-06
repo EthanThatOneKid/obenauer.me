@@ -1,4 +1,76 @@
 import TurndownService from "turndown";
+import { dirname, join } from "@std/path";
+import { DOMParser, Element } from "deno-dom";
+
+function cleanHtml(html: string, url: string): string {
+  // Pre-process common text-based token sinks that might not be easily selectable
+  const tokenSinks = [
+    /My book, .*available for purchase now/gi,
+    /Want to support my work\? See memberships\./gi,
+    /Go to the member portal/gi,
+    /Something spark a thought\? Email me/gi,
+  ];
+
+  let preCleanedHtml = html;
+  for (const sink of tokenSinks) {
+    preCleanedHtml = preCleanedHtml.replace(sink, "");
+  }
+
+  const doc = new DOMParser().parseFromString(preCleanedHtml, "text/html");
+  if (!doc) return html;
+
+  // Selectors for elements to remove across all pages
+  const commonRemovals = [
+    "#subpageHeader",
+    "#footer",
+    "#footerLinks",
+    "#themeSelector",
+    "#newsletter",
+    "nav",
+    "footer",
+    "header",
+    "aside",
+    "script",
+    "style",
+    ".membership-promo",
+    'a[href="/membership"]',
+    'a[href*="buddybindery.com"]', // Book links
+    'a[href*="mailto:"]', // Email links
+    ".social-links",
+    ".site-footer",
+  ];
+
+  // Page-specific removals
+  if (url.includes("/weekly/")) {
+    commonRemovals.push(
+      "#weekly .column.hide900", // Sidebar
+      ".verticalBorder",
+      ".weekly-archives",
+    );
+  } else if (url.includes("/labnotes/")) {
+    commonRemovals.push(
+      ".labnotes-header",
+      ".labnotesnav",
+      "#labnotes-list",
+      "hr + p",
+    );
+  } else if (url.includes("/thinking/")) {
+    commonRemovals.push(
+      ".thinking-header",
+    );
+  }
+
+  for (const selector of commonRemovals) {
+    doc.querySelectorAll(selector).forEach((el) => (el as Element).remove());
+  }
+
+  // Final cleanup of empty elements that might accumulate
+  doc.querySelectorAll("div:empty, p:empty, section:empty").forEach((el) =>
+    (el as Element).remove()
+  );
+
+  return doc.body.innerHTML;
+}
 
 if (import.meta.main) {
   try {
@@ -11,7 +83,12 @@ if (import.meta.main) {
       urls.push(match[1]);
     }
 
-    const turndownService = new TurndownService();
+    const turndownService = new TurndownService({
+      headingStyle: "atx",
+      codeBlockStyle: "fenced",
+    });
+
+    // Default removals if they somehow survive pre-cleaning
     turndownService.remove([
       "script",
       "style",
@@ -21,20 +98,22 @@ if (import.meta.main) {
       "aside",
       "iframe",
       "noscript",
+      "button",
+      "svg",
     ]);
 
-    // Ensure data directory exists
+    // Ensure documents directory exists
+    const DOCS_DIR = "documents";
     try {
-      await Deno.remove("data", { recursive: true });
+      await Deno.remove(DOCS_DIR, { recursive: true });
     } catch (error) {
       if (!(error instanceof Deno.errors.NotFound)) {
         throw error;
       }
     }
-    await Deno.mkdir("data", { recursive: true });
+    await Deno.mkdir(DOCS_DIR, { recursive: true });
 
     // Limit concurrency to avoid overwhelming the server or getting blocked
-    // For now, doing it sequentially as it's safer and likely fast enough for < 100 pages
     for (const url of urls) {
       try {
         console.log(`Fetching ${url}...`);
@@ -44,26 +123,44 @@ if (import.meta.main) {
           continue;
         }
         const html = await response.text();
-        const markdown = turndownService.turndown(html);
 
-        // Generate filename from URL
-        let filename = url.replace("https://", "").replace("http://", "");
-        // Remove trailing slash if present
-        if (filename.endsWith("/")) {
-          filename = filename.slice(0, -1);
+        // Extract title before cleaning
+        const titleMatch = html.match(/<title>(.*?)<\/title>/i);
+        const title = titleMatch ? titleMatch[1].trim() : "Untitled";
+
+        const cleanedHtml = cleanHtml(html, url);
+        const markdown = turndownService.turndown(cleanedHtml);
+
+        // Mirror URL structure in DOCS_DIR
+        const urlObj = new URL(url);
+        let pathName = urlObj.pathname;
+        if (pathName.endsWith("/")) {
+          pathName += "index";
+        } else if (!pathName.includes(".")) {
+          // If no extension, treat as directory with index
+          pathName += "/index";
         }
-        // Replace slashes with underscores or keep directory structure?
-        // User asked for "a new directory, data which contains all of the scraped markdown files"
-        // Flattening is safer to avoid creating deep directory structures.
-        filename = filename.replace(/\//g, "_");
 
-        // If filename is empty (root), call it index
-        if (filename === "alexanderobenauer.com") {
-          filename = "alexanderobenauer.com_index";
-        }
+        // Ensure pathName doesn't start with / for join
+        const relativePath = pathName.startsWith("/")
+          ? pathName.slice(1)
+          : pathName;
+        const filepath = join(DOCS_DIR, `${relativePath}.md`);
 
-        const filepath = `data/${filename}.md`;
-        await Deno.writeTextFile(filepath, markdown);
+        // Ensure parent directory exists
+        await Deno.mkdir(dirname(filepath), { recursive: true });
+
+        const frontmatter = [
+          "---",
+          `title: "${title.replace(/"/g, '\\"')}"`,
+          `url: ${url}`,
+          `scraped_at: ${new Date().toISOString()}`,
+          "---",
+          "",
+          "",
+        ].join("\n");
+
+        await Deno.writeTextFile(filepath, frontmatter + markdown);
         console.log(`Saved to ${filepath}`);
       } catch (err) {
         console.error(`Error processing ${url}:`, err);

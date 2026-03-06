@@ -8,7 +8,6 @@ export type Document = {
   displayName: string;
 };
 
-
 export type PagerHelper<T> = {
   page?: T[];
   hasNextPage?: () => boolean;
