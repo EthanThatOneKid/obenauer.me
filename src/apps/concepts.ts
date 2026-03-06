@@ -160,7 +160,7 @@ async function linkConcepts(processedConcepts: string[]) {
   let updatedCount = 0;
 
   for (const file of files) {
-    let content = await Deno.readTextFile(file);
+    const content = await Deno.readTextFile(file);
     const originalContent = content;
 
     const match = content.match(/^(---\r?\n[\s\S]*?\r?\n---\r?\n)/);
