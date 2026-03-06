@@ -4,6 +4,8 @@ date: 2026-03-06
 tags:
   - concept
 aliases:
+  - "entities"
+aliases:
   - "item"
   - "item-as-core-primitive"
   - "item-based-computing"
@@ -27,7 +29,7 @@ continuous, side-by-side flow rather than isolated silos.
 > consumption of data to an active, tailored [[interfaces|interface]] for our
 > own cognition.
 
-> [!important] [[items|Items]] should be retrieved through [[association]],
+> [!important] [[items|Items]] should be retrieved through [[relationships|association]],
 > search, or creation within a [[context]], ensuring that our digital tools
 > support our natural mental processes rather than forcing us to conform to the
 > system's limitations.
@@ -62,14 +64,14 @@ continuous, side-by-side flow rather than isolated silos.
 >
 >> [!important] By standardizing the primitive, we shift from managing disparate
 >> applications to managing [[relationships]] between ==[[items]]==, fostering
->> deep [[user-agency]] and [[cognitive-augmentation]].
+>> deep [[agency|user-agency]] and [[cognitive-augmentation]].
 >
 > ## Related
 >
 > - [[items|itemized-os]]
 > - [[interfaces|interfaces-with-which-we-think]]
 > - [[personal-computing|personal-computing-redefined]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[cognitive-augmentation]]
 
 > [!note] Merged from [[items|item-as-core-primitive]] At the heart of the
@@ -115,7 +117,7 @@ continuous, side-by-side flow rather than isolated silos.
 > will.
 >
 >> [!idea] By prioritizing the [[items|item]] over the application, we restore
->> [[user-agency]], allowing our tools to adapt to our intent rather than
+>> [[agency|user-agency]], allowing our tools to adapt to our intent rather than
 >> forcing our workflows into rigid, pre-defined containers.
 >
 > This is not merely an iterative update, but a fundamental shift in how we
@@ -129,7 +131,7 @@ continuous, side-by-side flow rather than isolated silos.
 > - [[fundamental-units]]
 > - [[items|item-centric]]
 > - [[evolvability]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[fluid-workspaces]]
 
 > [!note] Merged from [[items|item-centric]] An ==[[items|item-centric]]==
@@ -149,7 +151,7 @@ continuous, side-by-side flow rather than isolated silos.
 >> complex, emergent structures.
 >
 >> [!idea] Reimagining [[computing|Computing]] When we prioritize the
->> [[items|item]] over the application, we reclaim [[user-agency]]. We no longer
+>> [[items|item]] over the application, we reclaim [[agency|user-agency]]. We no longer
 >> adapt our work to the software; the software adapts to the interconnected
 >> nature of our thoughts.
 >
@@ -160,7 +162,7 @@ continuous, side-by-side flow rather than isolated silos.
 > - [[universal-data-portability]]
 > - [[universal-reference-containers]]
 > - [[context|contexts]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 
 > [!note] Merged from [[items|itemization]]
 >
@@ -199,10 +201,10 @@ continuous, side-by-side flow rather than isolated silos.
 > [[externalization|externalize-thought]] and meaningful [[interaction]]. This
 > transition moves us toward [[interfaces|interfaces-with-which-we-think]],
 > where the boundaries between data, tools, and personal intent blur, ultimately
-> granting greater [[user-agency]] within our daily digital workflows.
+> granting greater [[agency|user-agency]] within our daily digital workflows.
 >
 >> [!idea] The core promise of an itemized system is to treat software units as
->> distinct, interoperable [[entities]] rather than monolithic silos.
+>> distinct, interoperable [[items|entities]] rather than monolithic silos.
 >
 >> [!important] This architectural shift allows developers to focus on
 >> specialized functionality while empowering users to compose their own bespoke
@@ -214,5 +216,30 @@ continuous, side-by-side flow rather than isolated silos.
 > - [[items]]
 > - [[externalization|externalize-thought]]
 > - [[interfaces|interfaces-with-which-we-think]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[malleable-software]]
+
+
+> [!note] Merged from [[items|entities]]
+> In the shift toward an [[items|item-centric]] perspective of [[computing]],
+> ==[[items|entities]]== represent the fundamental, granular units of our digital life.
+> They are the building blocks we [[externalization|externalize]] to represent
+> thoughts, [[actions]], and [[assets]], allowing us to move beyond rigid
+> application silos. By treating information as distinct, addressable
+> [[items|entities]], we foster a more fluid [[architecture|structure]] that supports
+> how we naturally organize, link, and engage with our own knowledge.
+> 
+> > [!idea] An entity is not just a data point; it is a manifestation of thought,
+> > waiting to be connected to the broader [[graph]] of one's creative and
+> > professional life.
+> 
+> By focusing on the individual entity, we regain the ability to view our work
+> through a lens of human-centered utility rather than technical constraint.
+> 
+> ## Related
+> 
+> - [[items|item-centric]]
+> - [[externalization]]
+> - [[architecture|structure]]
+> - [[graph]]
+> - [[computing]]

@@ -16,7 +16,7 @@ We suffer from the illusion that these digital workspaces are fixed, when in
 reality, our need for [[malleable-software]] demands the freedom to redesign,
 remodel, and reconfigure our environments to match our unique ways of
 [[thinking]]. When we accept the desktop as static, we relinquish our
-[[user-agency]], accepting a world where we are merely visitors in someone
+[[agency|user-agency]], accepting a world where we are merely visitors in someone
 else's office rather than architects of our own digital lives.
 
 > [!idea] The core issue is that our current abstractions force us to work
@@ -29,5 +29,5 @@ else's office rather than architects of our own digital lives.
 - [[computing]]
 - [[interfaces|interfaces-with-which-we-think]]
 - [[malleable-software]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[fluid-workspaces]]

@@ -10,7 +10,7 @@ of the digital environment—discrete, manageable units that exist independently
 of specific applications. By shifting the focus from opaque, walled-garden files
 to transparent [[items]], we can finally treat our digital information as a
 cohesive [[graph]]. This transition empowers users to construct their own
-[[views]], enabling richer [[association]] and seamless [[interaction]] with the
+[[views]], enabling richer [[relationships|association]] and seamless [[interaction]] with the
 data that defines their daily lives.
 
 > [!idea] [[assets|Assets]] represent the shift toward a more malleable
@@ -28,5 +28,5 @@ bringing them into a unified [[architecture|structure]], we reclaim our
 - [[items|itemized-os]]
 - [[graph]]
 - [[views]]
-- [[association]]
+- [[relationships|association]]
 - [[thinking]]

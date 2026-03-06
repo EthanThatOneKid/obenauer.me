@@ -8,7 +8,7 @@ tags:
 # tool-making-culture
 
 Most modern [[computing]] environments relegate people to passive consumers. A
-true [[tool-making-culture]] transcends this, fostering [[user-agency]] and
+true [[tool-making-culture]] transcends this, fostering [[agency|user-agency]] and
 reclaiming [[personal-computing]] from the rigid dictates of pre-packaged
 software. It envisions a world where the ability to craft one's own instruments
 is embedded into the fabric of [[interaction]], supported by
@@ -25,6 +25,6 @@ ensuring we remain the architects of our own digital experiences.
 
 ## Related
 
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[personal-computing]]
 - [[malleable-software]]

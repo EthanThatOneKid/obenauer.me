@@ -10,7 +10,7 @@ tags:
 Computer literacy is not merely the ability to operate software; it is the
 ==foundational capacity for users to understand, shape, and evolve their digital
 environment==. True literacy requires moving beyond passive consumption toward
-[[user-agency]], where the architecture of the system allows for
+[[agency|user-agency]], where the architecture of the system allows for
 [[malleable-software]] that adapts to individual needs. By fostering an
 environment rooted in [[evolvability]], we transform computing from a rigid,
 opaque utility into an extension of the self—a space where the user is an active
@@ -27,7 +27,7 @@ pre-defined interface.
 
 ## Related
 
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[malleable-software]]
 - [[evolvability]]
 - [[composition|composable-systems]]

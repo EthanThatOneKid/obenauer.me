@@ -22,10 +22,10 @@ environments toward an organic, responsive digital habitat.
 Through [[universal-reference-containers]], these workspaces cultivate a
 seamless flow of thought. As you interact, you naturally create meaningful
 connections, as the containing [[items|item]] gains direct [[references]] to all
-contained [[entities]], while those [[entities]] develop second-degree
+contained [[items|entities]], while those [[items|entities]] develop second-degree
 [[relationships]] with one another. This fosters [[human-computer-symbiosis]],
 allowing us to sculpt our digital experience in real-time and regain true
-[[user-agency]].
+[[agency|user-agency]].
 
 ## Related
 

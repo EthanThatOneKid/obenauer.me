@@ -31,6 +31,6 @@ like a natural extension of our own cognitive reach.
 - [[services]]
 - [[automation|automations]]
 - [[items|itemized-os]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[interoperability]]
 - [[context]]

@@ -22,7 +22,7 @@ By leveraging [[transclusion]], a task can exist simultaneously in a project
 roadmap, a meeting note, and the daily dashboard, ensuring our focus remains
 anchored without the friction of duplication. We must move beyond fragmented
 to-do lists and toward a fluid, interconnected [[graph]] of activity that truly
-respects human [[user-agency]].
+respects human [[agency|user-agency]].
 
 ## Related
 
@@ -30,4 +30,4 @@ respects human [[user-agency]].
 - [[context]]
 - [[computing]]
 - [[transclusion]]
-- [[user-agency]]
+- [[agency|user-agency]]

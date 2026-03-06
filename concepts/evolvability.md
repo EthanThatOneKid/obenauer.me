@@ -11,7 +11,7 @@ Evolvability is the design principle of building systems that balance immediate,
 guided utility with the boundless potential of an underlying [[graph-os]]. It is
 the capacity for a system to grow alongside the user, transitioning from a
 curated experience into a fully malleable environment. By prioritizing
-[[computer-literacy]] and [[user-agency]], we move away from static, predefined
+[[computer-literacy]] and [[agency|user-agency]], we move away from static, predefined
 applications and toward interfaces that encourage the natural discovery of new
 [[workflows]] and structural possibilities.
 
@@ -29,7 +29,7 @@ for ==fluid transitions== that allow the user to maintain their existing
 
 - [[graph-os]]
 - [[computer-literacy]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[composition|composable-systems]]
 - [[malleable-software]]
 - [[fluid-workspaces]]

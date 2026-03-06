@@ -13,7 +13,7 @@ software responsible for data ingestion—the transport layer—should be decoup
 from the software responsible for [[rendering]] and [[interaction]]. By moving
 away from monolithic applications, we foster a [[graph-os]] ecosystem where
 [[items]] exist independently of the specific tools that once imprisoned them.
-This transition empowers users to reclaim [[user-agency]] by treating data as
+This transition empowers users to reclaim [[agency|user-agency]] by treating data as
 modular, interoperable, and fluid, rather than trapped behind proprietary
 interfaces.
 
@@ -30,7 +30,7 @@ interfaces.
 - [[rendering]]
 - [[graph-os]]
 - [[items]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[fluid-workspaces]]
 
 > [!note] Merged from [[apps|atomized-apps]]
@@ -46,7 +46,7 @@ interfaces.
 > By decoupling these layers, we move toward a [[graph-os]] where a single data
 > source—such as an email inbox—can be accessed, processed, and visualized
 > through multiple, independent [[swappable-views]]. This modularity fosters
-> true [[user-agency]], allowing developers to specialize in specific services
+> true [[agency|user-agency]], allowing developers to specialize in specific services
 > while empowering users to construct bespoke [[workspaces]] that evolve with
 > their unique needs, rather than being confined to the rigid, siloed boundaries
 > of traditional [[apps]].
@@ -61,7 +61,7 @@ interfaces.
 > - [[composition|composable-systems]]
 > - [[graph-os]]
 > - [[swappable-views]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[workspaces]]
 > - [[apps]]
 > - [[composition|composable-software]]

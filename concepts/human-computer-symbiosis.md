@@ -15,7 +15,7 @@ cognitive architecture. By transitioning away from rigid, fragmented
 applications toward a [[timeline-of-use]] and [[fluid-workspaces]], we cultivate
 a living relationship where the machine becomes a collaborator in our thought
 process. This vision requires [[cognitive-augmentation]] that respects
-[[user-agency]] and treats our digital interactions as a continuous, meaningful
+[[agency|user-agency]] and treats our digital interactions as a continuous, meaningful
 record rather than a series of isolated tasks.
 
 > [!idea] The computer is not a tool, but a medium—a substrate that, when
@@ -31,7 +31,7 @@ _for_ them.
 - [[timeline-of-use]]
 - [[fluid-workspaces]]
 - [[cognitive-augmentation]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[malleable-software]]
 
 > [!note] Merged from [[human-computer-symbiosis|human-computer-relationship]]
@@ -46,7 +46,7 @@ _for_ them.
 > externalize our thoughts. This [[evolution]] requires us to move beyond the
 > limiting mindset of "tool" or "vehicle" and embrace ==a deeply symbiotic
 > partnership== that influences our very patterns of thought, as explored in
-> [[computing]], [[user-agency]], and the [[architecture]] of a
+> [[computing]], [[agency|user-agency]], and the [[architecture]] of a
 > [[malleable-software|malleable-environment]].
 >
 >> [!idea] The medium is the message As Alan Kay noted, if the computer is a
@@ -62,5 +62,5 @@ _for_ them.
 >
 > - [[personal-computing]]
 > - [[computing]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[malleable-software]]

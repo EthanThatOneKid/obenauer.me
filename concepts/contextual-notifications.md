@@ -15,7 +15,7 @@ directly into our workspace, transforming how we maintain [[context]] across our
 [[fluid-workspaces]].
 
 > [!idea] Instead of ephemeral alerts, contextual notifications treat updates as
-> persistent, stateful [[entities]] that exist alongside our work, allowing us
+> persistent, stateful [[items|entities]] that exist alongside our work, allowing us
 > to choose when and how we engage with new information.
 
 By tethering notifications to the [[items|item]] being updated, we ensure that

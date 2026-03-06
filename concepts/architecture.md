@@ -13,7 +13,7 @@ aliases:
 serve as an extension of the mind, deeply intertwined with
 [[architecture|structure]], [[domain]], and [[context]]. Rather than viewing
 software as a mere tool, we must see it as the spatial and logical framework
-that shapes how we interact with [[entities]] and form [[relationships]]. By
+that shapes how we interact with [[items|entities]] and form [[relationships]]. By
 focusing on the underlying patterns of our [[computing]] experience, we create a
 substrate where thought can flow more freely, transitioning from rigid silos to
 fluid, interconnected webs of knowledge.
@@ -33,7 +33,7 @@ seamlessly it supports the expansion of our cognitive horizon.
 - [[domain]]
 - [[context]]
 - [[computing]]
-- [[entities]]
+- [[items|entities]]
 - [[relationships]]
 - [[integration]]
 - [[workflow]]

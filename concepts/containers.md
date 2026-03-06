@@ -10,12 +10,12 @@ aliases:
 [[containers]] serve as the fundamental, flexible vessels for [[items]] within a
 [[graph-os]]. Unlike traditional, rigid file systems, they act as fluid
 environments that support [[externalization]] of thought, allowing users to
-group, nest, and rearrange digital [[entities]] to mirror their mental models.
+group, nest, and rearrange digital [[items|entities]] to mirror their mental models.
 
 > [!idea] Containers transform the computer from a static filing cabinet into a
 > malleable landscape for [[thinking]].
 
-By prioritizing [[user-agency]] and [[interoperability]], these structures
+By prioritizing [[agency|user-agency]] and [[interoperability]], these structures
 ensure that information remains discoverable and actionable, enabling a seamless
 transition between various [[views]] and [[context|contexts]]. They are the
 essential building blocks for creating
@@ -28,7 +28,7 @@ essential building blocks for creating
 - [[graph-os]]
 - [[interfaces|interfaces-with-which-we-think]]
 - [[externalization]]
-- [[user-agency]]
+- [[agency|user-agency]]
 
 > [!note] Merged from [[containers|container]] A
 > ==universal-reference-container== is a shift away from the siloed applications
@@ -37,7 +37,7 @@ essential building blocks for creating
 > moving beyond rigid, application-bound environments, we treat the
 > ==[[items|item]] as the core primitive==, allowing users to compose interfaces
 > by pulling [[references]] into fluid, contextual spaces. This approach
-> empowers [[user-agency]], fosters [[apps|atomized-apps]], and relies on
+> empowers [[agency|user-agency]], fosters [[apps|atomized-apps]], and relies on
 > [[universal-data-portability]] to ensure that our digital life is no longer
 > trapped in static boxes but is instead woven into a responsive, interconnected
 > system.
@@ -53,6 +53,6 @@ essential building blocks for creating
 > ## Related
 >
 > - [[items|item-as-core-primitive]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[universal-data-portability]]
 > - [[apps|atomized-apps]]

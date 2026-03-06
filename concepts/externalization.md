@@ -37,7 +37,7 @@ creative process rather than mere silos of data.
 
 > [!note] Merged from [[externalization|externalize-thought]]
 > ==[[externalization|Externalize-thought]]== is the active process of
-> offloading our internal mental states into digital ==[[entities]]==,
+> offloading our internal mental states into digital ==[[items|entities]]==,
 > transforming fluid cognition into structured, persistent forms. By capturing
 > these thoughts as discrete [[items]], we move beyond mere storage toward a
 > system that actively supports [[thinking]]. This practice relies on

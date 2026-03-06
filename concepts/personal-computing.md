@@ -39,7 +39,7 @@ creative potential of the people who use it.
 >
 > To move toward a future where [[computing]] is a [[malleable-software]]
 > medium, we must stop treating our digital environments as immutable,
-> externally-dictated silos. Instead, we must reclaim [[user-agency]] by
+> externally-dictated silos. Instead, we must reclaim [[agency|user-agency]] by
 > shifting the [[architecture]] toward [[local-first-software]], where the
 > boundary between the data we hold and the [[views]] we use to interact with it
 > dissolves into a singular, fluid process of
@@ -60,7 +60,7 @@ creative potential of the people who use it.
 > ## Related
 >
 > - [[malleable-software]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[local-first-software]]
 > - [[externalization|externalize-thought]]
 > - [[universal-data-portability]]

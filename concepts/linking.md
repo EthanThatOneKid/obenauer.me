@@ -10,7 +10,7 @@ tags:
 [[linking]] serves as the fundamental connective tissue in our digital
 environments, enabling the emergence of a [[graph]] that mirrors the associative
 nature of human [[thinking]]. By establishing explicit [[relationships]] between
-distinct [[entities]]—such as [[items]], [[views]], or [[assets]]—we transcend
+distinct [[items|entities]]—such as [[items]], [[views]], or [[assets]]—we transcend
 the limitations of rigid folders and hierarchical filing. This fluid
 [[architecture]] transforms isolated data points into a cohesive, navigable
 landscape, fostering deep [[discovery]] and intuitive [[recollection]].

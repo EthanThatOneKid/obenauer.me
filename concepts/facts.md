@@ -11,7 +11,7 @@ tags:
 landscape==, acting as the atomic units that underpin [[items|itemized-os]],
 [[items|item-centric]] architectures, and [[environment|itemized-environments]].
 By shifting our focus from opaque, monolithic application silos toward these
-transparent, interoperable data points, we reclaim [[user-agency]] and foster a
+transparent, interoperable data points, we reclaim [[agency|user-agency]] and foster a
 more meaningful [[human-computer-symbiosis|human-computer-relationship]].
 
 > [!idea] When we treat information as [[facts]] rather than trapped data, we
@@ -29,7 +29,7 @@ lives.
 - [[items|itemized-os]]
 - [[items|item-centric]]
 - [[environment|itemized-environments]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[human-computer-symbiosis|human-computer-relationship]]
 - [[universal-data-portability]]
 - [[fluid-workspaces]]

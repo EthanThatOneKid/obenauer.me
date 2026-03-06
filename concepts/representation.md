@@ -17,7 +17,7 @@ with.
 > of human curiosity.
 
 Ultimately, a thoughtful [[representation]] layer serves as a catalyst for
-[[user-agency]], moving beyond rigid application silos into a cohesive, itemized
+[[agency|user-agency]], moving beyond rigid application silos into a cohesive, itemized
 OS.
 
 ## Related
@@ -26,4 +26,4 @@ OS.
 - [[views]]
 - [[graph]]
 - [[context]]
-- [[user-agency]]
+- [[agency|user-agency]]

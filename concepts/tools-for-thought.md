@@ -7,7 +7,7 @@ tags:
 
 [[tools-for-thought]] are not mere utilities; they are the ==interfaces with
 which we think==, designed to deepen our engagement with our own cognitive
-processes. By fostering [[user-agency]] and curiosity, these systems transition
+processes. By fostering [[agency|user-agency]] and curiosity, these systems transition
 from passive tools to active partners in our intellectual lives. They rely on a
 foundation of [[malleable-software]] that allows individuals to reshape their
 digital environments, turning the computer into an extension of the mind rather
@@ -25,7 +25,7 @@ ensuring that the software remains as dynamic as the people using it.
 ## Related
 
 - [[interfaces|interfaces-with-which-we-think]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[malleable-software]]
 - [[items|item-centric]]
 - [[externalization|externalize-thought]]

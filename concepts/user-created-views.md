@@ -39,7 +39,7 @@ perceive our work.
 
 > [!note] Merged from [[user-created-views|user-created-item-views]]
 > [[user-created-views|user-created-item-views]] represent a shift toward true
-> [[user-agency]], where the digital environment is no longer a static product
+> [[agency|user-agency]], where the digital environment is no longer a static product
 > but a malleable medium. By allowing users to modify or define their own
 > [[items|item]] representations—such as changing typography, layout, or
 > structural hierarchy—we move beyond rigid, pre-packaged software. This
@@ -59,7 +59,7 @@ perceive our work.
 >
 > ## Related
 >
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[malleable-software]]
 > - [[end-user-programming]]
 > - [[items|item-as-core-primitive]]

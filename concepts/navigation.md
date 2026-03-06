@@ -19,7 +19,7 @@ prioritizing semantic movement over mechanical file traversal, we transform the
 > data.
 
 > [!note] Our digital tools should support our natural tendency to traverse
-> information through [[association]] rather than strictly predefined [[paths]].
+> information through [[relationships|association]] rather than strictly predefined [[paths]].
 
 ## Related
 

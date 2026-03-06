@@ -14,7 +14,7 @@ dynamic and context-aware. This [[architecture]] fundamentally shifts how we
 interact with our digital environment, moving toward a system where information
 is no longer trapped in specific [[apps]] but is instead treated as a
 first-class participant in an open [[graph]] of [[items]]. By leveraging
-[[universal-data-portability]], we can freely move and embed these [[entities]],
+[[universal-data-portability]], we can freely move and embed these [[items|entities]],
 using [[transclusion]] to create unified [[views]] that reflect our personal
 [[workflow]] and [[thinking]] patterns.
 

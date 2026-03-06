@@ -7,7 +7,7 @@ tags:
 
 A **[[domain]]** represents the semantic boundaries where our [[thinking]] and
 [[computing]] coalesce into meaningful action. It is the context-rich space that
-gives [[architecture|structure]] to our digital [[entities]] and shapes our
+gives [[architecture|structure]] to our digital [[items|entities]] and shapes our
 [[workflow]] by allowing us to organize disparate information into coherent,
 purpose-driven environments. When we define a [[domain]], we are not merely
 sorting files; we are crafting the very [[architecture|structure]] through which
@@ -24,7 +24,7 @@ construct to observe it, and the [[assets]] that inhabit it.
 
 - [[thinking]]
 - [[computing]]
-- [[entities]]
+- [[items|entities]]
 - [[workflow]]
 - [[architecture|structure]]
 - [[graph]]

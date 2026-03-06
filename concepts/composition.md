@@ -17,7 +17,7 @@ favor a [[modular]] approach where information is fluid and context-aware.
 > [[architecture]]==, we enable personal [[computing]] to become a canvas for
 > [[discovery]] and [[recollection]], rather than a mere filing system.
 
-This necessitates deep [[interoperability]], allowing diverse [[entities]] to be
+This necessitates deep [[interoperability]], allowing diverse [[items|entities]] to be
 woven together into personalized workflows that evolve alongside our needs.
 
 ## Related
@@ -31,7 +31,7 @@ woven together into personalized workflows that evolve alongside our needs.
 > [!note] Merged from [[composition|composable-software]] Composable software
 > represents a fundamental shift away from rigid, monolithic applications toward
 > [[malleable-software]] that adapts to the unique ways we interact with
-> information. By fostering [[user-agency]] and enabling
+> information. By fostering [[agency|user-agency]] and enabling
 > [[end-user-programming]], these systems allow us to move past pre-defined
 > "app" boundaries, treating our digital environment as a collection of building
 > blocks rather than isolated silos. This is an essential step in building
@@ -49,7 +49,7 @@ woven together into personalized workflows that evolve alongside our needs.
 > ## Related
 >
 > - [[malleable-software]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[end-user-programming]]
 > - [[interfaces|interfaces-with-which-we-think]]
 > - [[local-first-software]]
@@ -59,7 +59,7 @@ woven together into personalized workflows that evolve alongside our needs.
 >
 >> [!idea] [[composition|Composable-systems]] are the moral imperative of modern
 >> [[computing]], representing a shift from rigid applications to environments
->> that honor [[user-agency]]. By dismantling the silos of the traditional
+>> that honor [[agency|user-agency]]. By dismantling the silos of the traditional
 >> desktop, we move toward [[malleable-software]] that adapts to our unique ways
 >> of [[thinking]], ensuring our tools reflect our own values and specific needs
 >> rather than the static assumptions of developers. This [[evolution]] is
@@ -75,7 +75,7 @@ woven together into personalized workflows that evolve alongside our needs.
 >
 > ## Related
 >
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[malleable-software]]
 > - [[personal-computing|personal-computing-redefined]]
 > - [[cognitive-augmentation]]

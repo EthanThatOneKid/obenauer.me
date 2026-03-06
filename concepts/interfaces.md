@@ -16,7 +16,7 @@ think and construct our digital environments==. By moving beyond rigid,
 monolithic applications toward [[apps|atomized-apps]] and
 [[user-created-views]], we can compose fluid experiences that respect the
 underlying [[graph-os]]. When interfaces become [[swappable-views]], they shift
-from static containers into dynamic tools that prioritize [[user-agency]] and
+from static containers into dynamic tools that prioritize [[agency|user-agency]] and
 semantic meaning over arbitrary boundaries.
 
 > [!idea] We must reimagine interfaces as extensible patterns that allow users
@@ -34,11 +34,11 @@ the system's execution is as thin and malleable as possible.
 - [[user-created-views]]
 - [[graph-os]]
 - [[swappable-views]]
-- [[user-agency]]
+- [[agency|user-agency]]
 
 > [!note] Merged from [[interfaces|interface]] An [[interfaces|interface]] is
 > not merely a screen or a set of controls; it is the fundamental medium through
-> which we extend our [[thinking]] and expand our [[user-agency]]. By designing
+> which we extend our [[thinking]] and expand our [[agency|user-agency]]. By designing
 > systemic patterns that transcend specific [[items]], we can move toward an
 > [[architecture]] of [[computing]] that feels like an extension of the self.
 > ==True interfaces harmonize the relationship between human intent and machine
@@ -55,7 +55,7 @@ the system's execution is as thin and malleable as possible.
 > ## Related
 >
 > - [[thinking]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[items]]
 
 > [!note] Merged from [[interfaces|interfaces-with-which-we-think]]

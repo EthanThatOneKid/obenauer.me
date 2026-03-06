@@ -10,7 +10,7 @@ tags:
 [[bootstrapping]] is the radical act of building the future of [[computing]] by
 intentionally standing upon the shoulders of the rich legacy we have been
 handed. It is an iterative, evolutionary process of constructing the next phase
-of our digital lives, ensuring we prioritize [[user-agency]] so that our tools
+of our digital lives, ensuring we prioritize [[agency|user-agency]] so that our tools
 remain our partners rather than our adversaries. By focusing on how we
 [[externalization|externalize-thought]], we can ensure that the systems we
 [[design]] are not merely utilities, but genuine
@@ -28,7 +28,7 @@ remain our partners rather than our adversaries. By focusing on how we
 ## Related
 
 - [[computing]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[externalization|externalize-thought]]
 - [[interfaces|interfaces-with-which-we-think]]
 - [[malleable-software]]

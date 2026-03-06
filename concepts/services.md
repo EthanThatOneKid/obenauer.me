@@ -23,7 +23,7 @@ our information remains accessible regardless of the specific
 > freedom to apply their own [[views]] and [[renderings]] to that information.
 > This separates the provenance of the data from the way it is experienced.
 
-By treating external data as first-class, integrable [[entities]], we
+By treating external data as first-class, integrable [[items|entities]], we
 future-proof our digital lives. We no longer rely on the longevity of a specific
 app’s UI, but rather on the persistent availability of the service's underlying
 data. This empowers the user, keeping their [[context]] intact while allowing

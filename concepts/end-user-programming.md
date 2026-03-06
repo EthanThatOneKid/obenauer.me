@@ -13,7 +13,7 @@ might rearrange physical furniture. This is the [[evolution]] of [[computing]]
 where the software reflects the user’s [[thinking]] rather than the constraints
 of a developer's predetermined [[interfaces|interface]].
 
-> [!idea] Essence True [[user-agency]] requires the power to reconfigure, remix,
+> [!idea] Essence True [[agency|user-agency]] requires the power to reconfigure, remix,
 > and redesign our tools to match our unique, unfolding needs. When we treat
 > [[interfaces|interface]] [[composition]] as a personal act of
 > [[malleable-software]] creation, we move closer to the ideal of the personal
@@ -24,7 +24,7 @@ software toward becoming an architect of our own digital lives.
 
 ## Related
 
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[malleable-software]]
 - [[workspaces]]
 - [[interfaces|interfaces-with-which-we-think]]

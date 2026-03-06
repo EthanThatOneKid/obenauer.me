@@ -52,7 +52,7 @@ dates—directly from a single view.
 >
 > This fluidity redefines [[personal-computing]] by allowing you to initiate
 > [[actions]] or reorganize [[architecture|structure]] from either side of an
-> [[association]]. It is not just about [[linking]]; it is about ==reimagining
+> [[relationships|association]]. It is not just about [[linking]]; it is about ==reimagining
 > the relationship between human intent and the system environment==, turning
 > every reference into a point of potential [[interaction]].
 >

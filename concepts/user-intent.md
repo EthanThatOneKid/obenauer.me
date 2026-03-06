@@ -8,7 +8,7 @@ tags:
 # user-intent
 
 User-intent represents the bridge between human thought and digital execution.
-It is the core of [[user-agency]], moving software from a passive tool into a
+It is the core of [[agency|user-agency]], moving software from a passive tool into a
 reactive [[environment]] that understands where you want to go. When we
 prioritize intent, we move beyond rigid applications toward
 [[malleable-software]] that adapts to our specific needs, fostering deeper
@@ -24,6 +24,6 @@ Ultimately, designing for intent is about ensuring that our
 
 ## Related
 
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[environment]]
 - [[malleable-software]]

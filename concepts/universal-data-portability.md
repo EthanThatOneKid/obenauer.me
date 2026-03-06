@@ -48,7 +48,7 @@ digital life is governed by our associations rather than app boundaries.
 >> your actual [[workflow]] and [[thinking]], rather than forcing you to conform
 >> to the software's [[architecture]].
 >
-> This shift empowers true [[user-agency]], ensuring your digital life is not
+> This shift empowers true [[agency|user-agency]], ensuring your digital life is not
 > fragmented by application boundaries but is instead composed into a cohesive,
 > personalized [[architecture|structure]].
 >

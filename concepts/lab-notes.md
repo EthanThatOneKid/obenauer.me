@@ -21,7 +21,7 @@ explorations of [[malleable-software]].
 Each note acts as a catalyst for discourse, often including live demos or video
 to transform abstract concepts into tangible experiences on your screen. They
 serve as an essential [[workflow]] for testing hypotheses about how we might
-reclaim [[user-agency]] in a digital environment. These inquiries frequently
+reclaim [[agency|user-agency]] in a digital environment. These inquiries frequently
 feed back into my core work, providing the foundational [[logic]] for
 architectural shifts in how we organize our digital lives.
 
@@ -34,6 +34,6 @@ architectural shifts in how we organize our digital lives.
 - [[computing]]
 - [[malleable-software]]
 - [[interfaces|interfaces-with-which-we-think]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[externalization|externalize-thought]]
 - [[graph]]

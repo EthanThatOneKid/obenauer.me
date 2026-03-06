@@ -19,7 +19,7 @@ support our life's work.
 > now invoke item-specific actions (like RSVPing to a calendar event) within the
 > very spaces we use to think and organize.
 
-This architecture empowers [[user-agency]] by ensuring that the logic of what we
+This architecture empowers [[agency|user-agency]] by ensuring that the logic of what we
 can _do_ with our data is as portable and accessible as the data itself,
 enabling truly [[malleable-software]] that adapts to our unique, evolving
 processes.
@@ -30,5 +30,5 @@ processes.
 - [[items]]
 - [[views]]
 - [[malleable-software]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[items|item-centric]]

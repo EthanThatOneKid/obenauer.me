@@ -113,7 +113,7 @@ serves.
 > embracing [[items|item-centric]] [[design]] and [[items|itemized-os]]
 > principles, we move away from closed [[apps]] and toward a space where the
 > user acts as an architect of their own digital world. This
-> [[architecture|structure]] facilitates [[user-agency]], allowing individuals
+> [[architecture|structure]] facilitates [[agency|user-agency]], allowing individuals
 > to weave together disparate pieces of information into [[fluid-workspaces]]
 > that mirror their unique cognitive needs rather than the rigid constraints of
 > traditional software.
@@ -134,7 +134,7 @@ serves.
 >
 > - [[items|item-centric]]
 > - [[items|itemized-os]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[fluid-workspaces]]
 > - [[fundamental-units]]
 
@@ -145,7 +145,7 @@ serves.
 > [[environment|programmable-environments]] represent a fundamental shift in
 > [[computing]], moving away from static, monolithic applications toward fluid,
 > [[malleable-software]] that adapts to the user's intent. By treating the
-> workspace as a living entity, we restore [[user-agency]] and move toward an
+> workspace as a living entity, we restore [[agency|user-agency]] and move toward an
 > [[items|item-centric]] architecture, allowing the interface to be shaped by
 > the very tasks it facilitates.
 >
@@ -166,7 +166,7 @@ serves.
 > ## Related
 >
 > - [[malleable-software]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[items|item-centric]]
 > - [[end-user-programming]]
 > - [[composition|composable-systems]]

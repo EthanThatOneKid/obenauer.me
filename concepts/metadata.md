@@ -7,7 +7,7 @@ tags:
 
 [[metadata|Metadata]] is the ==connective tissue== that gives digital objects
 their [[context]] within the broader [[graph]]. By defining the properties and
-[[relationships]] of [[entities]], [[metadata]] transforms isolated [[items]]
+[[relationships]] of [[items|entities]], [[metadata]] transforms isolated [[items]]
 into navigable parts of a cohesive [[architecture|structure]]. It is the silent
 language that enables [[discovery]], allowing our tools to understand not just
 what a piece of data is, but where it lives and how it relates to our broader
@@ -24,5 +24,5 @@ toward an [[architecture]] that supports genuine human [[agency]].
 ## Related
 
 - [[architecture|structure]]
-- [[entities]]
+- [[items|entities]]
 - [[graph]]

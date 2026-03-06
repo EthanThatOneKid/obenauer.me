@@ -19,7 +19,7 @@ life—are unequivocally yours, not merely accessible but inherently
 
 This is the bedrock for [[personal-computing|personal-computing-redefined]],
 liberating the individual from the capricious whims of corporate agendas and
-distant servers. By anchoring our digital existence in [[user-agency]] and
+distant servers. By anchoring our digital existence in [[agency|user-agency]] and
 [[end-user-programming]], we move away from being digital serfs toward becoming
 architects of our own [[cognitive-augmentation]] environments. Without this
 autonomy, any attempt at genuine personal [[computing]] remains an illusion.
@@ -30,4 +30,4 @@ autonomy, any attempt at genuine personal [[computing]] remains an illusion.
 - [[personal-computing|personal-computing-redefined]]
 - [[end-user-programming]]
 - [[cognitive-augmentation]]
-- [[user-agency]]
+- [[agency|user-agency]]

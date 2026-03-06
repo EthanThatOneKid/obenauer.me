@@ -36,7 +36,7 @@ navigate daily.
 - [[computing]]
 - [[paths]]
 
-> [!note] Merged from [[context|contexts]] To seek true [[user-agency]] in our
+> [!note] Merged from [[context|contexts]] To seek true [[agency|user-agency]] in our
 > digital lives, we must move beyond the isolation of files and folders toward a
 > system defined by its **[[context|contexts]]**. A [[context]] is not merely a
 > label, but the ==active, cohesive environment== surrounding our work—a
@@ -59,7 +59,7 @@ navigate daily.
 >
 > - [[paths]]
 > - [[items]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[references]]
 > - [[graph|items-graph]]
 >
@@ -67,7 +67,7 @@ navigate daily.
 >
 > - [[paths]]
 > - [[items]]
-> - [[user-agency]]
+> - [[agency|user-agency]]
 > - [[references]]
 > - [[graph|items-graph]]
 > - [[interfaces|interfaces-with-which-we-think]]

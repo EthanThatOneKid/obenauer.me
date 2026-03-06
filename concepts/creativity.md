@@ -6,7 +6,7 @@ tags:
 ---
 
 True creativity blossoms through the [[malleable-software]] act of subverting
-original intent. It is found when we reclaim [[user-agency]] to repurpose rigid
+original intent. It is found when we reclaim [[agency|user-agency]] to repurpose rigid
 systems, effectively pushing against the boundaries of designed [[computing]].
 By viewing tools as potential performance machines rather than static utilities,
 we invite new [[interaction]] patterns that redefine our relationship with
@@ -24,6 +24,6 @@ expression.
 ## Related
 
 - [[malleable-software]]
-- [[user-agency]]
+- [[agency|user-agency]]
 - [[computing]]
 - [[interaction]]
