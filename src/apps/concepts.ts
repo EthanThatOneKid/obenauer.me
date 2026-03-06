@@ -142,8 +142,73 @@ tags:
   console.log(`✓ Saved ${slug}.md`);
 }
 
+async function linkConcepts(processedConcepts: string[]) {
+  console.log("Starting retroactive wikilinking pass...");
+
+  // Sort concepts by length descending, so we match "itemized-environments" before "items"
+  const sortedConcepts = [...processedConcepts].sort((a, b) =>
+    b.length - a.length
+  );
+
+  const files = [];
+  for await (const dirEntry of Deno.readDir(CONCEPTS_DIR)) {
+    if (dirEntry.isFile && dirEntry.name.endsWith(".md")) {
+      files.push(join(CONCEPTS_DIR, dirEntry.name));
+    }
+  }
+
+  let updatedCount = 0;
+
+  for (const file of files) {
+    let content = await Deno.readTextFile(file);
+    const originalContent = content;
+
+    const match = content.match(/^(---\r?\n[\s\S]*?\r?\n---\r?\n)/);
+    if (match) {
+      const frontmatter = match[1];
+      let body = content.slice(frontmatter.length);
+
+      for (const concept of sortedConcepts) {
+        // Regex to match the concept as a whole word, case-insensitively.
+        // Lookbehinds/lookaheads ensure it's not already inside [[ ]] or part of a URL or existing dash-separated word.
+        const escapedConcept = concept.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+        // Match the concept string (e.g. "malleable-software" or "agency")
+        // Not preceded by [[, a hyphen, or slash. Not followed by ]], a hyphen, or dot (file extension).
+        const regex = new RegExp(
+          `(?<!\\[\\[|\\-|\\/)(\\b${escapedConcept}\\b)(?!\\]\\]|\\-|\\.[a-z])`,
+          "gi",
+        );
+
+        body = body.replace(regex, (match) => {
+          // If it matches exactly the slug, or matches case-insensitively, wrap it.
+          // We use the matched text so we don't destroy casing (e.g. if it said "Agency", it becomes "[[Agency]]", not "[[agency]]").
+          // However, we want the link to point to the correct file slug, so we use [[slug|Match]].
+          // Actually, Obsidian is case-insensitive for file routing most of the time, but [[concept|Match]] is safest.
+          const lowerMatch = match.toLowerCase();
+          if (lowerMatch === concept) {
+            return `[[${concept}|${match}]]`;
+          }
+          return match;
+        });
+      }
+
+      const newContent = frontmatter + body;
+      if (newContent !== originalContent) {
+        await Deno.writeTextFile(file, newContent);
+        updatedCount++;
+      }
+    }
+  }
+
+  console.log(
+    `Finished linking! Updated ${updatedCount} concept files with retroactive wikilinks.`,
+  );
+}
+
 async function main() {
   const isReload = Deno.args.includes("--reload") || Deno.args.includes("-r");
+  const isLinkMode = Deno.args.includes("--link");
   const targetConcepts = Deno.args.filter(
     (arg) => !arg.startsWith("-") && arg.trim() !== "",
   );
@@ -184,6 +249,11 @@ async function main() {
     );
     processedConcepts = new Set(checkpoint.concepts.processed);
     conceptQueue = checkpoint.concepts.queue;
+  }
+
+  if (isLinkMode) {
+    await linkConcepts(Array.from(processedConcepts));
+    return;
   }
 
   // Always look for new root concepts to discover terms that might have been

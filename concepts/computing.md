@@ -5,29 +5,18 @@ tags:
   - concept
 ---
 
-# computing
+# [[computing|computing]]
 
-# computing
+[[computing|Computing]] is not merely the manipulation of bits, but the fundamental [[architecture|architecture]] through which we [[externalization|externalize]] our thoughts and expand our human capacity. By shifting toward an [[item-centric]] paradigm, we reclaim the [[agency]] lost to the silos of modern software, effectively [[bootstrapping]] a future where tools are extensions of our cognition rather than intermediaries.
 
-Computing is not merely the manipulation of binary or the mechanics of silicon;
-it is the ==intentional externalization of thought==. By building layers upon
-layers of logic, we create wonder machines that allow us to represent, store,
-and evolve our inner worlds. To engage with computing is to explore the
-[[fundamental-units]] of our cognition, asking what we choose to externalize and
-why, ultimately seeking to reshape the [[human-computer-relationship]] through a
-deeply [[item-centric]] lens.
+> [!idea] Essence
+> [[computing|Computing]] is the craft of representing, organizing, and interacting with the building blocks of our mental lives. It is the bridge between the internal chaos of thought and the tangible clarity of [[structure|structure]].
 
-> [!idea] We must look past the interface and understand the models of thinking
-> that brought us here. We are not just using tools; we are bootstrapping the
-> very medium of our intellectual life.
-
-> [!note] True computing empowers [[agency]] by turning the computer into a
-> partner in our creative and reflective processes, rather than a mere container
-> for data.
+> [!important] Reimagining
+> To advance, we must stop asking what the machine can do *for* us and start questioning how the machine can better *be* with us. This requires rethinking the fundamental units of our digital environments.
 
 ## Related
 
 - [[agency]]
-- [[fundamental-units]]
+- [[bootstrapping]]
 - [[item-centric]]
-- [[human-computer-relationship]]

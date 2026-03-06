@@ -5,29 +5,19 @@ tags:
   - concept
 ---
 
-# item-centric
+An ==[[item-centric|item-centric]]== [[architecture|architecture]] shifts the focus of personal [[computing|computing]] from monolithic applications to the fundamental building blocks of thought: [[items]]. By treating every note, email, or task as a discrete, addressable unit, we move toward an [[items-graph]] where data is no longer trapped in silos. This modular approach enables [[universal-data-portability]], allowing any [[item|item]] to be referenced, composed, or viewed within any [[contexts]], effectively turning our software into a fluid extension of the mind.
 
-An ==item-centric== approach elevates the discrete unit of digital
-information—the [[fundamental-units]]—to the core primitive of the
-[[personal-computing]] experience. By treating everything from a simple note to
-complex lists as first-class citizens, we move away from siloed applications
-toward an [[itemized-os]]. This shift fundamentally reorients our
-[[user-intent]] and restores [[user-agency]] by allowing data to be consumed and
-manipulated independently of specific software containers, effectively realizing
-the vision of a [[graph-os]].
+> [!note] The Power of [[references|References]]
+> In an [[item-centric|item-centric]] system, adding an [[item|item]] to another is an act of [[linking|linking]], not duplicating. This ensures that every piece of information remains a ==universal-reference-container==, preserving its integrity while enabling complex, emergent structures.
 
-> [!idea] When data is decoupled from applications, we enable a more fluid,
-> organic relationship with our digital tools.
-
-By focusing on the item rather than the app, we foster deeper [[creativity]] and
-[[curiosity]], creating environments where our digital work can evolve alongside
-our thinking.
+> [!idea] Reimagining [[computing|Computing]]
+> When we prioritize the [[item|item]] over the application, we reclaim [[user-agency]]. We no longer adapt our work to the software; the software adapts to the interconnected nature of our thoughts.
 
 ## Related
 
-- [[fundamental-units]]
-- [[itemized-os]]
-- [[graph-os]]
-- [[personal-computing]]
+- [[items]]
+- [[items-graph]]
+- [[universal-data-portability]]
+- [[universal-reference-containers]]
+- [[contexts]]
 - [[user-agency]]
-- [[user-intent]]

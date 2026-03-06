@@ -14,7 +14,7 @@ mastery. By prioritizing the sheer volume of output, one engages directly with
 the [[malleable-software]] of our own work, transforming abstract
 [[user-intent]] into tangible form through repeated cycles of trial and error.
 This process is deeply connected to [[curiosity]], as each piece produced serves
-as a vessel for learning and discovery, rather than a final destination.
+as a vessel for learning and [[discovery|discovery]], rather than a final destination.
 
 > [!idea] Quantity is the journey to quality.
 

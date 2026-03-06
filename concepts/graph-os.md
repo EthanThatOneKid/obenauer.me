@@ -5,29 +5,14 @@ tags:
   - concept
 ---
 
-# graph-os
+The ==[[graph-os|graph-os]]== is a vision of an operating system where the [[item]]—rather than the application—is the primary unit of [[interaction|interaction]]. By treating emails, [[tasks|tasks]], calendar events, and media as interconnected nodes, the system creates an emergent, global [[graph|graph]] of one's digital life. This [[architecture|architecture]] transcends the silos of modern software, enabling [[fluid-workspaces]] and [[contextual-notifications]] where any piece of data can be referenced or transcluded into another. It is a fundamental shift toward an environment designed for human [[thinking]] and [[discovery|discovery]], allowing users to navigate through their information using meaningful [[relationships]] instead of rigid, pre-defined hierarchies. 
 
-The ==[[graph-os]]== is a paradigm shift in computing where the operating system
-is reimagined as an interconnected web of discrete items. By moving away from
-siloed applications, every element—from emails and calendar events to individual
-to-do items—exists as a node within a singular, unified graph. This structure
-enables fluid relationships between data, allowing any item to link to or be
-referenced by another, ultimately dissolving the barriers that currently force
-us to manage information in isolated, cumbersome containers. By embracing
-==[[item-based-computing]]==, we move toward a system that mirrors the
-interconnected nature of our own thought processes, supported by features like
-[[gestural-view-construction]] and flexible [[unified-views]].
-
-> [!idea] The ultimate benefit of the Graph OS is the ability to bypass the
-> fragmented, application-centric workflows of today, replacing them with a
-> system where context is always at your fingertips.
-
-> [!note] In this environment, you no longer "open an app" to find information;
-> you simply traverse the graph to the item you need, which is inherently linked
-> to its relevant context.
+> [!idea] The power of the [[graph|Graph]] OS lies in its ability to let you point a reference directly to the exact information you need, regardless of where it lives or what app created it.
 
 ## Related
 
-- [[item-based-computing]]
-- [[gestural-view-construction]]
-- [[unified-views]]
+- [[item]]
+- [[fluid-workspaces]]
+- [[contextual-notifications]]
+- [[transclusion]]
+- [[relationships]]

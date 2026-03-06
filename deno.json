@@ -14,7 +14,10 @@
       "description": "Complete update: sync, scrape, and format",
       "dependencies": ["scrape"]
     },
-    "concepts": "deno -A --env src/apps/concepts.ts"
+    "concepts": {
+      "command": "deno -A --env src/apps/concepts.ts",
+      "description": "Fix broken links in concepts"
+    }
   },
   "imports": {
     "#/": "./src/",

@@ -16,8 +16,8 @@ dynamic tools that prioritize [[user-agency]] and semantic meaning over
 arbitrary boundaries.
 
 > [!idea] We must reimagine interfaces as extensible patterns that allow users
-> to mold their computing environment to match the structure of their thoughts,
-> rather than forcing thoughts into the shape of the interface.
+> to mold their [[computing|computing]] environment to match the [[structure|structure]] of their thoughts,
+> rather than forcing thoughts into the shape of the [[interface|interface]].
 
 Ultimately, designing better interfaces means enabling a deeper, more intimate
 relationship with the machine—where the boundary between the user's intent and

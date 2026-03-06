@@ -5,30 +5,22 @@ tags:
   - concept
 ---
 
-# user-agency
+# [[user-agency|user-agency]]
 
-# user-agency
+[[user-agency]] represents the fundamental freedom to redesign, remix, and reconfigure our digital environments to reflect our specific [[thinking]]. Currently, our [[interface]] [[design|design]] is constrained by a false dichotomy where we can modify content but remain powerless to alter the [[structure|structure]] or [[context|context]] provided by others. True [[agency|agency]] means treating the modification of data and the remodeling of [[views|views]] as the same class of action—making software truly [[malleable-software]].
 
-[[user-agency]] is the fundamental capacity for a person to remain the primary
-architect of their own digital experience, rather than a passive subject of
-rigid, predetermined software structures. True [[personal-computing]] requires
-that our tools adapt to the unique, evolving context of our lives—a shift
-facilitated by breakthroughs in [[semantic-zoom]] and
-[[gestural-view-construction]]. By breaking the mold of static applications, we
-reclaim the ability to shape our environments to meet our specific, changing
-needs.
+> [!idea] 
+> We treat our physical spaces—our homes and offices—as personal environments to be adjusted for our needs, yet we accept software workspaces that are static and imposed upon us. 
 
-> [!important] We must move away from rigid interfaces that dictate behavior;
-> instead, software should act as a responsive substrate that empowers the
-> individual to construct their own cognitive landscape.
+By fostering [[user-agency]], we shift from being mere consumers of rigid tools to being architects of our own [[computing]] experience. We must demand the capability to ensure our digital workshop adapts to our unique [[workflow]], rather than forcing our minds to fit the software's fixed boundaries.
 
-Ultimately, [[user-agency]] is about reclaiming the sovereignty of our own
-attention and thought processes within the systems we inhabit. When our tools
-are fluid and reflective of our own mental models, we are no longer hindered by
-the machine, but extended by it.
+> [!important] 
+> To achieve this, we must transition toward [[interfaces-with-which-we-think]], where the ability to change one's tools is as intuitive and accessible as changing one's thoughts.
 
 ## Related
 
-- [[personal-computing]]
-- [[semantic-zoom]]
-- [[gestural-view-construction]]
+- [[malleable-software]]
+- [[interfaces-with-which-we-think]]
+- [[computing]]
+- [[workflow]]
+- [[thinking]]

@@ -8,15 +8,15 @@ tags:
 # spaced-review
 
 [[spaced-review]] is a subtle mechanism within an [[itemized-os]] that manages
-cognitive load by resurfacing active [[itemization]]—such as tasks, notes, or
+cognitive load by resurfacing active [[itemization]]—such as [[tasks|tasks]], notes, or
 emails—directly into the [[environment]] of the user's daily view. It functions
 as a gentle, rhythmic partner to our [[curiosity]], ensuring that information
 remains discoverable without becoming overwhelming. By employing a simple
-“review later” interaction that roughly doubles the interval between
+“review later” [[interaction|interaction]] that roughly doubles the interval between
 resurfacing, the system honors human limits while preventing the clutter of
 unmanaged data.
 
-> [!idea] The beauty of this approach is that items you are less invested in
+> [!idea] The beauty of this approach is that [[items|items]] you are less invested in
 > naturally “float away” over time, gracefully removing themselves from your
 > active focus without requiring harsh or destructive deletions.
 

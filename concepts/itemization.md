@@ -7,30 +7,15 @@ tags:
 
 # itemization
 
-# itemization
+[[itemization]] is the shift toward treating the atomic unit of [[computing|computing]] as the foundational primitive, deeply interconnected with the [[evolution|evolution]] of [[document-environment]], the [[structure|structure]] of [[graph-os]], and the fluid nature of the [[interface]]. By redefining emails, notes, webpages, and [[tasks|tasks]]—everything in our personal [[domain|domain]]—as distinct [[items|items]], we move away from rigid silos toward a cohesive landscape where information flows freely.
 
-Itemization is the shift toward treating the digital world as a collection of
-discrete, fundamental units—[[item]]s—rather than opaque application silos. By
-re-imagining the computer as an [[environment]] of granular, interconnected
-data, we break free from rigid software paradigms to foster true [[agency]] over
-our digital lives. When every note, email, or task becomes a first-class citizen
-that can be independently consumed by a [[gestural-view-construction]], we
-transform how we interact with information.
+> [!note]
+> In an itemized system, the boundary between an individual file and a workspace dissolves. A workspace is simply an [[item|item]] that holds [[references|references]] to other [[items|items]].
 
-> [!important] ==Itemization allows information to be fluid and
-> self-contained==, enabling us to assemble and reassemble our digital workspace
-> to mirror the nuance of human thought rather than the constraints of a file
-> menu.
-
-> [!idea] Think of an item as a Lego brick for the mind: a to-do list can
-> contain to-dos, which can contain notes, all existing as addressable, portable
-> data units. By embracing this modularity, we move toward a [[graph-os]] that
-> serves the user's intent rather than the application's boundaries.
+==Everything is an [[item|item]].== This philosophy allows us to interlink disparate thoughts, dropping a receipt directly into a todo or nesting an email thread within an event. It is an act of liberation, empowering users to curate their digital [[context|context]] with infinite flexibility rather than being constrained by the file-based limitations of legacy [[computing|computing]].
 
 ## Related
 
-- [[item]]
-- [[environment]]
-- [[agency]]
-- [[gestural-view-construction]]
+- [[document-environment]]
 - [[graph-os]]
+- [[interface]]

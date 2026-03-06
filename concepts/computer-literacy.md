@@ -7,29 +7,18 @@ tags:
 
 # computer-literacy
 
-# computer-literacy
+Computer literacy is not merely the ability to operate software; it is the ==foundational capacity for users to understand, shape, and evolve their digital environment==. True literacy requires moving beyond passive consumption toward [[user-agency]], where the architecture of the system allows for [[malleable-software]] that adapts to individual needs. By fostering an environment rooted in [[evolvability]], we transform computing from a rigid, opaque utility into an extension of the self—a space where the user is an active participant in their own digital reality rather than a subordinate to a pre-defined interface.
 
-[[computer-literacy]] is the fundamental capability to shape and evolve one's
-digital environment, transforming the [[human-computer-relationship]] from one
-of passive consumption to active participation. It is intrinsically tied to
-[[evolvability]], ensuring that our systems grow alongside our needs rather than
-becoming stagnant obstacles. By prioritizing [[user-agency]] and
-[[malleable-software]], we move toward a future where computing is a medium for
-thought and creation, not just a set of rigid, pre-defined tasks.
+> [!idea] 
+> To achieve true literacy, we must move away from fixed application silos and embrace [[composable-systems]] that empower users to construct their own tools.
 
-> [!important] True literacy in the digital age requires that the system's
-> underlying structure—its data and logic—is accessible and modifiable by the
-> user, enabling them to compose their own [[fluid-workspaces]].
-
-> [!idea] When we build for [[computer-literacy]], we move beyond mere usage; we
-> empower the user to treat the computer as a [[personal-computing]] tool that
-> adapts to their unique intent, rather than forcing them to adapt to the
-> computer's limitations.
+> [!note]
+> Literacy is deeply tied to the visibility of the underlying data structures; when a system is inherently interpretable, the user gains the agency to improve it.
 
 ## Related
 
-- [[evolvability]]
 - [[user-agency]]
 - [[malleable-software]]
-- [[personal-computing]]
-- [[human-computer-relationship]]
+- [[evolvability]]
+- [[composable-systems]]
+- [[personal-computing-redefined]]

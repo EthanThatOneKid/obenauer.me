@@ -7,27 +7,17 @@ tags:
 
 # personal-computing
 
-# personal-computing
+Personal [[computing|computing]] is the essential pursuit of constructing tools that serve as an extension of the human mind, ensuring our digital environments do not become adversaries to our own ==[[agency|agency]]==. By exploring the foundations of [[bootstrapping]], [[itemization]], and the nature of our [[document-environment]], we work to push the current phase of life forward so that technology remains a supportive, rather than controlling, force. 
 
-[[personal-computing]] is far more than a mere utility; it is a profound medium
-that reshapes the very thought patterns of our civilization. By fostering
-greater [[agency]], fueling our innate [[creativity]], and expanding the
-boundaries of our [[curiosity]], it functions as a cognitive extension—a
-"bicycle for the mind" that elevates our human capacity. Unlike static tools,
-the computer as a medium transforms the user, acting as an [[environment]] for
-thinking and being.
+> [!idea] 
+> We must continually ask: What are the fundamental units of our digital existence? How do we best externalize our thoughts, and how can we ensure our software remains truly malleable to the needs of the individual?
 
-> [!important] We must shift our perspective from viewing the machine as a
-> static tool to recognizing it as a medium that fundamentally alters how we
-> perceive and engage with the world.
-
-> [!idea] The ultimate potential of ==personal-computing== lies in its ability
-> to amplify human intelligence and provide a canvas for the next evolution of
-> collective thought.
+By focusing on the human-computer relationship, we transform the machine from a black box into a responsive, [[malleable-software]] landscape. Our goal is to ensure that the future of [[computing|computing]] remains aligned with the curiosity and creative potential of the people who use it.
 
 ## Related
 
 - [[agency]]
-- [[creativity]]
-- [[curiosity]]
-- [[environment]]
+- [[bootstrapping]]
+- [[itemization]]
+- [[document-environment]]
+- [[malleable-software]]

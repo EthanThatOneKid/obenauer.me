@@ -5,34 +5,14 @@ tags:
   - concept
 ---
 
-# universal-data-portability
+[[universal-data-portability]] is the intentional dissolution of the rigid, siloed containers that currently imprison our digital [[assets|assets]]. It reimagines the operating system as an inverted [[architecture|architecture]], where the system utilizes [[interface|interface]] components provided by individual [[apps|apps]] rather than forcing data into isolated [[windows|windows]]. By breaking these barriers, we enable a fluid environment where [[items]]—from PDFs to to-do lists—can be moved, accessed, and organized inline wherever we choose. This shift empowers us to move beyond the WIMP paradigm, fostering a deeply flexible space that reflects our unique [[thinking]] and [[workflow]] patterns, ultimately ensuring our digital life is governed by our associations rather than app boundaries.
 
-# universal-data-portability
+> [!idea] By inverting the relationship between OS and applications, we gain the freedom to assemble the tools we need to reflect our thoughts, rather than being forced to conform to the constraints of the software we use.
 
-[[universal-data-portability]] represents the liberation of our digital life
-from the constraints of rigid, siloed containers. Currently, we are trapped in
-the WIMP (Windows, Icons, Menus, Pointer) paradigm, where applications act as
-isolated islands. By breaking these things free—whether they are notes, tasks,
-or media—we can move data and their associated interfaces fluidly across our
-workspaces. This shifts the role of the operating system: instead of managing
-isolated programs, it becomes an environment that incorporates interface
-components provided by the apps you choose, creating a deeply personalized,
-interconnected digital landscape.
-
-> [!important] By moving beyond the "window as a program container" model, we
-> enable an ==inverted OS architecture== where you, not the software, define how
-> your information relates and appears.
-
-> [!idea] This allows you to organize information based on your specific
-> workflows rather than the arbitrary boundaries of the software used to create
-> that information.
-
-See also: [[itemized-os]], [[swappable-views]], [[fluid-workspaces]]
+> [!important] ==Breaking our things out of their rigid containers== is the fundamental prerequisite for a truly personal, integrated [[computing|computing]] experience.
 
 ## Related
 
-- [[itemized-os]]
-- [[swappable-views]]
-- [[fluid-workspaces]]
-- [[item]]
-- [[atomized-apps]]
+- [[items]]
+- [[workflow]]
+- [[thinking]]

@@ -5,29 +5,16 @@ tags:
   - concept
 ---
 
-# data-portability
+[[universal-data-portability]] represents the freedom of our digital objects to exist outside of the rigid, siloed containers of traditional applications. By breaking these boundaries, we move beyond the WIMP paradigm where programs act as isolated environments. Instead, any [[item|item]]—whether a note, task, or media file—can be fluidly moved and rendered throughout the system. This relies on [[swappable-reference-views]] and [[user-created-item-views]], where the hosting application provides the [[interface|interface]] component, allowing the system to act as an interconnected [[graph-os]]. 
 
-[[data-portability]] represents the freedom of our digital lives from the rigid
-[[containers]] that currently trap them. It is the core principle that all
-digital things—whether a podcast episode, a bank transaction, or a simple
-note—must be universally movable and usable anywhere within our systems. By
-decoupling data from specific hosting applications, we shift toward an inverted
-operating system where the user, not the application, dictates the context. This
-fluidity allows us to bring disparate items together into a cohesive,
-[[fluid-workspaces]], enabling us to reflect our thinking and workflows with
-unprecedented clarity and ease.
+> [!idea] The operating system becomes an inverted space: it serves as a canvas for the components you choose, enabling a malleable environment that reflects your actual [[workflow]] and [[thinking|thinking]], rather than forcing you to conform to the software's [[architecture|architecture]].
 
-> [!important] Key Insight: Universal portability means the system relies on the
-> hosting application only to render the view component for a piece of data,
-> while the data itself remains a first-class citizen free to exist wherever we
-> need it most.
-
-> [!idea] Vision: We are moving toward an environment where data is no longer
-> siloed but is instead a composable element in the broader architecture of our
-> personal digital reality.
+This shift empowers true [[user-agency]], ensuring your digital life is not fragmented by application boundaries but is instead composed into a cohesive, personalized [[structure|structure]].
 
 ## Related
 
-- [[containers]]
-- [[fluid-workspaces]]
-- [[swappable-views]]
+- [[universal-reference-containers]]
+- [[swappable-reference-views]]
+- [[graph-os]]
+- [[user-created-item-views]]
+- [[malleable-software]]

@@ -7,30 +7,18 @@ tags:
 
 # atomized-apps
 
-[[atomized-apps]] represent a fundamental shift in the human-computer
-relationship, where the rigid, monolithic application is broken down into
-modular, swappable components. By decoupling the logic that handles data—such as
-synchronization, caching, and storage—from the components that render or
-interact with that data, we gain unprecedented flexibility. This allows users to
-choose how they view and act upon their digital information, fostering a truly
-[[item-centric]] environment where [[swappable-views]] enable a personal,
-[[malleable-software]] experience. Through this lens, software becomes a
-collaborative ecosystem of parts that can be rearranged to suit individual
-[[user-intent]], moving us toward a more cohesive and [[evolvability|evolvable]]
-future for [[personal-computing]].
+[[atomized-apps]] represent a fundamental shift toward [[malleable-software]], where the monolithic application is broken into independent, interchangeable components. By decoupling the data source from the user [[interface|interface]], we empower users to exercise true [[user-agency]] and [[data-portability]], effectively separating the *protocol* from the *presentation*. This approach directly supports [[item-as-core-primitive]] [[design|design]], ensuring that our [[personal-computing]] environments remain focused on our own needs rather than those of the publisher.
 
-> [!idea] The core shift: The app that brings data into your system does not
-> have to be the app that renders it.
+> [!idea] 
+> Instead of being forced into a single, restrictive tool, we can compose our environments by selecting the best component for the job—swapping out an email renderer or a podcast player without losing access to the underlying data or compromising our privacy.
 
-> [!note] This decoupling empowers the user to curate their own experience,
-> treating data as the primary citizen of the workspace rather than the
-> application itself.
+Ultimately, this is about enabling a modular future where distributed development thrives, allowing creators to contribute specialized functionality to the [[graph-os]] ecosystem without the burden of rebuilding foundational infrastructure. By making these separations real, we foster a more human-centric [[computing-reimagined]].
 
 ## Related
 
-- [[swappable-views]]
-- [[item-centric]]
 - [[malleable-software]]
-- [[personal-computing]]
-- [[evolvability]]
-- [[user-intent]]
+- [[user-agency]]
+- [[data-portability]]
+- [[item-as-core-primitive]]
+- [[graph-os]]
+- [[personal-computing-redefined]]

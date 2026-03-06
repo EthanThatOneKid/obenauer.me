@@ -5,24 +5,16 @@ tags:
   - concept
 ---
 
-# containers
+[[containers]] serve as the fundamental, flexible vessels for [[items]] within a [[graph-os]]. Unlike traditional, rigid file systems, they act as fluid environments that support [[externalization]] of thought, allowing users to group, nest, and rearrange digital [[entities|entities]] to mirror their mental models. 
 
-[[containers]] represent a fundamental shift in how we relate to digital matter.
-By moving beyond the rigid, app-siloed architecture of today, we arrive at a
-vision where ==all items can contain other items==. This fluidity allows digital
-artifacts—notes, tasks, events, images—to be liberated from their original
-contexts and integrated into whatever workspace best suits our intent, fostering
-true [[agency]] within our [[computing]] environments.
+> [!idea] Containers transform the computer from a static filing cabinet into a malleable landscape for [[thinking]]. 
 
-> [!idea] The act of containment is not merely storage; it is a collaborative
-> display defined by the intersection of the containing and contained items.
-
-By reimagining the digital landscape as an interconnected web of universal
-reference points, we strip away the artificial barriers of the operating system,
-allowing our tools to evolve alongside our thoughts.
+By prioritizing [[user-agency]] and [[interoperability]], these structures ensure that information remains discoverable and actionable, enabling a seamless transition between various [[views]] and [[contexts]]. They are the essential building blocks for creating [[interfaces-with-which-we-think]], shifting the burden of [[organization|organization]] from the human to the environment itself.
 
 ## Related
 
-- [[agency]]
-- [[computing]]
-- [[data-portability]]
+- [[items]]
+- [[graph-os]]
+- [[interfaces-with-which-we-think]]
+- [[externalization]]
+- [[user-agency]]

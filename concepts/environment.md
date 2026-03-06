@@ -9,11 +9,11 @@ tags:
 
 # environment
 
-An ==environment== in personal computing is the fundamental space where we
+An ==environment== in personal [[computing|computing]] is the fundamental space where we
 think, create, and exist. It is not merely a collection of applications, but an
 ==itemized user environment==—like [[wonderos]]—that dissolves rigid boundaries
 to better support human [[agency]], [[creativity]], and [[curiosity]]. By
-centering the experience on items rather than silos, the environment becomes a
+centering the experience on [[items|items]] rather than silos, the environment becomes a
 fluid, cohesive ecosystem that avoids becoming an adversary to the person it
 serves.
 

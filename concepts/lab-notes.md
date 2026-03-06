@@ -5,31 +5,22 @@ tags:
   - concept
 ---
 
-# lab-notes
+# [[lab-notes]]
 
-# lab-notes
+[[lab-notes]] are the ==living record of my ongoing [[research|research]]==, serving as the connective tissue between my current exploration and the future of [[computing]]. They are deeply linked to [[externalize-thought]], providing a public space to refine the [[interfaces-with-which-we-think]] while fostering active dialogue within the community. By treating these entries as a [[graph]] of evolving inquiries, I aim to bridge individual insights into more cohesive, long-form explorations of [[malleable-software]].
 
-[[lab-notes]] represent the iterative, public-facing manifestation of my ongoing
-research into the future of [[computing]], fostering a deeper [[curiosity]]
-regarding how we might fundamentally transform our relationship with digital
-environments. By documenting these explorations, I aim to weave together
-disparate ideas—ranging from [[itemized-os]] architectures to the potential for
-human [[agency]]—into a coherent vision for a more expressive and personal
-technological future. Each note serves as an experimental entry point, often
-accompanied by live demos, intended to spark dialogue and ground our theoretical
-aspirations in tangible, working prototypes.
+> [!note] The objective is not just to document, but to build.
 
-> [!idea] These notes are not just static documentation; they are the connective
-> tissue between abstract inquiry and the visceral experience of a reimagined
-> digital existence.
+Each note acts as a catalyst for discourse, often including live demos or video to transform abstract concepts into tangible experiences on your screen. They serve as an essential [[workflow]] for testing hypotheses about how we might reclaim [[user-agency]] in a digital environment. These inquiries frequently feed back into my core work, providing the foundational [[logic|logic]] for architectural shifts in how we organize our digital lives.
 
-> [!important] The ultimate objective of these shared reflections is to invite
-> collective participation in defining a better, more human-centric path forward
-> for our tools.
+> [!idea] By sharing these as they emerge, I invite you to help weave these threads into a new vision for our [[interaction|interaction]] with machines.
 
 ## Related
 
+- [[research]]
 - [[computing]]
-- [[itemized-os]]
-- [[agency]]
-- [[curiosity]]
+- [[malleable-software]]
+- [[interfaces-with-which-we-think]]
+- [[user-agency]]
+- [[externalize-thought]]
+- [[graph]]

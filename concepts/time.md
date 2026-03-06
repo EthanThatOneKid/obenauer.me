@@ -5,23 +5,11 @@ tags:
   - concept
 ---
 
-# time
-
-Time is the fundamental, self-organizing dimension in which all human
-experiences are rooted. In the OS of the future, a deep understanding of time is
-not merely a timestamp, but a bridge to [[gestural-view-construction]], enabling
-us to move beyond rigid, one-size-fits-all applications. By embracing
-==time-aligned data==, we unlock implicit relationships between items without
-manual [[reference]], allowing for extemporaneous organization that mirrors our
-natural intuition. To truly reimagine our digital environments, we must design
-for the fluidity of our lives, including the inherent reality of ==ambiguous
-times and soft edges==, which act as the scaffold for our daily
-[[personal-computing]] and sense-making processes, closely interacting with our
-[[semantic-zoom]] capabilities.
+[[time]] is the fundamental, linear scaffold of human experience, serving as an organizing principle for our [[document-environment]] and memories. While rooted in literal, planetary cycles, our perception of it is inherently elastic—a [[human-interpretation]] where moments stretch, compress, and carry varying weights. When we [[design|design]] a [[graph-os]] or a [[malleable-software]] ecosystem, we must move beyond rigid timestamps to honor this fluid, associative nature, grounding our digital [[interface]] in the ways we actually dwell within and remember the passing of our lives.
 
 ## Related
 
-- [[gestural-view-construction]]
-- [[reference]]
-- [[semantic-zoom]]
-- [[personal-computing]]
+- [[document-environment]]
+- [[graph-os]]
+- [[malleable-software]]
+- [[interface]]

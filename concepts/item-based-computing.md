@@ -15,13 +15,13 @@ treating every discrete entity—be it a note, an email, or a task—as an
 trapped in silos but exists as distinct atoms that can be referenced, composed,
 and transformed at will.
 
-> [!idea] By prioritizing the item over the application, we restore
+> [!idea] By prioritizing the [[item|item]] over the application, we restore
 > [[user-agency]], allowing our tools to adapt to our intent rather than forcing
 > our workflows into rigid, pre-defined containers.
 
 This is not merely an iterative update, but a fundamental shift in how we
 interact with our digital externalizations. It empowers us to build systems that
-are as dynamic and interconnected as our own thinking, ensuring the computer
+are as dynamic and interconnected as our own [[thinking|thinking]], ensuring the computer
 remains a supportive partner in our cognitive life.
 
 ## Related

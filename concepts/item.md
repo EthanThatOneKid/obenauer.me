@@ -5,28 +5,18 @@ tags:
   - concept
 ---
 
-# item
+An ==[[item|item]]== is the core primitive of a future [[itemized-os]], serving as a universal container for everything in our personal [[computing|computing]] [[domain|domain]]—from emails and notes to webpages and [[tasks|tasks]]. By abstracting away the underlying source or file type, [[items|items]] enable us to form organic, fluid [[relationships|relationships]] between disparate pieces of information, supporting [[interfaces-with-which-we-think]] that mirror our natural trains of thought. Because every [[item|item]] can reference any other [[item|item]]—including workspaces which are themselves [[items|items]]—we move toward a model of ==infinite [[composition|composition]]== and [[personal-computing-redefined]].
 
-An ==item== is the core primitive of a future-oriented [[itemized-os]],
-representing everything within our personal computing domain—from emails and
-notes to receipts and todo lists. By shifting the focus away from rigid
-applications toward a universal, [[item-centric]] architecture, we gain the
-freedom to treat all data as first-class, swappable components that can be
-fluidly composed within [[fluid-workspaces]].
+> [!note] The power of the [[item|item]] lies in its ability to be gathered, linked, and nested, turning static data into a living [[graph|graph]] of our intent.
 
-> [!idea] Because every item can freely [[reference]] any other item, we can
-> transcend static file boundaries. A workspace is simply an item containing
-> references to other items, allowing us to build non-linear, user-defined
-> structures that mirror our actual trains of thought.
+> [!idea] Imagine dragging an email thread into a task, or a receipt into a project. The [[item|item]] turns [[computing|computing]] from a desktop of files into a cohesive, interconnected workspace.
 
-This approach fosters true [[data-portability]], enabling us to combine diverse
-pieces of information regardless of their source, ensuring our digital
-environment remains as malleable as our intent.
+> [!important] By standardizing the primitive, we shift from managing disparate applications to managing [[relationships|relationships]] between ==[[items|items]]==, fostering deep [[user-agency]] and [[cognitive-augmentation]].
 
 ## Related
 
 - [[itemized-os]]
-- [[item-centric]]
-- [[fluid-workspaces]]
-- [[reference]]
-- [[data-portability]]
+- [[interfaces-with-which-we-think]]
+- [[personal-computing-redefined]]
+- [[user-agency]]
+- [[cognitive-augmentation]]

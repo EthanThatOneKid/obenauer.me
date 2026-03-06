@@ -5,28 +5,17 @@ tags:
   - concept
 ---
 
-# user-created-item-views
+[[user-created-item-views]] represent a shift toward true [[user-agency]], where the digital environment is no longer a static product but a malleable medium. By allowing users to modify or define their own [[item|item]] representations—such as changing typography, layout, or structural hierarchy—we move beyond rigid, pre-packaged software. This capability allows individuals to shape their tools to fit their specific cognitive needs, ensuring that the [[computational-mediums]] they inhabit are as fluid as their own [[thinking|thinking]]. When we enable [[end-user-programming]] at the level of the [[interface|interface]], we transform the computer from a box we obey into a partner in [[human-computer-symbiosis]].
 
-In an environment of [[universal-data-portability]], where any [[item]] can live
-anywhere within a [[fluid-workspaces]] paradigm, ==user-created-item-views==
-represent the reclamation of agency over our digital surroundings. By allowing
-users to modify or define their own visual representations for data—moving
-beyond static, top-down software designs—we turn computing into a canvas for
-individual expression and functional adaptation.
+> [!idea] The essence of user-created [[views|views]] is that ==the user is the final architect of their [[interface|interface]].==
 
-> [!idea] Radical Customization If you find a default view lacking, you should
-> not be constrained by it. By enabling users to adjust layout, emphasis, and
-> structure directly, we shift the [[human-computer-relationship]] from passive
-> consumption to active, intentional construction.
-
-This is the path toward [[malleable-software]], where the system evolves
-alongside the user, empowered by [[swappable-views]] and the ability to define
-entirely new schemas for how we interact with our information.
+> [!note] This is not just about aesthetics; it is about ==data-portability== and the ability to define new semantic structures that reflect the unique ways we organize information in our lives.
 
 ## Related
 
-- [[universal-data-portability]]
-- [[fluid-workspaces]]
-- [[swappable-views]]
+- [[user-agency]]
 - [[malleable-software]]
-- [[item]]
+- [[end-user-programming]]
+- [[item-as-core-primitive]]
+- [[swappable-views]]
+- [[human-computer-symbiosis]]

@@ -5,30 +5,15 @@ tags:
   - concept
 ---
 
-# creativity
+True creativity blossoms through the [[malleable-software]] act of subverting original intent. It is found when we reclaim [[user-agency]] to repurpose rigid systems, effectively pushing against the boundaries of designed [[computing]]. By viewing tools as potential performance machines rather than static utilities, we invite new [[interaction]] patterns that redefine our relationship with technology.
 
-# creativity
+> [!idea] The seed of creativity exists precisely at the moment when we stop using a tool the way it was intended, choosing instead to scratch, layer, and transform it into something uniquely our own.
 
-Creativity is the lifeblood of our work, an essential act of ==thinking and
-ideating== that functions much like practicing scales for a musician. It
-requires us to engage with [[agency]] by asserting our ability to shape thought,
-even when disconnected from immediate execution. True creativity thrives when we
-embrace the journey of [[quantity]] to reach quality, recognizing that the most
-profound insights often emerge from the collision of diverse ideas—even those
-initially deemed impossible. By fostering a flexible mind, we move beyond mere
-production, allowing our explorations to inform the broader architecture of
-[[computing]].
-
-> [!note] Ideas are magic We must reject the notion that ideas are worthless
-> without execution. Exploring, developing, and refining ideas is a high-level
-> skill that keeps our processes clear and our minds sharp.
-
-> [!idea] The path to quality Do not sit theorizing about perfection. Instead,
-> churn out work, learn from the inevitable mistakes, and allow the volume of
-> your effort to lead you to the highest quality outcomes.
+==Creativity is the active misuse of existing structures to manifest original thought.== This process of breaking expectations is how we move beyond passive consumption, turning the digital environment into a medium for genuine expression.
 
 ## Related
 
-- [[agency]]
+- [[malleable-software]]
+- [[user-agency]]
 - [[computing]]
-- [[quantity]]
+- [[interaction]]

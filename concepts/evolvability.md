@@ -7,7 +7,7 @@ tags:
 
 # evolvability
 
-[[evolvability]] is the design imperative that systems must be composed of
+[[evolvability]] is the [[design|design]] imperative that systems must be composed of
 [[fundamental-units]]—accessible, user-facing building blocks—that empower
 individuals to reshape their environment. Rather than static tools, an evolvable
 system invites the user to become a participant in its development, allowing for
