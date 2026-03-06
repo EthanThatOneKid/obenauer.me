@@ -3,16 +3,12 @@ title: timeline
 date: 2026-03-06
 tags:
   - concept
-aliases:
-  - "timeline-of-use"
-aliases:
-  - "timeline"
 ---
 
 # timeline-of-use
 
-The [[timeline|timeline-of-use]] is a profound reorientation of our digital existence,
-moving beyond the artificial fragmentation of [[apps]] and [[windows]] toward a
+The [[timeline]] is a profound reorientation of our digital existence, moving
+beyond the artificial fragmentation of [[apps]] and [[windows]] toward a
 unified, continuous stream of all our computational interactions. It envisions a
 world where every input, modification, and moment of engagement is inscribed
 into an unbroken, chronological record, inherently supporting [[memory]] and
@@ -26,34 +22,33 @@ states of our work and revisit specific moments with ease.
 
 ==The timeline-of-use liberates us from the rigidities of current systems==,
 empowering a fluid, historically rich interaction with our digital [[assets]]
-and [[workspaces|fluid-workspaces]].
+and [[workspaces]].
 
 ## Related
 
-- [[workspaces|fluid-workspaces]]
+- [[workspaces]]
 - [[memory]]
 - [[context]]
 - [[apps]]
 - [[windows]]
 - [[assets]]
 
-> [!note] Merged from [[timeline]] A
-> [[timeline]] is the fundamental substrate upon which our
-> [[computing|personal-computing]] experiences must be built. To truly support our
+> [!note] Merged from [[timeline]] A [[timeline]] is the fundamental substrate
+> upon which our [[computing]] experiences must be built. To truly support our
 > [[agency]], the operating system must transition from a static file-based
 > storage model to a fluid, time-aware environment that integrates deeply with
-> [[gestures|gestural-view]] construction and
-> [[zoom|semantic-zoom]]. By representing interactions as a continuous flow rather
-> than isolated fragments, we can recover the [[context]] of our own history,
-> turning the computer into a partner in our ongoing creative process.
+> [[gestures]] construction and [[zoom]]. By representing interactions as a
+> continuous flow rather than isolated fragments, we can recover the [[context]]
+> of our own history, turning the computer into a partner in our ongoing
+> creative process.
 >
->> [!idea] The [[timeline]] acts as the bridge between past
->> activity and present intent, allowing for a more human-centered
->> [[interaction]] paradigm where time is a first-class citizen of the OS.
+>> [!idea] The [[timeline]] acts as the bridge between past activity and present
+>> intent, allowing for a more human-centered [[interaction]] paradigm where
+>> time is a first-class citizen of the OS.
 >
 > ## Related
 >
 > - [[agency]]
-> - [[gestures|gestural-view]]
-> - [[computing|personal-computing]]
-> - [[zoom|semantic-zoom]]
+> - [[gestures]]
+> - [[computing]]
+> - [[zoom]]

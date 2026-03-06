@@ -10,10 +10,10 @@ tags:
 [[logic]] is the invisible [[architecture]] that dictates how we relate to our
 tools, influencing our [[thinking]] and limiting or expanding our capacity for
 [[discovery]]. By embedding rigid, pre-determined patterns into our
-[[interfaces|interface]], we often trade the freedom to "think any thought" for
-a narrow, prescriptive flow. We must move toward a future where the
-[[architecture|structure]] of our digital environments encourages fluid
-[[relationships]] rather than imposing top-down constraints.
+[[interfaces]], we often trade the freedom to "think any thought" for a narrow,
+prescriptive flow. We must move toward a future where the [[architecture]] of
+our digital environments encourages fluid [[relationships]] rather than imposing
+top-down constraints.
 
 > [!note] The essence of [[logic]] in [[computing]] is not in the commands we
 > execute, but in the ==arrangement of things== that allows us to reveal
@@ -27,6 +27,6 @@ a narrow, prescriptive flow. We must move toward a future where the
 
 - [[thinking]]
 - [[discovery]]
-- [[interfaces|interface]]
+- [[interfaces]]
 - [[relationships]]
 - [[architecture]]

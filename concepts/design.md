@@ -5,10 +5,10 @@ tags:
   - concept
 ---
 
-[[design|Design]] is the rigorous pursuit of ==effectiveness==, recognizing that
-true perfection is achieved not by addition, but by reduction—having nothing
-left to take away. As we reshape [[computing]], we must ensure our
-[[interfaces|interface]] and [[architecture]] choices prioritize this clarity.
+[[design]] is the rigorous pursuit of ==effectiveness==, recognizing that true
+perfection is achieved not by addition, but by reduction—having nothing left to
+take away. As we reshape [[computing]], we must ensure our [[interfaces]] and
+[[architecture]] choices prioritize this clarity.
 
 > [!important] You cannot make a system better until you make it work.
 
@@ -19,5 +19,5 @@ and then build again to achieve deep [[understanding]].
 ## Related
 
 - [[computing]]
-- [[interfaces|interface]]
+- [[interfaces]]
 - [[architecture]]

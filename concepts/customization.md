@@ -5,11 +5,11 @@ tags:
   - concept
 ---
 
-[[customization|Customization]] is the fundamental freedom to reshape our
-digital environments, mirroring how we naturally remodel our physical spaces to
-support our unique needs. It shifts the user's role from a passive consumer to
-an active architect of their own [[computing]] experience. When we gain the
-power to reconfigure our [[views]], manipulate raw [[items]], and define our own
+[[customization]] is the fundamental freedom to reshape our digital
+environments, mirroring how we naturally remodel our physical spaces to support
+our unique needs. It shifts the user's role from a passive consumer to an active
+architect of their own [[computing]] experience. When we gain the power to
+reconfigure our [[views]], manipulate raw [[items]], and define our own
 workflows, we align our software with our personal [[thinking]].
 
 > [!important] We must stop treating software interfaces as immutable containers

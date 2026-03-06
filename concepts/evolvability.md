@@ -8,28 +8,28 @@ tags:
 # evolvability
 
 Evolvability is the design principle of building systems that balance immediate,
-guided utility with the boundless potential of an underlying [[graph|graph-os]]. It is
+guided utility with the boundless potential of an underlying [[graph]]. It is
 the capacity for a system to grow alongside the user, transitioning from a
 curated experience into a fully malleable environment. By prioritizing
-[[literacy|computer-literacy]] and [[agency|user-agency]], we move away from static, predefined
-applications and toward interfaces that encourage the natural discovery of new
-[[workflows]] and structural possibilities.
+[[literacy]] and [[agency]], we move away from static, predefined applications
+and toward interfaces that encourage the natural discovery of new [[workflows]]
+and structural possibilities.
 
 > [!important] A truly evolvable system should feel accessible on day one while
 > remaining powerful enough to adapt as the user's needs evolve, much like a
-> [[composition|composable-systems]] instrument that invites both immediate play
-> and deep, expert customization.
+> [[composition]] instrument that invites both immediate play and deep, expert
+> customization.
 
 Rather than forcing a choice between a rigid tool and a blank canvas, we design
 for ==fluid transitions== that allow the user to maintain their existing
-[[context]] while expanding the system's capabilities through
-[[modularity|modular-systems]] and [[programming|end-user-programming]].
+[[context]] while expanding the system's capabilities through [[modularity]] and
+[[programming]].
 
 ## Related
 
-- [[graph|graph-os]]
-- [[literacy|computer-literacy]]
-- [[agency|user-agency]]
-- [[composition|composable-systems]]
-- [[malleability|malleable-software]]
-- [[workspaces|fluid-workspaces]]
+- [[graph]]
+- [[literacy]]
+- [[agency]]
+- [[composition]]
+- [[malleability]]
+- [[workspaces]]

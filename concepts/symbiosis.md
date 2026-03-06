@@ -3,40 +3,35 @@ title: symbiosis
 date: 2026-03-06
 tags:
   - concept
-aliases:
-  - "human-computer-symbiosis"
-aliases:
-  - "human-computer-relationship"
 ---
 
 # human-computer-symbiosis
 
-[[symbiosis|human-computer-symbiosis]] represents the ultimate promise of our digital
-tools: evolving from mere instruments into an active extension of our own
-cognitive architecture. By transitioning away from rigid, fragmented
-applications toward a [[timeline|timeline-of-use]] and [[workspaces|fluid-workspaces]], we cultivate
-a living relationship where the machine becomes a collaborator in our thought
-process. This vision requires [[augmentation|cognitive-augmentation]] that respects
-[[agency|user-agency]] and treats our digital interactions as a continuous, meaningful
-record rather than a series of isolated tasks.
+[[symbiosis]] represents the ultimate promise of our digital tools: evolving
+from mere instruments into an active extension of our own cognitive
+architecture. By transitioning away from rigid, fragmented applications toward a
+[[timeline]] and [[workspaces]], we cultivate a living relationship where the
+machine becomes a collaborator in our thought process. This vision requires
+[[augmentation]] that respects [[agency]] and treats our digital interactions as
+a continuous, meaningful record rather than a series of isolated tasks.
 
 > [!idea] The computer is not a tool, but a medium—a substrate that, when
 > properly designed, reshapes how we think, create, and exist as a species.
 
 Achieving this symbiosis demands that we move beyond today’s silos to embrace
-[[malleability|malleable-software]] that serves as a mirror and extension of the human mind,
+[[malleability]] that serves as a mirror and extension of the human mind,
 ensuring that our machines work _with_ us, rather than requiring us to work
 _for_ them.
 
 ## Related
 
-- [[timeline|timeline-of-use]]
-- [[workspaces|fluid-workspaces]]
-- [[augmentation|cognitive-augmentation]]
-- [[agency|user-agency]]
-- [[malleability|malleable-software]]
+- [[timeline]]
+- [[workspaces]]
+- [[augmentation]]
+- [[agency]]
+- [[malleability]]
 
-> [!note] Merged from [[symbiosis|human-computer-relationship]]
+> [!note] Merged from [[symbiosis]]
 >
 > # human-computer-relationship
 >
@@ -44,12 +39,11 @@ _for_ them.
 >
 > The way we relate to our machines determines the ceiling of our collective
 > intellect. By evolving from seeing the computer as a mere utility to viewing
-> it as a [[computing|medium]], we fundamentally shift how we
-> externalize our thoughts. This [[evolution]] requires us to move beyond the
-> limiting mindset of "tool" or "vehicle" and embrace ==a deeply symbiotic
-> partnership== that influences our very patterns of thought, as explored in
-> [[computing]], [[agency|user-agency]], and the [[architecture]] of a
-> [[malleability|malleable-environment]].
+> it as a [[computing]], we fundamentally shift how we externalize our thoughts.
+> This [[evolution]] requires us to move beyond the limiting mindset of "tool"
+> or "vehicle" and embrace ==a deeply symbiotic partnership== that influences
+> our very patterns of thought, as explored in [[computing]], [[agency]], and
+> the [[architecture]] of a [[malleability]].
 >
 >> [!idea] The medium is the message As Alan Kay noted, if the computer is a
 >> medium, its use reshapes the civilization that wields it. We must build
@@ -62,7 +56,7 @@ _for_ them.
 >
 > ## Related
 >
-> - [[computing|personal-computing]]
 > - [[computing]]
-> - [[agency|user-agency]]
-> - [[malleability|malleable-software]]
+> - [[computing]]
+> - [[agency]]
+> - [[malleability]]

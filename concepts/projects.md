@@ -5,9 +5,9 @@ tags:
   - concept
 ---
 
-A [[projects|project]] is the purposeful arrangement of [[items]] and [[views]]
-directed toward a specific horizon of intent. Rather than static containers,
-they represent dynamic clusters where [[thinking]] and [[research]] converge to
+A [[projects]] is the purposeful arrangement of [[items]] and [[views]] directed
+toward a specific horizon of intent. Rather than static containers, they
+represent dynamic clusters where [[thinking]] and [[research]] converge to
 transform potential into reality. By utilizing [[context]] and maintaining a
 persistent [[graph]] of [[references]], [[projects]] allow us to weave disparate
 threads of work into a cohesive whole, bridging the gap between fleeting ideas

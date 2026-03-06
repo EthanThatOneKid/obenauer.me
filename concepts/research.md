@@ -7,13 +7,12 @@ tags:
 
 # [[research]]
 
-[[research|Research]] is the act of deep, persistent devotion to understanding a
-subject, serving as the bridge between current knowledge and the pursuit of new
-insights. It is inherently tied to [[computing|personal-computing]], where I [[design]]
-and build [[malleability|malleable-software]] to explore the future of the operating system.
-By grounding my practice in [[notes|lab-notes]], I maintain a transparent,
-experimental process that fosters [[creativity]] and pushes against the
-boundaries of existing tools.
+[[research]] is the act of deep, persistent devotion to understanding a subject,
+serving as the bridge between current knowledge and the pursuit of new insights.
+It is inherently tied to [[computing]], where I [[design]] and build
+[[malleability]] to explore the future of the operating system. By grounding my
+practice in [[notes]], I maintain a transparent, experimental process that
+fosters [[creativity]] and pushes against the boundaries of existing tools.
 
 > [!idea] The core of my [[research]] is not just about building, but about
 > understanding how software can better serve the human experience.
@@ -25,7 +24,7 @@ exploration into a shared endeavor for the future of our digital lives.
 
 ## Related
 
-- [[computing|personal-computing]]
-- [[malleability|malleable-software]]
-- [[notes|lab-notes]]
+- [[computing]]
+- [[malleability]]
+- [[notes]]
 - [[creativity]]

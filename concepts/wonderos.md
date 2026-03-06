@@ -7,14 +7,13 @@ tags:
 
 # wonderos
 
-[[wonderos]] is a long-term [[research]] project dedicated to building
-[[items|itemized-os]] environments—systems that move beyond monolithic
-applications toward malleable, composable interfaces. It explores how we can
-reclaim [[agency|user-agency]] by shifting the focus from opaque silos to core
-primitives that individuals can evolve to meet their changing needs. By
-envisioning a new form of computer literacy, it seeks to transform the user into
-an operator, turning [[computing|personal-computing]] into an active, experimental
-practice.
+[[wonderos]] is a long-term [[research]] project dedicated to building [[items]]
+environments—systems that move beyond monolithic applications toward malleable,
+composable interfaces. It explores how we can reclaim [[agency]] by shifting the
+focus from opaque silos to core primitives that individuals can evolve to meet
+their changing needs. By envisioning a new form of computer literacy, it seeks
+to transform the user into an operator, turning [[computing]] into an active,
+experimental practice.
 
 > [!idea] The Operator's Handbook WonderOS is explored through _Hello,
 > Operator!_, a manual for the first itemized personal [[computing]] device,
@@ -26,7 +25,7 @@ between human [[curiosity]] and technical capability.
 
 ## Related
 
-- [[items|itemized-os]]
-- [[agency|user-agency]]
-- [[computing|personal-computing]]
+- [[items]]
+- [[agency]]
+- [[computing]]
 - [[interfaces]]

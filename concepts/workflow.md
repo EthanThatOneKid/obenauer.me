@@ -7,9 +7,9 @@ tags:
 
 # [[workflow]]
 
-==[[workflow|Workflow]]== is not a static sequence of [[actions]], but a fluid
-manifestation of [[thinking]] expressed through an [[items|itemized-os]]. It is
-the connective tissue between [[assets]] and our creative intent, allowing us to
+==[[workflow]]== is not a static sequence of [[actions]], but a fluid
+manifestation of [[thinking]] expressed through an [[items]]. It is the
+connective tissue between [[assets]] and our creative intent, allowing us to
 traverse the [[graph]] of our knowledge without friction. By prioritizing the
 flow of [[items]] over the rigidity of applications, we transform how we engage
 with [[computing]]—shifting from merely managing files to curating meaningful
@@ -26,7 +26,7 @@ environment.
 ## Related
 
 - [[thinking]]
-- [[items|itemized-os]]
+- [[items]]
 - [[graph]]
 - [[assets]]
 - [[items]]

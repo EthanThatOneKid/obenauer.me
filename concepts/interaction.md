@@ -5,12 +5,12 @@ tags:
   - concept
 ---
 
-> [!note] [[interaction|Interaction]] [[interaction|Interaction]] is the
-> fundamental =dialogue between human intent and the computational environment=.
-> It transcends mere input, functioning as the primary vehicle through which we
-> manifest [[agency]] and curiosity within our [[thinking]] processes. By
-> engaging with [[items]] across fluid [[views]], we transform raw data into a
-> dynamic extension of our cognitive [[architecture]].
+> [!note] [[interaction]] [[interaction]] is the fundamental =dialogue between
+> human intent and the computational environment=. It transcends mere input,
+> functioning as the primary vehicle through which we manifest [[agency]] and
+> curiosity within our [[thinking]] processes. By engaging with [[items]] across
+> fluid [[views]], we transform raw data into a dynamic extension of our
+> cognitive [[architecture]].
 
 To interact is to curate the [[context]] of our digital lives, ensuring that
 software remains a malleable collaborator rather than a rigid set of

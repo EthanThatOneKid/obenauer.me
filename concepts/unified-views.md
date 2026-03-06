@@ -12,18 +12,18 @@ tags:
 
 At their core, [[unified-views]] liberate data from its source, allowing us to
 gather disparate [[items]] into a single, cohesive space—regardless of their
-origin or specific format. By leveraging [[views|swappable-views]] and the principles
-of [[apps|atomized-apps]], we move beyond the limitations of application-centric
-workflows. Instead of context-switching between tools, we interact with our
-information through interfaces that support our actual [[tasks]], enabling us to
-compose [[workspaces|fluid-workspaces]] that mirror the way we think. This shifts the focus
-from managing applications to mastering our own [[intent|user-intent]], fostering a
-more natural, [[items|item-centric]] relationship with our digital environments.
+origin or specific format. By leveraging [[views]] and the principles of
+[[apps]], we move beyond the limitations of application-centric workflows.
+Instead of context-switching between tools, we interact with our information
+through interfaces that support our actual [[tasks]], enabling us to compose
+[[workspaces]] that mirror the way we think. This shifts the focus from managing
+applications to mastering our own [[intent]], fostering a more natural,
+[[items]] relationship with our digital environments.
 
 ## Related
 
-- [[views|swappable-views]]
-- [[apps|atomized-apps]]
-- [[workspaces|fluid-workspaces]]
-- [[items|item-centric]]
-- [[intent|user-intent]]
+- [[views]]
+- [[apps]]
+- [[workspaces]]
+- [[items]]
+- [[intent]]

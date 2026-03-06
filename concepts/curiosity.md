@@ -16,8 +16,8 @@ meaningful engagement.
 > [!idea] Curiosity as a foundational element When we prioritize curiosity, we
 > are not just accumulating information; we are building a personal [[context]]
 > that allows for deeper [[recollection]] and more profound connections. It is
-> the core requirement for unlocking true [[agency|user-agency]] in the digital
-> environments we inhabit.
+> the core requirement for unlocking true [[agency]] in the digital environments
+> we inhabit.
 
 Ultimately, my mission is to help people engage in this inquisitive thought work
 across every facet of life. ==Curiosity is the engine of intellectual growth==,
@@ -34,5 +34,5 @@ innovation.
 - [[computing]]
 - [[context]]
 - [[recollection]]
-- [[agency|user-agency]]
+- [[agency]]
 - [[research]]

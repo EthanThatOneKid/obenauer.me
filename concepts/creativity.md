@@ -5,12 +5,11 @@ tags:
   - concept
 ---
 
-True creativity blossoms through the [[malleability|malleable-software]] act of subverting
-original intent. It is found when we reclaim [[agency|user-agency]] to repurpose rigid
-systems, effectively pushing against the boundaries of designed [[computing]].
-By viewing tools as potential performance machines rather than static utilities,
-we invite new [[interaction]] patterns that redefine our relationship with
-technology.
+True creativity blossoms through the [[malleability]] act of subverting original
+intent. It is found when we reclaim [[agency]] to repurpose rigid systems,
+effectively pushing against the boundaries of designed [[computing]]. By viewing
+tools as potential performance machines rather than static utilities, we invite
+new [[interaction]] patterns that redefine our relationship with technology.
 
 > [!idea] The seed of creativity exists precisely at the moment when we stop
 > using a tool the way it was intended, choosing instead to scratch, layer, and
@@ -23,7 +22,7 @@ expression.
 
 ## Related
 
-- [[malleability|malleable-software]]
-- [[agency|user-agency]]
+- [[malleability]]
+- [[agency]]
 - [[computing]]
 - [[interaction]]

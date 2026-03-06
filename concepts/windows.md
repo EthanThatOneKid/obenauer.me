@@ -13,18 +13,17 @@ way we relate different types of information.
 
 > [!important] By pinning content to an application-centric window, we lose the
 > ability to move freely across data. We should instead treat these as
-> [[workspaces|fluid-workspaces]] where data is central, not the software.
+> [[workspaces]] where data is central, not the software.
 
-My vision moves beyond this, reimagining the environment as an
-[[items|item-centric]] system. Rather than managing volatile window and tab
-states, we should prioritize [[paths]] of [[interaction]], where data is
-[[rendering]]-aware and context-dependent. This shift replaces static, siloed
-frames with a dynamic, interconnected [[graph|graph-os]] that mirrors our own
-cognitive processes, fostering true
-[[computing|personal-computing-redefined]].
+My vision moves beyond this, reimagining the environment as an [[items]] system.
+Rather than managing volatile window and tab states, we should prioritize
+[[paths]] of [[interaction]], where data is [[rendering]]-aware and
+context-dependent. This shift replaces static, siloed frames with a dynamic,
+interconnected [[graph]] that mirrors our own cognitive processes, fostering
+true [[computing]].
 
 ## Related
 
 - [[apps]]
-- [[workspaces|fluid-workspaces]]
-- [[items|item-centric]]
+- [[workspaces]]
+- [[items]]

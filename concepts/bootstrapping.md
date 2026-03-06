@@ -10,11 +10,10 @@ tags:
 [[bootstrapping]] is the radical act of building the future of [[computing]] by
 intentionally standing upon the shoulders of the rich legacy we have been
 handed. It is an iterative, evolutionary process of constructing the next phase
-of our digital lives, ensuring we prioritize [[agency|user-agency]] so that our tools
-remain our partners rather than our adversaries. By focusing on how we
-[[externalization|externalize-thought]], we can ensure that the systems we
-[[design]] are not merely utilities, but genuine
-[[interfaces|interfaces-with-which-we-think]].
+of our digital lives, ensuring we prioritize [[agency]] so that our tools remain
+our partners rather than our adversaries. By focusing on how we
+[[externalization]], we can ensure that the systems we [[design]] are not merely
+utilities, but genuine [[interfaces]].
 
 > [!important] The goal is to push [[computing]] forward in a way that respects
 > human cognition, allowing for deep, meaningful [[integration]] between our
@@ -23,12 +22,12 @@ remain our partners rather than our adversaries. By focusing on how we
 > [!idea] When we embrace [[bootstrapping]], we acknowledge that the
 > [[architecture]] of our current digital world is a foundation to be
 > evolved—not a static cage—allowing for a future where technology is inherently
-> [[malleability|malleable-software]].
+> [[malleability]].
 
 ## Related
 
 - [[computing]]
-- [[agency|user-agency]]
-- [[externalization|externalize-thought]]
-- [[interfaces|interfaces-with-which-we-think]]
-- [[malleability|malleable-software]]
+- [[agency]]
+- [[externalization]]
+- [[interfaces]]
+- [[malleability]]

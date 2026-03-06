@@ -7,12 +7,11 @@ tags:
 
 # [[evolution]]
 
-[[malleability|malleable-software]] is the foundation of an ==evolvable system==, where the
-user moves from being a mere consumer to an architect of their own digital
-environment. By utilizing [[programming|end-user-programming]] and accessible
-[[modularity|modular-systems]], users can iterate upon existing designs or build
-entirely new structures from a blank slate. This fosters a landscape of
-[[computing|personal-computing-redefined]] where systems are not static
+[[malleability]] is the foundation of an ==evolvable system==, where the user
+moves from being a mere consumer to an architect of their own digital
+environment. By utilizing [[programming]] and accessible [[modularity]], users
+can iterate upon existing designs or build entirely new structures from a blank
+slate. This fosters a landscape of [[computing]] where systems are not static
 boxes, but living ecosystems that adapt through the creative, intentional misuse
 and repurposing of tools—much like the history of electronic music.
 
@@ -22,14 +21,14 @@ and repurposing of tools—much like the history of electronic music.
 > [[computing]] moves forward—not through top-down mandates, but through the
 > collective, iterative [[discovery]] of better ways to think and work.
 
-> [!important] [[evolution|Evolution]] is a community-driven process; when one
-> user finds a more effective way to [[architecture|structure]] their data or
-> organize their [[workflow]], that [[discovery]] becomes a potential pattern
-> for everyone else to adopt, remix, and evolve further.
+> [!important] [[evolution]] is a community-driven process; when one user finds
+> a more effective way to [[architecture]] their data or organize their
+> [[workflow]], that [[discovery]] becomes a potential pattern for everyone else
+> to adopt, remix, and evolve further.
 
 ## Related
 
-- [[malleability|malleable-software]]
-- [[programming|end-user-programming]]
-- [[computing|personal-computing-redefined]]
-- [[modularity|modular-systems]]
+- [[malleability]]
+- [[programming]]
+- [[computing]]
+- [[modularity]]
