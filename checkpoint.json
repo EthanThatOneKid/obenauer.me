@@ -41,7 +41,9 @@
       "browsing-contexts",
       "universal-data-portability",
       "user-created-item-views",
-      "computer-literacy"
+      "computer-literacy",
+      "items",
+      "facts"
     ],
     "queue": []
   }

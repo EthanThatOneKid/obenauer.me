@@ -144,6 +144,9 @@ tags:
 
 async function main() {
   const isReload = Deno.args.includes("--reload") || Deno.args.includes("-r");
+  const targetConcepts = Deno.args.filter(
+    (arg) => !arg.startsWith("-") && arg.trim() !== "",
+  );
 
   if (isReload) {
     console.log(
@@ -192,6 +195,18 @@ async function main() {
     }
     conceptQueue = rootConcepts.map((c) => slugify(c));
     console.log(`Found ${rootConcepts.length} root concepts:`, conceptQueue);
+    await saveCheckpoint(processedConcepts, conceptQueue);
+  }
+
+  // Prepend targeted concepts if any
+  if (targetConcepts.length > 0) {
+    const slugs = targetConcepts.map((c) => slugify(c));
+    console.log(`Injecting targeted concepts into queue:`, slugs);
+    for (const slug of slugs) {
+      if (!processedConcepts.has(slug) && !conceptQueue.includes(slug)) {
+        conceptQueue.unshift(slug); // Put them at the front!
+      }
+    }
     await saveCheckpoint(processedConcepts, conceptQueue);
   }
 
