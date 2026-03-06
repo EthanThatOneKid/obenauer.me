@@ -2,7 +2,8 @@
   "tasks": {
     "scrape": "deno -A src/apps/scrape.ts",
     "ingest": "deno -A --env src/apps/ingest.ts",
-    "chat": "deno -A --env src/apps/chat.ts"
+    "chat": "deno -A --env src/apps/chat.ts",
+    "sync-sitemap": "deno -A src/apps/sync-sitemap.ts"
   },
   "imports": {
     "#/": "./src/",
