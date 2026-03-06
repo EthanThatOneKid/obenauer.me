@@ -7,7 +7,7 @@ tags:
 
 # [[lab-notes]]
 
-[[lab-notes]] are the ==living record of my ongoing [[research|research]]==, serving as the connective tissue between my current exploration and the future of [[computing]]. They are deeply linked to [[externalize-thought]], providing a public space to refine the [[interfaces-with-which-we-think]] while fostering active dialogue within the community. By treating these entries as a [[graph]] of evolving inquiries, I aim to bridge individual insights into more cohesive, long-form explorations of [[malleable-software]].
+[[lab-notes]] are the ==living record of my ongoing [[research|research]]==, serving as the connective tissue between my current exploration and the future of [[computing]]. They are deeply linked to [[externalization|externalize-thought]], providing a public space to refine the [[interfaces-with-which-we-think]] while fostering active dialogue within the community. By treating these entries as a [[graph]] of evolving inquiries, I aim to bridge individual insights into more cohesive, long-form explorations of [[malleable-software]].
 
 > [!note] The objective is not just to document, but to build.
 
@@ -22,5 +22,5 @@ Each note acts as a catalyst for discourse, often including live demos or video 
 - [[malleable-software]]
 - [[interfaces-with-which-we-think]]
 - [[user-agency]]
-- [[externalize-thought]]
+- [[externalization|externalize-thought]]
 - [[graph]]

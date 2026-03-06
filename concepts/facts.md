@@ -7,7 +7,7 @@ tags:
 
 # facts
 
-[[facts]] represent the ==fundamental, granular building blocks of our digital landscape==, acting as the atomic units that underpin [[itemized-os]], [[item-centric]] architectures, and [[itemized-environments]]. By shifting our focus from opaque, monolithic application silos toward these transparent, interoperable data points, we reclaim [[user-agency]] and foster a more meaningful [[human-computer-relationship]].
+[[facts]] represent the ==fundamental, granular building blocks of our digital landscape==, acting as the atomic units that underpin [[items|itemized-os]], [[items|item-centric]] architectures, and [[itemized-environments]]. By shifting our focus from opaque, monolithic application silos toward these transparent, interoperable data points, we reclaim [[user-agency]] and foster a more meaningful [[human-computer-symbiosis|human-computer-relationship]].
 
 > [!idea] 
 > When we treat information as [[facts]] rather than trapped data, we enable a future where [[universal-data-portability]] is the default, allowing our digital [[memory|memory]] to flow freely across the [[fluid-workspaces]] we inhabit.
@@ -16,10 +16,10 @@ Ultimately, defining information as [[facts]] is about restoring the relationshi
 
 ## Related
 
-- [[itemized-os]]
-- [[item-centric]]
+- [[items|itemized-os]]
+- [[items|item-centric]]
 - [[itemized-environments]]
 - [[user-agency]]
-- [[human-computer-relationship]]
+- [[human-computer-symbiosis|human-computer-relationship]]
 - [[universal-data-portability]]
 - [[fluid-workspaces]]

@@ -71,9 +71,7 @@
       "evolution",
       "computer-literacy",
       "automations",
-      "timeline-of-use"
-    ],
-    "queue": [
+      "timeline-of-use",
       "composable-software",
       "programmable-environments",
       "human-computer-symbiosis",
@@ -83,7 +81,10 @@
       "atomized-apps",
       "modular-systems",
       "evolvability",
-      "item-actions"
-    ]
+      "item-actions",
+      "browsing-paths",
+      "swappable-views"
+    ],
+    "queue": []
   }
 }

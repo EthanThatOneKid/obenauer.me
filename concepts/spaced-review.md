@@ -7,8 +7,8 @@ tags:
 
 # spaced-review
 
-[[spaced-review]] is a subtle mechanism within an [[itemized-os]] that manages
-cognitive load by resurfacing active [[itemization]]—such as [[tasks|tasks]], notes, or
+[[spaced-review]] is a subtle mechanism within an [[items|itemized-os]] that manages
+cognitive load by resurfacing active [[items|itemization]]—such as [[tasks|tasks]], notes, or
 emails—directly into the [[environment]] of the user's daily view. It functions
 as a gentle, rhythmic partner to our [[curiosity]], ensuring that information
 remains discoverable without becoming overwhelming. By employing a simple
@@ -25,7 +25,7 @@ landscape, allowing us to maintain a living, breathing connection to our work.
 
 ## Related
 
-- [[itemized-os]]
-- [[itemization]]
+- [[items|itemized-os]]
+- [[items|itemization]]
 - [[environment]]
 - [[curiosity]]

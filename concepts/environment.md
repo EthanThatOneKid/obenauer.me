@@ -19,7 +19,7 @@ serves.
 
 > [!idea] True utility emerges when the environment is shaped by the user's
 > intent, fostering deep engagement through [[containers]] and seamless
-> [[data-portability]] rather than trapped, static files.
+> [[universal-data-portability|data-portability]] rather than trapped, static files.
 
 > [!note] As we reimagine the future of [[computing]], the environment must be
 > viewed as an extension of our cognitive processes, designed to expand our
@@ -32,4 +32,4 @@ serves.
 - [[creativity]]
 - [[curiosity]]
 - [[containers]]
-- [[data-portability]]
+- [[universal-data-portability|data-portability]]

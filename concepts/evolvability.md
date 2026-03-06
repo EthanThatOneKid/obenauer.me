@@ -7,26 +7,18 @@ tags:
 
 # evolvability
 
-[[evolvability]] is the [[design|design]] imperative that systems must be composed of
-[[fundamental-units]]—accessible, user-facing building blocks—that empower
-individuals to reshape their environment. Rather than static tools, an evolvable
-system invites the user to become a participant in its development, allowing for
-the creative misuse of software to solve new problems.
+Evolvability is the design principle of building systems that balance immediate, guided utility with the boundless potential of an underlying [[graph-os]]. It is the capacity for a system to grow alongside the user, transitioning from a curated experience into a fully malleable environment. By prioritizing [[computer-literacy]] and [[user-agency]], we move away from static, predefined applications and toward interfaces that encourage the natural discovery of new [[workflows]] and structural possibilities.
 
-> [!idea] True evolvability transforms the user from a passive consumer into an
-> active architect, where the system itself is improved by any participant,
-> fostering a culture of collective intelligence and [[computer-literacy]].
+> [!important]
+> A truly evolvable system should feel accessible on day one while remaining powerful enough to adapt as the user's needs evolve, much like a [[composable-systems]] instrument that invites both immediate play and deep, expert customization.
 
-By leveraging [[malleable-software]] and [[itemized-environments]], we move
-beyond rigid applications toward fluid, [[user-intent]]-driven workspaces. This
-approach ensures that our digital tools can grow as our needs do, permitting us
-to iterate upon existing structures or invent entirely new workflows from a
-blank slate.
+Rather than forcing a choice between a rigid tool and a blank canvas, we design for ==fluid transitions== that allow the user to maintain their existing [[context]] while expanding the system's capabilities through [[modular-systems]] and [[end-user-programming]].
 
 ## Related
 
-- [[fundamental-units]]
-- [[malleable-software]]
-- [[itemized-environments]]
+- [[graph-os]]
 - [[computer-literacy]]
-- [[user-intent]]
+- [[user-agency]]
+- [[composable-systems]]
+- [[malleable-software]]
+- [[fluid-workspaces]]

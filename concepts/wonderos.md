@@ -8,7 +8,7 @@ tags:
 # wonderos
 
 [[wonderos]] is a long-term [[research|research]] project dedicated to building
-[[itemized-os]] environments—systems that move beyond monolithic applications
+[[items|itemized-os]] environments—systems that move beyond monolithic applications
 toward malleable, composable interfaces. It explores how we can reclaim
 [[user-agency]] by shifting the focus from opaque silos to core primitives that
 individuals can evolve to meet their changing needs. By envisioning a new form
@@ -25,7 +25,7 @@ between human [[curiosity]] and technical capability.
 
 ## Related
 
-- [[itemized-os]]
+- [[items|itemized-os]]
 - [[user-agency]]
 - [[personal-computing]]
 - [[interfaces]]

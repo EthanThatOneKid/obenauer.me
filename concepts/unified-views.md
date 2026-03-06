@@ -18,12 +18,12 @@ workflows. Instead of context-switching between tools, we interact with our
 information through interfaces that support our actual [[tasks|tasks]], enabling us to
 compose [[fluid-workspaces]] that mirror the way we think. This shifts the focus
 from managing applications to mastering our own [[user-intent]], fostering a
-more natural, [[item-centric]] relationship with our digital environments.
+more natural, [[items|item-centric]] relationship with our digital environments.
 
 ## Related
 
 - [[swappable-views]]
 - [[atomized-apps]]
 - [[fluid-workspaces]]
-- [[item-centric]]
+- [[items|item-centric]]
 - [[user-intent]]

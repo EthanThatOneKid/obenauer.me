@@ -13,8 +13,8 @@ In our current [[computing|computing]] paradigm, we are forced to navigate via t
 boundaries of applications and rigid [[windows|windows]]. ==Browsing-contexts== break these
 containers, allowing for the organic collection of related [[items|items]]—be they notes,
 emails, or to-dos—into a singular, cohesive workspace defined by the user’s
-immediate intent. By treating information as fundamental [[item]] units, these
-[[contexts|contexts]] allow us to map the digital landscape to our actual mental processes
+immediate intent. By treating information as fundamental [[items|item]] units, these
+[[context|contexts]] allow us to map the digital landscape to our actual mental processes
 rather than the constraints of software.
 
 > [!idea] Browsing-contexts facilitate a direct, visual expression of a user's
@@ -22,17 +22,17 @@ rather than the constraints of software.
 > [[fluid-workspaces]] and [[itemized-environments]].
 
 By leveraging [[swappable-views]] and focusing on the relationship between
-[[items|items]], we move away from siloed [[interaction|interaction]] toward a more [[item-centric]]
+[[items|items]], we move away from siloed [[interaction|interaction]] toward a more [[items|item-centric]]
 future. This shift supports the construction of [[unified-views]] where the user
 maintains [[agency|agency]] over how their digital work is organized and retrieved over
 [[time]].
 
 ## Related
 
-- [[item]]
+- [[items|item]]
 - [[fluid-workspaces]]
 - [[itemized-environments]]
 - [[swappable-views]]
-- [[item-centric]]
+- [[items|item-centric]]
 - [[unified-views]]
 - [[time]]

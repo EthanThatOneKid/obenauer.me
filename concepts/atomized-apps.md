@@ -5,20 +5,25 @@ tags:
   - concept
 ---
 
-# atomized-apps
+> [!idea] The Core Concept
+> **[[atomized-apps]]** shift the paradigm of personal computing by separating the mechanism of data retrieval and synchronization from the interface used to render that data. Instead of monolithic applications, the system treats data handling and user interaction as modular components, enabling a fluid, [[composable-systems]] environment where the user regains control over how their information is presented.
 
-[[atomized-apps]] represent a fundamental shift toward [[malleable-software]], where the monolithic application is broken into independent, interchangeable components. By decoupling the data source from the user [[interface|interface]], we empower users to exercise true [[user-agency]] and [[data-portability]], effectively separating the *protocol* from the *presentation*. This approach directly supports [[item-as-core-primitive]] [[design|design]], ensuring that our [[personal-computing]] environments remain focused on our own needs rather than those of the publisher.
+By decoupling these layers, we move toward a [[graph-os]] where a single data source—such as an email inbox—can be accessed, processed, and visualized through multiple, independent [[swappable-views]]. This modularity fosters true [[user-agency]], allowing developers to specialize in specific services while empowering users to construct bespoke [[workspaces]] that evolve with their unique needs, rather than being confined to the rigid, siloed boundaries of traditional [[apps]].
 
-> [!idea] 
-> Instead of being forced into a single, restrictive tool, we can compose our environments by selecting the best component for the job—swapping out an email renderer or a podcast player without losing access to the underlying data or compromising our privacy.
-
-Ultimately, this is about enabling a modular future where distributed development thrives, allowing creators to contribute specialized functionality to the [[graph-os]] ecosystem without the burden of rebuilding foundational infrastructure. By making these separations real, we foster a more human-centric [[computing-reimagined]].
+- [[composable-software]]
+- [[universal-data-portability]]
+- [[services]]
+- [[items|item-centric]]
 
 ## Related
 
-- [[malleable-software]]
-- [[user-agency]]
-- [[data-portability]]
-- [[item-as-core-primitive]]
+- [[composable-systems]]
 - [[graph-os]]
-- [[personal-computing-redefined]]
+- [[swappable-views]]
+- [[user-agency]]
+- [[workspaces]]
+- [[apps]]
+- [[composable-software]]
+- [[universal-data-portability]]
+- [[services]]
+- [[items|item-centric]]

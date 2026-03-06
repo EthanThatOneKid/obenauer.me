@@ -21,4 +21,4 @@ Computer literacy is not merely the ability to operate software; it is the ==fou
 - [[malleable-software]]
 - [[evolvability]]
 - [[composable-systems]]
-- [[personal-computing-redefined]]
+- [[personal-computing|personal-computing-redefined]]

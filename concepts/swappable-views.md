@@ -5,19 +5,18 @@ tags:
   - concept
 ---
 
-[[swappable-views]] is a foundational feature for the [[computing-reimagined]] landscape, enabling users to fluidly determine how their data is rendered. By decoupling data from specific applications, we enable a [[tool-making-culture]] where any installed application can provide view components for any data type. This allows you to globally define how a type (like an email or task) is visualized or to swap the view for a single, specific instance to better suit your immediate [[user-agency]]. Through this, we move toward [[fluid-workspaces]] where the [[item-as-core-primitive]] is always accessible, manipulatable, and visually contextualized according to your needs rather than the rigid constraints of a single software silo.
+[[swappable-views]] represent a paradigm shift where the presentation of an [[item]] is decoupled from the underlying data. Because items exist within [[browsing-paths]], [[universal-reference-containers]], and various [[fluid-workspaces]], they should not be bound to a single, static appearance. Instead, users can choose how to render these entities based on their current intent, allowing for ==personalized, high-leverage interactions== that evolve alongside their workflows.
 
 > [!idea] 
-> ==Swappable [[views|views]] empower users to choose the right [[interface|interface]] for the task at hand, regardless of which app 'owns' the data.==
+> By treating views as modular components, we move away from monolithic applications toward [[atomized-apps]]. This reduces the burden on developers to build every conceivable feature, while granting users the agency to tailor their environment to their specific cognitive needs. 
 
-> [!note]
-> This represents a shift from static application-bound interfaces to dynamic, [[user-created-item-views]] that exist across a [[graph-os]].
+Ultimately, this flexibility transforms our software from rigid boxes into a malleable, [[composable-systems]]-based environment where the interface is a reflection of the thought process itself.
 
 ## Related
 
-- [[item-as-core-primitive]]
-- [[user-created-item-views]]
+- [[item]]
+- [[atomized-apps]]
 - [[fluid-workspaces]]
-- [[graph-os]]
-- [[user-agency]]
-- [[computing-reimagined]]
+- [[composable-systems]]
+- [[browsing-paths]]
+- [[universal-reference-containers]]
