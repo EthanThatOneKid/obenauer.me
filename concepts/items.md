@@ -5,19 +5,18 @@ tags:
   - concept
 ---
 
-An ==item== is the fundamental atomic unit of information within an [[itemized-os]], serving as the primary bridge between raw data and human utility. By shifting away from opaque, app-centric silos, items enable [[universal-data-portability]], allowing information to exist independently of the containers that display it. When we treat data as items, we unlock the potential for [[malleable-software]] that adapts to our specific needs, fostering deeper [[user-agency]] and curiosity as we compose our own digital environments.
+An **item** is the fundamental, atomic unit of information within a personal [[computing]] domain, standing independent of its specific source or format. By utilizing [[transclusion]] to embed these items within one another, we dissolve the rigid boundaries between disparate files and applications. These items exist as nodes within a sprawling [[items-graph]], linked by references that capture the nuance of our [[thinking]]. Through [[paths]], items are organized into fluid, temporal browsing contexts, allowing us to interact with our work as a continuous, side-by-side flow rather than isolated silos.
 
-> [!note] The shift from files to items
-> Moving from the file-system paradigm to an [[item-centric]] model means shifting our focus from where data lives to what the data actually represents—whether it's a thought, a project, or a connection.
+> [!idea] 
+> The power of an item lies in its malleability; by allowing developers to create or swap custom views, we move from passive consumption of data to an active, tailored interface for our own cognition.
 
-> [!idea] Composable experiences
-> By leveraging [[swappable-views]] and [[user-created-views]], items become the building blocks for [[fluid-workspaces]], enabling us to see our work through the lens of [[time]], relevance, or project-based context.
+> [!important] 
+> Items should be retrieved through association, search, or creation within a context, ensuring that our digital tools support our natural mental processes rather than forcing us to conform to the system's limitations.
 
 ## Related
 
-- [[itemized-os]]
-- [[universal-data-portability]]
-- [[malleable-software]]
-- [[user-agency]]
-- [[item-centric]]
-- [[fluid-workspaces]]
+- [[computing]]
+- [[transclusion]]
+- [[thinking]]
+- [[paths]]
+- [[items-graph]]

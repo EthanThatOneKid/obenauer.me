@@ -5,27 +5,22 @@ tags:
   - concept
 ---
 
-# agency
+# user-agency
 
-# [[agency]]
+[[user-agency]] is the fundamental capacity to act upon and remodel our digital environments to match the fluidity of our own thinking. It is deeply linked to [[tool-making-culture]], as it demands moving beyond the role of a passive consumer, alongside [[personal-computing-redefined]] and [[cognitive-augmentation]]. Without this agency, we are merely tenants in someone else’s software, restricted by static interfaces we cannot modify.
 
-[[agency]] is the fundamental capacity for a person to act with intention and
-effect within their digital environment, inextricably linked to
-[[malleable-software]], [[personal-computing]], and [[user-intent]]. It is not
-an abstract feature, but an empirical outcome of interfaces that serve the
-individual rather than the platform.
+> [!important]
+> True agency is the freedom to treat our digital workspace as we do our physical ones—reconfiguring, redesigning, and remixing them to serve our unique goals.
 
-> [!idea] True ==agency== exists only when the tools we use are as malleable as
-> our thoughts, allowing us to shape our computing experience to match the
-> contours of our own lives.
+We currently live in a state of constraint, where our interfaces are defined by others. To reclaim agency is to bridge the gap between our intentions and our tools, ensuring our software feels like an extension of our own minds rather than an external imposition. ==The ability to redesign our tools is the prerequisite for a future where computers are truly personal.==
 
-Without a grounding in specific, lived-in contexts, [[agency]] remains hollow.
-By rethinking the relationship between human and machine, we can reclaim our
-ability to explore, create, and think freely through the tools we choose to
-inhabit.
+> [!idea]
+> If we cannot reconfigure our digital world as easily as we move furniture in a room, we do not yet have true agency over our computing.
 
 ## Related
 
-- [[malleable-software]]
-- [[personal-computing]]
-- [[user-intent]]
+- [[tool-making-culture]]
+- [[personal-computing-redefined]]
+- [[cognitive-augmentation]]
+- [[end-user-programming]]
+- [[computational-mediums]]

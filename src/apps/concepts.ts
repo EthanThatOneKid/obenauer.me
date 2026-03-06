@@ -184,18 +184,34 @@ async function main() {
     );
     processedConcepts = new Set(checkpoint.concepts.processed);
     conceptQueue = checkpoint.concepts.queue;
-  } else {
-    let rootConcepts: string[];
-    try {
-      rootConcepts = await getRootConcepts();
-    } catch (e) {
-      // deno-lint-ignore no-explicit-any
-      console.error("Error fetching root concepts:", (e as any)?.message || e);
-      return;
+  }
+
+  // Always look for new root concepts to discover terms that might have been
+  // missed originally or newly added to the user's codebase notes.
+  let rootConcepts: string[];
+  try {
+    console.log("Looking for any undiscovered root concepts...");
+    rootConcepts = await getRootConcepts();
+  } catch (e) {
+    // deno-lint-ignore no-explicit-any
+    console.error("Error fetching root concepts:", (e as any)?.message || e);
+    return;
+  }
+
+  const rootSlugs = rootConcepts.map((c) => slugify(c));
+  let addedRoots = 0;
+  for (const slug of rootSlugs) {
+    if (!processedConcepts.has(slug) && !conceptQueue.includes(slug)) {
+      conceptQueue.push(slug);
+      addedRoots++;
     }
-    conceptQueue = rootConcepts.map((c) => slugify(c));
-    console.log(`Found ${rootConcepts.length} root concepts:`, conceptQueue);
+  }
+
+  if (addedRoots > 0) {
+    console.log(`Discovered ${addedRoots} new root concepts to process.`);
     await saveCheckpoint(processedConcepts, conceptQueue);
+  } else {
+    console.log(`No completely new root concepts discovered.`);
   }
 
   // Prepend targeted concepts if any
