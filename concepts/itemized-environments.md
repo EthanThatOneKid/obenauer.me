@@ -12,15 +12,15 @@ tags:
 An **itemized-environment** represents a radical departure from the
 application-centric status quo, shifting the focus toward a system built upon
 [[fundamental-units]] of content rather than monolithic software silos. By
-embracing [[items|item-centric]] [[design|design]] and [[items|itemized-os]] principles, we move away
-from closed [[apps|apps]] and toward a space where the user acts as an architect of their
-own digital world. This [[structure|structure]] facilitates [[user-agency]], allowing
+embracing [[items|item-centric]] [[design]] and [[items|itemized-os]] principles, we move away
+from closed [[apps]] and toward a space where the user acts as an architect of their
+own digital world. This [[structure]] facilitates [[user-agency]], allowing
 individuals to weave together disparate pieces of information into
 [[fluid-workspaces]] that mirror their unique cognitive needs rather than the
 rigid constraints of traditional software.
 
 > [!idea] In an itemized environment, we stop managing files and start
-> interacting with meaningful, interconnected [[items|items]] that flow seamlessly between
+> interacting with meaningful, interconnected [[items]] that flow seamlessly between
 > [[context|contexts]].
 
 > [!important] By moving software activities from the developer to the user, we

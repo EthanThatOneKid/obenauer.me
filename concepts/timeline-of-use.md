@@ -27,10 +27,10 @@ The [[timeline-of-use]] is a profound reorientation of our digital existence, mo
 
 
 > [!note] Merged from [[timeline-of-use|timeline]]
-> A [[timeline-of-use|timeline]] is the fundamental substrate upon which our [[personal-computing]] experiences must be built. To truly support our [[agency]], the operating system must transition from a static file-based storage model to a fluid, time-aware environment that integrates deeply with [[gestural-view-construction|gestural-view]] construction and [[semantic-zoom]]. By representing interactions as a continuous flow rather than isolated fragments, we can recover the [[context|context]] of our own history, turning the computer into a partner in our ongoing creative process.
+> A [[timeline-of-use|timeline]] is the fundamental substrate upon which our [[personal-computing]] experiences must be built. To truly support our [[agency]], the operating system must transition from a static file-based storage model to a fluid, time-aware environment that integrates deeply with [[gestural-view-construction|gestural-view]] construction and [[semantic-zoom]]. By representing interactions as a continuous flow rather than isolated fragments, we can recover the [[context]] of our own history, turning the computer into a partner in our ongoing creative process.
 > 
 > > [!idea] 
-> > The [[timeline-of-use|timeline]] acts as the bridge between past activity and present intent, allowing for a more human-centered [[interaction|interaction]] paradigm where time is a first-class citizen of the OS.
+> > The [[timeline-of-use|timeline]] acts as the bridge between past activity and present intent, allowing for a more human-centered [[interaction]] paradigm where time is a first-class citizen of the OS.
 > 
 > ## Related
 > 

@@ -7,15 +7,15 @@ aliases:
   - "reference"
 ---
 
-# [[references|references]]
+# [[references]]
 
-In our reimagined OS, ==everything in the system is an [[items|item]]==. Because every [[items|item]] can be linked to any other, we move beyond restrictive hierarchies into a fluid, interconnected [[computing]] environment. By expanding the **[[references|references]] box** of an open [[items|item]], we reveal the [[context|context]] of where it lives and how it is being used, allowing us to manage its [[relationships|relationships]]—such as moving a task between project lists or calendar dates—directly from a single view.
+In our reimagined OS, ==everything in the system is an [[items|item]]==. Because every [[items|item]] can be linked to any other, we move beyond restrictive hierarchies into a fluid, interconnected [[computing]] environment. By expanding the **[[references]] box** of an open [[items|item]], we reveal the [[context]] of where it lives and how it is being used, allowing us to manage its [[relationships]]—such as moving a task between project lists or calendar dates—directly from a single view.
 
 > [!note] The Power of [[context|Context]]
-> [[references|References]] enable us to see our digital world as a [[graph]] of interconnected thoughts, rather than static files. This allows us to organize our things in the various ways we actually [[thinking|think]] about them, surfacing [[relationships|relationships]] between status, topic, and project without being confined to a single folder [[structure|structure]].
+> [[references|References]] enable us to see our digital world as a [[graph]] of interconnected thoughts, rather than static files. This allows us to organize our things in the various ways we actually [[thinking|think]] about them, surfacing [[relationships]] between status, topic, and project without being confined to a single folder [[structure]].
 
 > [!idea] Bi-directional Control
-> The [[references|references]] box acts as a bridge; not only does it display incoming links, but it allows us to initiate new connections, providing a bi-directional [[interfaces|interface]] for managing our digital life.
+> The [[references]] box acts as a bridge; not only does it display incoming links, but it allows us to initiate new connections, providing a bi-directional [[interfaces|interface]] for managing our digital life.
 
 ## Related
 
@@ -35,14 +35,14 @@ In our reimagined OS, ==everything in the system is an [[items|item]]==. Because
 > 
 > > [!idea] The Power of [[context|Context]] A ==references-box== allows you to view an [[items|item]]
 > > not in isolation, but through the lens of everywhere it lives. By expanding
-> > this box, you surface all parent [[items|items]] where the current one is referenced,
+> > this box, you surface all parent [[items]] where the current one is referenced,
 > > enabling bidirectional management.
 > 
 > This fluidity redefines [[personal-computing]] by allowing you to initiate
-> [[actions|actions]] or reorganize [[structure|structure]] from either side of an [[association|association]]. It is not
-> just about [[linking|linking]]; it is about ==reimagining the relationship between human
+> [[actions]] or reorganize [[structure]] from either side of an [[association]]. It is not
+> just about [[linking]]; it is about ==reimagining the relationship between human
 > intent and the system environment==, turning every reference into a point of
-> potential [[interaction|interaction]].
+> potential [[interaction]].
 > 
 > ## Related
 > 

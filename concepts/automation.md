@@ -7,10 +7,10 @@ aliases:
   - "automations"
 ---
 
-[[automation]] is the realization of [[agency|agency]] within our [[computing]] environments, moving beyond manual [[interaction|interaction]] by leveraging the interconnected nature of [[items]], [[views]], and [[services]]. By treating these primitives as the foundation, automations act as a bridge, enabling seamless workflows where data flows freely across [[context|contexts]]. 
+[[automation]] is the realization of [[agency]] within our [[computing]] environments, moving beyond manual [[interaction]] by leveraging the interconnected nature of [[items]], [[views]], and [[services]]. By treating these primitives as the foundation, automations act as a bridge, enabling seamless workflows where data flows freely across [[context|contexts]]. 
 
 > [!idea] 
-> True [[automation|automation]] shouldn't feel like a rigid, external force, but rather an organic extension of our personal [[thinking]] and [[organization|organization]], allowing us to focus on the "what" rather than the "how." 
+> True [[automation]] shouldn't feel like a rigid, external force, but rather an organic extension of our personal [[thinking]] and [[organization]], allowing us to focus on the "what" rather than the "how." 
 
 > [!important] 
 > By ensuring [[items]] are composable and [[views]] are swappable, we empower users to construct their own automated processes, reducing friction between disparate data sources and personal [[research]].

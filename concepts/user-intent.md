@@ -15,7 +15,7 @@ prioritize intent, we move beyond rigid applications toward
 [[creativity]] and [[curiosity]].
 
 > [!idea] Intent as a First-Class Citizen By capturing the essence of what a
-> person is trying to achieve, the system can provide the right [[context|context]] at the
+> person is trying to achieve, the system can provide the right [[context]] at the
 > right time, rather than forcing the user to navigate the artificial barriers
 > of modern interfaces.
 

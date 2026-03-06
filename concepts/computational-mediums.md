@@ -13,7 +13,7 @@ A [[computational-mediums]] is not merely software; it is a canvas for thought, 
 By enabling users to transition from passive consumption to active, continuous creation, a computational medium fulfills the promise of a truly programmable computer. It is the movement toward [[dynamic-information-environments]] where we no longer just use interfaces, but instead interact with the very behavior of the knowledge we hold. ==This is fundamentally about reclaiming our relationship with information to amplify human cognition.==
 
 > [!note]
-> This represents a transition from tools that enforce predefined [[paths|paths]] to environments that serve as an extension of the mind.
+> This represents a transition from tools that enforce predefined [[paths]] to environments that serve as an extension of the mind.
 
 ## Related
 

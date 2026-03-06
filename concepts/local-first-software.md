@@ -5,9 +5,9 @@ tags:
   - concept
 ---
 
-# [[local-first-software|local-first-software]]
+# [[local-first-software]]
 
-[[local-first-software]] is more than a technical [[architecture|architecture]]; it is a philosophical commitment to [[personal-computing|personal-computing-redefined]]. By ensuring the locus of data and computation resides primarily on the user’s machine, we reclaim [[user-agency]] and move away from the fragility of distant server farms. This approach fosters a [[fluid-workspaces]], where software is inherently faster, works offline, and respects the user as the primary custodian of their digital existence, supported by a rich [[timeline-of-use]] where all changes are recorded and owned locally.
+[[local-first-software]] is more than a technical [[architecture]]; it is a philosophical commitment to [[personal-computing|personal-computing-redefined]]. By ensuring the locus of data and computation resides primarily on the user’s machine, we reclaim [[user-agency]] and move away from the fragility of distant server farms. This approach fosters a [[fluid-workspaces]], where software is inherently faster, works offline, and respects the user as the primary custodian of their digital existence, supported by a rich [[timeline-of-use]] where all changes are recorded and owned locally.
 
 > [!important] 
 > The network should serve as an adjunct for synchronization, never the central authority. 
