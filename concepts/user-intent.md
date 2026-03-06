@@ -15,9 +15,9 @@ prioritize intent, we move beyond rigid applications toward
 [[creativity]] and [[curiosity]].
 
 > [!idea] Intent as a First-Class Citizen By capturing the essence of what a
-> person is trying to achieve, the system can provide the right [[context]] at the
-> right time, rather than forcing the user to navigate the artificial barriers
-> of modern interfaces.
+> person is trying to achieve, the system can provide the right [[context]] at
+> the right time, rather than forcing the user to navigate the artificial
+> barriers of modern interfaces.
 
 Ultimately, designing for intent is about ensuring that our
 [[personal-computing]] tools serve the human, not the other way around.
