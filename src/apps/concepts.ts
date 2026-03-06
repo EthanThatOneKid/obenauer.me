@@ -86,12 +86,12 @@ Tone: Reflective, vision-oriented, focused on reimagining the relationship betwe
 Style Guide:
 - Atomic: Distill the essence. Ensure it can be read in about a minute.
 - Interconnected: Every page must link to at least three other atomic concepts within the first paragraph to encourage exploration.
-- Formatting: Use [[concept-name]] for internal links.
+- Formatting: Use Obsidian Flavored Markdown. Use [[concept-name]] for internal links. Use callouts like > [!note], > [!important], > [!idea] for key insights. Use ==highlights== for crucial phrases.
 - Naming: Single-word lowercase whenever possible. Hyphens for multi-word. No spaces.
 
 Known concepts to link to if relevant: [${existingList}]
 
-Output only a JSON object matching this schema: { "description": "1 minute read text", "relatedConcepts": ["tag1", "tag2"] }`,
+Output only a JSON object matching this schema: { "description": "1 minute read text formatted in Obsidian Markdown", "relatedConcepts": ["tag1", "tag2"] }`,
     prompt: `Explain the concept of "${concept}" and list related concepts.`,
     // @ts-ignore: tools might not be in the type definition but works at runtime
     tools: {
@@ -118,20 +118,23 @@ async function writeConceptFile(
   const slug = slugify(concept);
   const filePath = join(CONCEPTS_DIR, `${slug}.md`);
 
-  // Transform [[concept-name]] into [concept-name](./concept-name.md)
-  const transformedDescription = description.replace(
-    /\[\[([a-z0-9-]+)\]\]/g,
-    "[$1](./$1.md)",
-  );
+  const dateStr = new Date().toISOString().split("T")[0];
 
-  let content = `# ${slug}\n\n`;
-  content += `${transformedDescription}\n\n`;
+  let content = `---
+title: ${concept}
+date: ${dateStr}
+tags:
+  - concept
+---
+
+`;
+  content += `${description}\n\n`;
 
   if (relatedConcepts.length > 0) {
-    content += `## Related\n`;
+    content += `## Related\n\n`;
     for (const related of relatedConcepts) {
       const relatedSlug = slugify(related);
-      content += `- [${relatedSlug}](./${relatedSlug}.md)\n`;
+      content += `- [[${relatedSlug}]]\n`;
     }
   }
 
