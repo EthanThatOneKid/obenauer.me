@@ -1,11 +1,13 @@
 ---
-title: end-user-programming
+title: programming
 date: 2026-03-06
 tags:
   - concept
+aliases:
+  - "end-user-programming"
 ---
 
-[[end-user-programming]] is the bridge between mere usage and true [[agency]],
+[[programming|end-user-programming]] is the bridge between mere usage and true [[agency]],
 transforming the computer from a static appliance into a malleable environment.
 By collapsing the distinction between changing data and defining [[views]], we
 enable individuals to reshape their digital [[workspaces]] as naturally as they
@@ -16,7 +18,7 @@ of a developer's predetermined [[interfaces|interface]].
 > [!idea] Essence True [[agency|user-agency]] requires the power to reconfigure, remix,
 > and redesign our tools to match our unique, unfolding needs. When we treat
 > [[interfaces|interface]] [[composition]] as a personal act of
-> [[malleable-software]] creation, we move closer to the ideal of the personal
+> [[malleability|malleable-software]] creation, we move closer to the ideal of the personal
 > computer.
 
 Ultimately, this is about moving away from being a tenant in someone else’s
@@ -25,7 +27,7 @@ software toward becoming an architect of our own digital lives.
 ## Related
 
 - [[agency|user-agency]]
-- [[malleable-software]]
+- [[malleability|malleable-software]]
 - [[workspaces]]
 - [[interfaces|interfaces-with-which-we-think]]
 - [[computing]]

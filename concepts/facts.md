@@ -12,11 +12,11 @@ landscape==, acting as the atomic units that underpin [[items|itemized-os]],
 [[items|item-centric]] architectures, and [[environment|itemized-environments]].
 By shifting our focus from opaque, monolithic application silos toward these
 transparent, interoperable data points, we reclaim [[agency|user-agency]] and foster a
-more meaningful [[human-computer-symbiosis|human-computer-relationship]].
+more meaningful [[symbiosis|human-computer-relationship]].
 
 > [!idea] When we treat information as [[facts]] rather than trapped data, we
-> enable a future where [[universal-data-portability]] is the default, allowing
-> our digital [[memory]] to flow freely across the [[fluid-workspaces]] we
+> enable a future where [[portability|universal-data-portability]] is the default, allowing
+> our digital [[memory]] to flow freely across the [[workspaces|fluid-workspaces]] we
 > inhabit.
 
 Ultimately, defining information as [[facts]] is about restoring the
@@ -30,6 +30,6 @@ lives.
 - [[items|item-centric]]
 - [[environment|itemized-environments]]
 - [[agency|user-agency]]
-- [[human-computer-symbiosis|human-computer-relationship]]
-- [[universal-data-portability]]
-- [[fluid-workspaces]]
+- [[symbiosis|human-computer-relationship]]
+- [[portability|universal-data-portability]]
+- [[workspaces|fluid-workspaces]]

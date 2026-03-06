@@ -8,7 +8,7 @@ tags:
 # opportunity
 
 Opportunity is the ==catalyst for intellectual contribution==, emerging when we
-create space to add our own unique node to the [[graph-os]] of human knowledge.
+create space to add our own unique node to the [[graph|graph-os]] of human knowledge.
 It is deeply tied to the [[creativity]] of our pursuits and the [[curiosity]] we
 bring to our [[environment|document-environment]], fueling the persistent effort
 required for [[bootstrapping]] better tools. By engaging in the continuous,
@@ -20,14 +20,14 @@ meaningful progress.
 > expansive opportunity for [[discovery]].
 
 > [!note] True opportunity is not a passive arrival; it is a manifestation of
-> the [[malleable-software]] we [[design]] to let us learn, iterate, and
+> the [[malleability|malleable-software]] we [[design]] to let us learn, iterate, and
 > contribute at scale.
 
 ## Related
 
 - [[creativity]]
 - [[curiosity]]
-- [[graph-os]]
+- [[graph|graph-os]]
 - [[bootstrapping]]
-- [[malleable-software]]
+- [[malleability|malleable-software]]
 - [[environment|document-environment]]

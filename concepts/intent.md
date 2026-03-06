@@ -1,8 +1,10 @@
 ---
-title: user-intent
+title: intent
 date: 2026-03-06
 tags:
   - concept
+aliases:
+  - "user-intent"
 ---
 
 # user-intent
@@ -11,7 +13,7 @@ User-intent represents the bridge between human thought and digital execution.
 It is the core of [[agency|user-agency]], moving software from a passive tool into a
 reactive [[environment]] that understands where you want to go. When we
 prioritize intent, we move beyond rigid applications toward
-[[malleable-software]] that adapts to our specific needs, fostering deeper
+[[malleability|malleable-software]] that adapts to our specific needs, fostering deeper
 [[creativity]] and [[curiosity]].
 
 > [!idea] Intent as a First-Class Citizen By capturing the essence of what a
@@ -20,10 +22,10 @@ prioritize intent, we move beyond rigid applications toward
 > barriers of modern interfaces.
 
 Ultimately, designing for intent is about ensuring that our
-[[personal-computing]] tools serve the human, not the other way around.
+[[computing|personal-computing]] tools serve the human, not the other way around.
 
 ## Related
 
 - [[agency|user-agency]]
 - [[environment]]
-- [[malleable-software]]
+- [[malleability|malleable-software]]

@@ -30,9 +30,9 @@ woven together into personalized workflows that evolve alongside our needs.
 
 > [!note] Merged from [[composition|composable-software]] Composable software
 > represents a fundamental shift away from rigid, monolithic applications toward
-> [[malleable-software]] that adapts to the unique ways we interact with
+> [[malleability|malleable-software]] that adapts to the unique ways we interact with
 > information. By fostering [[agency|user-agency]] and enabling
-> [[end-user-programming]], these systems allow us to move past pre-defined
+> [[programming|end-user-programming]], these systems allow us to move past pre-defined
 > "app" boundaries, treating our digital environment as a collection of building
 > blocks rather than isolated silos. This is an essential step in building
 > [[interfaces|interfaces-with-which-we-think]], where our tools mirror the
@@ -42,30 +42,30 @@ woven together into personalized workflows that evolve alongside our needs.
 >> a vendor's interface choices, but an active architect of their own digital
 >> landscape.
 >
-> By prioritizing [[local-first-software]] and [[data-ownership-sovereignty]],
+> By prioritizing [[local|local-first-software]] and [[sovereignty|data-ownership-sovereignty]],
 > we ensure that the relationships between our data entities remain intact,
 > regardless of the specific interface or view we choose to project onto them.
 >
 > ## Related
 >
-> - [[malleable-software]]
+> - [[malleability|malleable-software]]
 > - [[agency|user-agency]]
-> - [[end-user-programming]]
+> - [[programming|end-user-programming]]
 > - [[interfaces|interfaces-with-which-we-think]]
-> - [[local-first-software]]
-> - [[data-ownership-sovereignty]]
+> - [[local|local-first-software]]
+> - [[sovereignty|data-ownership-sovereignty]]
 
 > [!note] Merged from [[composition|composable-systems]]
 >
 >> [!idea] [[composition|Composable-systems]] are the moral imperative of modern
 >> [[computing]], representing a shift from rigid applications to environments
 >> that honor [[agency|user-agency]]. By dismantling the silos of the traditional
->> desktop, we move toward [[malleable-software]] that adapts to our unique ways
+>> desktop, we move toward [[malleability|malleable-software]] that adapts to our unique ways
 >> of [[thinking]], ensuring our tools reflect our own values and specific needs
 >> rather than the static assumptions of developers. This [[evolution]] is
->> rooted in [[personal-computing|personal-computing-redefined]], where we treat
+>> rooted in [[computing|personal-computing-redefined]], where we treat
 >> our digital environments as fluid workspaces—not just containers for data,
->> but living systems built for [[cognitive-augmentation]].
+>> but living systems built for [[augmentation|cognitive-augmentation]].
 >
 > We must move past the limitations of monolithic software to achieve true
 > [[interoperability]], where the data and the ways we interact with it are
@@ -76,7 +76,7 @@ woven together into personalized workflows that evolve alongside our needs.
 > ## Related
 >
 > - [[agency|user-agency]]
-> - [[malleable-software]]
-> - [[personal-computing|personal-computing-redefined]]
-> - [[cognitive-augmentation]]
+> - [[malleability|malleable-software]]
+> - [[computing|personal-computing-redefined]]
+> - [[augmentation|cognitive-augmentation]]
 > - [[interoperability]]

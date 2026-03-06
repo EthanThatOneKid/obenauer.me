@@ -1,13 +1,15 @@
 ---
-title: universal-data-portability
+title: portability
 date: 2026-03-06
 tags:
   - concept
 aliases:
+  - "universal-data-portability"
+aliases:
   - "data-portability"
 ---
 
-[[universal-data-portability]] is the intentional dissolution of the rigid,
+[[portability|universal-data-portability]] is the intentional dissolution of the rigid,
 siloed containers that currently imprison our digital [[assets]]. It reimagines
 the operating system as an inverted [[architecture]], where the system utilizes
 [[interfaces|interface]] components provided by individual [[apps]] rather than
@@ -32,16 +34,16 @@ digital life is governed by our associations rather than app boundaries.
 - [[workflow]]
 - [[thinking]]
 
-> [!note] Merged from [[universal-data-portability|data-portability]]
-> [[universal-data-portability]] represents the freedom of our digital objects
+> [!note] Merged from [[portability|data-portability]]
+> [[portability|universal-data-portability]] represents the freedom of our digital objects
 > to exist outside of the rigid, siloed containers of traditional applications.
 > By breaking these boundaries, we move beyond the WIMP paradigm where programs
 > act as isolated environments. Instead, any [[items|item]]—whether a note,
 > task, or media file—can be fluidly moved and rendered throughout the system.
 > This relies on [[swappable-reference-views]] and
-> [[user-created-views|user-created-item-views]], where the hosting application
+> [[views|user-created-item-views]], where the hosting application
 > provides the [[interfaces|interface]] component, allowing the system to act as
-> an interconnected [[graph-os]].
+> an interconnected [[graph|graph-os]].
 >
 >> [!idea] The operating system becomes an inverted space: it serves as a canvas
 >> for the components you choose, enabling a malleable environment that reflects
@@ -54,8 +56,8 @@ digital life is governed by our associations rather than app boundaries.
 >
 > ## Related
 >
-> - [[universal-reference-containers]]
+> - [[containers|universal-reference-containers]]
 > - [[swappable-reference-views]]
-> - [[graph-os]]
-> - [[user-created-views|user-created-item-views]]
-> - [[malleable-software]]
+> - [[graph|graph-os]]
+> - [[views|user-created-item-views]]
+> - [[malleability|malleable-software]]

@@ -4,6 +4,8 @@ date: 2026-03-06
 tags:
   - concept
 aliases:
+  - "reference-container"
+aliases:
   - "reference"
 ---
 
@@ -42,7 +44,7 @@ dates—directly from a single view.
 >
 > A [[references|reference]] is the connective tissue of a future
 > [[items|itemized-os]], transforming static files into a dynamic,
-> interconnected [[graph-os]]. By treating every digital artifact—whether an
+> interconnected [[graph|graph-os]]. By treating every digital artifact—whether an
 > email, task, or note—as an [[items|item]], we move beyond hierarchical silos.
 >
 >> [!idea] The Power of [[context|Context]] A ==references-box== allows you to
@@ -50,7 +52,7 @@ dates—directly from a single view.
 >> it lives. By expanding this box, you surface all parent [[items]] where the
 >> current one is referenced, enabling bidirectional management.
 >
-> This fluidity redefines [[personal-computing]] by allowing you to initiate
+> This fluidity redefines [[computing|personal-computing]] by allowing you to initiate
 > [[actions]] or reorganize [[architecture|structure]] from either side of an
 > [[relationships|association]]. It is not just about [[linking]]; it is about ==reimagining
 > the relationship between human intent and the system environment==, turning
@@ -59,7 +61,27 @@ dates—directly from a single view.
 > ## Related
 >
 > - [[items|itemized-os]]
-> - [[graph-os]]
+> - [[graph|graph-os]]
 > - [[items|item]]
-> - [[personal-computing]]
+> - [[computing|personal-computing]]
 > - [[environment]]
+
+
+> [!note] Merged from [[references|reference-container]]
+> The [[references|reference-container]] is a fundamental principle of a future, fluid
+> operating system, predicated on [[portability|data-portability]].
+> In this reimagined environment, digital silos dissolve; instead of being trapped
+> within rigid applications, [[items]] become composable building blocks. Because
+> ==all [[items]] can contain other [[items]]==, we move beyond the limitations of
+> notes as mere documents, allowing any entity—an event, a task, or a media
+> stream—to act as a flexible host for others. This shifts our [[interaction]]
+> with software from managing static files to architecting a dynamic
+> [[environment|document-environment]], where the display and function of
+> contained [[items]] are negotiated by their relationship, fostering a more
+> intuitive and cohesive [[computing|personal-computing]] experience.
+> 
+> ## Related
+> 
+> - [[portability|data-portability]]
+> - [[environment|document-environment]]
+> - [[computing|personal-computing]]

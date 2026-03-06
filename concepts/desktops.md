@@ -13,7 +13,7 @@ tags:
 > boundaries.
 
 We suffer from the illusion that these digital workspaces are fixed, when in
-reality, our need for [[malleable-software]] demands the freedom to redesign,
+reality, our need for [[malleability|malleable-software]] demands the freedom to redesign,
 remodel, and reconfigure our environments to match our unique ways of
 [[thinking]]. When we accept the desktop as static, we relinquish our
 [[agency|user-agency]], accepting a world where we are merely visitors in someone
@@ -22,12 +22,12 @@ else's office rather than architects of our own digital lives.
 > [!idea] The core issue is that our current abstractions force us to work
 > within the same workshop, regardless of how vastly different our actual work
 > may be. We must move beyond the desktop to create systems that allow for true
-> [[fluid-workspaces]].
+> [[workspaces|fluid-workspaces]].
 
 ## Related
 
 - [[computing]]
 - [[interfaces|interfaces-with-which-we-think]]
-- [[malleable-software]]
+- [[malleability|malleable-software]]
 - [[agency|user-agency]]
-- [[fluid-workspaces]]
+- [[workspaces|fluid-workspaces]]

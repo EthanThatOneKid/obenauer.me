@@ -11,7 +11,7 @@ The modern conception of an ==app== acts as a siloed container, but we must
 shift toward [[apps|atomized-apps]]. In this reimagined [[architecture]], the
 software responsible for data ingestion—the transport layer—should be decoupled
 from the software responsible for [[rendering]] and [[interaction]]. By moving
-away from monolithic applications, we foster a [[graph-os]] ecosystem where
+away from monolithic applications, we foster a [[graph|graph-os]] ecosystem where
 [[items]] exist independently of the specific tools that once imprisoned them.
 This transition empowers users to reclaim [[agency|user-agency]] by treating data as
 modular, interoperable, and fluid, rather than trapped behind proprietary
@@ -20,18 +20,18 @@ interfaces.
 > [!idea] The core of the shift: What if the application that fetches your data
 > doesn't have to be the one that defines how you view or interact with it?
 
-> [!important] True [[personal-computing|personal-computing-redefined]] requires
+> [!important] True [[computing|personal-computing-redefined]] requires
 > that we stop [[thinking]] in terms of 'launching [[apps]]' and start
-> [[thinking]] in terms of composing [[fluid-workspaces]].
+> [[thinking]] in terms of composing [[workspaces|fluid-workspaces]].
 
 ## Related
 
 - [[apps|atomized-apps]]
 - [[rendering]]
-- [[graph-os]]
+- [[graph|graph-os]]
 - [[items]]
 - [[agency|user-agency]]
-- [[fluid-workspaces]]
+- [[workspaces|fluid-workspaces]]
 
 > [!note] Merged from [[apps|atomized-apps]]
 >
@@ -43,28 +43,28 @@ interfaces.
 >> environment where the user regains control over how their information is
 >> presented.
 >
-> By decoupling these layers, we move toward a [[graph-os]] where a single data
+> By decoupling these layers, we move toward a [[graph|graph-os]] where a single data
 > source—such as an email inbox—can be accessed, processed, and visualized
-> through multiple, independent [[swappable-views]]. This modularity fosters
+> through multiple, independent [[views|swappable-views]]. This modularity fosters
 > true [[agency|user-agency]], allowing developers to specialize in specific services
 > while empowering users to construct bespoke [[workspaces]] that evolve with
 > their unique needs, rather than being confined to the rigid, siloed boundaries
 > of traditional [[apps]].
 >
 > - [[composition|composable-software]]
-> - [[universal-data-portability]]
+> - [[portability|universal-data-portability]]
 > - [[services]]
 > - [[items|item-centric]]
 >
 > ## Related
 >
 > - [[composition|composable-systems]]
-> - [[graph-os]]
-> - [[swappable-views]]
+> - [[graph|graph-os]]
+> - [[views|swappable-views]]
 > - [[agency|user-agency]]
 > - [[workspaces]]
 > - [[apps]]
 > - [[composition|composable-software]]
-> - [[universal-data-portability]]
+> - [[portability|universal-data-portability]]
 > - [[services]]
 > - [[items|item-centric]]

@@ -7,12 +7,12 @@ tags:
 
 # [[evolution]]
 
-[[malleable-software]] is the foundation of an ==evolvable system==, where the
+[[malleability|malleable-software]] is the foundation of an ==evolvable system==, where the
 user moves from being a mere consumer to an architect of their own digital
-environment. By utilizing [[end-user-programming]] and accessible
+environment. By utilizing [[programming|end-user-programming]] and accessible
 [[modularity|modular-systems]], users can iterate upon existing designs or build
 entirely new structures from a blank slate. This fosters a landscape of
-[[personal-computing|personal-computing-redefined]] where systems are not static
+[[computing|personal-computing-redefined]] where systems are not static
 boxes, but living ecosystems that adapt through the creative, intentional misuse
 and repurposing of tools—much like the history of electronic music.
 
@@ -29,7 +29,7 @@ and repurposing of tools—much like the history of electronic music.
 
 ## Related
 
-- [[malleable-software]]
-- [[end-user-programming]]
-- [[personal-computing|personal-computing-redefined]]
+- [[malleability|malleable-software]]
+- [[programming|end-user-programming]]
+- [[computing|personal-computing-redefined]]
 - [[modularity|modular-systems]]

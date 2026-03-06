@@ -1,8 +1,10 @@
 ---
-title: computer-literacy
+title: literacy
 date: 2026-03-06
 tags:
   - concept
+aliases:
+  - "computer-literacy"
 ---
 
 # computer-literacy
@@ -11,7 +13,7 @@ Computer literacy is not merely the ability to operate software; it is the
 ==foundational capacity for users to understand, shape, and evolve their digital
 environment==. True literacy requires moving beyond passive consumption toward
 [[agency|user-agency]], where the architecture of the system allows for
-[[malleable-software]] that adapts to individual needs. By fostering an
+[[malleability|malleable-software]] that adapts to individual needs. By fostering an
 environment rooted in [[evolvability]], we transform computing from a rigid,
 opaque utility into an extension of the self—a space where the user is an active
 participant in their own digital reality rather than a subordinate to a
@@ -28,7 +30,7 @@ pre-defined interface.
 ## Related
 
 - [[agency|user-agency]]
-- [[malleable-software]]
+- [[malleability|malleable-software]]
 - [[evolvability]]
 - [[composition|composable-systems]]
-- [[personal-computing|personal-computing-redefined]]
+- [[computing|personal-computing-redefined]]

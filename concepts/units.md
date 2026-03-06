@@ -1,8 +1,10 @@
 ---
-title: fundamental-units
+title: units
 date: 2026-03-06
 tags:
   - concept
+aliases:
+  - "fundamental-units"
 ---
 
 # fundamental-units
@@ -18,7 +20,7 @@ truly malleable.
 > the potential for a more fluid relationship between our tools and our intent.
 
 By centering our [[design]] on these small, interoperable pieces, we create a
-foundation that supports [[malleable-software]] and complex information
+foundation that supports [[malleability|malleable-software]] and complex information
 architectures, ultimately allowing users to externalize their thoughts with
 greater clarity and depth.
 
@@ -26,4 +28,4 @@ greater clarity and depth.
 
 - [[items|itemized-os]]
 - [[agency|user-agency]]
-- [[malleable-software]]
+- [[malleability|malleable-software]]

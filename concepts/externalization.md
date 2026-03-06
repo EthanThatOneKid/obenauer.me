@@ -52,7 +52,7 @@ creative process rather than mere silos of data.
 >> system to hold the [[architecture|structure]] of our thoughts.
 >
 >> [!important] To externalize effectively, we must prioritize
->> [[universal-data-portability]] so that our thoughts remain ours,
+>> [[portability|universal-data-portability]] so that our thoughts remain ours,
 >> unconstrained by the silos of traditional software.
 >
 > ## Related

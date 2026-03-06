@@ -11,8 +11,8 @@ tags:
 
 [[quantity]] is the essential, often iterative path toward [[creativity]] and
 mastery. By prioritizing the sheer volume of output, one engages directly with
-the [[malleable-software]] of our own work, transforming abstract
-[[user-intent]] into tangible form through repeated cycles of trial and error.
+the [[malleability|malleable-software]] of our own work, transforming abstract
+[[intent|user-intent]] into tangible form through repeated cycles of trial and error.
 This process is deeply connected to [[curiosity]], as each piece produced serves
 as a vessel for learning and [[discovery]], rather than a final destination.
 
@@ -27,6 +27,6 @@ understanding the materials of our thought.
 ## Related
 
 - [[creativity]]
-- [[malleable-software]]
-- [[user-intent]]
+- [[malleability|malleable-software]]
+- [[intent|user-intent]]
 - [[curiosity]]

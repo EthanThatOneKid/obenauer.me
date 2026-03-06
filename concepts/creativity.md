@@ -5,7 +5,7 @@ tags:
   - concept
 ---
 
-True creativity blossoms through the [[malleable-software]] act of subverting
+True creativity blossoms through the [[malleability|malleable-software]] act of subverting
 original intent. It is found when we reclaim [[agency|user-agency]] to repurpose rigid
 systems, effectively pushing against the boundaries of designed [[computing]].
 By viewing tools as potential performance machines rather than static utilities,
@@ -23,7 +23,7 @@ expression.
 
 ## Related
 
-- [[malleable-software]]
+- [[malleability|malleable-software]]
 - [[agency|user-agency]]
 - [[computing]]
 - [[interaction]]

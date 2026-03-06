@@ -1,13 +1,15 @@
 ---
-title: spaced-review
+title: review
 date: 2026-03-06
 tags:
   - concept
+aliases:
+  - "spaced-review"
 ---
 
 # spaced-review
 
-[[spaced-review]] is a subtle mechanism within an [[items|itemized-os]] that
+[[review|spaced-review]] is a subtle mechanism within an [[items|itemized-os]] that
 manages cognitive load by resurfacing active [[items|itemization]]—such as
 [[tasks]], notes, or emails—directly into the [[environment]] of the user's
 daily view. It functions as a gentle, rhythmic partner to our [[curiosity]],

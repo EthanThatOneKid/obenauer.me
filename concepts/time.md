@@ -9,7 +9,7 @@ tags:
 organizing principle for our [[environment|document-environment]] and memories.
 While rooted in literal, planetary cycles, our perception of it is inherently
 elastic—a [[human-interpretation]] where moments stretch, compress, and carry
-varying weights. When we [[design]] a [[graph-os]] or a [[malleable-software]]
+varying weights. When we [[design]] a [[graph|graph-os]] or a [[malleability|malleable-software]]
 ecosystem, we must move beyond rigid timestamps to honor this fluid, associative
 nature, grounding our digital [[interfaces|interface]] in the ways we actually
 dwell within and remember the passing of our lives.
@@ -17,6 +17,6 @@ dwell within and remember the passing of our lives.
 ## Related
 
 - [[environment|document-environment]]
-- [[graph-os]]
-- [[malleable-software]]
+- [[graph|graph-os]]
+- [[malleability|malleable-software]]
 - [[interfaces|interface]]

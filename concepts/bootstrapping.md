@@ -23,7 +23,7 @@ remain our partners rather than our adversaries. By focusing on how we
 > [!idea] When we embrace [[bootstrapping]], we acknowledge that the
 > [[architecture]] of our current digital world is a foundation to be
 > evolved—not a static cage—allowing for a future where technology is inherently
-> [[malleable-software]].
+> [[malleability|malleable-software]].
 
 ## Related
 
@@ -31,4 +31,4 @@ remain our partners rather than our adversaries. By focusing on how we
 - [[agency|user-agency]]
 - [[externalization|externalize-thought]]
 - [[interfaces|interfaces-with-which-we-think]]
-- [[malleable-software]]
+- [[malleability|malleable-software]]

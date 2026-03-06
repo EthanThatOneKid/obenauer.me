@@ -1,20 +1,22 @@
 ---
-title: lab-notes
+title: notes
 date: 2026-03-06
 tags:
   - concept
+aliases:
+  - "lab-notes"
 ---
 
-# [[lab-notes]]
+# [[notes|lab-notes]]
 
-[[lab-notes]] are the ==living record of my ongoing [[research]]==, serving as
+[[notes|lab-notes]] are the ==living record of my ongoing [[research]]==, serving as
 the connective tissue between my current exploration and the future of
 [[computing]]. They are deeply linked to
 [[externalization|externalize-thought]], providing a public space to refine the
 [[interfaces|interfaces-with-which-we-think]] while fostering active dialogue
 within the community. By treating these entries as a [[graph]] of evolving
 inquiries, I aim to bridge individual insights into more cohesive, long-form
-explorations of [[malleable-software]].
+explorations of [[malleability|malleable-software]].
 
 > [!note] The objective is not just to document, but to build.
 
@@ -32,7 +34,7 @@ architectural shifts in how we organize our digital lives.
 
 - [[research]]
 - [[computing]]
-- [[malleable-software]]
+- [[malleability|malleable-software]]
 - [[interfaces|interfaces-with-which-we-think]]
 - [[agency|user-agency]]
 - [[externalization|externalize-thought]]

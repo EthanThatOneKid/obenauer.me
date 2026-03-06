@@ -14,8 +14,8 @@ aliases:
 Interfaces are not merely screens, but the ==active surfaces through which we
 think and construct our digital environments==. By moving beyond rigid,
 monolithic applications toward [[apps|atomized-apps]] and
-[[user-created-views]], we can compose fluid experiences that respect the
-underlying [[graph-os]]. When interfaces become [[swappable-views]], they shift
+[[views|user-created-views]], we can compose fluid experiences that respect the
+underlying [[graph|graph-os]]. When interfaces become [[views|swappable-views]], they shift
 from static containers into dynamic tools that prioritize [[agency|user-agency]] and
 semantic meaning over arbitrary boundaries.
 
@@ -31,9 +31,9 @@ the system's execution is as thin and malleable as possible.
 ## Related
 
 - [[apps|atomized-apps]]
-- [[user-created-views]]
-- [[graph-os]]
-- [[swappable-views]]
+- [[views|user-created-views]]
+- [[graph|graph-os]]
+- [[views|swappable-views]]
 - [[agency|user-agency]]
 
 > [!note] Merged from [[interfaces|interface]] An [[interfaces|interface]] is

@@ -4,6 +4,8 @@ date: 2026-03-06
 tags:
   - concept
 aliases:
+  - "live-items"
+aliases:
   - "entities"
 aliases:
   - "item"
@@ -52,7 +54,7 @@ continuous, side-by-side flow rather than isolated silos.
 > of thought. Because every [[items|item]] can reference any other
 > [[items|item]]—including workspaces which are themselves [[items]]—we move
 > toward a model of ==infinite [[composition]]== and
-> [[personal-computing|personal-computing-redefined]].
+> [[computing|personal-computing-redefined]].
 >
 >> [!note] The power of the [[items|item]] lies in its ability to be gathered,
 >> linked, and nested, turning static data into a living [[graph]] of our
@@ -64,28 +66,28 @@ continuous, side-by-side flow rather than isolated silos.
 >
 >> [!important] By standardizing the primitive, we shift from managing disparate
 >> applications to managing [[relationships]] between ==[[items]]==, fostering
->> deep [[agency|user-agency]] and [[cognitive-augmentation]].
+>> deep [[agency|user-agency]] and [[augmentation|cognitive-augmentation]].
 >
 > ## Related
 >
 > - [[items|itemized-os]]
 > - [[interfaces|interfaces-with-which-we-think]]
-> - [[personal-computing|personal-computing-redefined]]
+> - [[computing|personal-computing-redefined]]
 > - [[agency|user-agency]]
-> - [[cognitive-augmentation]]
+> - [[augmentation|cognitive-augmentation]]
 
 > [!note] Merged from [[items|item-as-core-primitive]] At the heart of the
-> future of [[personal-computing]] lies the ==item-as-core-primitive==. By
+> future of [[computing|personal-computing]] lies the ==item-as-core-primitive==. By
 > treating every element of our digital lives—emails, notes, webpages,
 > [[tasks]], or receipts—as a first-class, uniform entity, we transcend the
 > rigid boundaries of traditional applications. This shift enables seamless
-> [[universal-data-portability|data-portability]], allowing us to compose
+> [[portability|data-portability]], allowing us to compose
 > workspaces that fluidly weave together diverse sources into a single train of
 > thought. Because every [[items|item]] is capable of referencing any other
 > [[items|item]]—including the very workspaces that contain them—we transform
 > our digital environment from a collection of isolated silos into an
 > interconnected, [[items|item-centric]] fabric, fostering true
-> [[human-computer-symbiosis]].
+> [[symbiosis|human-computer-symbiosis]].
 >
 >> [!idea] When everything is an [[items|item]], the [[interfaces|interface]]
 >> becomes a tool for [[composition]], not just consumption. We move from
@@ -99,20 +101,20 @@ continuous, side-by-side flow rather than isolated silos.
 > ## Related
 >
 > - [[items|item-centric]]
-> - [[universal-data-portability|data-portability]]
-> - [[personal-computing|personal-computing-redefined]]
-> - [[human-computer-symbiosis]]
+> - [[portability|data-portability]]
+> - [[computing|personal-computing-redefined]]
+> - [[symbiosis|human-computer-symbiosis]]
 
 > [!note] Merged from [[items|item-based-computing]]
 >
 > # item-based-computing
 >
 > At its heart, ==item-based-computing== reimagines our digital world by
-> shifting the focus from monolithic applications to [[fundamental-units]] of
+> shifting the focus from monolithic applications to [[units|fundamental-units]] of
 > thought. By treating every discrete entity—be it a note, an email, or a
 > task—as an [[items|item-centric]] object, we create an
 > [[environment|itemized-environments]] capable of true [[evolvability]]. This
-> allows for [[fluid-workspaces]] where data is no longer trapped in silos but
+> allows for [[workspaces|fluid-workspaces]] where data is no longer trapped in silos but
 > exists as distinct atoms that can be referenced, composed, and transformed at
 > will.
 >
@@ -128,18 +130,18 @@ continuous, side-by-side flow rather than isolated silos.
 > ## Related
 >
 > - [[environment|itemized-environments]]
-> - [[fundamental-units]]
+> - [[units|fundamental-units]]
 > - [[items|item-centric]]
 > - [[evolvability]]
 > - [[agency|user-agency]]
-> - [[fluid-workspaces]]
+> - [[workspaces|fluid-workspaces]]
 
 > [!note] Merged from [[items|item-centric]] An ==[[items|item-centric]]==
 > [[architecture]] shifts the focus of personal [[computing]] from monolithic
 > applications to the fundamental building blocks of thought: [[items]]. By
 > treating every note, email, or task as a discrete, addressable unit, we move
 > toward an [[graph|items-graph]] where data is no longer trapped in silos. This
-> modular approach enables [[universal-data-portability]], allowing any
+> modular approach enables [[portability|universal-data-portability]], allowing any
 > [[items|item]] to be referenced, composed, or viewed within any
 > [[context|contexts]], effectively turning our software into a fluid extension
 > of the mind.
@@ -159,8 +161,8 @@ continuous, side-by-side flow rather than isolated silos.
 >
 > - [[items]]
 > - [[graph|items-graph]]
-> - [[universal-data-portability]]
-> - [[universal-reference-containers]]
+> - [[portability|universal-data-portability]]
+> - [[containers|universal-reference-containers]]
 > - [[context|contexts]]
 > - [[agency|user-agency]]
 
@@ -171,7 +173,7 @@ continuous, side-by-side flow rather than isolated silos.
 > [[items|itemization]] is the shift toward treating the atomic unit of
 > [[computing]] as the foundational primitive, deeply interconnected with the
 > [[evolution]] of [[environment|document-environment]], the
-> [[architecture|structure]] of [[graph-os]], and the fluid nature of the
+> [[architecture|structure]] of [[graph|graph-os]], and the fluid nature of the
 > [[interfaces|interface]]. By redefining emails, notes, webpages, and
 > [[tasks]]—everything in our personal [[domain]]—as distinct [[items]], we move
 > away from rigid silos toward a cohesive landscape where information flows
@@ -190,7 +192,7 @@ continuous, side-by-side flow rather than isolated silos.
 > ## Related
 >
 > - [[environment|document-environment]]
-> - [[graph-os]]
+> - [[graph|graph-os]]
 > - [[interfaces|interface]]
 
 > [!note] Merged from [[items|itemized-os]] An [[items|itemized-os]] reimagines
@@ -217,7 +219,7 @@ continuous, side-by-side flow rather than isolated silos.
 > - [[externalization|externalize-thought]]
 > - [[interfaces|interfaces-with-which-we-think]]
 > - [[agency|user-agency]]
-> - [[malleable-software]]
+> - [[malleability|malleable-software]]
 
 
 > [!note] Merged from [[items|entities]]
@@ -243,3 +245,31 @@ continuous, side-by-side flow rather than isolated silos.
 > - [[architecture|structure]]
 > - [[graph]]
 > - [[computing]]
+
+> [!note] Merged from [[items|live-items]]
+> [[items|live-items]] are a mechanism for keeping pertinent information within our
+> periphery, allowing us to maintain awareness of evolving data without disrupting
+> our primary [[workspaces]]. By leveraging [[services]] to push real-time
+> updates—whether from online sources, local hardware, or temporal changes—these
+> items act as dynamic extensions of our [[items|item-centric]] OS. They are
+> designed to be pinned or to appear autonomously in a dedicated UI component,
+> such as a system bar or drawer, ensuring that we remain connected to the state
+> of the world while remaining focused on the task at hand.
+> 
+> > [!idea] The power of live items lies in their ability to transform static data
+> > into fluid, observable streams that inhabit the edges of our digital
+> > environment, gracefully bridging the gap between passive monitoring and active
+> > engagement.
+> 
+> By integrating these into our [[graph|graph-os]], we move toward an architecture where
+> the system proactively helps us stay attuned to the information that matters
+> most, turning the idle corners of our screen into a responsive, live-updated
+> dashboard of our digital life.
+> 
+> ## Related
+> 
+> - [[services]]
+> - [[workspaces]]
+> - [[items|item-centric]]
+> - [[graph|graph-os]]
+> - [[notifications|contextual-notifications]]

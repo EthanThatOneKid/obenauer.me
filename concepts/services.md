@@ -13,7 +13,7 @@ siloed applications toward a modular ecosystem defined by [[items]]. By
 decoupling data access from the [[interfaces|interface]], [[services]] allow
 providers to supply raw data and actionable behaviors directly into our local
 systems, rather than forcing them to recreate entire applications for every
-platform. This approach fosters [[universal-data-portability]], ensuring that
+platform. This approach fosters [[portability|universal-data-portability]], ensuring that
 our information remains accessible regardless of the specific
 [[interfaces|interface]] or medium—be it text, voice, or spatial
 [[interaction]]—being used at that moment.
@@ -35,4 +35,4 @@ for a more cohesive, cross-domain [[integration]] of their personal information.
 - [[computing]]
 - [[views]]
 - [[integration]]
-- [[universal-data-portability]]
+- [[portability|universal-data-portability]]

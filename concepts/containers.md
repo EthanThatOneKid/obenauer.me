@@ -4,11 +4,13 @@ date: 2026-03-06
 tags:
   - concept
 aliases:
+  - "universal-reference-containers"
+aliases:
   - "container"
 ---
 
 [[containers]] serve as the fundamental, flexible vessels for [[items]] within a
-[[graph-os]]. Unlike traditional, rigid file systems, they act as fluid
+[[graph|graph-os]]. Unlike traditional, rigid file systems, they act as fluid
 environments that support [[externalization]] of thought, allowing users to
 group, nest, and rearrange digital [[items|entities]] to mirror their mental models.
 
@@ -25,7 +27,7 @@ essential building blocks for creating
 ## Related
 
 - [[items]]
-- [[graph-os]]
+- [[graph|graph-os]]
 - [[interfaces|interfaces-with-which-we-think]]
 - [[externalization]]
 - [[agency|user-agency]]
@@ -38,7 +40,7 @@ essential building blocks for creating
 > ==[[items|item]] as the core primitive==, allowing users to compose interfaces
 > by pulling [[references]] into fluid, contextual spaces. This approach
 > empowers [[agency|user-agency]], fosters [[apps|atomized-apps]], and relies on
-> [[universal-data-portability]] to ensure that our digital life is no longer
+> [[portability|universal-data-portability]] to ensure that our digital life is no longer
 > trapped in static boxes but is instead woven into a responsive, interconnected
 > system.
 >
@@ -54,5 +56,34 @@ essential building blocks for creating
 >
 > - [[items|item-as-core-primitive]]
 > - [[agency|user-agency]]
-> - [[universal-data-portability]]
+> - [[portability|universal-data-portability]]
 > - [[apps|atomized-apps]]
+
+
+> [!note] Merged from [[containers|universal-reference-containers]]
+> The concept of ==[[containers|universal-reference-containers]]== posits that every digital
+> entity—whether it be a note, task, event, or document—possesses the inherent
+> capability to contain any other entity. By breaking away from the rigid silos of
+> modern applications, this principle allows us to compose fluid, interconnected
+> workspaces where the relationship between the container and the contained is
+> dynamic and context-aware. This [[architecture]] fundamentally shifts how we
+> interact with our digital environment, moving toward a system where information
+> is no longer trapped in specific [[apps]] but is instead treated as a
+> first-class participant in an open [[graph]] of [[items]]. By leveraging
+> [[portability|universal-data-portability]], we can freely move and embed these [[items|entities]],
+> using [[transclusion]] to create unified [[views]] that reflect our personal
+> [[workflow]] and [[thinking]] patterns.
+> 
+> > [!idea] The core shift is from "[[apps]] as containers" to "all things as
+> > containers."
+> 
+> > [!note] How an [[items|item]] is displayed within another is defined by their
+> > [[interaction]], enabling a richer, more responsive [[computing]] experience.
+> 
+> ## Related
+> 
+> - [[portability|universal-data-portability]]
+> - [[items]]
+> - [[views]]
+> - [[transclusion]]
+> - [[graph]]

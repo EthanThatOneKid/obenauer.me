@@ -25,7 +25,7 @@ serves.
 
 > [!idea] True utility emerges when the environment is shaped by the user's
 > intent, fostering deep engagement through [[containers]] and seamless
-> [[universal-data-portability|data-portability]] rather than trapped, static
+> [[portability|data-portability]] rather than trapped, static
 > files.
 
 > [!note] As we reimagine the future of [[computing]], the environment must be
@@ -39,7 +39,7 @@ serves.
 - [[creativity]]
 - [[curiosity]]
 - [[containers]]
-- [[universal-data-portability|data-portability]]
+- [[portability|data-portability]]
 
 > [!note] Merged from [[environment|document-environment]] A
 > ==document-environment== is a fundamental shift toward an itemized
@@ -47,7 +47,7 @@ serves.
 > fluid, graph-based experience. By treating information as distinct,
 > addressable [[items]], we enhance [[agency]] over our digital lives, enabling
 > [[creativity]] to flourish through seamless
-> [[universal-data-portability|data-portability]] and interconnected workflows.
+> [[portability|data-portability]] and interconnected workflows.
 >
 >> [!note] Core Vision The document-environment serves as the substrate for a
 >> new [[computing]] paradigm, where the boundaries between "files" and
@@ -62,7 +62,7 @@ serves.
 >
 > - [[agency]]
 > - [[creativity]]
-> - [[universal-data-portability|data-portability]]
+> - [[portability|data-portability]]
 > - [[computing]]
 > - [[curiosity]]
 
@@ -74,8 +74,8 @@ serves.
 > applications. This approach treats information like drops in a river, losing
 > the whole for the sake of cataloging the parts. A
 > [[environment|dynamic-information-environment]] shatters this artificial
-> constraint, rooting itself in [[fluid-workspaces]], [[local-first-software]],
-> and [[personal-computing|personal-computing-redefined]]. It is a fundamental
+> constraint, rooting itself in [[workspaces|fluid-workspaces]], [[local|local-first-software]],
+> and [[computing|personal-computing-redefined]]. It is a fundamental
 > shift toward a living, breathing tapestry where information is not merely
 > stored—it flows, adapts, and awaits direct manipulation.
 >
@@ -85,20 +85,20 @@ serves.
 >> because the data is deeply interconnected.
 >
 > By prioritizing this fluidity, we move closer to a true
-> [[cognitive-augmentation]] of our daily work, allowing us to weave a
-> [[timeline-of-use]] that feels less like administrative overhead and more like
+> [[augmentation|cognitive-augmentation]] of our daily work, allowing us to weave a
+> [[timeline|timeline-of-use]] that feels less like administrative overhead and more like
 > an intuitive dialogue with our knowledge. When systems become this malleable,
-> we move beyond consumption into a genuine [[end-user-programming]] culture
+> we move beyond consumption into a genuine [[programming|end-user-programming]] culture
 > where the medium itself participates in our creative process.
 >
 > ## Related
 >
-> - [[personal-computing|personal-computing-redefined]]
-> - [[fluid-workspaces]]
-> - [[timeline-of-use]]
-> - [[local-first-software]]
-> - [[end-user-programming]]
-> - [[cognitive-augmentation]]
+> - [[computing|personal-computing-redefined]]
+> - [[workspaces|fluid-workspaces]]
+> - [[timeline|timeline-of-use]]
+> - [[local|local-first-software]]
+> - [[programming|end-user-programming]]
+> - [[augmentation|cognitive-augmentation]]
 > - [[interoperability]]
 
 > [!note] Merged from [[environment|itemized-environments]]
@@ -109,12 +109,12 @@ serves.
 >
 > An **itemized-environment** represents a radical departure from the
 > application-centric status quo, shifting the focus toward a system built upon
-> [[fundamental-units]] of content rather than monolithic software silos. By
+> [[units|fundamental-units]] of content rather than monolithic software silos. By
 > embracing [[items|item-centric]] [[design]] and [[items|itemized-os]]
 > principles, we move away from closed [[apps]] and toward a space where the
 > user acts as an architect of their own digital world. This
 > [[architecture|structure]] facilitates [[agency|user-agency]], allowing individuals
-> to weave together disparate pieces of information into [[fluid-workspaces]]
+> to weave together disparate pieces of information into [[workspaces|fluid-workspaces]]
 > that mirror their unique cognitive needs rather than the rigid constraints of
 > traditional software.
 >
@@ -135,8 +135,8 @@ serves.
 > - [[items|item-centric]]
 > - [[items|itemized-os]]
 > - [[agency|user-agency]]
-> - [[fluid-workspaces]]
-> - [[fundamental-units]]
+> - [[workspaces|fluid-workspaces]]
+> - [[units|fundamental-units]]
 
 > [!note] Merged from [[environment|programmable-environments]]
 >
@@ -144,7 +144,7 @@ serves.
 >
 > [[environment|programmable-environments]] represent a fundamental shift in
 > [[computing]], moving away from static, monolithic applications toward fluid,
-> [[malleable-software]] that adapts to the user's intent. By treating the
+> [[malleability|malleable-software]] that adapts to the user's intent. By treating the
 > workspace as a living entity, we restore [[agency|user-agency]] and move toward an
 > [[items|item-centric]] architecture, allowing the interface to be shaped by
 > the very tasks it facilitates.
@@ -153,11 +153,11 @@ serves.
 >> machine's logic.
 >
 > Unlike traditional systems that lock functionality behind opaque interfaces,
-> these environments enable [[end-user-programming]] by exposing underlying
+> these environments enable [[programming|end-user-programming]] by exposing underlying
 > [[architecture|structure]] and [[relationships]]. When we bridge the gap
 > between [[externalization|externalize-thought]] and system execution, we
 > transform the computer from a passive tool into a partner for cognition. This
-> is the essence of [[personal-computing|personal-computing-redefined]]:
+> is the essence of [[computing|personal-computing-redefined]]:
 > creating [[composition|composable-systems]] where the user is an active
 > architect of their own digital habitat.
 >
@@ -165,10 +165,10 @@ serves.
 >
 > ## Related
 >
-> - [[malleable-software]]
+> - [[malleability|malleable-software]]
 > - [[agency|user-agency]]
 > - [[items|item-centric]]
-> - [[end-user-programming]]
+> - [[programming|end-user-programming]]
 > - [[composition|composable-systems]]
 
 > [!note] Merged from [[environment|user-environment]]
@@ -179,7 +179,7 @@ serves.
 > software serves the individual. By moving away from siloed applications toward
 > an [[items|itemization]]-first [[architecture]], we shift the focus from
 > managing files to nurturing ==human-centric workflows==. This system acts as a
-> living, [[malleable-software]] space that prioritizes personal [[agency]] and
+> living, [[malleability|malleable-software]] space that prioritizes personal [[agency]] and
 > [[creativity]] over static constraints, ensuring every [[interaction]]
 > contributes to the whole.
 >
@@ -187,14 +187,14 @@ serves.
 >> every new feature becomes a building block for the entire experience rather
 >> than just a siloed tool.
 >
-> This approach draws upon [[personal-computing]] [[research]] to foster deeper
+> This approach draws upon [[computing|personal-computing]] [[research]] to foster deeper
 > curiosity and broader [[opportunity]] in our daily digital interactions.
 >
 > ## Related
 >
 > - [[items|itemization]]
-> - [[malleable-software]]
-> - [[personal-computing]]
+> - [[malleability|malleable-software]]
+> - [[computing|personal-computing]]
 > - [[agency]]
 > - [[creativity]]
 > - [[opportunity]]

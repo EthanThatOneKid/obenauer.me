@@ -13,7 +13,7 @@ applications toward malleable, composable interfaces. It explores how we can
 reclaim [[agency|user-agency]] by shifting the focus from opaque silos to core
 primitives that individuals can evolve to meet their changing needs. By
 envisioning a new form of computer literacy, it seeks to transform the user into
-an operator, turning [[personal-computing]] into an active, experimental
+an operator, turning [[computing|personal-computing]] into an active, experimental
 practice.
 
 > [!idea] The Operator's Handbook WonderOS is explored through _Hello,
@@ -28,5 +28,5 @@ between human [[curiosity]] and technical capability.
 
 - [[items|itemized-os]]
 - [[agency|user-agency]]
-- [[personal-computing]]
+- [[computing|personal-computing]]
 - [[interfaces]]

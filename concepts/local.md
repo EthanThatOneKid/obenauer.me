@@ -1,19 +1,21 @@
 ---
-title: local-first-software
+title: local
 date: 2026-03-06
 tags:
   - concept
+aliases:
+  - "local-first-software"
 ---
 
-# [[local-first-software]]
+# [[local|local-first-software]]
 
-[[local-first-software]] is more than a technical [[architecture]]; it is a
-philosophical commitment to [[personal-computing|personal-computing-redefined]].
+[[local|local-first-software]] is more than a technical [[architecture]]; it is a
+philosophical commitment to [[computing|personal-computing-redefined]].
 By ensuring the locus of data and computation resides primarily on the user’s
 machine, we reclaim [[agency|user-agency]] and move away from the fragility of distant
-server farms. This approach fosters a [[fluid-workspaces]], where software is
+server farms. This approach fosters a [[workspaces|fluid-workspaces]], where software is
 inherently faster, works offline, and respects the user as the primary custodian
-of their digital existence, supported by a rich [[timeline-of-use]] where all
+of their digital existence, supported by a rich [[timeline|timeline-of-use]] where all
 changes are recorded and owned locally.
 
 > [!important] The network should serve as an adjunct for synchronization, never
@@ -26,8 +28,8 @@ changes are recorded and owned locally.
 
 ## Related
 
-- [[personal-computing|personal-computing-redefined]]
-- [[fluid-workspaces]]
-- [[timeline-of-use]]
+- [[computing|personal-computing-redefined]]
+- [[workspaces|fluid-workspaces]]
+- [[timeline|timeline-of-use]]
 - [[agency|user-agency]]
-- [[local-first-software]]
+- [[local|local-first-software]]

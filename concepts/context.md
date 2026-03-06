@@ -89,9 +89,9 @@ navigate daily.
 >
 >> [!idea] Browsing-contexts facilitate a direct, visual expression of a user's
 >> "train of thought," allowing them to [[architecture|structure]] information
->> flows through [[fluid-workspaces]] and [[environment|itemized-environments]].
+>> flows through [[workspaces|fluid-workspaces]] and [[environment|itemized-environments]].
 >
-> By leveraging [[swappable-views]] and focusing on the relationship between
+> By leveraging [[views|swappable-views]] and focusing on the relationship between
 > [[items]], we move away from siloed [[interaction]] toward a more
 > [[items|item-centric]] future. This shift supports the construction of
 > [[unified-views]] where the user maintains [[agency]] over how their digital
@@ -100,9 +100,9 @@ navigate daily.
 > ## Related
 >
 > - [[items|item]]
-> - [[fluid-workspaces]]
+> - [[workspaces|fluid-workspaces]]
 > - [[environment|itemized-environments]]
-> - [[swappable-views]]
+> - [[views|swappable-views]]
 > - [[items|item-centric]]
 > - [[unified-views]]
 > - [[time]]

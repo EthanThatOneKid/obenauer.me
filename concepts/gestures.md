@@ -1,15 +1,17 @@
 ---
-title: gestural-view-construction
+title: gestures
 date: 2026-03-06
 tags:
   - concept
+aliases:
+  - "gestural-view-construction"
 aliases:
   - "gestural-view"
 ---
 
 # gestural-view-construction
 
-[[gestural-view-construction]] is the vision of moving beyond static, predefined
+[[gestures|gestural-view-construction]] is the vision of moving beyond static, predefined
 applications toward a fluid, responsive model where users can rapidly craft and
 iterate on their own interfaces. By treating the computer as a set of
 [[environment|itemized-environments]], we can dismantle the rigid boundaries of
@@ -33,8 +35,8 @@ where the environment is constantly reshaped to match our unique [[agency]] and
 - [[agency]]
 - [[creativity]]
 
-> [!note] Merged from [[gestural-view-construction|gestural-view]]
-> [[gestural-view-construction|gestural-view]] represents a shift toward making
+> [!note] Merged from [[gestures|gestural-view]]
+> [[gestures|gestural-view]] represents a shift toward making
 > the construction of personal interfaces a fluid, inherent part of daily
 > [[interaction]]. It moves us away from static applications toward
 > [[environment|document-environment]]s where we can craft and iterate upon our

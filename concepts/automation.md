@@ -42,9 +42,9 @@ seamless workflows where data flows freely across [[context|contexts]].
 >> triggered by context rather than just schedule. They transform the computer
 >> from a passive canvas into an active collaborator.
 >
-> When we treat every element as a first-class citizen in a [[graph-os]],
+> When we treat every element as a first-class citizen in a [[graph|graph-os]],
 > automations become the connective tissue that drives evolution in our
-> [[fluid-workspaces]]. By integrating logic directly into the flow of
+> [[workspaces|fluid-workspaces]]. By integrating logic directly into the flow of
 > interaction, we enable a more literate and evolvable mode of computing.
 >
 > ## Related
@@ -52,6 +52,6 @@ seamless workflows where data flows freely across [[context|contexts]].
 > - [[items]]
 > - [[views]]
 > - [[services]]
-> - [[item-actions]]
-> - [[graph-os]]
-> - [[fluid-workspaces]]
+> - [[actions|item-actions]]
+> - [[graph|graph-os]]
+> - [[workspaces|fluid-workspaces]]
