@@ -11,7 +11,7 @@ type LocalCoreMessage =
   | { role: "assistant"; content: string };
 
 async function main() {
-  const model = "gemini-2.5-flash";
+  const model = "gemini-3.1-flash-lite-preview";
 
   console.log("---------------------------------------------------------");
   console.log(
@@ -51,6 +51,7 @@ async function main() {
         },
         // @ts-ignore: maxSteps is supported in runtime but type definition might be outdated in this environment
         maxSteps: 5,
+        // deno-lint-ignore no-explicit-any
         messages: messages as any, // Cast to any to avoid CoreMessage mismatch if library version differs
       });
 
@@ -74,6 +75,7 @@ async function main() {
       if (
         e instanceof Error &&
         (
+          // deno-lint-ignore no-explicit-any
           (e as any).status === 429 ||
           e.message?.includes("429") ||
           e.message?.includes("RESOURCE_EXHAUSTED")

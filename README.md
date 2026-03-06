@@ -59,6 +59,25 @@ If needed, you can run the components of the update pipeline individually:
 - **Scrape**: `deno task scrape` (Scrapes URLs in `sitemap.xml` to `documents/`)
 - **Format**: `deno task fmt` (Formats the markdown in `documents/`)
 
+### Concepts
+
+You can recursively generate a digital garden of atomic concepts based on your
+notes using AI. This script parses all your documents, determines root concepts,
+and spans subagents to write interconnected descriptions.
+
+```bash
+deno task concepts
+```
+
+The script rate limits itself to stay within the Gemini free tier limits and
+saves progress continuously.
+
+- To cancel a run, simply hit `Ctrl+C`.
+- The next time you run `deno task concepts`, it will automatically resume from
+  its checkpoint.
+- To completely wipe the slate and start a fresh extraction from scratch, run
+  `deno task concepts -r` or `deno task concepts --reload`.
+
 ### Example Interaction
 
 ```
