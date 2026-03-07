@@ -5,7 +5,7 @@ tags:
   - concept
 ---
 
-Devices are the physical nodes of our [[personal]] [[computing]] [[network]]—the standard hardware like laptops, phones, and tablets, alongside specialized peripherals that extend our digital capabilities. By treating these as an interconnected collective rather than isolated silos, we enable [[localfirst]] data synchronization and seamless redundancy across our environments. 
+Devices are the physical nodes of our [[personal]] [[computing]] [[network]]—the standard hardware like laptops, phones, and tablets, alongside specialized peripherals that extend our digital capabilities. By treating these as an interconnected collective rather than isolated silos, we enable [[localfirst]] data synchronization and seamless redundancy across our environments.
 
 > [!idea] Devices serve as the tangible hosts for our software modules, effectively expanding the boundaries of our personal digital [[architecture]].
 

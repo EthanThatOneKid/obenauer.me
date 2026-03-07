@@ -5,7 +5,7 @@ tags:
   - concept
 ---
 
-> [!idea] 
+> [!idea]
 > The history of computing is a stack of ==interdependent strata==, reaching from the raw reality of binary through increasingly abstract interfaces, each layer shaping our [[cognition]] and [[agency]]. We must understand these [[architecture]]-level dependencies to truly master our [[environment]] and move beyond the current limitations of our [[software]]. To build a future where tools feel like natural extensions of our own minds, we must interrogate how these technological tiers inform our [[literacy]] and constrain our creative potential.
 
 > [!note]

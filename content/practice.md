@@ -9,8 +9,8 @@ tags:
 
 [[practice]] is the ongoing, iterative act of engaging with the world to transform potential into [[mastery]]. It is not a singular event but a continuous [[workflow]] that bridges the gap between [[ideas]] and reality. By prioritizing the accumulation of [[quantity]], we create a fertile [[environment]] for [[learning]] and [[discovery]], allowing for the refinement of our craft through the persistent movement of [[thinking]].
 
-> [!idea] 
-> ==Quantity is the journey to quality.== While we might theorize about [[perfection]], it is through the act of creating and the subsequent [[review]] of our efforts that true [[quality]] emerges. 
+> [!idea]
+> ==Quantity is the journey to quality.== While we might theorize about [[perfection]], it is through the act of creating and the subsequent [[review]] of our efforts that true [[quality]] emerges.
 
 By centering [[practice]] as our primary interface, we reclaim [[sovereignty]] over our tools and our [[cognition]], turning passive consumption into active [[production]]. It is the engine of our [[evolution]], ensuring that our digital tools remain as [[malleable]] as the thoughts they hold.
 
