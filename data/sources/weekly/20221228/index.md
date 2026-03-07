@@ -13,8 +13,6 @@ One more lab note for 2022. In it, I’ll share with you an odd thought; a new w
 Read on:  
 [LN 034: Live items & Contextual notifications »](https://alexanderobenauer.com/labnotes/034/)
 
-  
-
 Happy holidays!
 
-* * *
+---

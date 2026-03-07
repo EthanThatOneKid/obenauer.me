@@ -34,7 +34,7 @@ function slugify(text: string): string {
 
 async function syncSources() {
   console.log(`Syncing sources from RSS feed: ${RSS_URL}...`)
-  
+
   const checkpoint = await loadCheckpoint()
   const processed = new Set(checkpoint.sources?.processed || [])
   const queue = new Set(checkpoint.sources?.queue || [])
@@ -49,10 +49,12 @@ async function syncSources() {
 
   let added = 0
   for (const url of rssLinks) {
-    const normalized = url.match(/\.(xml|png|jpg|pdf|txt|json|webmanifest|ico)$/) 
-      ? url 
-      : (url.endsWith("/") ? url : url + "/")
-    
+    const normalized = url.match(/\.(xml|png|jpg|pdf|txt|json|webmanifest|ico)$/)
+      ? url
+      : url.endsWith("/")
+        ? url
+        : url + "/"
+
     if (normalized.includes("rss.xml")) continue
 
     if (!processed.has(normalized) && !queue.has(normalized)) {
@@ -268,7 +270,7 @@ async function ingest(isReload: boolean = false) {
 
   if (isReload) {
     console.log("Reload flag detected. Clearing ingestion checkpoint and file search store...")
-    
+
     await clearStoreDocuments(store.name)
 
     try {
@@ -279,9 +281,9 @@ async function ingest(isReload: boolean = false) {
     } catch (e) {
       console.warn("Could not delete file search store:", e)
     }
-    
+
     // Checkpoint is cleared in the main generate() function for isReload
-    
+
     // Re-fetch store after deletion
     const newStore = await getOrCreateStore(STORE_DISPLAY_NAME)
     if (!newStore.name) throw new Error("Store name is undefined after recreation")
@@ -335,7 +337,7 @@ async function getRootConcepts(): Promise<string[]> {
       const result = await generateText({
         model: googleModel,
         system:
-          "You are Alexander Obenauer. Identify the most fundamental, atomic concepts from your writing. Follow the 'Atomic Concept Manual' style: strictly single-word, lowercase nouns or gerunds (e.g., 'writing', 'leverage'). Avoid multi-word hyphenated concepts completely. No spaces, no hyphens, no underscores. Be exhaustive and thorough; extract every core concept that matters.\n\nOutput only a JSON object matching this schema: { \"concepts\": [\"array\", \"of\", \"strings\"] }",
+          'You are Alexander Obenauer. Identify the most fundamental, atomic concepts from your writing. Follow the \'Atomic Concept Manual\' style: strictly single-word, lowercase nouns or gerunds (e.g., \'writing\', \'leverage\'). Avoid multi-word hyphenated concepts completely. No spaces, no hyphens, no underscores. Be exhaustive and thorough; extract every core concept that matters.\n\nOutput only a JSON object matching this schema: { "concepts": ["array", "of", "strings"] }',
         prompt: "Extract the core concepts from the available files.",
         // @ts-ignore: tools might not be in the type definition but works at runtime
         tools: {
@@ -409,11 +411,7 @@ Output only a JSON object matching this schema: { "description": "1 minute read 
   }
 }
 
-async function writeConceptFile(
-  concept: string,
-  description: string,
-  relatedConcepts: string[],
-) {
+async function writeConceptFile(concept: string, description: string, relatedConcepts: string[]) {
   await fs.mkdir(CONCEPTS_DIR, { recursive: true })
   const slug = slugify(concept)
   const filePath = path.join(CONCEPTS_DIR, `${slug}.md`)

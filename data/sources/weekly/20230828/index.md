@@ -15,9 +15,7 @@ In today’s lab note, we explore how the operating system of the future might b
 Read on:  
 [LN 038: Semantic zoom »](https://alexanderobenauer.com/labnotes/038/)
 
-  
-
 In case you missed it: this exploration conceptually builds on the last lab note:  
 [LN 037: Gestural view construction »](https://alexanderobenauer.com/labnotes/037/)
 
-* * *
+---

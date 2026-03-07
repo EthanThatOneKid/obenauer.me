@@ -15,12 +15,12 @@ One of the more shocking anecdotes from this fascination kicks off my latest lab
 Read on:  
 [LN 035: The Messy Desktop »](https://alexanderobenauer.com/labnotes/035/)
 
-* * *
+---
 
 If you’re looking for something more to read this weekend, here’s some other things I’ve published this year:
 
-*   [WonderOS](https://wonderos.org) is an ongoing research project exploring an itemized user environment.
-*   [Hello, Operator!](https://wonderos.org/hello/) is WonderOS’ guide to the itemized environment, an initial exercise exploring how computer literacy might be attained by society at large with systems of this type.
-*   [2023](https://alexanderobenauer.com/2023/), an annual recap and update on my independent research and membership program.
+- [WonderOS](https://wonderos.org) is an ongoing research project exploring an itemized user environment.
+- [Hello, Operator!](https://wonderos.org/hello/) is WonderOS’ guide to the itemized environment, an initial exercise exploring how computer literacy might be attained by society at large with systems of this type.
+- [2023](https://alexanderobenauer.com/2023/), an annual recap and update on my independent research and membership program.
 
-* * *
+---

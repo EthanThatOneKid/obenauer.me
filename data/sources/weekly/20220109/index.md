@@ -13,8 +13,6 @@ Let’s get back into exploring ideas for the future of the operating system. We
 Read the lab note:  
 [LN 020: Item Actions »](https://alexanderobenauer.com/labnotes/020/)
 
-  
-
 Last week, I sent along an overview of where this research has been so far, and where it’s headed in the next year.
 
 If you missed it, you can read it here:  
@@ -24,4 +22,4 @@ To support this research, I launched a membership program. If you want to see mo
 
 A huge thank you to the members who have already joined — your support means the world. Beyond the financial support, there is something compelling in knowing that there is a formal charge from the community to do this work. I’m excited to take this research to new places in 2022 with your help!
 
-* * *
+---

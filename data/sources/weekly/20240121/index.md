@@ -17,8 +17,6 @@ The essay includes a demo video, and covers everything from the project: how it 
 Read on:  
 **[OLLOS: An itemized personal computing timeline »](https://alexanderobenauer.com/ollos/)**
 
-  
-
 Last year, I worked with independent research lab Ink & Switch on a new project that explores how to reorganize personal computing away from the over-abstract and rigid user environments of today.
 
 Embark separates the data, functions, and interfaces users need, then lets users recombine these pieces for their own needs and context.
@@ -26,10 +24,8 @@ Embark separates the data, functions, and interfaces users need, then lets users
 Read on:  
 **[Embark: Dynamic documents for making plans »](https://www.inkandswitch.com/embark/)**
 
-  
-
 I hope your new year is off to a good start, and I look forward to exploring wild ideas with you all this year.
 
 — Alex
 
-* * *
+---

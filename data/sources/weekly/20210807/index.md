@@ -16,8 +16,6 @@ But it amplifies everything — the good, and the bad. We’ve seen this play ou
 
 On the other hand, great art (such as music) causes us to introspect, understand, and empathize. It’s biased towards amplifying the best of humanity.
 
-  
-
 One more contrast:
 
 Software depreciates, art appreciates.
@@ -26,10 +24,8 @@ A book or a record, for example, appreciates with time; it becomes more valuable
 
 This isn’t to discredit software or building it — it’s what I do for a living! Software allows us to do some wonderful things. But it’s important in my own practice to understand the true impact of the things we build. These contrasts beg for some questions that haven’t been asked nearly enough in building some of the software used globally today.
 
-  
-
 Curious to hear your thoughts.
 
 Also: Are you a Mail Pilot user? Big news is ahead. Next week on Tuesday August 10, check our Slack or [Twitter](https://twitter.com/mailpilotapp) for the first in a series of things I have to share.
 
-* * *
+---

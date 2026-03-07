@@ -15,4 +15,4 @@ Today’s lab note explores one experiment to change that. A word of warning: it
 Read on:  
 [LN 031: Fluid workspaces »](https://alexanderobenauer.com/labnotes/031/)
 
-* * *
+---

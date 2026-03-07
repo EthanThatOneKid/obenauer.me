@@ -15,4 +15,4 @@ Today’s lab note is about this — one of the most important forms of freedom 
 Read on:  
 [LN 032: System injections »](https://alexanderobenauer.com/labnotes/032/)
 
-* * *
+---

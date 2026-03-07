@@ -17,8 +17,6 @@ I’ve published a video demoing it, along with an article and the plugin itself
 Read it here:  
 [EXP 001: Cross-reference Navigation in Obsidian »](https://alexanderobenauer.com/labnotes/exp001/)
 
-  
-
 Hope you enjoy, and have a great week.
 
-* * *
+---

@@ -15,4 +15,4 @@ Today’s lab note explores how an itemized OS of the future might reduce this d
 Read the lab note:  
 [LN 023: Higher-level primitives »](https://alexanderobenauer.com/labnotes/023/)
 
-* * *
+---

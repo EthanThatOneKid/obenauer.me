@@ -18,12 +18,10 @@ This lab note is a “part 2” to the last one, so if you missed it, you can st
 
 Next up: I have some new experiments to share with you, and as always, more lab notes coming your way. Don’t touch that dial.
 
-  
-
 A huge thanks to [Val Town](https://www.val.town) for sponsoring my work this month, helping make my independent research possible.
 
 I’ve been a big fan of what they’re building: you can create “vals” (little code snippets, like Gists), run them, schedule them, call them via API, or even call them from other vals. Everyone gets a namespace, and you can call other people’s vals from your own, and publish yours to be called elsewhere too. There’s lots more to it, which you can see in this [demo video](https://www.loom.com/share/c075dc075909400a85591ac3f83d1ca5).
 
 _If you’d like to find out more about becoming a sponsor, [head to alexanderobenauer.com/sponsorship/](https://alexanderobenauer.com/sponsorship/). June and July are currently available._
 
-* * *
+---

@@ -15,4 +15,4 @@ What if the operating system of the future could treat the transformation of dat
 Read the lab note:  
 [LN 024: Mutations & Item change logs »](https://alexanderobenauer.com/labnotes/024/)
 
-* * *
+---

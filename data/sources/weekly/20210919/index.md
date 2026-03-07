@@ -12,8 +12,6 @@ Last week, I demoed one of the concepts in my Lab Notes working within Obsidian,
 
 I’ve now open sourced the plugin, and will work on polishing it up before submitting it into Obsidian’s Community Plugins directory. If you want to test it out, head to GitHub and follow [the instructions for testing](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian).
 
-  
-
 To acquaint the new subscribers joining us this week:
 
 I’m exploring the future of personal computing by way of conceptualizing, designing, and building pieces of a futuristic operating system.
@@ -21,8 +19,6 @@ I’m exploring the future of personal computing by way of conceptualizing, desi
 You can see these concepts, designs, and prototypes in my lab notes so far:
 
 [Read the Lab Notes »](https://alexanderobenauer.com/labnotes/000/)
-
-  
 
 Why the operating system? Why personal computing?
 
@@ -36,4 +32,4 @@ How will pioneering and trustworthy personal computing be made available to the 
 
 It’s up to us, as a collective industry, to make sure we build on the rich legacy handed to us by continuing to build towards the future that the next generations deserve from ours. For me, that means constructing the concepts for personal computing’s next phase of life that continue to push it radically forward, and ensure that it does not become an adversary to the people who use it.
 
-* * *
+---

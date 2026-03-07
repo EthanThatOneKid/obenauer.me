@@ -18,8 +18,6 @@ The show is called Songs I’m Made Of, and it begins next Friday. To find out m
 
 [Songs I’m Made Of »](https://songsimmadeof.com)
 
-  
-
 There’s a lab note I’ve had in the works for some time now on web browsing in the OS of the future. A concept I prototyped allowed users to browse the “static web” without javascript (and some other things). If a user wanted to allow javascript on a page or domain, they could enable the URL as an “app,” causing the system to treat it as such, both in its behavior and how you might navigate to it.
 
 When using “the static web,” I’d land on news articles that didn’t jump around as ads loaded; I could simply read the content. Cookie banners and other popups stopped covering the things I was trying to read. And the few sites I wanted to behave like apps within my system would be specifically identified.
@@ -37,15 +35,11 @@ In response to a question asked on Quora, “Should web browsers have stuck to b
 Read it in full here:  
 [Kay’s answer on Quora »](https://www.quora.com/Should-web-browsers-have-stuck-to-being-document-viewers/answer/Alan-Kay-11)
 
-  
-
 What should the future of the web look like, how should it relate to the future of the operating system, and how does today’s web map into that vision, if at all?
 
 When you read my [Lab Notes](#) on the future of the operating system, you can start to see some clear hooks into these concepts for a compelling “web of the future” that could begin to materialize some of yesterday’s unrealized visions.
 
 This is all “food for thought,” as I want to spend some months exploring the topic more deeply while continuing to prototype my operating system of the future.
-
-  
 
 Two other notes:
 
@@ -55,4 +49,4 @@ And one thing I’ve noticed with my work is that as a new project shifts from b
 
 As always, I hope you’re well.
 
-* * *
+---

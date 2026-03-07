@@ -15,4 +15,4 @@ Today, we continue to explore taking itemized systems online, but this time, in 
 Read the lab note:  
 [LN 026: Internet Modules »](https://alexanderobenauer.com/labnotes/026/)
 
-* * *
+---

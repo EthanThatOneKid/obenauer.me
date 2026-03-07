@@ -18,8 +18,6 @@ What if your system could identify associated items from past browsing paths whe
 
 And the list goes on: What if you could [swap out](https://alexanderobenauer.com/labnotes/006/) the views used to render specific items? These views might come from third-party developers, or what if you could [create your own](https://alexanderobenauer.com/labnotes/009/) views for items? What is the result of using [references](https://alexanderobenauer.com/labnotes/012/) among your things that form an [items graph](https://alexanderobenauer.com/labnotes/014/) of everything in your personal computing domain?
 
-  
-
 All of these individual concepts contribute to an explorative operating system of the future — or more specifically, to the user environment of one.
 
 The demos you see in the above lab notes all work, and for the most part, together. Building out the concepts helps me learn more about them, from both implementation and use. But the next step is becoming more clear: letting others use them too.
@@ -30,8 +28,6 @@ What concepts need more thinking? What gaps exist? Is this something that is onl
 
 In the meantime, I’ll keep the [lab notes](/labnotes/000) coming with more of the concepts I’m exploring.
 
-  
-
 As always, I hope you’re well.
 
-* * *
+---

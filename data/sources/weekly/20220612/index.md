@@ -14,8 +14,6 @@ A series of demos, starting in the next lab note, will explore exactly this. But
 
 [LN 029: Experimenting with the item as the core primitive »](https://alexanderobenauer.com/labnotes/029/)
 
-  
-
 In the next few lab notes, I’ll share with you my project that I’m currently working on (here’s a [little preview](https://twitter.com/alexobenauer/status/1513195682965995527)), and lots of demos that take this experiment — of the item as the core primitive — as far as we can.
 
-* * *
+---

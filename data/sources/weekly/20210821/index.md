@@ -13,15 +13,11 @@ It’s been some time since I’ve sent you one of my lab notes, which are my fa
 Read it here:  
 [LN 014: The Graph OS »](https://alexanderobenauer.com/labnotes/014/)
 
-  
-
 Looking for more to read this weekend? I’ve also republished an old newsletter as a new lab note:
 
 Read it here:  
 [LN 013: Why is our thinking on computers so restrained?](https://alexanderobenauer.com/labnotes/013)
 
-  
-
 Enjoy, and as always, I hope you’re well.
 
-* * *
+---

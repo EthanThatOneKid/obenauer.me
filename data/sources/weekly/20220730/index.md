@@ -15,4 +15,4 @@ Today’s lab note is about one of those patterns. It’s nothing groundbreaking
 Lots of demos in this one! Read on:  
 [LN 030: Foldable views »](https://alexanderobenauer.com/labnotes/030/)
 
-* * *
+---

@@ -14,13 +14,11 @@ We largely have not explored completely new models for computer thinking native 
 
 Let’s start with one example of what we have today: files and folders.
 
-  
-
 My primary notes app is home to a large variety of things:
 
-*   Thinking (which I do by writing as I think)
-*   Writing (drafts of things I’m preparing to publish)
-*   Learning (notes on books I’m reading or topics I’m studying)
+- Thinking (which I do by writing as I think)
+- Writing (drafts of things I’m preparing to publish)
+- Learning (notes on books I’m reading or topics I’m studying)
 
 Plus a few other things.
 
@@ -28,9 +26,9 @@ I do each of these things among a few different sets of topics — music, softwa
 
 And each of these things I like to categorize as:
 
-*   Up Next (where I put all of the articles, podcasts, concepts, and so forth I stumble across and would like to dive into soon)
-*   Now (the things I’m working on at the moment)
-*   Past (essentially an archive of these things)
+- Up Next (where I put all of the articles, podcasts, concepts, and so forth I stumble across and would like to dive into soon)
+- Now (the things I’m working on at the moment)
+- Past (essentially an archive of these things)
 
 Any one note might be in three areas here: an idea might be in Thinking, Now, and Software. Or a book I want to read next might be saved in Learning, Up Next, and Music.
 
@@ -63,15 +61,11 @@ Yet, in many apps, not even tags and labels solve this problem without constant 
 
 It might be difficult to fully consider the ways you would be able to reflect your own true thinking or uses in a well-suited software concept because we are so used to the metaphors our software has been based on for the last 50 years. But I implore you to try! Consider what ways your uses or thought processes could be more naturally reflected within your digital tools. (And if you want to share your thinking, my inbox is always open!)
 
-  
-
 To sum up: Today, our computers still only augment our thinking by mirroring how we operate things in the physical world. It affords us no new models of thinking that we didn’t have before, just tweaked and scaled in different ways.
 
 In the physical world, a file goes in a folder. If it has something to do with a file that belongs in another folder, we just kind of need to remember that association. This is how our digital tooling works too, even though digital things have no constraint requiring such a compromise.
 
 Over the years, we have introduced new models for thinking, but we largely have not explored completely new models for computer thinking: ways of thinking about things and organizing them native to the digital realm. We mostly use methods native to the physical world, simulated digitally.
-
-  
 
 Why is this? Is it so hard to think about things beyond physical realms that our brains can’t keep up? (I hope that’s not it.) Have we simply not stumbled into the right ideas yet? Or are we iterating our way towards those concepts, just slowly? Really, there’s no way to know looking ahead.
 
@@ -79,4 +73,4 @@ What kind of thinking is native to the digital realm? What hints do we have toda
 
 As always, thanks for coming along on this thought experiment. And if anything stokes your own thinking on this, let me know!
 
-* * *
+---

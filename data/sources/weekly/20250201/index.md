@@ -14,8 +14,6 @@ First, we’re starting a publishing company.
 
 Second, I wrote a book about computing, out soon.
 
-  
-
 Let’s start with the book:
 
 I’ve had a bunch of versions of the same conversation with curious friends and family over the years: folks are generally aware that computers “use binary”, but want to understand how they build up from there to all the things we recognize as modern computing today. This book answers that question.
@@ -29,8 +27,6 @@ Each book is archival quality and made by hand in Tennessee. The cover is a hard
 It comes out at the end of March, and you can .
 
 _Members of the Little Lab_ get a discount. Get a coupon code [instantly after joining here](https://alexanderobenauer.com/membership/), or [sign in](https://lab.alexanderobenauer.com) to your existing account.
-
-  
 
 Now, I am starting with Sarah, my wife:
 
@@ -50,4 +46,4 @@ I’m looking forward to learning what it takes to make great books, and making 
 
 — Alexander
 
-* * *
+---

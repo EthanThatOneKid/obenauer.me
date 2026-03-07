@@ -15,7 +15,6 @@ We’ve explored this question a bit lately, and we’ll explore a new direction
 Read it here:  
 [LN 017: Today & Daily summary »](https://alexanderobenauer.com/labnotes/017/)
 
-  
 As always, I hope you're well.
 
-* * *
+---

@@ -14,4 +14,4 @@ This week’s lab note considers how flexible systems could work for users of al
 
 [LN 028: Designing systems for computer literacy and evolvability »](https://alexanderobenauer.com/labnotes/028/)
 
-* * *
+---

@@ -15,4 +15,4 @@ The date views in our futuristic OS can allow us to do some interesting things w
 Read it here:  
 [LN 016: Calendar views »](https://alexanderobenauer.com/labnotes/016/)
 
-* * *
+---

@@ -15,15 +15,11 @@ My next lab note on notifications in the OS of the future is live now.
 Read it here:  
 [LN 019: Notifications »](https://alexanderobenauer.com/labnotes/019/)
 
-  
-
 The show I launched this fall, Songs I’m Made Of, is halfway through its first season. We discuss songwriting and play some tunes with songwriters throughout the world. The first six episodes are out now, and feature a wide range of genres and inspirations.
 
 Check it out here:  
 [Songs I’m Made Of »](https://songsimmadeof.com)
 
-  
-
 As always, I hope you’re well!
 
-* * *
+---

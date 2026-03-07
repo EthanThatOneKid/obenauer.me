@@ -13,4 +13,4 @@ For the last month, I’ve been busy preparing an article that sums up almost ev
 I hope you enjoy:  
 [The Potential Merits of an Itemized OS »](/articles/os/1/)
 
-* * *
+---

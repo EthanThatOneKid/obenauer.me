@@ -15,4 +15,4 @@ What if you could have your own, personal computing network? And what kinds of d
 Read the lab note:  
 [LN 027: Personal Computing Network & Devices »](https://alexanderobenauer.com/labnotes/027/)
 
-* * *
+---

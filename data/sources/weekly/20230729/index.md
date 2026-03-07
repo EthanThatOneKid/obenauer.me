@@ -15,4 +15,4 @@ Today’s lab note starts to explore one experiment aimed at tightening up that 
 Read on:  
 [LN 037: Gestural view construction »](https://alexanderobenauer.com/labnotes/037/)
 
-* * *
+---

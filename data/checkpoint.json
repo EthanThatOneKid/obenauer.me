@@ -1,7 +1,35 @@
 {
   "concepts": {
-    "processed": [],
-    "queue": [   ]
+    "processed": [
+      "computing",
+      "interface",
+      "software",
+      "agency",
+      "curiosity",
+      "creativity",
+      "opportunity",
+      "timeline",
+      "environment",
+      "document",
+      "itemization",
+      "research",
+      "experimentation",
+      "thinking",
+      "portability",
+      "container",
+      "zoom",
+      "gesturing",
+      "reference",
+      "navigation",
+      "design",
+      "itemcentric",
+      "cognition",
+      "os",
+      "ideation",
+      "shipping",
+      "engineering"
+    ],
+    "queue": []
   },
   "ingest": {
     "uploadedFiles": [
