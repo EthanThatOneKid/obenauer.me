@@ -1,129 +1,17 @@
-# obenauer.me
+# Quartz v4
 
-Digital garden and website for
-[Alexander Obenauer](https://alexanderobenauer.com).
+> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-## Configuration
+Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
 
-The project requires a Google Gemini API key.
+🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-1. Copy `.env.example` to `.env`:
-   ```bash
-   cp .env.example .env
-   ```
-2. Add your API key to `.env`:
-   ```
-   GOOGLE_GENERATIVE_AI_API_KEY="your-api-key"
-   ```
+[Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Usage
+## Sponsors
 
-### Chat
-
-To chat with the digital garden (using the ingested knowledge base):
-
-```bash
-deno task chat
-```
-
-You can also run a single-shot query:
-
-```bash
-deno task chat "How do I create a world?"
-```
-
-### Update
-
-This is the recommended way to refresh the local knowledge base. It syncs the
-sitemap with the latest URLs, crops irrelevant content, scrapes the pages, and
-formats the results:
-
-```bash
-deno task update
-```
-
-### Ingest
-
-To ingest the cleaned markdown files from the `documents/` directory into the
-vector store:
-
-```bash
-deno task ingest
-```
-
-### Individual Tasks
-
-If needed, you can run the components of the update pipeline individually:
-
-- **Sync Sitemap**: `deno task sync-sitemap` (Syncs `sitemap.xml` with RSS feed)
-- **Scrape**: `deno task scrape` (Scrapes URLs in `sitemap.xml` to `documents/`)
-- **Format**: `deno task fmt` (Formats the markdown in `documents/`)
-
-### Concepts
-
-You can recursively generate a digital garden of atomic concepts based on your
-notes using AI. This script parses all your documents, determines root concepts,
-and spans subagents to write interconnected descriptions.
-
-```bash
-deno task concepts
-```
-
-The script rate limits itself to stay within the Gemini free tier limits and
-saves progress continuously.
-
-- To cancel a run, simply hit `Ctrl+C`.
-- The next time you run `deno task concepts`, it will automatically resume from
-  its checkpoint.
-- To completely wipe the slate and start a fresh extraction from scratch, run
-  `deno task concepts -r` or `deno task concepts --reload`.
-
-### Example Interaction
-
-```
-$ deno task chat
-```
-
-> Hi
-
-Hi there! Welcome to my digital garden. It's great to have you here. Feel free
-to explore and ask any questions you might have about my work, my thoughts, or
-anything else you find interesting. I'm Alexander Obenauer, and I'm a software
-engineer and designer. How can I help you today?
-
-> What is your favorite UX pattern?
-
-That's a great question! I'm particularly fond of UX patterns that allow users
-to easily navigate and customize their views, especially when dealing with a lot
-of information.
-
-One pattern I find very effective is the concept of a "references cloud" which
-displays common topics and their cross-references. This allows users to browse
-specific subsets of their data based on their immediate needs. For instance, by
-marking certain items as favorites, like "statuses" or "Reading, Writing, and
-Thinking" as cross-references, I can ensure they are prioritized and shown at
-the top, making the interface more personalized and efficient. This way, I can
-quickly jump into my writing projects, find something new to read, or delve into
-specific topics like computer science.
-
-Another area I find compelling, though perhaps more of a foundational principle
-than a single pattern, is designing interfaces that account for the "timeline of
-use." This means ensuring that users have access to past program states rather
-than making progress a destructive action that erases previous options. When
-users can't easily access what came before, they might resort to anti-patterns
-to avoid losing information or options. Some programs provide a snapshot of the
-current state, while others visualize the user's progression over time. I
-believe providing options for users to engage with their data in a
-non-destructive way, whether through explicit timelines or flexible views, is
-crucial for a positive user experience.
-
-## Inspiration
-
-I was inspired by Justin Lee's project, [inav.al](https://inav.al/), a curated
-museum of an individual's thoughts and ideas. Read more about the inspiration
-behind it in
-[Justin Lee's LinkedIn post](https://www.linkedin.com/posts/justin1ee_i-need-to-prove-that-ai-agents-can-do-more-activity-7374804713906606080-nan-/).
-
----
-
-Developed with 🧪 by [**@EthanThatOneKid**](https://github.com/EthanThatOneKid)
+<p align="center">
+  <a href="https://github.com/sponsors/jackyzha0">
+    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+  </a>
+</p>
