@@ -7,7 +7,7 @@ tags:
 
 # bootstrapping
 
-Bootstrapping represents the vital act of using our current [[computing]] tools to design, build, and evolve the very future of our [[environment]]. It is an iterative cycle of [[experimentation]] where we leverage existing systems to unlock new levels of [[cognition]] and agency. By intentionally building upon what we already possess, we create a recursive path toward personal and collective liberation within our digital lives.
+Bootstrapping represents the vital act of using our current [[computing]] tools to design, build, and evolve the very future of our [[environment]]. It is an iterative cycle of [[experimentation]] where we leverage existing systems to unlock new levels of [[thinking]] and agency. By intentionally building upon what we already possess, we create a recursive path toward personal and collective liberation within our digital lives.
 
 > [!idea]
 > We are not just building software; we are cultivating an ecosystem where the tools we use to think become the architects of our own progress.
@@ -19,5 +19,5 @@ Bootstrapping represents the vital act of using our current [[computing]] tools 
 - [[computing]]
 - [[environment]]
 - [[experimentation]]
-- [[cognition]]
+- [[thinking]]
 - [[agency]]

@@ -19,4 +19,4 @@ tags:
 
 - [[localfirst]]
 - [[portability]]
-- [[cognition]]
+- [[thinking]]

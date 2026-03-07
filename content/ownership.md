@@ -13,7 +13,7 @@ tags:
 > When you own your data, you are no longer a digital serf. You reclaim the right to navigate your own [[environment]] without corporate gatekeepers.
 
 > [!idea] Future-proofing our tools
-> By prioritizing [[local]] data storage, we ensure that our [[thinking]] and [[workflow]] remain resilient against the decay of remote services.
+> By prioritizing [[localfirst]] data storage, we ensure that our [[thinking]] and [[workflow]] remain resilient against the decay of remote services.
 
 ## Related
 
@@ -24,6 +24,6 @@ tags:
 - [[independence]]
 - [[computing]]
 - [[environment]]
-- [[local]]
+- [[localfirst]]
 - [[thinking]]
 - [[workflow]]

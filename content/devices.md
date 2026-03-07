@@ -9,7 +9,7 @@ Devices are the physical nodes of our [[personal]] [[computing]] [[network]]—t
 
 > [!idea] Devices serve as the tangible hosts for our software modules, effectively expanding the boundaries of our personal digital [[architecture]].
 
-When we integrate various hardware into our network, we gain functional depth, allowing our digital [[intent]] to persist across multiple touchpoints, ensuring that our [[data]] and [[services]] remain both private and universally accessible within our own sovereign domains.
+When we integrate various hardware into our network, we gain functional depth, allowing our digital [[intent]] to persist across multiple touchpoints, ensuring that our [[facts]] and [[automations]] remain both private and universally accessible within our own sovereign domains.
 
 ## Related
 

@@ -10,7 +10,7 @@ Representation is the fundamental bridge between internal cognition and external
 > [!idea] Key Insight
 > The quality of our thinking is inherently limited by the quality of our representations; when we improve how we capture and structure information, we fundamentally enhance our ability to reason and create.
 
-==We must build systems that treat representations as living, interconnected entities rather than static data points.== By focusing on the [[itemcentric]] nature of our tools, we allow for a more intuitive, human-centered approach to information architecture.
+==We must build systems that treat representations as living, interconnected entities rather than static data points.== By focusing on the [[items|item-centric]] nature of our tools, we allow for a more intuitive, human-centered approach to information architecture.
 
 ## Related
 
@@ -20,4 +20,3 @@ Representation is the fundamental bridge between internal cognition and external
 - [[interface]]
 - [[assets]]
 - [[environment]]
-- [[itemcentric]]

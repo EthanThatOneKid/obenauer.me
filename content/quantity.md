@@ -9,11 +9,11 @@ tags:
 
 > [!note] If the destination is quality, the journey is quantity.
 
-By churning out work, we move beyond theoretical [[ideation]] and gain the visceral experience needed to refine our craft. We cannot simply aggregate the ingredients of success; we must build our own path through the accumulation of lessons learned. High-quality work is not the result of a single, static effort, but the cumulative product of many previous actions that each contributed a piece to the larger puzzle of our craft.
+By churning out work, we move beyond theoretical [[thinking]] and gain the visceral experience needed to refine our craft. We cannot simply aggregate the ingredients of success; we must build our own path through the accumulation of lessons learned. High-quality work is not the result of a single, static effort, but the cumulative product of many previous actions that each contributed a piece to the larger puzzle of our craft.
 
 ## Related
 
 - [[creativity]]
 - [[experimentation]]
 - [[thinking]]
-- [[ideation]]
+- [[thinking]]

@@ -7,7 +7,7 @@ tags:
 
 # execution
 
-[[execution]] represents the vital threshold where abstract [[ideation]] transforms into tangible reality. It is the moment when the latent potential of our [[thinking]] and [[creativity]] finally catches, turning mere sparks into sustainable fire. By grounding our concepts in consistent [[shipping]] and iterative [[engineering]], we bridge the gap between imagination and the physical or digital [[environment]].
+[[execution]] represents the vital threshold where abstract [[thinking]] transforms into tangible reality. It is the moment when the latent potential of our [[thinking]] and [[creativity]] finally catches, turning mere sparks into sustainable fire. By grounding our concepts in consistent [[shipping]] and iterative [[engineering]], we bridge the gap between imagination and the physical or digital [[environment]].
 
 > [!idea] Great execution is the alchemy of craft.
 
@@ -15,7 +15,7 @@ When we commit to the rigor of execution, we ensure that our [[projects]] do not
 
 ## Related
 
-- [[ideation]]
+- [[thinking]]
 - [[shipping]]
 - [[engineering]]
 - [[workflow]]

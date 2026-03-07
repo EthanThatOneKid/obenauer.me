@@ -5,13 +5,13 @@ tags:
   - concept
 ---
 
-[[organization]] is the pursuit of low-friction, no-effort systems for managing our digital landscape. It is not about rigid categorization, but about creating an ==itemized environment== where information remains fluid and accessible across diverse contexts. By rethinking our [[os]] and breaking down the arbitrary silos of current [[apps]], we can foster a system that naturally reflects our [[cognition]]. When we prioritize ==fluid associations==, we enable better [[navigation]], ensuring that even in our messiest moments, our [[items]] remain within reach through intelligent, adaptive [[discovery]].
+[[organization]] is the pursuit of low-friction, no-effort systems for managing our digital landscape. It is not about rigid categorization, but about creating an ==itemized environment== where information remains fluid and accessible across diverse contexts. By rethinking our [[os]] and breaking down the arbitrary silos of current [[software]], we can foster a system that naturally reflects our [[thinking]]. When we prioritize ==fluid associations==, we enable better [[navigation]], ensuring that even in our messiest moments, our [[items]] remain within reach through intelligent, adaptive [[discovery]].
 
 ## Related
 
-- [[itemization]]
+- [[items]]
 - [[os]]
 - [[navigation]]
 - [[discovery]]
-- [[cognition]]
-- [[apps]]
+- [[thinking]]
+- [[software]]

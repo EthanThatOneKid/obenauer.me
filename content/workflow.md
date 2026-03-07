@@ -17,7 +17,7 @@ A workflow is the lived rhythm of ==cognition in motion==, the purposeful moveme
 
 ## Related
 
-- [[cognition]]
+- [[thinking]]
 - [[items]]
 - [[thinking]]
 - [[environment]]

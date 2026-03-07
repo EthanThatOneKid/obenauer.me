@@ -7,7 +7,7 @@ tags:
 
 # computing
 
-[[computing]] is the fundamental act of externalizing our thoughts and cognition through digital mediums. By shifting from opaque, siloed systems toward an [[itemcentric]] architecture, we reclaim our [[agency]] over the tools we inhabit. It is not merely about processing data, but about creating environments that augment our capacity for thinking and being.
+[[computing]] is the fundamental act of externalizing our thoughts and cognition through digital mediums. By shifting from opaque, siloed systems toward an [[items]] architecture, we reclaim our [[agency]] over the tools we inhabit. It is not merely about processing data, but about creating environments that augment our capacity for thinking and being.
 
 > [!idea]
 > We must transition from being mere users of software to being architects of our own cognitive environments.
@@ -17,6 +17,6 @@ tags:
 
 ## Related
 
-- [[itemcentric]]
+- [[items]]
 - [[agency]]
-- [[cognition]]
+- [[thinking]]

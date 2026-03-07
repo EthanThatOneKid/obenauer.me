@@ -5,7 +5,7 @@ tags:
   - concept
 ---
 
-A ==log== is the granular, chronological record of the evolution of data. By treating the transformation of an [[item]] as a primary citizen—a piece of data itself—we move beyond static states to a living history of our digital work. This shifts our perspective toward [[mutation]]-aware systems where every action, change, and revision is captured, fostering greater [[evolvability]] and transparency within our [[workspace]].
+A ==log== is the granular, chronological record of the evolution of data. By treating the transformation of an [[items|item]] as a primary citizen—a piece of data itself—we move beyond static states to a living history of our digital work. This shifts our perspective toward [[mutations]]-aware systems where every action, change, and revision is captured, fostering greater [[evolvability]] and transparency within our [[workspaces]].
 
 > [!idea] By tracking these transformations, the operating system gains the capacity to reconstruct, audit, or branch the lifecycle of any information, effectively turning our [[workflow]] into a navigable, temporal narrative.
 
@@ -13,6 +13,6 @@ A ==log== is the granular, chronological record of the evolution of data. By tre
 
 ## Related
 
-- [[mutation]]
-- [[item]]
+- [[mutations]]
+- [[items]]
 - [[evolvability]]
