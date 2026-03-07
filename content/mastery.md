@@ -16,16 +16,3 @@ tags:
 > [!note] The path to excellence is paved with discarded attempts.
 
 True competence emerges when we stop theorizing about ideal outcomes and instead lean into [[learning]] through the friction of continuous, high-volume engagement. By prioritizing the act of creation, we naturally traverse the bridge between quantity and excellence, allowing for the organic evolution of our skills.
-
-<!-- citations:start -->
-## Citations
-
-> [!quote]
-> Video showing an application with song items and ways to filter by instrument,
-> artist, and mastery level. The user opens one song which contains a link to its
-> guitar tabs as well as some notes the user took to remember their preferred capo
-> placement. On the main application screen, the user filters to some specific
-> artists to see only the songs by those artists.
->
-> — [Source](https://alexanderobenauer.com/labnotes/010/#:~:text=Video%20showing%20an%20application,songs%20by%20those%20artists.)
-<!-- citations:end -->

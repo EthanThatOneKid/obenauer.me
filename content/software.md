@@ -16,22 +16,3 @@ tags:
 > You cannot find the best path forward without proving the wrong ones first. Quality is born from the discipline of rewriting, ensuring that the final foundation is built upon clear, understood primitives.
 
 ==We must build and rebuild==, not merely to produce, but to evolve our comprehension of how these digital tools can better support our lives, curiosity, and creativity.
-
-<!-- citations:start -->
-## Citations
-
-> [!quote]
-> How semantic zoom supports agency in personal software
->
-> — [Source](https://alexanderobenauer.com/weekly/20230828/#:~:text=How%20semantic%20zoom%20supports%20agency%20in%20personal%20software)
-
-> [!quote]
-> As we learn more about what makes us and our lives unique, today’s rigid software interfaces become more frustrating — not less!
->
-> — [Source](https://alexanderobenauer.com/weekly/20230828/#:~:text=As%20we%20learn%20more,frustrating%20%E2%80%94%20not%20less!)
-
-> [!quote]
-> The latest iPhone’s new feature, Dynamic Island, follows a long line of ways OSs have allowed system and third-party software to inject new functionality over the decades.
->
-> — [Source](https://alexanderobenauer.com/weekly/20221002/#:~:text=The%20latest%20iPhone%E2%80%99s%20new,functionality%20over%20the%20decades.)
-<!-- citations:end -->

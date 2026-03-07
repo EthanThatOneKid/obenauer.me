@@ -19,14 +19,3 @@ tags:
 > True [[symbiosis]] occurs when the digital medium is sufficiently [[malleability|malleable]] to mirror the natural structures of human thought, allowing for fluid, uninterrupted movement between intuition and action.
 
 When we achieve this alignment, the boundary between the internal and external [[environment]] dissolves, enabling a higher resolution of creativity and clarity. We are not just using computers; we are co-evolving with them, turning the act of computing into a primary mechanism for thinking, learning, and expanding our potential.
-
-<!-- citations:start -->
-## Citations
-
-> [!quote]
-> **Contents:** Letter to the Members / Towards Symbiosis in Personal Computing /
-> Experimental Prototype Computer of Tomorrow / My personal stack of home brewed
-> software / Challenges in Research
->
-> — [Source](https://alexanderobenauer.com/membership/portal/#:~:text=Contents%3A%20Letter%20to%20the,%2F%20Challenges%20in%20Research)
-<!-- citations:end -->
