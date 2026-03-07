@@ -2,7 +2,11 @@
 title: bootstrapping
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - environment
+  - experimentation
+  - thinking
+  - agency
 ---
 
 # bootstrapping
@@ -13,14 +17,6 @@ Bootstrapping represents the vital act of using our current [[computing]] tools 
 > We are not just building software; we are cultivating an ecosystem where the tools we use to think become the architects of our own progress.
 
 ==Bootstrapping is the realization that we can shape the trajectory of our digital future by reclaiming the process of creation itself.== It demands we move beyond passive consumption and toward an active, self-driven evolution of our technical foundations.
-
-## Related
-
-- [[computing]]
-- [[environment]]
-- [[experimentation]]
-- [[thinking]]
-- [[agency]]
 
 <!-- citations:start -->
 ## Citations

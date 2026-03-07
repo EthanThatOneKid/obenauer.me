@@ -2,7 +2,9 @@
 title: research
 date: 2026-03-07
 tags:
-  - concept
+  - curiosity
+  - computing
+  - engineering
 ---
 
 # research
@@ -13,12 +15,6 @@ Research is the act of advancing humanity's collective knowledge by exploring wh
 > To do great research is to be willing to work in the unknown; if you already know exactly what you are doing, you are likely engineering, not researching.
 
 ==Real research is transformative==, changing not only the subject of study but the researcher themselves, moving them from passive observers to active participants in the expansion of what is possible.
-
-## Related
-
-- [[curiosity]]
-- [[computing]]
-- [[engineering]]
 
 <!-- citations:start -->
 ## Citations

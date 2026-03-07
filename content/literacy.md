@@ -2,7 +2,9 @@
 title: literacy
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - agency
+  - interface
 ---
 
 # literacy
@@ -14,12 +16,6 @@ tags:
 
 > [!idea]
 > When we understand the underlying structure of our tools—how information is itemized, linked, and organized—we reclaim the ability to shape our own intellectual landscape.
-
-## Related
-
-- [[computing]]
-- [[agency]]
-- [[interface]]
 
 <!-- citations:start -->
 ## Citations

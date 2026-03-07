@@ -2,7 +2,9 @@
 title: independence
 date: 2026-03-07
 tags:
-  - concept
+  - curiosity
+  - research
+  - sovereignty
 ---
 
 # independence
@@ -14,8 +16,3 @@ tags:
 
 When we foster independence, we nurture the [[symbiosis]] between human thought and the machines we build. This creates space for [[experimentation]] that dares to step outside established paradigms, ensuring our software serves our [[thinking]] rather than confining it.
 
-## Related
-
-- [[curiosity]]
-- [[research]]
-- [[sovereignty]]

@@ -2,7 +2,12 @@
 title: opportunity
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - agency
+  - creativity
+  - interface
+  - curiosity
+  - software
 ---
 
 # opportunity
@@ -14,15 +19,6 @@ tags:
 
 > [!important]
 > We must stop asking what the software allows us to do and start building toward what we ==personally wish to become== through these mediums.
-
-## Related
-
-- [[computing]]
-- [[agency]]
-- [[creativity]]
-- [[interface]]
-- [[curiosity]]
-- [[software]]
 
 <!-- citations:start -->
 ## Citations

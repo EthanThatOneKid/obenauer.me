@@ -2,7 +2,14 @@
 title: collaboration
 date: 2026-03-07
 tags:
-  - concept
+  - context
+  - thinking
+  - note
+  - discovery
+  - environment
+  - sovereignty
+  - workspace
+  - workflow
 ---
 
 # collaboration
@@ -13,17 +20,6 @@ Collaboration is the act of thinking alongside other minds, a process where indi
 > True collaboration is not merely working together; it is the ==synchronization of curiosity== between independent thinkers, enabled by shared tools that support the free flow of thought.
 
 Ultimately, collaboration requires a foundation of [[sovereignty]], ensuring that while we build together, each individual retains the agency to shape their own [[workspace]] and [[workflow]].
-
-## Related
-
-- [[context]]
-- [[thinking]]
-- [[note]]
-- [[discovery]]
-- [[environment]]
-- [[sovereignty]]
-- [[workspace]]
-- [[workflow]]
 
 <!-- citations:start -->
 ## Citations

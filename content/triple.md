@@ -2,7 +2,9 @@
 title: triple
 date: 2026-03-07
 tags:
-  - concept
+  - graph
+  - item
+  - interoperability
 ---
 
 # triples
@@ -14,8 +16,3 @@ Triples represent the fundamental ==atomic architecture of knowledge==, defining
 
 By leveraging this structure, we foster a [[malleability|malleable]] [[system]] where [[fact]] can be linked, discovered, and rendered through diverse [[view]], ensuring our digital tools finally reflect the interconnected nature of our [[thinking]].
 
-## Related
-
-- [[graph]]
-- [[item]]
-- [[interoperability]]

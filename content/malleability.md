@@ -2,7 +2,10 @@
 title: malleability
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - environment
+  - interface
+  - thinking
 ---
 
 # malleability
@@ -14,9 +17,3 @@ tags:
 
 Ultimately, this is about reclaiming the power to modify both data and view, ensuring that our digital tools evolve alongside our needs rather than dictating them.
 
-## Related
-
-- [[computing]]
-- [[environment]]
-- [[interface]]
-- [[thinking]]

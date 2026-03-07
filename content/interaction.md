@@ -2,7 +2,10 @@
 title: interaction
 date: 2026-03-07
 tags:
-  - concept
+  - intent
+  - thinking
+  - interface
+  - agency
 ---
 
 # interaction
@@ -13,13 +16,6 @@ tags:
 > True interaction is not about using software; it is about ==thinking through the computer==.
 
 When we treat the machine as a collaborative partner, we unlock new levels of [[agency]], allowing our digital [[asset]] to exist in a persistent, accessible state that mirrors our own evolving thought processes.
-
-## Related
-
-- [[intent]]
-- [[thinking]]
-- [[interface]]
-- [[agency]]
 
 <!-- citations:start -->
 ## Citations

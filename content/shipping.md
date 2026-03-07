@@ -2,7 +2,11 @@
 title: shipping
 date: 2026-03-07
 tags:
-  - concept
+  - thinking
+  - creativity
+  - experimentation
+  - computing
+  - environment
 ---
 
 # shipping
@@ -13,14 +17,6 @@ tags:
 > When we focus on the cadence of shipping, we avoid the paralysis of seeking perfection. We learn by doing, iterating, and allowing our work to evolve through actual contact with the world.
 
 ==Real impact emerges when we stop theorizing and start manifesting our ideas in the wild.== This practice transforms our personal [[computing]] efforts from internal musings into a shared, living evolution of design.
-
-## Related
-
-- [[thinking]]
-- [[creativity]]
-- [[experimentation]]
-- [[computing]]
-- [[environment]]
 
 <!-- citations:start -->
 ## Citations

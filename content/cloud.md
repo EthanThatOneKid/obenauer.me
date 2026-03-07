@@ -2,7 +2,14 @@
 title: cloud
 date: 2026-03-07
 tags:
-  - concept
+  - workspace
+  - thinking
+  - discovery
+  - item
+  - note
+  - project
+  - symbiosis
+  - graph
 ---
 
 The [[cloud]] is not a distant, opaque utility, but rather the expansive [[workspace|workspace]] for our collective [[thinking]] and [[discovery]]. It serves as an active, interconnected [[environment]] where our [[item]]—from [[note]] to [[project]]—become malleable, fluid entities rather than static silos. By transforming the cloud from a mere storage layer into an interface for [[symbiosis]], we can cultivate a digital garden that adapts to our intent.
@@ -11,17 +18,6 @@ The [[cloud]] is not a distant, opaque utility, but rather the expansive [[works
 > We must shift from viewing the cloud as a remote dump to seeing it as the shared, extensible fabric of our [[personal]] computing [[domain]].
 
 When we treat the cloud as a living [[graph]], we gain the [[sovereignty]] to navigate our [[relationship]] between ideas as easily as we move through physical space, turning the act of research into a continuous, generative dialogue.
-
-## Related
-
-- [[workspace]]
-- [[thinking]]
-- [[discovery]]
-- [[item]]
-- [[note]]
-- [[project]]
-- [[symbiosis]]
-- [[graph]]
 
 <!-- citations:start -->
 ## Citations

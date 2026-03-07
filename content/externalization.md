@@ -2,7 +2,10 @@
 title: externalization
 date: 2026-03-07
 tags:
-  - concept
+  - thinking
+  - environment
+  - item
+  - augmentation
 ---
 
 Externalization is the act of anchoring our [[thinking]] within the digital [[environment]], transforming transient mental states into persistent [[item]] that we can manipulate, traverse, and evolve. By shifting our thoughts from the ephemeral "inside" to the tangible "outside," we expand our capacity for deep [[thinking]], allowing our tools to serve as active extensions of the mind rather than mere containers for data.
@@ -12,10 +15,3 @@ Externalization is the act of anchoring our [[thinking]] within the digital [[en
 
 It is the primary mechanism through which we achieve true [[augmentation]], turning the computer from a passive terminal into a collaborative partner in the creative process.
 
-## Related
-
-- [[thinking]]
-- [[environment]]
-- [[item]]
-- [[thinking]]
-- [[augmentation]]

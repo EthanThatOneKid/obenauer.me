@@ -2,7 +2,14 @@
 title: iteration
 date: 2026-03-07
 tags:
-  - concept
+  - design
+  - software
+  - intent
+  - experimentation
+  - evolvability
+  - fundamental
+  - programming
+  - quality
 ---
 
 # iteration
@@ -16,17 +23,6 @@ Iteration is the essential rhythm of progress, a feedback loop where our [[desig
 > True mastery comes from understanding that ==quantity is the journey to quality==. By building a rudimentary version three to five times, we treat the work as a living entity, constantly refining the foundation until it supports our work with total clarity.
 
 To iterate is to embrace a lifelong process of discovery, allowing us to pivot away from what we _thought_ we needed toward the [[environment]] that actually empowers our agency.
-
-## Related
-
-- [[design]]
-- [[software]]
-- [[intent]]
-- [[experimentation]]
-- [[evolvability]]
-- [[fundamental]]
-- [[programming]]
-- [[quality]]
 
 <!-- citations:start -->
 ## Citations

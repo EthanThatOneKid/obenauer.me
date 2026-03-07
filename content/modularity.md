@@ -2,7 +2,12 @@
 title: modularity
 date: 2026-03-07
 tags:
-  - concept
+  - item
+  - automation
+  - os
+  - integration
+  - evolvability
+  - intent
 ---
 
 # modularity
@@ -17,11 +22,3 @@ By treating functionality as a composable asset, we enhance the [[evolvability]]
 > [!note]
 > Ultimately, modularity is about empowerment: enabling the user to craft, share, and evolve specialized behaviors without needing the permission or rigid architecture of legacy software structures.
 
-## Related
-
-- [[item]]
-- [[automation]]
-- [[os]]
-- [[integration]]
-- [[evolvability]]
-- [[intent]]

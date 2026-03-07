@@ -2,7 +2,12 @@
 title: topic
 date: 2026-03-07
 tags:
-  - concept
+  - workspace
+  - item
+  - organization
+  - graph
+  - project
+  - sovereignty
 ---
 
 Topics provide a fluid mechanism for structuring our [[workspace]], enabling the collection of any [[item]]—regardless of type—into a meaningful [[organization]] or [[graph]]. By moving beyond rigid silos, we embrace a system where a single entity can inhabit multiple contexts simultaneously, fostering organic discovery and intuitive [[organization]].
@@ -11,16 +16,6 @@ Topics provide a fluid mechanism for structuring our [[workspace]], enabling the
 > The power of topics lies in their flexibility; they allow us to pin references and cultivate domains of thought that evolve alongside our [[project]].
 
 By leveraging these non-exclusive groupings, we achieve a more human-centric [[architecture]] of information, turning static data into active, interconnected knowledge. This promotes true [[sovereignty]] over how we relate to our digital assets.
-
-## Related
-
-- [[workspace]]
-- [[item]]
-- [[organization]]
-- [[graph]]
-- [[project]]
-- [[organization]]
-- [[sovereignty]]
 
 <!-- citations:start -->
 ## Citations

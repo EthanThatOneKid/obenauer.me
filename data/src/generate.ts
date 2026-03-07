@@ -418,24 +418,17 @@ async function writeConceptFile(concept: string, description: string, relatedCon
 
   const dateStr = new Date().toISOString().split("T")[0]
 
+  const uniqueTags = Array.from(new Set(relatedConcepts.map((c) => slugify(c))))
+
   let content = `---
 title: ${concept}
 date: ${dateStr}
 tags:
-  - concept
+${uniqueTags.map((t) => `  - ${t}`).join("\n")}
 ---
 
 `
   content += `${description}\n\n`
-
-  if (relatedConcepts.length > 0) {
-    content += `## Related\n\n`
-    for (const related of relatedConcepts) {
-      const relatedSlug = slugify(related)
-      content += `- [[${relatedSlug}]]\n`
-    }
-    content += `\n`
-  }
 
   await fs.writeFile(filePath, content.trim() + "\n")
   console.log(`✓ Saved ${slug}.md`)

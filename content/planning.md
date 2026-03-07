@@ -2,7 +2,9 @@
 title: planning
 date: 2026-03-07
 tags:
-  - concept
+  - intent
+  - execution
+  - workflow
 ---
 
 # planning
@@ -13,12 +15,6 @@ tags:
 > True planning is not about setting things in stone, but about ==aligning our daily actions with our long-term vision==, allowing for flexibility as our understanding evolves.
 
 Effective planning integrates tightly with our [[workflow]], ensuring that our [[task]] are always grounded in clear [[context]] and moving us toward meaningful outcomes.
-
-## Related
-
-- [[intent]]
-- [[execution]]
-- [[workflow]]
 
 <!-- citations:start -->
 ## Citations

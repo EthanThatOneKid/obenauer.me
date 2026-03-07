@@ -2,7 +2,10 @@
 title: agency
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - interface
+  - software
+  - zoom
 ---
 
 Agency is the ability for [[computing]] to honor the unique needs and context of our lives, rather than imposing the constraints of rigid [[software]]. By shifting the focus of the [[interface]] toward human-centric support, we move away from frustration toward empowerment. To truly foster agency, we must design systems that allow for fluid interaction, as seen through mechanisms like [[zoom]], which bridges the gap between our high-level intent and granular digital reality.
@@ -10,13 +13,6 @@ Agency is the ability for [[computing]] to honor the unique needs and context of
 > [!idea] The ultimate goal of our digital tools should be to amplify human intent, not to dictate the workflow.
 
 ==Agency is the restoration of control== in an environment that has become increasingly fragmented by static, one-size-fits-all designs.
-
-## Related
-
-- [[computing]]
-- [[interface]]
-- [[software]]
-- [[zoom]]
 
 <!-- citations:start -->
 ## Citations

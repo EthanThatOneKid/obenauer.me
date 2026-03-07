@@ -2,7 +2,12 @@
 title: discovery
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - environment
+  - curiosity
+  - agency
+  - thinking
+  - context
 ---
 
 [[discovery]] is not mere accident; it is an emergent property of cultivating an [[environment]] that prioritizes [[curiosity]] and [[agency]]. By treating our digital [[computing]] systems as living gardens rather than static filing cabinets, we move beyond rote retrieval into a space where the mind makes unbidden, meaningful connections.
@@ -12,11 +17,3 @@ tags:
 
 When we foster a [[context]] rich with fluidity, our tools transition from passive containers to active partners in [[thinking]], transforming exploration into a continuous process of intellectual growth. ==The goal is to design systems that make the unexpected not just possible, but inevitable.==
 
-## Related
-
-- [[computing]]
-- [[environment]]
-- [[curiosity]]
-- [[agency]]
-- [[thinking]]
-- [[context]]

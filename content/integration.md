@@ -2,7 +2,14 @@
 title: integration
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - software
+  - architecture
+  - thinking
+  - context
+  - iteration
+  - asset
+  - creativity
 ---
 
 # integration
@@ -17,17 +24,6 @@ tags:
 
 > [!note]
 > ==Integration is the bridge between mere utility and genuine agency.== By collapsing the distance between our tools, we remove the friction that stifles [[creativity]] and discovery.
-
-## Related
-
-- [[computing]]
-- [[software]]
-- [[architecture]]
-- [[thinking]]
-- [[context]]
-- [[iteration]]
-- [[asset]]
-- [[creativity]]
 
 <!-- citations:start -->
 ## Citations

@@ -2,7 +2,10 @@
 title: curiosity
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - agency
+  - interface
+  - software
 ---
 
 # curiosity
@@ -14,13 +17,6 @@ Curiosity is the fundamental spark that drives us to explore, learn, and contrib
 
 > [!idea] The Spark
 > Curiosity is not merely a trait; it is a deliberate practice of looking for the unanswered questions that define our future.
-
-## Related
-
-- [[computing]]
-- [[agency]]
-- [[interface]]
-- [[software]]
 
 <!-- citations:start -->
 ## Citations

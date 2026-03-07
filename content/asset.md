@@ -2,7 +2,12 @@
 title: asset
 date: 2026-03-07
 tags:
-  - concept
+  - thinking
+  - creativity
+  - item
+  - environment
+  - agency
+  - experimentation
 ---
 
 # assets
@@ -13,16 +18,6 @@ Assets are the fundamental, atomic units of our digital existence, serving as th
 > When we prioritize the fluidity of assets over the rigid boundaries of software, we reclaim our [[agency]], turning the computer from an adversary into a creative partner.
 
 ==Truly powerful computing happens when assets move seamlessly between contexts,== allowing our ideas to evolve through continuous [[experimentation]].
-
-## Related
-
-- [[thinking]]
-- [[creativity]]
-- [[item]]
-- [[thinking]]
-- [[environment]]
-- [[agency]]
-- [[experimentation]]
 
 <!-- citations:start -->
 ## Citations

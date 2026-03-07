@@ -2,7 +2,18 @@
 title: process
 date: 2026-03-07
 tags:
-  - concept
+  - iteration
+  - quantity
+  - quality
+  - practice
+  - learning
+  - experimentation
+  - thinking
+  - shipping
+  - environment
+  - agency
+  - perfection
+  - malleability
 ---
 
 # process
@@ -13,21 +24,6 @@ tags:
 > ==Quantity is the journey to quality.== We must move past the paralysis of theorizing to participate in the messy, generative act of making.
 
 By tethering our [[agency]] to the rhythm of our work, we avoid the trap of premature finality and ensure that our [[tool]] serve to catalyze growth rather than restrict it. [[process]] is the bridge between intention and realization, grounding our [[thinking]] in the tangible results of a responsive, [[malleability|malleable]] workflow.
-
-## Related
-
-- [[iteration]]
-- [[quantity]]
-- [[quality]]
-- [[practice]]
-- [[learning]]
-- [[experimentation]]
-- [[thinking]]
-- [[shipping]]
-- [[environment]]
-- [[agency]]
-- [[perfection]]
-- [[malleability]]
 
 <!-- citations:start -->
 ## Citations

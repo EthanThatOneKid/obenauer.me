@@ -2,7 +2,11 @@
 title: mutation
 date: 2026-03-07
 tags:
-  - concept
+  - item
+  - timeline
+  - time
+  - computing
+  - os
 ---
 
 # mutations
@@ -13,14 +17,6 @@ tags:
 > By recording every creation, update, or relationship change, we preserve the full provenance of our digital world, shifting the focus from the final result to the process of [[thinking]] itself.
 
 In an [[os]] defined by [[item]], [[mutation]] are the granular building blocks that enable deep reflection and recovery of past contexts. They ensure that our [[workspace]] are not just current snapshots, but living, searchable records of our ongoing [[project]].
-
-## Related
-
-- [[item]]
-- [[timeline]]
-- [[time]]
-- [[computing]]
-- [[os]]
 
 <!-- citations:start -->
 ## Citations

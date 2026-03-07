@@ -2,7 +2,12 @@
 title: culture
 date: 2026-03-07
 tags:
-  - concept
+  - creativity
+  - research
+  - thinking
+  - computing
+  - curiosity
+  - context
 ---
 
 # culture
@@ -14,11 +19,3 @@ tags:
 
 By centering our tools on human [[curiosity]], we shift from building mere utilities to fostering a [[context]] where the best of our humanity is amplified rather than merely facilitated. To nurture culture is to protect the things that appreciate as they age, ensuring our digital existence supports, rather than consumes, the human spirit.
 
-## Related
-
-- [[creativity]]
-- [[research]]
-- [[thinking]]
-- [[computing]]
-- [[curiosity]]
-- [[context]]

@@ -2,7 +2,13 @@
 title: architecture
 date: 2026-03-07
 tags:
-  - concept
+  - os
+  - environment
+  - computing
+  - thinking
+  - creativity
+  - agency
+  - experimentation
 ---
 
 # architecture
@@ -13,16 +19,6 @@ tags:
 > True [[architecture]] must avoid the trap of becoming an adversary. It must ensure that the digital experience serves the person, fostering [[agency]] rather than diminishing it through complexity or enclosure.
 
 By moving away from static, monolithic structures, we embrace a fluidity that invites constant [[experimentation]]. We are constructing a legacy that must remain open, adaptive, and deeply human-centric, ensuring that our technical choices expand the bounds of what is possible for the user.
-
-## Related
-
-- [[os]]
-- [[environment]]
-- [[computing]]
-- [[thinking]]
-- [[creativity]]
-- [[agency]]
-- [[experimentation]]
 
 <!-- citations:start -->
 ## Citations
