@@ -4,14 +4,10 @@ title: Welcome
 
 Welcome.
 
-Fast, lift, sprint, stretch, and meditate.
+[[items|Itemize]] everything. Emails, notes, tasks—just [[triples]] in a [[graph]].
 
-Build, sell, write, create, invest, and own.
+[[learning|Read]] deeply, [[thinking|synthesize]] connections, and [[agency|architect]] your own environment.
 
-Read, reflect, love, seek truth, and ignore society.
+[[creation|Compose]] your own [[localfirst]] tools. Break down [[silos|walled gardens]].
 
-Make these habits. Say no to everything else.
-
-Avoid debt, jail, addiction, disgrace, shortcuts, and media.
-
-Relax. Victory is assured.
+The result is [[sovereignty]].
