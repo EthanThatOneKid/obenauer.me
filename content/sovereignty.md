@@ -17,4 +17,3 @@ tags:
 > Data sovereignty means your information is not merely accessible; it is yours to command.
 
 When we reclaim this agency, we move beyond the general-case interfaces that force us to contort our cognition, allowing us instead to design digital realms that reflect our specific perspectives and needs.
-

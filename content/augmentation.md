@@ -16,4 +16,3 @@ tags:
 > When we design for augmentation, we stop asking what the computer can do for us and start asking how it can help us become more capable versions of ourselves.
 
 By prioritizing [[thinking]] and the fluidity of our [[thinking]], we move beyond stagnant tools into the realm of dynamic, malleable [[software]] that evolves alongside our needs.
-

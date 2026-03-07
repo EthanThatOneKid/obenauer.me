@@ -16,4 +16,3 @@ tags:
 > [!idea] The feedback loop between thought and machine is significantly tightened when we can physically manipulate and construct our workspaces through intuitive, gestural interaction.
 
 When we embrace ==gestural view construction==, we stop being passive users of pre-baked software and start becoming architects of our own cognitive environments. This is essential for fostering true [[agency]], as it allows the software to evolve in real-time alongside our shifting needs.
-

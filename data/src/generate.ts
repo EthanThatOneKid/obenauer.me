@@ -418,7 +418,9 @@ async function writeConceptFile(concept: string, description: string, relatedCon
 
   const dateStr = new Date().toISOString().split("T")[0]
 
-  const uniqueTags = Array.from(new Set([slugify(concept), ...relatedConcepts.map((c) => slugify(c))]))
+  const uniqueTags = Array.from(
+    new Set([slugify(concept), ...relatedConcepts.map((c) => slugify(c))]),
+  )
 
   let content = `---
 title: ${concept}

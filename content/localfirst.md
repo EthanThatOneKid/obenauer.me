@@ -17,4 +17,3 @@ tags:
 > ==Local-first design places the locus of control in the hands of the user, creating a fluid workspace where the machine serves the person, not the service provider.==
 
 This approach naturally yields a rich [[timeline]] of our interactions, as every change is owned and recorded locally. It is a necessary evolution toward true personal computing, where our digital tools are as stable and reliable as the physical artifacts in our workspace, ultimately deepening our creative potential.
-

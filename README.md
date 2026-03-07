@@ -2,7 +2,7 @@
 
 > "Itemize everything. Emails, notes, tasks—just triples in a graph."
 
-This is the digital garden and research repository for [Alexander Obenauer](https://alexanderobenauer.com). It serves as a living document of core philosophies—Agency, Malleability, Augmentation, and the Itemized OS—built as a networked graph of concepts.
+This is the digital garden and research repository for [Alexander Obenauer](https://alexanderobenauer.com), deployed at [obenauer.etok.me](https://obenauer.etok.me). It serves as a living document of core philosophies—Agency, Malleability, Augmentation, and the Itemized OS—built as a networked graph of concepts.
 
 The site is powered by [Quartz v4](https://quartz.jzhao.xyz/).
 

@@ -17,4 +17,3 @@ tags:
 
 > [!idea]
 > We must transition from isolated windows to a system where data items, accompanied by views from their hosting apps, can be moved freely across our digital landscapes.
-

@@ -11,3 +11,7 @@ Welcome.
 [[creation|Compose]] your own [[localfirst]] tools. Break down [[silo|walled gardens]].
 
 The result is [[sovereignty]].
+
+---
+
+[<img src="https://simpleicons.org/icons/github.svg" width="24" height="24" style="vertical-align: middle;"> github.com/ethanthatonekid/obenauer.me](https://github.com/ethanthatonekid/obenauer.me)

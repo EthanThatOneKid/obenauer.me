@@ -18,4 +18,3 @@ Programming is the fundamental act of authoring our own digital [[environment]],
 > When we embrace programming as a creative practice, we move from being passive consumers of predefined interfaces to active architects of our own [[augmentation]].
 
 Ultimately, programming is the bridge between our raw [[intent]] and the machine's capacity for execution. It invites us to stop treating software as a finished product and start viewing it as a living, evolving landscape that we have the power to curate, extend, and inhabit.
-

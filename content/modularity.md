@@ -22,4 +22,3 @@ By treating functionality as a composable asset, we enhance the [[evolvability]]
 
 > [!note]
 > Ultimately, modularity is about empowerment: enabling the user to craft, share, and evolve specialized behaviors without needing the permission or rigid architecture of legacy software structures.
-
