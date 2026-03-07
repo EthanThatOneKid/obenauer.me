@@ -8,6 +8,10 @@ export interface Checkpoint {
     processed: string[]
     queue: string[]
   }
+  sources?: {
+    processed: string[]
+    queue: string[]
+  }
   ingest?: {
     uploadedFiles: string[]
   }
@@ -26,4 +30,8 @@ export async function saveCheckpoint(update: Partial<Checkpoint>) {
   const current = await loadCheckpoint()
   const next = { ...current, ...update }
   await fs.writeFile(CHECKPOINT_FILE, JSON.stringify(next, null, 2))
+}
+
+export async function clearCheckpoint() {
+  await fs.writeFile(CHECKPOINT_FILE, JSON.stringify({}, null, 2))
 }
