@@ -5,7 +5,7 @@ tags:
   - concept
 ---
 
-[[rendering]] is the act of materializing digital intent into a perceivable [[interface]]. It serves as the bridge between raw [[items]] and human [[thinking]], allowing us to interact with [[facts]] not as static files, but as fluid, malleable entities within our [[environment]]. By detaching the representation from the storage, we gain the ability to dynamically construct views that reflect our current [[context]].
+[[rendering]] is the act of materializing digital intent into a perceivable [[interface]]. It serves as the bridge between raw [[item]] and human [[thinking]], allowing us to interact with [[fact]] not as static files, but as fluid, malleable entities within our [[environment]]. By detaching the representation from the storage, we gain the ability to dynamically construct views that reflect our current [[context]].
 
 > [!idea] Rendering is a conversation, not a final output.
 
@@ -14,7 +14,7 @@ When we treat rendering as a first-class citizen of the [[os]], we transform how
 ## Related
 
 - [[interface]]
-- [[items]]
+- [[item]]
 - [[thinking]]
 - [[environment]]
 - [[context]]

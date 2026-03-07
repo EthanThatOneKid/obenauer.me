@@ -7,7 +7,7 @@ tags:
 
 # iteration
 
-Iteration is the essential rhythm of progress, a feedback loop where our [[design]] and [[software]] choices meet the reality of our evolving [[intent]]. It is not merely about repetition; it is a process of learning through [[experimentation]], where each cycle allows us to [[evolvability|evolve]] our early concepts and discover the true [[fundamentals]] of a system. By building and rebuilding from scratch, we gain the clarity to simplify our architecture, ensuring that what we create is not just "good enough" but deeply aligned with our needs.
+Iteration is the essential rhythm of progress, a feedback loop where our [[design]] and [[software]] choices meet the reality of our evolving [[intent]]. It is not merely about repetition; it is a process of learning through [[experimentation]], where each cycle allows us to [[evolvability|evolve]] our early concepts and discover the true [[fundamental]] of a system. By building and rebuilding from scratch, we gain the clarity to simplify our architecture, ensuring that what we create is not just "good enough" but deeply aligned with our needs.
 
 > [!important]
 > When the feedback loop is too long—such as when every minor change requires heavy [[programming]]—the pace of learning stalls, stifling the potential for genuine growth.
@@ -24,6 +24,6 @@ To iterate is to embrace a lifelong process of discovery, allowing us to pivot a
 - [[intent]]
 - [[experimentation]]
 - [[evolvability]]
-- [[fundamentals]]
+- [[fundamental]]
 - [[programming]]
 - [[quality]]

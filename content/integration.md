@@ -13,7 +13,7 @@ tags:
 > True integration does not mean building one tool that does everything; it means building a system where distinct tools behave as if they are part of a single, coherent [[context]].
 
 > [!important]
-> We must stop asking what an app can do and start questioning how it enables our ongoing [[iteration]] and interaction with our digital [[assets]].
+> We must stop asking what an app can do and start questioning how it enables our ongoing [[iteration]] and interaction with our digital [[asset]].
 
 > [!note]
 > ==Integration is the bridge between mere utility and genuine agency.== By collapsing the distance between our tools, we remove the friction that stifles [[creativity]] and discovery.
@@ -26,5 +26,5 @@ tags:
 - [[thinking]]
 - [[context]]
 - [[iteration]]
-- [[assets]]
+- [[asset]]
 - [[creativity]]

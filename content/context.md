@@ -9,7 +9,7 @@ tags:
 
 > [!note] Meaningful action requires grounding. If our interfaces do not provide the full picture of where, why, and how we are working, they become distractions rather than extensions of the mind.
 
-> [!idea] By moving toward an [[items]] architecture, we can ensure that every piece of information exists within a rich, interconnected web, making the experience of computing feel less like navigating silos and more like a fluid process of [[thinking]].
+> [!idea] By moving toward an [[item]] architecture, we can ensure that every piece of information exists within a rich, interconnected web, making the experience of computing feel less like navigating silos and more like a fluid process of [[thinking]].
 
 ## Related
 

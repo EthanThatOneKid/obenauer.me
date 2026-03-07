@@ -11,7 +11,7 @@ tags:
 
 > [!idea] Great execution is the alchemy of craft.
 
-When we commit to the rigor of execution, we ensure that our [[projects]] do not remain trapped in the ether of possibility but instead become functional, evolved components of our personal [[workflow]]. It is not enough to simply harbor potential; we must cultivate the discipline to bring that potential into the world, allowing our tools to manifest our deepest [[intent]].
+When we commit to the rigor of execution, we ensure that our [[project]] do not remain trapped in the ether of possibility but instead become functional, evolved components of our personal [[workflow]]. It is not enough to simply harbor potential; we must cultivate the discipline to bring that potential into the world, allowing our tools to manifest our deepest [[intent]].
 
 ## Related
 

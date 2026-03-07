@@ -5,7 +5,7 @@ tags:
   - concept
 ---
 
-A **system** is an alternative [[environment]], a fullscreen manifestation designed to challenge the limitations of contemporary [[os]] architectures. It serves as a container for your [[workflow]] and [[facts]], functioning less like a rigid utility and more like a malleable space for [[thinking]]. By shifting the focus from static applications to a cohesive, integrated whole, a system aims to fundamentally reshape how we [[thinking|think]] and perform tasks, prioritizing meaningful [[agency]] over mere incremental improvement.
+A **system** is an alternative [[environment]], a fullscreen manifestation designed to challenge the limitations of contemporary [[os]] architectures. It serves as a container for your [[workflow]] and [[fact]], functioning less like a rigid utility and more like a malleable space for [[thinking]]. By shifting the focus from static applications to a cohesive, integrated whole, a system aims to fundamentally reshape how we [[thinking|think]] and perform tasks, prioritizing meaningful [[agency]] over mere incremental improvement.
 
 > [!important]
 > The true measure of a system is not how it organizes data, but how it enables the user to achieve mastery over their own digital environment.

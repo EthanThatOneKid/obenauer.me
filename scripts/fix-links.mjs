@@ -94,24 +94,24 @@ async function fixLinks() {
     // Group 1: target, Group 2: optional |alias
     const wikilinkRegex = /\[\[([^\]|]+)(\|[^\]]+)?\]\]/g
 
-    let modified = false;
+    let modified = false
     content = content.replace(wikilinkRegex, (match, target, alias) => {
-      const trimmedTarget = target.trim();
+      const trimmedTarget = target.trim()
       if (MAPPINGS[trimmedTarget]) {
-        totalFixes++;
-        modified = true;
-        const newTarget = MAPPINGS[trimmedTarget];
-        
+        totalFixes++
+        modified = true
+        const newTarget = MAPPINGS[trimmedTarget]
+
         // If there's no alias, we now directly rename to the new target
         if (!alias) {
-          return `[[${newTarget}]]`;
+          return `[[${newTarget}]]`
         } else {
           // If there's already an alias, we just update the target part
-          return `[[${newTarget}${alias}]]`;
+          return `[[${newTarget}${alias}]]`
         }
       }
-      return match;
-    });
+      return match
+    })
 
     if (modified) {
       console.log(`Fixed links in ${path.relative(".", filePath)}`)
