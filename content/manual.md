@@ -2,7 +2,19 @@
 title: manual
 date: 2026-03-07
 tags:
-  - concept
+  - manual
+  - agency
+  - thinking
+  - software
+  - interaction
+  - malleability
+  - environment
+  - workspace
+  - sovereignty
+  - asset
+  - creativity
+  - tool
+  - experimentation
 ---
 
 # manual
@@ -13,22 +25,6 @@ In our current era of over-automation, the act of being ==manual== is a radical 
 > Being manual is the antidote to the passive consumption of utility; it is the craftsman’s way of ensuring the system serves the user, not the inverse.
 
 By prioritizing manual control, we preserve our [[sovereignty]] over the digital [[asset]] we produce. This approach allows us to iterate with genuine [[creativity]], moving away from automated silos and toward a future where our [[tool]] are truly transparent and open to our ongoing [[experimentation]].
-
-## Related
-
-- [[agency]]
-- [[thinking]]
-- [[thinking]]
-- [[software]]
-- [[interaction]]
-- [[malleability]]
-- [[environment]]
-- [[workspace]]
-- [[sovereignty]]
-- [[asset]]
-- [[creativity]]
-- [[tool]]
-- [[experimentation]]
 
 <!-- citations:start -->
 ## Citations

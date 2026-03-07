@@ -2,7 +2,10 @@
 title: software
 date: 2026-03-07
 tags:
-  - concept
+  - software
+  - computing
+  - interface
+  - agency
 ---
 
 # software
@@ -13,12 +16,6 @@ tags:
 > You cannot find the best path forward without proving the wrong ones first. Quality is born from the discipline of rewriting, ensuring that the final foundation is built upon clear, understood primitives.
 
 ==We must build and rebuild==, not merely to produce, but to evolve our comprehension of how these digital tools can better support our lives, curiosity, and creativity.
-
-## Related
-
-- [[computing]]
-- [[interface]]
-- [[agency]]
 
 <!-- citations:start -->
 ## Citations

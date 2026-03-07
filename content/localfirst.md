@@ -2,7 +2,11 @@
 title: localfirst
 date: 2026-03-07
 tags:
-  - concept
+  - localfirst
+  - sovereignty
+  - symbiosis
+  - computing
+  - timeline
 ---
 
 # localfirst
@@ -14,9 +18,3 @@ tags:
 
 This approach naturally yields a rich [[timeline]] of our interactions, as every change is owned and recorded locally. It is a necessary evolution toward true personal computing, where our digital tools are as stable and reliable as the physical artifacts in our workspace, ultimately deepening our creative potential.
 
-## Related
-
-- [[sovereignty]]
-- [[symbiosis]]
-- [[computing]]
-- [[timeline]]

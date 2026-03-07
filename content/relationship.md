@@ -2,7 +2,9 @@
 title: relationship
 date: 2026-03-07
 tags:
-  - concept
+  - relationship
+  - item
+  - graph
 ---
 
 > [!idea]
@@ -10,11 +12,6 @@ tags:
 
 > [!note]
 > When we prioritize the exposure of these connections, we unlock latent [[opportunity]] for discovery. Instead of hunting through opaque folders, the interface becomes a landscape of emergent [[context]], where every [[document]] informs the next, effectively turning the [[os]] into a partner for [[thinking]] and [[creativity]].
-
-## Related
-
-- [[item]]
-- [[graph]]
 
 <!-- citations:start -->
 ## Citations

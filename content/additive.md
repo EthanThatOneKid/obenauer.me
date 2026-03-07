@@ -2,7 +2,10 @@
 title: additive
 date: 2026-03-07
 tags:
-  - concept
+  - additive
+  - knowledge
+  - timeline
+  - sovereignty
 ---
 
 # additive
@@ -13,12 +16,6 @@ To be [[additive]] is to exist within a medium that appreciates over time, contr
 > Software today is often subtractive: it demands constant labor to exist in the present. We must strive for ==additive systems== that allow our work to live on in its own right, becoming part of a permanent, evolving human heritage.
 
 My research is dedicated to this fundamental shift: moving away from the fleeting nature of current applications and toward a durable architecture that fosters [[discovery]] and long-term [[mastery]].
-
-## Related
-
-- [[knowledge]]
-- [[timeline]]
-- [[sovereignty]]
 
 <!-- citations:start -->
 ## Citations

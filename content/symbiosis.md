@@ -2,7 +2,13 @@
 title: symbiosis
 date: 2026-03-07
 tags:
-  - concept
+  - symbiosis
+  - augmentation
+  - thinking
+  - computing
+  - environment
+  - malleability
+  - sovereignty
 ---
 
 # symbiosis
@@ -13,15 +19,6 @@ tags:
 > True [[symbiosis]] occurs when the digital medium is sufficiently [[malleability|malleable]] to mirror the natural structures of human thought, allowing for fluid, uninterrupted movement between intuition and action.
 
 When we achieve this alignment, the boundary between the internal and external [[environment]] dissolves, enabling a higher resolution of creativity and clarity. We are not just using computers; we are co-evolving with them, turning the act of computing into a primary mechanism for thinking, learning, and expanding our potential.
-
-## Related
-
-- [[augmentation]]
-- [[thinking]]
-- [[computing]]
-- [[environment]]
-- [[malleability]]
-- [[sovereignty]]
 
 <!-- citations:start -->
 ## Citations

@@ -2,7 +2,13 @@
 title: workflow
 date: 2026-03-07
 tags:
-  - concept
+  - workflow
+  - thinking
+  - item
+  - environment
+  - context
+  - quantity
+  - timeline
 ---
 
 # workflow
@@ -14,16 +20,6 @@ A workflow is the lived rhythm of ==cognition in motion==, the purposeful moveme
 
 > [!note]
 > Workflows are not enforced paths; they are the natural traces we leave behind as we explore, learn, and iterate through complex problem spaces.
-
-## Related
-
-- [[thinking]]
-- [[item]]
-- [[thinking]]
-- [[environment]]
-- [[context]]
-- [[quantity]]
-- [[timeline]]
 
 <!-- citations:start -->
 ## Citations

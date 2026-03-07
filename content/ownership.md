@@ -2,7 +2,16 @@
 title: ownership
 date: 2026-03-07
 tags:
-  - concept
+  - ownership
+  - sovereignty
+  - localfirst
+  - architecture
+  - os
+  - independence
+  - computing
+  - environment
+  - thinking
+  - workflow
 ---
 
 # ownership
@@ -14,19 +23,6 @@ tags:
 
 > [!idea] Future-proofing our tools
 > By prioritizing [[localfirst]] data storage, we ensure that our [[thinking]] and [[workflow]] remain resilient against the decay of remote services.
-
-## Related
-
-- [[sovereignty]]
-- [[localfirst]]
-- [[architecture]]
-- [[os]]
-- [[independence]]
-- [[computing]]
-- [[environment]]
-- [[localfirst]]
-- [[thinking]]
-- [[workflow]]
 
 <!-- citations:start -->
 ## Citations

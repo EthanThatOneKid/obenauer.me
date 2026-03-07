@@ -2,7 +2,13 @@
 title: production
 date: 2026-03-07
 tags:
-  - concept
+  - production
+  - quality
+  - experimentation
+  - thinking
+  - shipping
+  - learning
+  - computing
 ---
 
 # production
@@ -12,15 +18,6 @@ tags:
 > [!important] The quantity of work is not a byproduct; it is the primary mechanism for discovering excellence.
 
 By embracing high-frequency creation, we refine our [[computing]] environments, shifting from rigid, monolithic systems toward a more fluid, personal architecture. Through consistent [[shipping]] of smaller, focused efforts, we refine our own creative agency, ensuring that our [[workflow]] remains dynamic rather than paralyzed by the pursuit of singular, perfect outcomes.
-
-## Related
-
-- [[quality]]
-- [[experimentation]]
-- [[thinking]]
-- [[shipping]]
-- [[learning]]
-- [[computing]]
 
 <!-- citations:start -->
 ## Citations

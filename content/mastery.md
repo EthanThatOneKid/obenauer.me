@@ -2,7 +2,11 @@
 title: mastery
 date: 2026-03-07
 tags:
-  - concept
+  - mastery
+  - production
+  - iteration
+  - perfection
+  - learning
 ---
 
 # mastery
@@ -12,13 +16,6 @@ tags:
 > [!note] The path to excellence is paved with discarded attempts.
 
 True competence emerges when we stop theorizing about ideal outcomes and instead lean into [[learning]] through the friction of continuous, high-volume engagement. By prioritizing the act of creation, we naturally traverse the bridge between quantity and excellence, allowing for the organic evolution of our skills.
-
-## Related
-
-- [[production]]
-- [[iteration]]
-- [[perfection]]
-- [[learning]]
 
 <!-- citations:start -->
 ## Citations

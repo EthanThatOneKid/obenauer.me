@@ -2,7 +2,11 @@
 title: thinking
 date: 2026-03-07
 tags:
-  - concept
+  - thinking
+  - computing
+  - creativity
+  - research
+  - interface
 ---
 
 # thinking
@@ -13,13 +17,6 @@ To think is to engage in a shared, generative process that transcends the indivi
 > True thinking is a social act; it is the friction and harmony of minds brushing against one another to ignite new possibilities.
 
 We must move toward a future where our tools act as catalysts for this resonance, enabling us to riff on the thoughts of others while maintaining the sanctity of our own unique perspectives. ==The goal is to build spaces where thoughts can breathe, iterate, and flourish==.
-
-## Related
-
-- [[computing]]
-- [[creativity]]
-- [[research]]
-- [[interface]]
 
 <!-- citations:start -->
 ## Citations

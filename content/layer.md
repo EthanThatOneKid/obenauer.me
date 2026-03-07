@@ -2,7 +2,10 @@
 title: layer
 date: 2026-03-07
 tags:
-  - concept
+  - layer
+  - computing
+  - architecture
+  - thinking
 ---
 
 > [!idea]
@@ -10,12 +13,6 @@ tags:
 
 > [!note]
 > By peeling back the layers that define contemporary [[computing]], we uncover the opportunity to redesign the very foundations of how we interact with information, moving away from rigid silos toward more [[malleability|malleable]] and [[item|item-centric]] digital experiences.
-
-## Related
-
-- [[computing]]
-- [[architecture]]
-- [[thinking]]
 
 <!-- citations:start -->
 ## Citations

@@ -2,7 +2,10 @@
 title: interoperability
 date: 2026-03-07
 tags:
-  - concept
+  - interoperability
+  - localfirst
+  - portability
+  - thinking
 ---
 
 # interoperability
@@ -15,8 +18,3 @@ tags:
 > [!idea]
 > We must transition from isolated windows to a system where data items, accompanied by views from their hosting apps, can be moved freely across our digital landscapes.
 
-## Related
-
-- [[localfirst]]
-- [[portability]]
-- [[thinking]]

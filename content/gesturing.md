@@ -2,7 +2,11 @@
 title: gesturing
 date: 2026-03-07
 tags:
-  - concept
+  - gesturing
+  - environment
+  - interface
+  - computing
+  - agency
 ---
 
 # gesturing
@@ -13,9 +17,3 @@ tags:
 
 When we embrace ==gestural view construction==, we stop being passive users of pre-baked software and start becoming architects of our own cognitive environments. This is essential for fostering true [[agency]], as it allows the software to evolve in real-time alongside our shifting needs.
 
-## Related
-
-- [[environment]]
-- [[interface]]
-- [[computing]]
-- [[agency]]

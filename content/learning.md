@@ -2,7 +2,14 @@
 title: learning
 date: 2026-03-07
 tags:
-  - concept
+  - learning
+  - quantity
+  - thinking
+  - experimentation
+  - shipping
+  - sovereignty
+  - discovery
+  - symbiosis
 ---
 
 # learning
@@ -13,16 +20,6 @@ True learning emerges from the act of creation, where the accumulation of [[quan
 > ==Understanding means rewriting.== Each iteration is not merely a task completed, but a catalyst for growth that informs the next stage of our evolution.
 
 Through this process, we move beyond simple [[discovery]] toward a state where our tools serve as extensions of our cognitive reach, enabling a more profound [[symbiosis]] between human intent and the [[environment]].
-
-## Related
-
-- [[quantity]]
-- [[thinking]]
-- [[experimentation]]
-- [[shipping]]
-- [[sovereignty]]
-- [[discovery]]
-- [[symbiosis]]
 
 <!-- citations:start -->
 ## Citations

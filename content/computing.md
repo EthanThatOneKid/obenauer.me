@@ -2,7 +2,10 @@
 title: computing
 date: 2026-03-07
 tags:
-  - concept
+  - computing
+  - item
+  - agency
+  - thinking
 ---
 
 # computing
@@ -14,12 +17,6 @@ tags:
 
 > [!important]
 > The essence of [[computing]] lies in how we represent, store, and manipulate the atomic units of our digital lives, transforming computers into extensions of our own minds.
-
-## Related
-
-- [[item]]
-- [[agency]]
-- [[thinking]]
 
 <!-- citations:start -->
 ## Citations

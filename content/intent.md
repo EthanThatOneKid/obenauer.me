@@ -2,7 +2,12 @@
 title: intent
 date: 2026-03-07
 tags:
-  - concept
+  - intent
+  - computing
+  - thinking
+  - interface
+  - agency
+  - context
 ---
 
 # intent
@@ -13,15 +18,6 @@ tags:
 > We must shift from designing for _tasks_ to designing for _intent_.
 
 When we center our architectures on the user's true goals, we reduce the friction between [[thinking]] and the externalization of thought. This requires us to fundamentally rethink how we handle [[context]], ensuring that every interaction respects the user's flow and contributes to the realization of their creative vision. True computing should be an extension of the mind, capturing the essence of why we act, not just the mechanical sequence of how we interact.
-
-## Related
-
-- [[computing]]
-- [[thinking]]
-- [[interface]]
-- [[agency]]
-- [[context]]
-- [[thinking]]
 
 <!-- citations:start -->
 ## Citations

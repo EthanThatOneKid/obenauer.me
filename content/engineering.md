@@ -2,7 +2,13 @@
 title: engineering
 date: 2026-03-07
 tags:
-  - concept
+  - engineering
+  - research
+  - creativity
+  - design
+  - shipping
+  - experimentation
+  - thinking
 ---
 
 # engineering
@@ -14,15 +20,6 @@ Engineering is the focused application of knowledge to build systems where you a
 
 > [!idea]
 > A great engineer designs systems not just for elegance, but for effectiveness, ensuring that the [[thinking]] behind the build remains clear and purpose-driven.
-
-## Related
-
-- [[research]]
-- [[creativity]]
-- [[design]]
-- [[shipping]]
-- [[experimentation]]
-- [[thinking]]
 
 <!-- citations:start -->
 ## Citations
