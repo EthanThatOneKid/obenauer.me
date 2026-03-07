@@ -1,0 +1,78 @@
+---
+title: composition
+date: 2026-03-06
+tags:
+  - concept
+---
+
+[[composition]] is the fundamental act of assembling smaller, discrete [[items]]
+into cohesive, higher-order structures that reflect our unique [[thinking]]
+processes. Rather than being confined to rigid, siloed applications, we should
+favor a [[modular]] approach where information is fluid and context-aware.
+
+> [!idea] By shifting from monolithic software to an ==item-oriented
+> [[architecture]]==, we enable personal [[computing]] to become a canvas for
+> [[discovery]] and [[recollection]], rather than a mere filing system.
+
+This necessitates deep [[interoperability]], allowing diverse [[items]] to be
+woven together into personalized workflows that evolve alongside our needs.
+
+## Related
+
+- [[items]]
+- [[thinking]]
+- [[modularity]]
+- [[interoperability]]
+- [[architecture]]
+
+> [!note] Merged from [[composition]] Composable software represents a
+> fundamental shift away from rigid, monolithic applications toward
+> [[malleability]] that adapts to the unique ways we interact with information.
+> By fostering [[agency]] and enabling [[programming]], these systems allow us
+> to move past pre-defined "app" boundaries, treating our digital environment as
+> a collection of building blocks rather than isolated silos. This is an
+> essential step in building [[interfaces]], where our [[tools|tools]] mirror the fluid,
+> personal nature of our cognitive processes.
+>
+> > [!idea] True composability means the user is no longer a passive consumer of
+> > a vendor's [[interface|interface]] choices, but an active architect of their own digital
+> > landscape.
+>
+> By prioritizing [[local]] and [[sovereignty]], we ensure that the
+> [[relationships|relationships]] between our data entities remain intact, regardless of the
+> specific [[interface|interface]] or view we choose to project onto them.
+>
+> ## Related
+>
+> - [[malleability]]
+> - [[agency]]
+> - [[programming]]
+> - [[interfaces]]
+> - [[local]]
+> - [[sovereignty]]
+
+> [!note] Merged from [[composition]]
+>
+> > [!idea] [[composition]] are the moral imperative of modern [[computing]],
+> > representing a shift from rigid applications to environments that honor
+> > [[agency]]. By dismantling the silos of the traditional desktop, we move
+> > toward [[malleability]] that adapts to our unique ways of [[thinking]],
+> > ensuring our [[tools|tools]] reflect our own values and specific needs rather than the
+> > static assumptions of developers. This [[evolution]] is rooted in
+> > [[computing]], where we treat our digital environments as fluid
+> > [[workspaces|workspaces]]—not just containers for data, but living systems built for
+> > [[augmentation]].
+>
+> We must move past the limitations of monolithic software to achieve true
+> [[interoperability]], where the data and the ways we interact with it are
+> inherently modular. When we bridge the gaps between how we think and how we
+> compute, we reclaim the ability to shape our own [[tools|tools]], fostering a future
+> where the [[interfaces]] is a reflection of the human mind.
+>
+> ## Related
+>
+> - [[agency]]
+> - [[malleability]]
+> - [[computing]]
+> - [[augmentation]]
+> - [[interoperability]]
