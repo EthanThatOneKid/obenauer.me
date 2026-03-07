@@ -12,3 +12,22 @@ The [[os]] is the foundational substrate through which we interact with the digi
 - [[item]]
 - [[thinking]]
 - [[agency]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> The essay includes a demo video, and covers everything from the project: how it works & how I used it, design and concept iterations, future work for it and the OS, and what I learned about personal interfaces.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240121/#:~:text=The%20essay%20includes%20a,learned%20about%20personal%20interfaces.)
+
+> [!quote]
+> An understanding of time in the OS of the future
+>
+> — [Source](https://alexanderobenauer.com/weekly/20231021/#:~:text=An%20understanding%20of%20time,OS%20of%20the%20future)
+
+> [!quote]
+> A gestural environment for the OS of the future
+>
+> — [Source](https://alexanderobenauer.com/weekly/20230729/#:~:text=A%20gestural%20environment%20for,OS%20of%20the%20future)
+<!-- citations:end -->

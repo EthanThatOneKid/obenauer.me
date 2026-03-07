@@ -22,3 +22,14 @@ When we achieve this alignment, the boundary between the internal and external [
 - [[environment]]
 - [[malleability]]
 - [[sovereignty]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> **Contents:** Letter to the Members / Towards Symbiosis in Personal Computing /
+> Experimental Prototype Computer of Tomorrow / My personal stack of home brewed
+> software / Challenges in Research
+>
+> — [Source](https://alexanderobenauer.com/membership/portal/#:~:text=Contents%3A%20Letter%20to%20the,%2F%20Challenges%20in%20Research)
+<!-- citations:end -->

@@ -17,3 +17,15 @@ We must reimagine these pathways to ensure that every exchange is grounded in th
 - [[notification]]
 - [[context]]
 - [[sovereignty]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> You can read
+> [my article](https://alexobenauer.medium.com/introducing-1997-chat-instant-messaging-the-way-it-used-to-be-52e371bc7bf3)
+> or [the Nylon article](https://www.nylon.com/1997-chat-aim-instant-messenger)
+> for more context.
+>
+> — [Source](https://alexanderobenauer.com/v2/#:~:text=You%20can%20read%20my,article%20for%20more%20context.)
+<!-- citations:end -->

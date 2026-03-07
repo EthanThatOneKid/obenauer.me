@@ -22,3 +22,30 @@ Widgets act as a vital [[system]] injection, serving as a gateway for software t
 - [[workflow]]
 - [[intent]]
 - [[item]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> When you pull an item into some other place, it is still rendered by its hosting
+> application. Hosting applications provide the view components for rendering data
+> items in different situations or sizes. It can be thought of much like a widget
+> in today’s operating systems: the system defines what the data item is and what
+> size it should take up, then it relies on the data item’s hosting application to
+> provide the view component that renders it.
+>
+> — [Source](https://alexanderobenauer.com/labnotes/002/#:~:text=When%20you%20pull%20an,component%20that%20renders%20it.)
+
+> [!quote]
+> You can imagine each of these items in my day’s pane being rendered by more
+> visually rich widgets, which would help turn this view into a wonderful home
+> base for my days.
+>
+> — [Source](https://alexanderobenauer.com/labnotes/030/#:~:text=You%20can%20imagine%20each,base%20for%20my%20days.)
+
+> [!quote]
+> Menu bar, dock, taskbar, system tray, widgets, notifications, app clips, search,
+> file icons, Quick Look, and so forth. [\[1\]](#note1)
+>
+> — [Source](https://alexanderobenauer.com/labnotes/032/#:~:text=Menu%20bar%2C%20dock%2C%20taskbar%2C,and%20so%20forth.%20%5B%5C%5B1%5C%5D%5D(note1))
+<!-- citations:end -->

@@ -18,3 +18,23 @@ By treating the network as a unified, extensible environment, we move beyond the
 - [[item]]
 - [[automation]]
 - [[computing]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> What if you could have your own, personal computing network? And what kinds of devices could you add to it?
+>
+> — [Source](https://alexanderobenauer.com/weekly/20220507/#:~:text=What%20if%20you%20could,you%20add%20to%20it%3F)
+
+> [!quote]
+> Read the lab note:  
+> [LN 027: Personal Computing Network & Devices »](https://alexanderobenauer.com/labnotes/027/)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20220507/#:~:text=Read%20the%20lab%20note%3A,Network%20%26%20Devices%20%C2%BB)
+
+> [!quote]
+> Having fun with itemized networks & devices
+>
+> — [Source](https://alexanderobenauer.com/labnotes/000/#:~:text=Having%20fun%20with%20itemized%20networks%20%26%20devices)
+<!-- citations:end -->

@@ -26,3 +26,29 @@ When we draft a plan, we are essentially defining the next arc in our own [[time
 - [[review]]
 - [[iteration]]
 - [[opportunity]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Read on:  
+> **[Embark: Dynamic documents for making plans »](https://www.inkandswitch.com/embark/)**
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240121/#:~:text=Read%20on%3A%20Embark%3A%20Dynamic,for%20making%20plans%20%C2%BB)
+
+> [!quote]
+> So here’s my plan: over the course of the next few months, I hope to share with you this system I’ve developed. As a fullscreen app for your current machine, it becomes an alternative user environment in which you’ll be able to explore these concepts with your own work and data.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210828/#:~:text=So%20here%E2%80%99s%20my%20plan%3A,own%20work%20and%20data.)
+
+> [!quote]
+> In its first year, I tried to avoid thinking about ways to boost memberships, or
+> what I could create that would entice new members. I wanted to take the time to
+> see what natural outputs of my work might serve as good member perks. I didn’t
+> want to contrive something that I wouldn’t be able to sustainably or organically
+> create in the future. For its first year, the plan was to let the experiment
+> take its time to find a good fit between me, my work, and the members, and avoid
+> fettering the work in the future.
+>
+> — [Source](https://alexanderobenauer.com/2023/#:~:text=In%20its%20first%20year%2C,work%20in%20the%20future.)
+<!-- citations:end -->

@@ -16,3 +16,23 @@ Email is a quintessential example of a system that persists through inertia. It 
 - [[intent]]
 - [[navigation]]
 - [[architecture]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> If you’ve emailed me recently, I apologize for not responding yet! There’s been an uptick in responses to my lab notes. Every time I get a thoughtful email, I’m excited to dig in. I will read what you’ve sent me & continue the conversation shortly!
+>
+> — [Source](https://alexanderobenauer.com/weekly/20211012/#:~:text=If%20you%E2%80%99ve%20emailed%20me,continue%20the%20conversation%20shortly!)
+
+> [!quote]
+> What if your system could identify associated items from past browsing paths when you have items open? [Demos of this](https://alexanderobenauer.com/labnotes/005/) included having automatic recall of the email thread about a meeting from the meeting’s calendar event notification?
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210828/#:~:text=What%20if%20your%20system,meeting%E2%80%99s%20calendar%20event%20notification%3F)
+
+> [!quote]
+> Read on:  
+> [Mail Pilot 5: For the love of it »](https://alexanderobenauer.com/articles/email/1/)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210814/#:~:text=Read%20on%3A%20Mail%20Pilot,love%20of%20it%20%C2%BB)
+<!-- citations:end -->

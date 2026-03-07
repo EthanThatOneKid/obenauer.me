@@ -22,3 +22,28 @@ When we treat the cloud as a living [[graph]], we gain the [[sovereignty]] to na
 - [[project]]
 - [[symbiosis]]
 - [[graph]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Read it here:  
+> [LN 015: Cross-references & References cloud »](https://alexanderobenauer.com/labnotes/015/)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210905/#:~:text=Read%20it%20here%3A%20LN,%26%20References%20cloud%20%C2%BB)
+
+> [!quote]
+> - [LN 012: References box & Topics](/labnotes/012)
+> - [LN 013: Why is our thinking on computers so restrained?](/labnotes/013)
+> - [LN 014: The Graph OS](/labnotes/014)
+> - [LN 015: Cross-references & References cloud](/labnotes/015)
+> - [LN 016: Calendar views](/labnotes/016)
+> - [LN 017: Today & Daily summary](/labnotes/017)
+>
+> — [Source](https://alexanderobenauer.com/labnotes/000/#:~:text=-%20LN%20012%3A%20References,Today%20%26%20Daily%20summary)
+
+> [!quote]
+> Cross-references & References cloud
+>
+> — [Source](https://alexanderobenauer.com/labnotes/015/#:~:text=Cross-references%20%26%20References%20cloud)
+<!-- citations:end -->

@@ -20,3 +20,24 @@ Ultimately, a document serves as an anchor for [[agency]], allowing us to trace 
 - [[agency]]
 - [[environment]]
 - [[timeline]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Read on:  
+> **[Embark: Dynamic documents for making plans »](https://www.inkandswitch.com/embark/)**
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240121/#:~:text=Read%20on%3A%20Embark%3A%20Dynamic,for%20making%20plans%20%C2%BB)
+
+> [!quote]
+> In response to a question asked on Quora, “Should web browsers have stuck to being document viewers?” Kay responded with a wonderful analysis on how we got to where we are today, and the missed paths along the way. His answer begins clearly, “Actually quite the opposite.”
+>
+> — [Source](https://alexanderobenauer.com/weekly/20211012/#:~:text=In%20response%20to%20a,%E2%80%9CActually%20quite%20the%20opposite.%E2%80%9D)
+
+> [!quote]
+> Read it in full here:  
+> [Kay’s answer on Quora »](https://www.quora.com/Should-web-browsers-have-stuck-to-being-document-viewers/answer/Alan-Kay-11)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20211012/#:~:text=Read%20it%20in%20full,answer%20on%20Quora%20%C2%BB)
+<!-- citations:end -->

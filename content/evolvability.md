@@ -19,3 +19,28 @@ To build for evolvability is to create systems that do not lock the user into ri
 - [[composition]]
 - [[thinking]]
 - [[context]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> [LN 028: Designing systems for computer literacy and evolvability »](https://alexanderobenauer.com/labnotes/028/)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20220521/#:~:text=LN%20028%3A%20Designing%20systems,literacy%20and%20evolvability%20%C2%BB)
+
+> [!quote]
+> - [LN 028: Designing systems for computer literacy and evolvability](/labnotes/028)
+> - [LN 029: Experimenting with the item as the core primitive](/labnotes/029)
+>
+> — [Source](https://alexanderobenauer.com/labnotes/000/#:~:text=-%20LN%20028%3A%20Designing,as%20the%20core%20primitive)
+
+> [!quote]
+> - [LN 007: Atomized apps](/labnotes/007)
+> - [LN 011: General purpose personal computing software](/labnotes/011)
+> - [LN 013: Why is our thinking on computers so restrained?](/labnotes/013)
+> - [LN 014: The Graph OS](/labnotes/014)
+> - [LN 018: Services & Item Drives](/labnotes/018)
+> - [LN 028: Designing systems for computer literacy and evolvability](/labnotes/028)
+>
+> — [Source](https://alexanderobenauer.com/labnotes/000/#:~:text=-%20LN%20007%3A%20Atomized,computer%20literacy%20and%20evolvability)
+<!-- citations:end -->

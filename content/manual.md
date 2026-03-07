@@ -29,3 +29,20 @@ By prioritizing manual control, we preserve our [[sovereignty]] over the digital
 - [[creativity]]
 - [[tool]]
 - [[experimentation]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> One part of the project that I’ve begun publishing, though it isn’t yet complete, is the operator’s handbook for WonderOS. It is presented as the manual that would come with the user’s first itemized personal computing device.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20230114/#:~:text=One%20part%20of%20the,itemized%20personal%20computing%20device.)
+
+> [!quote]
+> But these analog computers were inherently built to perform one kind of
+> calculation. Often they had to be physically rearranged to represent a different
+> set of variables or inputs, sometimes even requiring a few days’ manual labor to
+> arrange the calculation physically.
+>
+> — [Source](https://alexanderobenauer.com/labnotes/011/#:~:text=But%20these%20analog%20computers,arrange%20the%20calculation%20physically.)
+<!-- citations:end -->

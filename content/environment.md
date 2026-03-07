@@ -18,3 +18,22 @@ While current systems rely on restrictive containers that often conflict with ou
 - [[software]]
 - [[computing]]
 - [[creativity]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> First up is an essay about OLLOS, a personal computing environment that organizes your things on the dimension of time, which I worked on and in from 2021 to 2023.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240121/#:~:text=First%20up%20is%20an,from%202021%20to%202023.)
+
+> [!quote]
+> Last year, I worked with independent research lab Ink & Switch on a new project that explores how to reorganize personal computing away from the over-abstract and rigid user environments of today.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240121/#:~:text=Last%20year%2C%20I%20worked,user%20environments%20of%20today.)
+
+> [!quote]
+> A gestural environment for the OS of the future
+>
+> — [Source](https://alexanderobenauer.com/weekly/20230729/#:~:text=A%20gestural%20environment%20for,OS%20of%20the%20future)
+<!-- citations:end -->

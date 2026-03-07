@@ -19,3 +19,24 @@ Ultimately, by centering our [[interface]] on these connections, we regain [[age
 - [[thinking]]
 - [[interface]]
 - [[agency]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Read on:  
+> [LN 033: Swappable reference views »](https://alexanderobenauer.com/labnotes/033/)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20221218/#:~:text=Read%20on%3A%20LN%20033%3A%20Swappable%20reference%20views%20%C2%BB)
+
+> [!quote]
+> I’ve now open sourced the plugin, and will work on polishing it up before submitting it into Obsidian’s Community Plugins directory. If you want to test it out, head to GitHub and follow [the instructions for testing](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian).
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210919/#:~:text=I%E2%80%99ve%20now%20open%20sourced,the%20instructions%20for%20testing.)
+
+> [!quote]
+> Read it here:  
+> [EXP 001: Cross-reference Navigation in Obsidian »](https://alexanderobenauer.com/labnotes/exp001/)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210912/#:~:text=Read%20it%20here%3A%20EXP,Navigation%20in%20Obsidian%20%C2%BB)
+<!-- citations:end -->

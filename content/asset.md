@@ -23,3 +23,22 @@ Assets are the fundamental, atomic units of our digital existence, serving as th
 - [[environment]]
 - [[agency]]
 - [[experimentation]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> What if you could develop your thinking or work in browsing paths that can contain all the items you need, regardless of type or source? And what if you could return to your recent paths anytime? [Demos of this](https://alexanderobenauer.com/labnotes/004/) included moving from your day’s task list into a project that required taking down notes and tasks while researching a specific topic with assets in your path, and returning to this path later to continue the work.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210828/#:~:text=What%20if%20you%20could,to%20continue%20the%20work.)
+
+> [!quote]
+> Second, I’ve finally published an RSS feed for this weekly newsletter. If you use an RSS reader, you can subscribe with this URL: [https://alexanderobenauer.com/assets/feed/rss.xml](https://alexanderobenauer.com/assets/feed/rss.xml)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210731/#:~:text=Second%2C%20I%E2%80%99ve%20finally%20published,with%20this%20URL%3A%20https%3A%2F%2Falexanderobenauer.com%2Fassets%2Ffeed%2Frss.xml)
+
+> [!quote]
+> ![The Weekly](/assets/svgs/title-theweekly.svg)
+>
+> — [Source](https://alexanderobenauer.com/weekly/#:~:text=!The%20Weekly)
+<!-- citations:end -->

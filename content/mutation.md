@@ -21,3 +21,26 @@ In an [[os]] defined by [[item]], [[mutation]] are the granular building blocks 
 - [[time]]
 - [[computing]]
 - [[os]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Read the lab note:  
+> [LN 024: Mutations & Item change logs »](https://alexanderobenauer.com/labnotes/024/)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20220312/#:~:text=Read%20the%20lab%20note%3A,Item%20change%20logs%20%C2%BB)
+
+> [!quote]
+> - [LN 024: Mutations & Item change logs](/labnotes/024)
+> - [LN 025: Publishing items](/labnotes/025)
+> - [LN 026: Internet Modules](/labnotes/026)
+> - [LN 027: Personal Computing Network & Devices](/labnotes/027)
+>
+> — [Source](https://alexanderobenauer.com/labnotes/000/#:~:text=-%20LN%20024%3A%20Mutations,Computing%20Network%20%26%20Devices)
+
+> [!quote]
+> Mutations & Item change logs
+>
+> — [Source](https://alexanderobenauer.com/labnotes/024/#:~:text=Mutations%20%26%20Item%20change%20logs)
+<!-- citations:end -->

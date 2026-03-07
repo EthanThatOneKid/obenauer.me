@@ -20,3 +20,23 @@ By treating the system as an open graph of linked concepts, we can trigger meani
 - [[view]]
 - [[workflow]]
 - [[os]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Automation in the OS of the future
+>
+> — [Source](https://alexanderobenauer.com/weekly/20220116/#:~:text=Automation%20in%20the%20OS%20of%20the%20future)
+
+> [!quote]
+> The way our itemized OS of the future is designed could very well open up the potential for some of the most compelling automation available in personal computing.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20220116/#:~:text=The%20way%20our%20itemized,available%20in%20personal%20computing.)
+
+> [!quote]
+> Read the lab note:  
+> [LN 021: Automations »](https://alexanderobenauer.com/labnotes/021/)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20220116/#:~:text=Read%20the%20lab%20note%3A%20LN%20021%3A%20Automations%20%C2%BB)
+<!-- citations:end -->

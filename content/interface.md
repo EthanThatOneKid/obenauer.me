@@ -16,3 +16,23 @@ An ==interface== is not merely a static screen, but the fundamental medium throu
 - [[computing]]
 - [[agency]]
 - [[os]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Thinking about the interfaces with which we think
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240622/#:~:text=Thinking%20about%20the%20interfaces%20with%20which%20we%20think)
+
+> [!quote]
+> Read on:  
+> **[The Interfaces With Which We Think »](https://alexanderobenauer.com/think/)**
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240622/#:~:text=Read%20on%3A%20The%20Interfaces,Which%20We%20Think%20%C2%BB)
+
+> [!quote]
+> The essay includes a demo video, and covers everything from the project: how it works & how I used it, design and concept iterations, future work for it and the OS, and what I learned about personal interfaces.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240121/#:~:text=The%20essay%20includes%20a,learned%20about%20personal%20interfaces.)
+<!-- citations:end -->

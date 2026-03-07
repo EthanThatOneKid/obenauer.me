@@ -18,3 +18,29 @@ tags:
 - [[computing]]
 - [[interface]]
 - [[thinking]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Dive in:\
+> [LN 002: Universal data portability](/labnotes/002)
+>
+> — [Source](https://alexanderobenauer.com/weekly/20210116/#:~:text=Dive%20in%3A%5C%20LN%20002%3A%20Universal%20data%20portability)
+
+> [!quote]
+> The preceding section illustrated many of the usability benefits of associated
+> actions, universal data portability and reference containers, browsing paths,
+> etc. This section will highlight some other benefits and perspectives.
+>
+> — [Source](https://alexanderobenauer.com/articles/os/1/#:~:text=The%20preceding%20section%20illustrated,other%20benefits%20and%20perspectives.)
+
+> [!quote]
+> If you’re reading for the first time, you can start with
+> [LN 002: Universal data portability](/labnotes/002) and progress sequentially,
+> or a good single one to start with is [LN 014: The Graph OS](/labnotes/014). If
+> you want to jump into the more recent stuff, start with
+> [LN 037: Gestural view construction](/labnotes/037).
+>
+> — [Source](https://alexanderobenauer.com/labnotes/000/#:~:text=If%20you%E2%80%99re%20reading%20for,037%3A%20Gestural%20view%20construction.)
+<!-- citations:end -->

@@ -27,3 +27,18 @@ tags:
 - [[localfirst]]
 - [[thinking]]
 - [[workflow]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> **How can security be balanced with openness?** If I own a computer, I should be
+> able to install and run any software I own without anyone’s permission. Or as a
+> developer, I should be able to develop any non-malicious software I want for the
+> platform, I should be able to run it on my machine without anyone’s permission,
+> and I should be able to distribute it to users in a manner of my choosing:
+> independently through my own mechanism, or on a platform of someone else’s
+> creation. What security models could exist to safely enable this ownership?
+>
+> — [Source](https://alexanderobenauer.com/os/#:~:text=How%20can%20security%20be,safely%20enable%20this%20ownership%3F)
+<!-- citations:end -->

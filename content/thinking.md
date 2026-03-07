@@ -20,3 +20,22 @@ We must move toward a future where our tools act as catalysts for this resonance
 - [[creativity]]
 - [[research]]
 - [[interface]]
+
+<!-- citations:start -->
+## Citations
+
+> [!quote]
+> Over ten chapters, it illustrates how we built each layer of computing out of the one before, and the models of thinking that got us there. It’s a short, technical book for curious, non-technical people.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20250201/#:~:text=Over%20ten%20chapters%2C%20it,for%20curious%2C%20non-technical%20people.)
+
+> [!quote]
+> It’s called _Bootstrapping Computing_, and I’d love for you to have a copy, share one with your most curious friend, and enjoy these wonder machines before us a little more with me. While it’s written for a non-technical audience, I’ve greatly enjoyed how it has helped me solidify my thinking about the fundamentals of computing; the ingredients for my everyday work.
+>
+> — [Source](https://alexanderobenauer.com/weekly/20250201/#:~:text=It%E2%80%99s%20called%20Bootstrapping%20Computing%2C,for%20my%20everyday%20work.)
+
+> [!quote]
+> Thinking about the interfaces with which we think
+>
+> — [Source](https://alexanderobenauer.com/weekly/20240622/#:~:text=Thinking%20about%20the%20interfaces%20with%20which%20we%20think)
+<!-- citations:end -->
