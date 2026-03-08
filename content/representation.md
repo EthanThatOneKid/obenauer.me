@@ -16,4 +16,4 @@ Representation is the [[fundamental]] bridge between internal cognition and exte
 > [!idea] Key Insight
 > The [[quality]] of our [[thinking]] is inherently limited by the [[quality]] of our representations; when we improve how we capture and structure information, we fundamentally enhance our ability to reason and create.
 
-==We must build [[system|systems]] that treat representations as living, interconnected entities rather than static data points.== By focusing on the [[item|[[item]]-centric]] nature of our [[tool|tools]], we allow for a more intuitive, human-centered approach to information [[architecture]].
+==We must build [[system|systems]] that treat representations as living, interconnected entities rather than static data points.== By focusing on the [[item|item-centric]] nature of our [[tool|tools]], we allow for a more intuitive, human-centered approach to information [[architecture]].

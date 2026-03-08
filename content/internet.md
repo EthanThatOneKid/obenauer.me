@@ -11,7 +11,7 @@ tags:
   - localfirst
 ---
 
-The [[internet]] is the digital substrate of our modern existence, functioning as the vast, interconnected [[environment]] where our [[computing]] [[tool|tools]] reside. It is not merely a transport [[layer]] but a foundational [[architecture]] that must be reimagined to foster human [[sovereignty]] and [[agency]]. By transitioning from rigid, siloed experiences toward a more [[malleability|malleable]] and [[item|[[item]]-centric]] paradigm, we can transform the [[network]] from a space of fragmented [[fact]] into a coherent, [[interoperability|interoperable]] fabric that supports our daily [[thinking]].
+The [[internet]] is the digital substrate of our modern existence, functioning as the vast, interconnected [[environment]] where our [[computing]] [[tool|tools]] reside. It is not merely a transport [[layer]] but a foundational [[architecture]] that must be reimagined to foster human [[sovereignty]] and [[agency]]. By transitioning from rigid, siloed experiences toward a more [[malleability|malleable]] and [[item|item-centric]] paradigm, we can transform the [[network]] from a space of fragmented [[fact]] into a coherent, [[interoperability|interoperable]] fabric that supports our daily [[thinking]].
 
 > [!idea]
 > The true potential of the internet is unlocked when we treat it as an extension of our own cognitive reach, allowing for seamless [[graph]] and [[discovery]] across distributed [[system|systems]].

@@ -15,4 +15,4 @@ tags:
 
 > [!idea] By leveraging these [[system]]-provided channels, developers gain the freedom to extend functionality without reinventing the underlying [[interaction]] [[model]]. It is through these ==injections== that we bridge the gap between isolated [[software]] [[silo|silos]], empowering users to interact with their own [[item]] and [[workflow]] in a unified, reliable manner across the entire [[os]].
 
-> [!important] Ultimately, the power of an [[item|[[item]]-centric]] [[system]] lies in its ability to render bespoke [[view|views]] via these injections, allowing the [[interface]] to remain as fluid and dynamic as the user's [[thinking]] itself.
+> [!important] Ultimately, the power of an [[item|item-centric]] [[system]] lies in its ability to render bespoke [[view|views]] via these injections, allowing the [[interface]] to remain as fluid and dynamic as the user's [[thinking]] itself.
