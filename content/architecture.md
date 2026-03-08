@@ -14,7 +14,7 @@ tags:
 
 # architecture
 
-[[architecture]] is the foundational scaffolding that shapes the relationship between the human and the machine. By defining the [[environment]] in which [[computing]] unfolds, it determines whether our digital tools become extensions of our [[thinking]] or barriers to our natural [[creativity]]. It is not merely about technical structures, but about intentionally crafting an [[os]] that upholds human dignity.
+[[architecture]] is the foundational scaffolding that shapes the [[relationship]] between the human and the machine. By defining the [[environment]] in which [[computing]] unfolds, it determines whether our digital [[tool|tools]] become extensions of our [[thinking]] or barriers to our natural [[creativity]]. It is not merely about technical structures, but about intentionally crafting an [[os]] that upholds human dignity.
 
 > [!idea]
 > True [[architecture]] must avoid the trap of becoming an adversary. It must ensure that the digital experience serves the person, fostering [[agency]] rather than diminishing it through complexity or enclosure.
