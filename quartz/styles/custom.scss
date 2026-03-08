@@ -1,7 +1,9 @@
 @use "./base.scss";
 
 :root {
-  --codeFont: "SF Mono", "Monaco", "Inconsolata", "Fira Code", "Fira Mono", "Cascadia Code", "Roboto Mono", "Source Code Pro", "Ubuntu Mono", "DejaVu Sans Mono", "Courier New", Courier, monospace;
+  --codeFont:
+    "SF Mono", "Monaco", "Inconsolata", "Fira Code", "Fira Mono", "Cascadia Code", "Roboto Mono",
+    "Source Code Pro", "Ubuntu Mono", "DejaVu Sans Mono", "Courier New", Courier, monospace;
 }
 
 article {
@@ -9,7 +11,12 @@ article {
   font-size: 1.15rem;
   line-height: 1.6;
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-family: var(--headerFont); // Crimson Pro
     font-weight: 700;
   }
@@ -26,7 +33,9 @@ article {
 }
 
 // UI/Navigation uses Inter (which we mapped to --codeFont slot for loading)
-.sidebar, .page-header, .page-footer {
+.sidebar,
+.page-header,
+.page-footer {
   font-family: "Inter", sans-serif;
   font-size: 0.9rem;
 }
