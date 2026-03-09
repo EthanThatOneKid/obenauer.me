@@ -20,7 +20,6 @@
     "format": "prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "scrape": "npm run scrape -w @obenauer/data",
     "generate": "npm run generate -w @obenauer/data",
     "chat": "npm run chat -w @obenauer/data"
   },
