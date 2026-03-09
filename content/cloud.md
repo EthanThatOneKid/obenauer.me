@@ -13,7 +13,7 @@ tags:
   - graph
 ---
 
-The [[cloud]] is not a distant, opaque utility, but rather the expansive [[workspace|workspace]] for our collective [[thinking]] and [[discovery]]. It serves as an active, interconnected [[environment]] where our [[item]]—from [[note]] to [[project]]—become malleable, fluid entities rather than static [[silo|silos]]. By transforming the cloud from a mere storage [[layer]] into an [[interface]] for [[symbiosis]], we can cultivate a digital garden that adapts to our [[intent]].
+The [[cloud]] is not a distant, opaque utility, but rather the expansive [[workspace]] for our collective [[thinking]] and [[discovery]]. It serves as an active, interconnected [[environment]] where our [[item]]—from [[note]] to [[project]]—become malleable, fluid entities rather than static [[silo|silos]]. By transforming the cloud from a mere storage [[layer]] into an [[interface]] for [[symbiosis]], we can cultivate a digital garden that adapts to our [[intent]].
 
 > [!idea]
 > We must shift from viewing the cloud as a remote dump to seeing it as the shared, extensible fabric of our [[personal]] [[computing]] [[domain]].

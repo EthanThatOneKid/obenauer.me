@@ -13,7 +13,7 @@ tags:
 
 # modularity
 
-Modularity is the art of composing a cohesive [[unit]]—a ==module==—from [[fundamental]] [[primitive|primitives]] like [[item]], [[view]], [[action]], and [[automation]]. By bundling these parts, we transform static data into interactive, functional experiences that can be shared or published across the [[internet]], inviting others to engage with our [[intent]] in ways that transcend traditional, siloed [[software]].
+Modularity is the art of composing a cohesive [[unit|units]]—a ==module==—from [[fundamental]] [[primitive|primitives]] like [[item]], [[view]], [[action]], and [[automation]]. By bundling these parts, we transform static data into interactive, functional experiences that can be shared or published across the [[internet]], inviting others to engage with our [[intent]] in ways that transcend traditional, siloed [[software]].
 
 > [!idea]
 > Think of modules not as static [[document|documents]], but as living extensions of your [[os]] that bridge the gap between private [[thinking]] and public exchange.

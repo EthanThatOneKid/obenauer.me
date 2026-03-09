@@ -8,7 +8,7 @@ tags:
   - system
 ---
 
-[[undo]] functions as a [[fundamental]] pillar of a cohesive [[system]], enabling a consistent, [[system]]-wide experience that transcends individual [[software]]. By requiring that every [[action|action]] supplied by a [[automation|automation]] includes its corresponding inverse, we remove the burden from individual developers to build fragmented recovery [[tool|tools]]. This ==declarative approach to reversibility== empowers the user, ensuring that whether an [[item]] is archived or modified, the path back is always baked into the [[architecture]] of the [[interaction]] itself.
+[[undo]] functions as a [[fundamental]] pillar of a cohesive [[system]], enabling a consistent, [[system]]-wide experience that transcends individual [[software]]. By requiring that every [[action]] supplied by a [[automation]] includes its corresponding inverse, we remove the burden from individual developers to build fragmented recovery [[tool|tools]]. This ==declarative approach to reversibility== empowers the user, ensuring that whether an [[item]] is archived or modified, the path back is always baked into the [[architecture]] of the [[interaction]] itself.
 
 > [!idea] By pairing every action with its inverse at the service level, we achieve a universal standard for safety and [[experimentation]].
 

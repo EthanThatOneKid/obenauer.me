@@ -15,4 +15,4 @@ tags:
 > [!idea]
 > True planning is not about setting things in stone, but about ==aligning our daily actions with our long-term vision==, allowing for flexibility as our understanding evolves.
 
-Effective planning integrates tightly with our [[workflow]], ensuring that our [[task]] are always grounded in clear [[context]] and moving us toward meaningful outcomes.
+Effective planning integrates tightly with our [[workflow]], ensuring that our [[task|tasks]] are always grounded in clear [[context]] and moving us toward meaningful outcomes.

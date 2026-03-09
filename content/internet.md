@@ -16,4 +16,4 @@ The [[internet]] is the digital substrate of our modern existence, functioning a
 > [!idea]
 > The true potential of the internet is unlocked when we treat it as an extension of our own cognitive reach, allowing for seamless [[graph]] and [[discovery]] across distributed [[system|systems]].
 
-We must move past the current limitations of the [[cloud]] to ensure our digital [[asset]] remain within our [[personal]] control, prioritizing [[localfirst]] access while maintaining global connectivity. The [[future]] relies on this shift: replacing isolated [[software]] with a fluid, unified [[workspace|workspace]] where ideas flow without friction.
+We must move past the current limitations of the [[cloud]] to ensure our digital [[asset]] remain within our [[personal]] control, prioritizing [[localfirst]] access while maintaining global connectivity. The [[future]] relies on this shift: replacing isolated [[software]] with a fluid, unified [[workspace]] where ideas flow without friction.

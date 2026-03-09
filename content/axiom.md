@@ -20,4 +20,4 @@ Axioms are the foundational [[principle]] that anchor our [[design]] and [[archi
 > [!idea]
 > We achieve true [[perfection]] not by piling on features, but by distilling our [[tool|tools]] down to these essential axioms—removing everything that does not support the core experience.
 
-By grounding our work in clear axioms, we resist the decay of [[software]] and move toward a [[future]] of [[sovereignty]] in [[computing]], ensuring that the [[system|systems]] we [[craft]] are as resilient as they are intuitive.
+By grounding our work in clear axioms, we resist the decay of [[software]] and move toward a [[future]] of [[sovereignty]] in [[computing]], ensuring that the [[system|systems]] we [[craft|crafts]] are as resilient as they are intuitive.
