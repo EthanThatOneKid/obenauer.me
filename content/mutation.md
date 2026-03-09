@@ -17,4 +17,4 @@ tags:
 > [!idea]
 > By recording every [[creation]], update, or [[relationship]] change, we preserve the full provenance of our digital world, shifting the focus from the final result to the [[process]] of [[thinking]] itself.
 
-In an [[os]] defined by [[item]], [[mutation|mutations]] are the granular building blocks that enable deep reflection and recovery of past [[context|contexts]]. They ensure that our [[workspace|workspaces]] are not just current snapshots, but living, searchable records of our ongoing [[project]].
+In an [[os]] defined by [[item|items]], [[mutation|mutations]] are the granular building blocks that enable deep reflection and recovery of past [[context|contexts]]. They ensure that our [[workspace|workspaces]] are not just current snapshots, but living, searchable records of our ongoing [[project|projects]].

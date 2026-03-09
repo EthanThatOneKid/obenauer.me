@@ -19,4 +19,4 @@ tags:
 > [!idea]
 > ==[[quantity]] is the journey to [[quality]].== While we might theorize about [[perfection]], it is through the act of creating and the subsequent [[review]] of our efforts that true [[quality]] emerges.
 
-By centering [[practice]] as our primary [[interface]], we reclaim [[sovereignty]] over our [[tool|tools]] and our [[thinking]], turning passive consumption into active [[production]]. It is the engine of our [[iteration]], ensuring that our digital [[tool|tools]] remain as [[malleability|malleable]] as the thoughts they hold.
+By centering [[practice]] as our primary [[interface]], we reclaim [[sovereignty]] over our [[tool|tools]] and our [[thinking]], turning passive consumption into active [[production]]. It is the engine of our [[iteration]], ensuring that our digital [[tool|tools]] remain as malleable as the thoughts they hold.

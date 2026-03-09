@@ -15,4 +15,4 @@ A [[workspace]] is an [[item]] within an [[item]]-centric [[system]]—possessin
 > [!idea] Moving toward fluidity
 > While static workspaces preserve state, true [[thinking]] requires fluidity. We must evolve these [[container|containers]] to be less rigid, allowing us to interact with the same information at varying levels of [[zoom]] and detail depending on whether we are continuing past efforts or synthesizing results to embark on new paths.
 
-Ultimately, workspaces should not be static [[silo|silos]] but dynamic [[environment]] extensions that adapt to the [[intent]] of our [[thinking]], facilitating a more [[symbiosis|symbiotic]] [[relationship]] between human and [[computing]].
+Ultimately, workspaces should not be static [[silo|silos]] but dynamic [[environment]] extensions that adapt to the [[intent]] of our [[thinking]], facilitating a more symbiotic [[relationship]] between human and [[computing]].

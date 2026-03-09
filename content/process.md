@@ -24,4 +24,4 @@ tags:
 > [!idea]
 > ==[[quantity]] is the journey to [[quality]].== We must move past the paralysis of theorizing to participate in the messy, generative act of making.
 
-By tethering our [[agency]] to the rhythm of our work, we avoid the trap of premature finality and ensure that our [[tool|tools]] serve to catalyze growth rather than restrict it. [[process]] is the bridge between intention and realization, grounding our [[thinking]] in the tangible results of a responsive, [[malleability|malleable]] [[workflow]].
+By tethering our [[agency]] to the rhythm of our work, we avoid the trap of premature finality and ensure that our [[tool|tools]] serve to catalyze growth rather than restrict it. [[process]] is the bridge between intention and realization, grounding our [[thinking]] in the tangible results of a responsive, malleable [[workflow]].

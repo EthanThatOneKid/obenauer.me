@@ -10,7 +10,7 @@ tags:
   - sovereignty
 ---
 
-A ==plugin== is a modular extension that enhances the capabilities of an existing [[environment]], allowing for greater [[malleability]] and personalized [[workflow]] tuning. By enabling specific [[action]] and [[integration]] paths, plugins transform static [[tool|tools]] into dynamic, evolving [[system|systems]] that reflect individual [[intent]].
+A ==plugin== is a modular extension that enhances the capabilities of an existing [[environment]], allowing for greater [[malleability]] and personalized [[workflow]] tuning. By enabling specific [[action|actions]] and [[integration|integrations]] paths, plugins transform static [[tool|tools]] into dynamic, evolving [[system|systems]] that reflect individual [[intent]].
 
 > [!idea] Plugins serve as a bridge between rigid [[software]] [[architecture|architectures]] and the fluidity required for genuine [[symbiosis]] between human and machine.
 

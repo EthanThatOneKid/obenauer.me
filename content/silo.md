@@ -15,4 +15,4 @@ Silos are the rigid, ==artificial boundaries== that fragment our digital lives, 
 > [!important]
 > We must dismantle these silos to move toward a [[future]] defined by [[localfirst]] [[principle|principles]], where the user—not the [[software]] vendor—remains the central hub of their own digital ecosystem.
 
-To transcend these limits, we must prioritize [[integration]] and universal [[graph|links]], ensuring that our digital [[tool|tools]] act as an extension of our minds rather than barriers to them.
+To transcend these limits, we must prioritize [[integration]] and universal links, ensuring that our digital [[tool|tools]] act as an extension of our minds rather than barriers to them.

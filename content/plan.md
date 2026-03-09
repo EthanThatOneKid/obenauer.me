@@ -21,4 +21,4 @@ A plan acts as the connective tissue between [[thinking]] and material reality, 
 > [!idea]
 > A plan is the mechanism through which we apply [[logic]] to the chaos of [[creation]], ensuring that our [[experimentation]] leads toward a coherent, usable [[future]] for human [[thinking]].
 
-When we draft a plan, we are essentially defining the next arc in our own [[timeline]]. This [[process]] demands rigorous [[review]], frequent [[iteration]], and an openness to discovering new [[opportunity]] as the work unfolds.
+When we draft a plan, we are essentially defining the next arc in our own [[timeline]]. This [[process]] demands rigorous [[review]], frequent [[iteration]], and an openness to discovering new [[opportunity|opportunities]] as the work unfolds.

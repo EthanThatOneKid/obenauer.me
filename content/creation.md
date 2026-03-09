@@ -25,4 +25,4 @@ Creation is not a singular event of brilliance but a iterative [[practice]], int
 > [!important]
 > True [[creation]] is found in the churn of doing, where [[learning]] happens through the friction of real-world feedback rather than the paralysis of theoretical [[planning]].
 
-Ultimately, the [[environment]] in which we create must support this rhythm, allowing for the [[externalization]] of ideas into [[item]] that can be shaped, moved, and linked. We stop theorizing and start building, ensuring our [[workflow]] remains a living testament to our evolving understanding.
+Ultimately, the [[environment]] in which we create must support this rhythm, allowing for the [[externalization]] of ideas into [[item|items]] that can be shaped, moved, and linked. We stop theorizing and start building, ensuring our [[workflow]] remains a living testament to our evolving understanding.

@@ -18,4 +18,4 @@ Widgets act as a vital [[system]] [[injection]], serving as a gateway for [[soft
 > Widgets are not mere portals; they are [[representation|representations]] of active [[intent]] that transform passive [[software]] into lived, ambient presence.
 
 > [!idea]
-> By leveraging these [[injection|injections]], we can move away from siloed [[interaction]] [[model|models]] toward a more cohesive, [[item|item-centric]] approach to [[computing]].
+> By leveraging these [[injection|injections]], we can move away from siloed [[interaction]] [[model|models]] toward a more cohesive, item-centric approach to [[computing]].

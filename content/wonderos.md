@@ -16,7 +16,7 @@ tags:
 
 # wonderos
 
-[[wonderos]] is an experimental [[environment]] serving as the foundation for reimagining how we interact with [[computing]]. It acts as a crucible for new [[thinking]] regarding [[item]], where the traditional boundaries of [[software]] dissolve into fluid, interconnected experiences. By shifting focus toward the raw data and the [[thinking]] it supports, it invites a deeper sense of [[curiosity]] and [[agency]] in our digital lives.
+[[wonderos]] is an experimental [[environment]] serving as the foundation for reimagining how we interact with [[computing]]. It acts as a crucible for new [[thinking]] regarding [[item|items]], where the traditional boundaries of [[software]] dissolve into fluid, interconnected experiences. By shifting focus toward the raw data and the [[thinking]] it supports, it invites a deeper sense of [[curiosity]] and [[agency]] in our digital lives.
 
 > [!idea]
 > At its core, ==[[wonderos]] is a playground for testing how [[system|systems]] can better serve human [[intent]] rather than constraining it within rigid applications.==

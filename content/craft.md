@@ -15,4 +15,4 @@ tags:
 > [!idea]
 > True craft is found in the resistance of the material; it is the deliberate choice to forgo convenience for the sake of integrity in our digital [[architecture]].
 
-When we treat our work as a living entity, we transform ephemeral [[task|tasks]] into [[asset]] that gain value over [[time]]. This requires a shift from consuming pre-packaged solutions toward building [[sovereignty]] over the very foundation of our daily [[workflow]].
+When we treat our work as a living entity, we transform ephemeral [[task|tasks]] into [[asset|assets]] that gain value over [[time]]. This requires a shift from consuming pre-packaged solutions toward building [[sovereignty]] over the very foundation of our daily [[workflow]].
