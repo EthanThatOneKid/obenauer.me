@@ -12,7 +12,7 @@ tags:
 
 > [!idea]
 > True communication should function as a living, [[interaction|interactive]] stream of relevant [[item|items]],
- where [[interaction|interacting]] feels like an extension of one’s own [[thinking]] rather than an interruption by a foreign [[system]].
+> where [[interaction|interacting]] feels like an extension of one’s own [[thinking]] rather than an interruption by a foreign [[system]].
 
 We must reimagine these pathways to ensure that every exchange is grounded in the user's specific [[context]], turning what is currently a source of digital noise into a coherent, malleable thread of [[relationship]]
- and meaningful [[collaboration]].
+and meaningful [[collaboration]].

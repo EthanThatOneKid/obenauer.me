@@ -21,4 +21,4 @@ Memory is the critical bridge between our fleeting [[thinking]] and lasting [[so
 > [!idea] Memory is not just storage; it is the active reconstruction of our past efforts to fuel [[future]] [[creativity]].
 
 When we treat our digital life as a deeply interconnected [[graph]], we move beyond passive [[fact|facts]] retention toward active [[memory]].
- Each [[item]] serves as a building block, allowing us to navigate our own [[context]] with the ease of natural thought. Ultimately, memory is about achieving a state where our [[tool|tools]] provide true [[augmentation]] to our daily [[workflow]].
+Each [[item]] serves as a building block, allowing us to navigate our own [[context]] with the ease of natural thought. Ultimately, memory is about achieving a state where our [[tool|tools]] provide true [[augmentation]] to our daily [[workflow]].

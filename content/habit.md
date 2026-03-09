@@ -11,7 +11,7 @@ tags:
 # habits
 
 habits are the rhythmic patterns of ==intentional [[interaction]]== that transform our digital [[environment]] into an extension of [[thinking]]. By anchoring [[action|actions]] into recurring sequences,
- we move beyond passive consumption, establishing a [[workflow]] that fosters steady [[iteration]]. These sequences are the bridge between raw [[quantity]] and true [[mastery]], ensuring our [[tool|tools]] align with our [[intent]].
+we move beyond passive consumption, establishing a [[workflow]] that fosters steady [[iteration]]. These sequences are the bridge between raw [[quantity]] and true [[mastery]], ensuring our [[tool|tools]] align with our [[intent]].
 
 > [!idea]
 > We do not simply use [[tool|tools]]; we develop a [[language]] with them. Through repeated [[practice]], the digital space becomes a responsive substrate for [[creativity]], where the barrier between [[thinking]] and [[execution]] dissolves into fluid [[logic]].
