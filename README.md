@@ -30,8 +30,8 @@ The site is powered by [Quartz v4](https://quartz.jzhao.xyz/).
 
 - `npm run start`: Build and serve the site locally with hot reloading.
 - `npm run build`: Build the production site.
-- `npm run check`: Run TypeScript type checking and Prettier linting.
-- `npm run format`: Format the codebase using Prettier.
+- `npm run check`: Run TypeScript type checking and [deno fmt](https://docs.deno.com/examples/deno_fmt/) checking.
+- `npm run format`: Format the codebase using [deno fmt](https://docs.deno.com/examples/deno_fmt/).
 
 ## Data & intelligence workflow
 
