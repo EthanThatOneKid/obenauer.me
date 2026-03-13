@@ -8,9 +8,19 @@ tags:
   - agency
 ---
 
-[[convention|conventions]] are the unwritten rules of [[interaction]] that emerge within a [[system]], shaping how we navigate our [[environment]]. By observing the rise of these patterns—like those explored in the minimal, [[document]]-centric [[design]] of [[system|systems]] such as the Canon Cat—we learn how to foster greater [[agency]] and [[creativity]] for the user. When we intentionally [[design]] these shared understandings, we reduce the cognitive load of [[navigation]], allowing our [[tool|tools]] to become invisible extensions of our [[thinking]].
+[[convention|conventions]] are the unwritten rules of [[interaction]] that
+emerge within a [[system]], shaping how we navigate our [[environment]]. By
+observing the rise of these patterns—like those explored in the minimal,
+[[document]]-centric [[design]] of [[system|systems]] such as the Canon Cat—we
+learn how to foster greater [[agency]] and [[creativity]] for the user. When we
+intentionally [[design]] these shared understandings, we reduce the cognitive
+load of [[navigation]], allowing our [[tool|tools]] to become invisible
+extensions of our [[thinking]].
 
-> [!idea]
-> ==User conventions== are the bedrock of intuitive [[interaction]]. When established effectively, they transform a complex [[architecture]] into a familiar, navigable landscape for human thought.
+> [!idea] ==User conventions== are the bedrock of intuitive [[interaction]].
+> When established effectively, they transform a complex [[architecture]] into a
+> familiar, navigable landscape for human thought.
 
-By prioritizing clear [[model|models]] and consistent [[interaction|interactions]], we ensure that the [[interface]] serves as a bridge rather than a barrier to [[discovery]].
+By prioritizing clear [[model|models]] and consistent
+[[interaction|interactions]], we ensure that the [[interface]] serves as a
+bridge rather than a barrier to [[discovery]].

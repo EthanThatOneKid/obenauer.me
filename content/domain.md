@@ -10,9 +10,23 @@ tags:
   - workflow
 ---
 
-A ==domain== represents the unified boundaries of your [[personal]] [[computing]] existence, encompassing your entire collection of [[device|devices]] and the ==[[item|items]]== they host. It is the logical space where your ==[[software]]== modules, ==[[asset|assets]]==, and digital life coalesce into a single, cohesive entity rather than remaining siloed on specific hardware. By treating your collection of [[device|devices]] as a singular, extensible [[network]], you gain the ==[[sovereignty]]== to move your ==[[workflow]]== and [[logic]] seamlessly across any node in that [[environment]].
+A ==domain== represents the unified boundaries of your [[personal]]
+[[computing]] existence, encompassing your entire collection of
+[[device|devices]] and the ==[[item|items]]== they host. It is the logical space
+where your ==[[software]]== modules, ==[[asset|assets]]==, and digital life
+coalesce into a single, cohesive entity rather than remaining siloed on specific
+hardware. By treating your collection of [[device|devices]] as a singular,
+extensible [[network]], you gain the ==[[sovereignty]]== to move your
+==[[workflow]]== and [[logic]] seamlessly across any node in that
+[[environment]].
 
-> [!idea]
-> Think of your domain not as a collection of separate machines, but as a living, expanding ecosystem that grows as you add new capabilities—much like adding a [[device]] to a [[network]], where every component immediately benefits from the shared [[context]].
+> [!idea] Think of your domain not as a collection of separate machines, but as
+> a living, expanding ecosystem that grows as you add new capabilities—much like
+> adding a [[device]] to a [[network]], where every component immediately
+> benefits from the shared [[context]].
 
-By ensuring your ==[[graph]]== of data and functionality persists across your entire domain, you reclaim the fluidity lost to fragmented [[computing]]. This [[architecture]] allows you to transition between [[device|devices]] without pause, keeping your cognitive [[process|processes]] continuous and deeply rooted in your own digital territory.
+By ensuring your ==[[graph]]== of data and functionality persists across your
+entire domain, you reclaim the fluidity lost to fragmented [[computing]]. This
+[[architecture]] allows you to transition between [[device|devices]] without
+pause, keeping your cognitive [[process|processes]] continuous and deeply rooted
+in your own digital territory.
