@@ -164,7 +164,8 @@ class DiagramPanZoom {
   }
 
   private updateTransform() {
-    this.content.style.transform = `translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`
+    this.content.style.transform =
+      `translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`
   }
 
   private resetTransform() {
@@ -261,8 +262,7 @@ document.addEventListener("nav", async () => {
     const expandBtn = pre.querySelector(".expand-button") as HTMLButtonElement
 
     const clipboardStyle = window.getComputedStyle(clipboardBtn)
-    const clipboardWidth =
-      clipboardBtn.offsetWidth +
+    const clipboardWidth = clipboardBtn.offsetWidth +
       parseFloat(clipboardStyle.marginLeft || "0") +
       parseFloat(clipboardStyle.marginRight || "0")
 

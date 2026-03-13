@@ -474,7 +474,7 @@ This kind of timeline interface would be an important part of an OS of the
 future. Grounding the OS of the future with an understanding of time lets us
 rely on our millenia-honed faculties, giving us better support for orienteering,
 better reflection of
-[chunking](<https://en.wikipedia.org/wiki/Chunking_(psychology)>), and so forth.
+[chunking](https://en.wikipedia.org/wiki/Chunking_(psychology)), and so forth.
 
 In a complete OS, it would be complemented by other kinds of views, or the
 ability to “spin up” other kinds of views (e.g. via

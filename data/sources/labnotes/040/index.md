@@ -90,7 +90,7 @@ of a cult following. Systems in this realm include
 non-linear personal notebook”. More recently, notes graphs have become popular
 with their own cult following, with links and backlinks among written notes, and
 increasingly, other kinds of documents. Systems in this realm include
-[Obsidian](<https://en.wikipedia.org/wiki/Obsidian_(software)>), which we’ve
+[Obsidian](https://en.wikipedia.org/wiki/Obsidian_(software)), which we’ve
 discussed in [a previous lab note](/labnotes/014). Past systems often gestured
 at these ideas, sometimes with potency: Apple’s
 [HyperCard](https://en.wikipedia.org/wiki/HyperCard) featured cards in which
@@ -119,7 +119,7 @@ Linking together versions across time is also poorly supported. When you do have
 versions, they’re often _somewhere else_ — a git repo’s commit history, copies
 of files with vaguely incrementing filenames, etc. Changelogs in sidebars à la
 Notion or Google Docs just barely scratch at the idea.
-[Time Machine](<https://en.wikipedia.org/wiki/Time_Machine_(macOS)>) is a separate
+[Time Machine](https://en.wikipedia.org/wiki/Time_Machine_(macOS)) is a separate
 app on macOS that lets you scrub through past versions of any folder or document
 down to fifteen-minute increments (though it has been pushed less in recent
 years, presumably in favor of storing files in iCloud and not really thinking

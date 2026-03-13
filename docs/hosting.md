@@ -11,7 +11,7 @@ but any service that allows you to deploy static HTML should work as well.
 
 > [!warning] The rest of this guide assumes that you've already created your own
 > GitHub repository for Quartz. If you haven't already, [[setting up your GitHub
-repository|make sure you do so]].
+> repository|make sure you do so]].
 
 > [!hint] Some Quartz features (like [[RSS Feed]] and sitemap generation)
 > require `baseUrl` to be configured properly in your [[configuration]] to work

@@ -25,7 +25,7 @@ This part of the configuration concerns anything that can affect the whole site.
 The following is a list breaking down all the things you can configure:
 
 - `pageTitle`: title of the site. This is also used when generating the [[RSS
-Feed]] for your site.
+  Feed]] for your site.
 - `pageTitleSuffix`: a string added to the end of the page title. This only
   applies to the browser tab title, not the title shown at the top of the page.
 - `enableSPA`: whether to enable [[SPA Routing]] on your site.
@@ -73,7 +73,7 @@ Feed]] for your site.
     relative URLs whenever it can to make sure your site works no matter _where_
     you end up actually deploying it.
 - `ignorePatterns`: a list of
-  [glob](<https://en.wikipedia.org/wiki/Glob_(programming)>) patterns that Quartz
+  [glob](https://en.wikipedia.org/wiki/Glob_(programming)) patterns that Quartz
   should ignore and not search through when looking for files inside the
   `content` folder. See [[private pages]] for more details.
 - `defaultDateType`: whether to use created, modified, or published as the
@@ -89,17 +89,8 @@ Feed]] for your site.
     - `header`: font to use for headers
     - `code`: font for inline and block quotes
     - `body`: font for everything
-  - `colors`: controls the theming of the site.
-    - `light`: page background
-    - `lightgray`: borders
-    - `gray`: graph links, heavier borders
-    - `darkgray`: body text
-    - `dark`: header text and icons
-    - `secondary`: link colour, current [[graph view|graph]] node
-    - `tertiary`: hover states and visited [[graph view|graph]] nodes
-    - `highlight`: internal link background, highlighted text, [[syntax
-highlighting|highlighted lines of code]]
-    - `textHighlight`: markdown highlighted text background
+  - `colors`: controls the theming of the site. - `light`: page background - `lightgray`: borders - `gray`: graph links, heavier borders - `darkgray`: body text - `dark`: header text and icons - `secondary`: link colour, current [[graph view|graph]] node - `tertiary`: hover states and visited [[graph view|graph]] nodes - `highlight`: internal link background, highlighted text, [[syntax
+    highlighting|highlighted lines of code]] - `textHighlight`: markdown highlighted text background
 
 ## Plugins
 
@@ -151,7 +142,8 @@ For example, the [[plugins/Latex|Latex]] plugin allows you to pass in a field
 specifying the `renderEngine` to choose between Katex and MathJax.
 
 ```ts title="quartz.config.ts"
-transformers: [
+transformers: ;
+;[
   Plugin.FrontMatter(), // use default options
   Plugin.Latex({ renderEngine: "katex" }), // set some custom options
 ]

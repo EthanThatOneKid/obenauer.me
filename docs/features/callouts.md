@@ -55,9 +55,9 @@ fancy ones, you have to add these lines to `custom.scss`.
 
 > [!question]+ Can callouts be _nested_?
 >
-> > [!todo]- Yes!, they can. And collapsed!
-> >
-> > > [!example] You can even use multiple layers of nesting.
+>> [!todo]- Yes!, they can. And collapsed!
+>>
+>>> [!example] You can even use multiple layers of nesting.
 
 > [!note] Aliases: "note"
 

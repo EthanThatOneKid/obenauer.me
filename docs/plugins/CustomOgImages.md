@@ -272,19 +272,19 @@ export const og: SocialImageOptions["Component"] = (
   description: string,
   fonts: SatoriOptions["fonts"],
 ) => {
-  let created: string | undefined;
-  let reading: string | undefined;
+  let created: string | undefined
+  let reading: string | undefined
   if (fileData.dates) {
-    created = formatDate(getDate(cfg, fileData)!, cfg.locale);
+    created = formatDate(getDate(cfg, fileData)!, cfg.locale)
   }
   const { minutes, text: _timeTaken, words: _words } = readingTime(
     fileData.text!,
-  );
+  )
   reading = i18n(cfg.locale).components.contentMeta.readingTime({
     minutes: Math.ceil(minutes),
-  });
+  })
 
-  const Li = [created, reading];
+  const Li = [created, reading]
 
   return (
     <div
@@ -306,8 +306,7 @@ export const og: SocialImageOptions["Component"] = (
           left: 0,
           right: 0,
           bottom: 0,
-          background:
-            "radial-gradient(circle at center, transparent, rgba(0, 0, 0, 0.4) 70%)",
+          background: "radial-gradient(circle at center, transparent, rgba(0, 0, 0, 0.4) 70%)",
         }}
       />
       <div
@@ -362,7 +361,7 @@ export const og: SocialImageOptions["Component"] = (
           >
             {Li.map((item, index) => {
               if (item) {
-                return <li key={index}>{item}</li>;
+                return <li key={index}>{item}</li>
               }
             })}
           </ul>
@@ -385,6 +384,6 @@ export const og: SocialImageOptions["Component"] = (
         </p>
       </div>
     </div>
-  );
-};
+  )
+}
 ```

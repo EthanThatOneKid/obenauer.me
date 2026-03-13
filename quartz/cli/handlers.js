@@ -63,16 +63,22 @@ export async function handleCreate(argv) {
         outro(
           styleText(
             "red",
-            `Setup strategies (arg '${styleText(
-              "yellow",
-              `-${CreateArgv.strategy.alias[0]}`,
-            )}') other than '${styleText(
-              "yellow",
-              "new",
-            )}' require content folder argument ('${styleText(
-              "yellow",
-              `-${CreateArgv.source.alias[0]}`,
-            )}') to be set`,
+            `Setup strategies (arg '${
+              styleText(
+                "yellow",
+                `-${CreateArgv.strategy.alias[0]}`,
+              )
+            }') other than '${
+              styleText(
+                "yellow",
+                "new",
+              )
+            }' require content folder argument ('${
+              styleText(
+                "yellow",
+                `-${CreateArgv.source.alias[0]}`,
+              )
+            }') to be set`,
           ),
         )
         process.exit(1)
@@ -81,10 +87,12 @@ export async function handleCreate(argv) {
           outro(
             styleText(
               "red",
-              `Input directory to copy/symlink 'content' from not found ('${styleText(
-                "yellow",
-                sourceDirectory,
-              )}', invalid argument "${styleText("yellow", `-${CreateArgv.source.alias[0]}`)})`,
+              `Input directory to copy/symlink 'content' from not found ('${
+                styleText(
+                  "yellow",
+                  sourceDirectory,
+                )
+              }', invalid argument "${styleText("yellow", `-${CreateArgv.source.alias[0]}`)})`,
             ),
           )
           process.exit(1)
@@ -92,10 +100,12 @@ export async function handleCreate(argv) {
           outro(
             styleText(
               "red",
-              `Source directory to copy/symlink 'content' from is not a directory (found file at '${styleText(
-                "yellow",
-                sourceDirectory,
-              )}', invalid argument ${styleText("yellow", `-${CreateArgv.source.alias[0]}`)}")`,
+              `Source directory to copy/symlink 'content' from is not a directory (found file at '${
+                styleText(
+                  "yellow",
+                  sourceDirectory,
+                )
+              }', invalid argument ${styleText("yellow", `-${CreateArgv.source.alias[0]}`)}")`,
             ),
           )
           process.exit(1)
@@ -190,7 +200,8 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
     // get a preferred link resolution strategy
     linkResolutionStrategy = exitIfCancel(
       await select({
-        message: `Choose how Quartz should resolve links in your content. This should match Obsidian's link format. You can change this later in \`quartz.config.ts\`.`,
+        message:
+          `Choose how Quartz should resolve links in your content. This should match Obsidian's link format. You can change this later in \`quartz.config.ts\`.`,
         options: [
           {
             value: "shortest",
@@ -333,9 +344,11 @@ export async function handleBuild(argv) {
       const outputFileName = "quartz/.quartz-cache/transpiled-build.mjs"
       const meta = result.metafile.outputs[outputFileName]
       console.log(
-        `Successfully transpiled ${Object.keys(meta.inputs).length} files (${prettyBytes(
-          meta.bytes,
-        )})`,
+        `Successfully transpiled ${Object.keys(meta.inputs).length} files (${
+          prettyBytes(
+            meta.bytes,
+          )
+        })`,
       )
       console.log(await esbuild.analyzeMetafile(result.metafile, { color: true }))
     }
@@ -397,10 +410,9 @@ export async function handleBuild(argv) {
           ],
         })
         const status = res.statusCode
-        const statusString =
-          status >= 200 && status < 300
-            ? styleText("green", `[${status}]`)
-            : styleText("red", `[${status}]`)
+        const statusString = status >= 200 && status < 300
+          ? styleText("green", `[${status}]`)
+          : styleText("red", `[${status}]`)
         console.log(statusString + styleText("gray", ` ${argv.baseDir}${req.url}`))
         release()
       }

@@ -48,7 +48,7 @@ der Hoeven's
 - Simple JSX layouts and [[creating components|page components]]
 - [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes
 - Fully-customizable parsing, filtering, and page generation through [[making
-plugins|plugins]]
+  plugins|plugins]]
 
 For a comprehensive list of features, visit the [features page](./features/).
 You can read more about the _why_ behind these features on the [[philosophy]]

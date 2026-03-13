@@ -75,8 +75,8 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
       }
     } else if (path.length > 1) {
       // recursive case, we are not at the end of the path
-      const child =
-        this.children.find((c) => c.slugSegment === segment) ?? this.makeChild(path, undefined)
+      const child = this.children.find((c) => c.slugSegment === segment) ??
+        this.makeChild(path, undefined)
 
       const fileParts = file.filePath.split("/")
       child.fileSegmentHint = fileParts.at(-path.length)

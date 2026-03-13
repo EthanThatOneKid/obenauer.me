@@ -47,7 +47,7 @@ Some common frontmatter fields that are natively supported by Quartz:
 - `aliases`: Other names for this note. This is a list of strings.
 - `tags`: Tags for this note.
 - `draft`: Whether to publish the page or not. This is one way to make [[private
-pages|pages private]] in Quartz.
+  pages|pages private]] in Quartz.
 - `date`: A string representing the day the note was published. Normally uses
   `YYYY-MM-DD` format.
 

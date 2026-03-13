@@ -63,7 +63,7 @@ function sluggify(s: string): string {
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
         .replace(/\?/g, "")
-        .replace(/#/g, ""),
+        .replace(/#/g, "")
     )
     .join("/") // always use / as sep
     .replace(/\/$/, "")
@@ -116,10 +116,10 @@ const _rebaseHtmlElement = (el: Element, attr: string, newBase: string | URL) =>
 }
 export function normalizeRelativeURLs(el: Element | Document, destination: string | URL) {
   el.querySelectorAll('[href=""], [href^="./"], [href^="../"]').forEach((item) =>
-    _rebaseHtmlElement(item, "href", destination),
+    _rebaseHtmlElement(item, "href", destination)
   )
   el.querySelectorAll('[src=""], [src^="./"], [src^="../"]').forEach((item) =>
-    _rebaseHtmlElement(item, "src", destination),
+    _rebaseHtmlElement(item, "src", destination)
   )
 }
 
@@ -145,7 +145,7 @@ export function normalizeHastElement(rawEl: HastElement, curBase: FullSlug, newB
   _rebaseHastElement(el, "href", curBase, newBase)
   if (el.children) {
     el.children = el.children.map((child) =>
-      normalizeHastElement(child as HastElement, curBase, newBase),
+      normalizeHastElement(child as HastElement, curBase, newBase)
     )
   }
 

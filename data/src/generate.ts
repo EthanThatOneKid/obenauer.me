@@ -54,8 +54,8 @@ async function syncSources() {
     const normalized = url.match(/\.(xml|png|jpg|pdf|txt|json|webmanifest|ico)$/)
       ? url
       : url.endsWith("/")
-        ? url
-        : url + "/"
+      ? url
+      : url + "/"
 
     if (normalized.includes("rss.xml")) continue
 
@@ -518,8 +518,7 @@ export async function generate() {
   let checkpoint = await loadCheckpoint()
 
   // Completion check
-  const isComplete =
-    checkpoint.concepts &&
+  const isComplete = checkpoint.concepts &&
     checkpoint.concepts.queue.length === 0 &&
     checkpoint.concepts.processed.length > 0 &&
     !isReload &&

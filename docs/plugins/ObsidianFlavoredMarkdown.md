@@ -36,7 +36,7 @@ This plugin accepts the following configuration options:
   a dimmed, disabled link. Defaults to `false`.
 
 > [!warning] Don't remove this plugin if you're using [[Obsidian
-compatibility|Obsidian]] to author the content!
+> compatibility|Obsidian]] to author the content!
 
 ## API
 

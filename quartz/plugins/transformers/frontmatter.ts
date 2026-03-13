@@ -137,9 +137,12 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 declare module "vfile" {
   interface DataMap {
     aliases: FullSlug[]
-    frontmatter: { [key: string]: unknown } & {
-      title: string
-    } & Partial<{
+    frontmatter:
+      & { [key: string]: unknown }
+      & {
+        title: string
+      }
+      & Partial<{
         tags: string[]
         aliases: string[]
         modified: string

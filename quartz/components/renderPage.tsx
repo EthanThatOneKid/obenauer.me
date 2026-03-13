@@ -28,7 +28,8 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const contentIndexScript =
+    `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
 
   const resources: StaticResources = {
     css: [
@@ -173,7 +174,7 @@ function renderTranscludes(
 
           node.children = [
             ...(page.htmlAst.children.slice(startIdx, endIdx) as ElementContent[]).map((child) =>
-              normalizeHastElement(child as Element, slug, transcludeTarget),
+              normalizeHastElement(child as Element, slug, transcludeTarget)
             ),
             {
               type: "element",
@@ -200,8 +201,7 @@ function renderTranscludes(
               children: [
                 {
                   type: "text",
-                  value:
-                    page.frontmatter?.title ??
+                  value: page.frontmatter?.title ??
                     i18n(cfg.locale).components.transcludes.transcludeOf({
                       targetSlug: page.slug!,
                     }),
@@ -209,7 +209,7 @@ function renderTranscludes(
               ],
             },
             ...(page.htmlAst.children as ElementContent[]).map((child) =>
-              normalizeHastElement(child as Element, slug, transcludeTarget),
+              normalizeHastElement(child as Element, slug, transcludeTarget)
             ),
             {
               type: "element",
@@ -263,17 +263,13 @@ export function renderPage(
 
   const LeftComponent = (
     <div class="left sidebar">
-      {left.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
+      {left.map((BodyComponent) => <BodyComponent {...componentData} />)}
     </div>
   )
 
   const RightComponent = (
     <div class="right sidebar">
-      {right.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
+      {right.map((BodyComponent) => <BodyComponent {...componentData} />)}
     </div>
   )
 
@@ -289,22 +285,16 @@ export function renderPage(
             <div class="center">
               <div class="page-header">
                 <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
+                  {header.map((HeaderComponent) => <HeaderComponent {...componentData} />)}
                 </Header>
                 <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
+                  {beforeBody.map((BodyComponent) => <BodyComponent {...componentData} />)}
                 </div>
               </div>
               <Content {...componentData} />
               <hr />
               <div class="page-footer">
-                {afterBody.map((BodyComponent) => (
-                  <BodyComponent {...componentData} />
-                ))}
+                {afterBody.map((BodyComponent) => <BodyComponent {...componentData} />)}
               </div>
             </div>
             {RightComponent}

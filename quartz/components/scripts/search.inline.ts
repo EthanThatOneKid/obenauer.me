@@ -26,8 +26,7 @@ const encoder = (str: string): string[] => {
   for (const char of lower) {
     const code = char.codePointAt(0)!
 
-    const isCJK =
-      (code >= 0x3040 && code <= 0x309f) ||
+    const isCJK = (code >= 0x3040 && code <= 0x309f) ||
       (code >= 0x30a0 && code <= 0x30ff) ||
       (code >= 0x4e00 && code <= 0x9fff) ||
       (code >= 0xac00 && code <= 0xd7af) ||
@@ -425,7 +424,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     if (!searchLayout || !enablePreview || !el || !preview) return
     const slug = el.id as FullSlug
     const innerDiv = await fetchContent(slug).then((contents) =>
-      contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children]),
+      contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children])
     )
     previewInner = document.createElement("div")
     previewInner.classList.add("preview-inner")

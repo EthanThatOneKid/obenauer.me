@@ -31,10 +31,12 @@ async function* processFolderInfo(
   opts: FullPageLayout,
   resources: StaticResources,
 ) {
-  for (const [folder, folderContent] of Object.entries(folderInfo) as [
-    SimpleSlug,
-    ProcessedContent,
-  ][]) {
+  for (
+    const [folder, folderContent] of Object.entries(folderInfo) as [
+      SimpleSlug,
+      ProcessedContent,
+    ][]
+  ) {
     const slug = joinSegments(folder, "index") as FullSlug
     const [tree, file] = folderContent
     const cfg = ctx.cfg.configuration
@@ -136,8 +138,8 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
         allFiles.flatMap((data) => {
           return data.slug
             ? _getFolders(data.slug).filter(
-                (folderName) => folderName !== "." && folderName !== "tags",
-              )
+              (folderName) => folderName !== "." && folderName !== "tags",
+            )
             : []
         }),
       )

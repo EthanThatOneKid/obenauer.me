@@ -32,7 +32,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
     const tag = simplifySlug(slug.slice("tags/".length) as FullSlug)
     const allPagesWithTag = (tag: string) =>
       allFiles.filter((file) =>
-        (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag),
+        (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag)
       )
 
     const content = (
@@ -73,10 +73,9 @@ export default ((opts?: Partial<TagContentOptions>) => {
               const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`).at(0)
 
               const root = contentPage?.htmlAst
-              const content =
-                !root || root?.children.length === 0
-                  ? contentPage?.description
-                  : htmlToJsx(contentPage.filePath!, root)
+              const content = !root || root?.children.length === 0
+                ? contentPage?.description
+                : htmlToJsx(contentPage.filePath!, root)
 
               const tagListingPage = `/tags/${tag}` as FullSlug
               const href = resolveRelative(fileData.slug!, tagListingPage)

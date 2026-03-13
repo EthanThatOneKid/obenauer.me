@@ -639,7 +639,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     if (e.key === "g" && (e.ctrlKey || e.metaKey) && !e.shiftKey) {
       e.preventDefault()
       const anyGlobalGraphOpen = containers.some((container) =>
-        container.classList.contains("active"),
+        container.classList.contains("active")
       )
       anyGlobalGraphOpen ? hideGlobalGraph() : renderGlobalGraph()
     }
