@@ -4,7 +4,8 @@ tags:
   - plugin/emitter
 ---
 
-This plugin emits HTML redirect pages for aliases and permalinks defined in the frontmatter of content files.
+This plugin emits HTML redirect pages for aliases and permalinks defined in the
+frontmatter of content files.
 
 For example, A `foo.md` has the following frontmatter
 
@@ -25,8 +26,8 @@ The emitter supports the following aliases:
 - `aliases`
 - `alias`
 
-> [!note]
-> For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
+> [!note] For information on how to add, remove or configure plugins, see the
+> [[configuration#Plugins|Configuration]] page.
 
 This plugin has no configuration options.
 
@@ -34,4 +35,5 @@ This plugin has no configuration options.
 
 - Category: Emitter
 - Function name: `Plugin.AliasRedirects()`.
-- Source: [`quartz/plugins/emitters/aliases.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/aliases.ts).
+- Source:
+  [`quartz/plugins/emitters/aliases.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/aliases.ts).

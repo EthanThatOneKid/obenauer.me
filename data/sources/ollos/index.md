@@ -453,8 +453,8 @@ insights for present work. It often felt like simply having the right
 affordances helped me make healthier decisions.
 
 OLLOS is an exercise in taking _“a simple idea”_ and _“taking it
-seriously.”\_\_“This simple idea may appear too obvious to be useful, but there is
-an old two-part rule that often works wonders in business, science, and
+seriously.”\_\_“This simple idea may appear too obvious to be useful, but there
+is an old two-part rule that often works wonders in business, science, and
 elsewhere: 1) Take a simple, basic idea and 2) take it very seriously. And as
 some evidence for the value of taking very seriously the fundamental organizing
 ethos, I offer the example of my own life.”_ —

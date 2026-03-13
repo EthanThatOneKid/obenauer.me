@@ -4,14 +4,16 @@ tags:
   - plugin/emitter
 ---
 
-This plugin emits a `CNAME` record that points your subdomain to the default domain of your site.
+This plugin emits a `CNAME` record that points your subdomain to the default
+domain of your site.
 
-If you want to use a custom domain name like `quartz.example.com` for the site, then this is needed.
+If you want to use a custom domain name like `quartz.example.com` for the site,
+then this is needed.
 
 See [[hosting|Hosting]] for more information.
 
-> [!note]
-> For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
+> [!note] For information on how to add, remove or configure plugins, see the
+> [[configuration#Plugins|Configuration]] page.
 
 This plugin has no configuration options.
 
@@ -19,4 +21,5 @@ This plugin has no configuration options.
 
 - Category: Emitter
 - Function name: `Plugin.CNAME()`.
-- Source: [`quartz/plugins/emitters/cname.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/cname.ts).
+- Source:
+  [`quartz/plugins/emitters/cname.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/cname.ts).

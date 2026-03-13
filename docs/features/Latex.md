@@ -4,7 +4,8 @@ tags:
   - feature/transformer
 ---
 
-Quartz uses [Katex](https://katex.org/) by default to typeset both inline and block math expressions at build time.
+Quartz uses [Katex](https://katex.org/) by default to typeset both inline and
+block math expressions at build time.
 
 ## Syntax
 
@@ -50,16 +51,19 @@ Ef(x) &= -\frac{\hbar^2}{2m} [4k^2x^2f(x)-4kxf'(x) + f''(x)] + \frac{1}{2}m\omeg
 \end{array}
 $$
 
-> [!warn]
-> Due to limitations in the [underlying parsing library](https://github.com/remarkjs/remark-math), block math in Quartz requires the `$$` delimiters to be on newlines like above.
+> [!warn] Due to limitations in the
+> [underlying parsing library](https://github.com/remarkjs/remark-math), block
+> math in Quartz requires the `$$` delimiters to be on newlines like above.
 
 ### Inline Math
 
-Similarly, inline math can be rendered by delimiting math expression with a single `$`. For example, `$e^{i\pi} = -1$` produces $e^{i\pi} = -1$
+Similarly, inline math can be rendered by delimiting math expression with a
+single `$`. For example, `$e^{i\pi} = -1$` produces $e^{i\pi} = -1$
 
 ### Escaping symbols
 
-There will be cases where you may have more than one `$` in a paragraph at once which may accidentally trigger MathJax/Katex.
+There will be cases where you may have more than one `$` in a paragraph at once
+which may accidentally trigger MathJax/Katex.
 
 To get around this, you can escape the dollar sign by doing `\$` instead.
 
@@ -70,8 +74,8 @@ For example:
 
 ### Using mhchem
 
-Add the following import to the top of `quartz/plugins/transformers/latex.ts` (before all the other
-imports):
+Add the following import to the top of `quartz/plugins/transformers/latex.ts`
+(before all the other imports):
 
 ```ts title="quartz/plugins/transformers/latex.ts"
 import "katex/contrib/mhchem"
@@ -79,4 +83,5 @@ import "katex/contrib/mhchem"
 
 ## Customization
 
-Latex parsing is a functionality of the [[plugins/Latex|Latex]] plugin. See the plugin page for customization options.
+Latex parsing is a functionality of the [[plugins/Latex|Latex]] plugin. See the
+plugin page for customization options.

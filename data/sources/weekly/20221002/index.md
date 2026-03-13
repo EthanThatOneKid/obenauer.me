@@ -8,11 +8,14 @@ October 2, 2022
 
 # Dynamic Island and other ways OSs become ours
 
-The latest iPhone’s new feature, Dynamic Island, follows a long line of ways OSs have allowed system and third-party software to inject new functionality over the decades.
+The latest iPhone’s new feature, Dynamic Island, follows a long line of ways OSs
+have allowed system and third-party software to inject new functionality over
+the decades.
 
-Today’s lab note is about this — one of the most important forms of freedom in personal computing.
+Today’s lab note is about this — one of the most important forms of freedom in
+personal computing.
 
-Read on:  
+Read on:\
 [LN 032: System injections »](https://alexanderobenauer.com/labnotes/032/)
 
 ---

@@ -1,23 +1,23 @@
 import type { ContentDetails } from "../../plugins/emitters/contentIndex"
 import {
-  SimulationNodeDatum,
-  SimulationLinkDatum,
-  Simulation,
-  forceSimulation,
-  forceManyBody,
-  forceCenter,
-  forceLink,
-  forceCollide,
-  forceRadial,
-  zoomIdentity,
-  select,
   drag,
+  forceCenter,
+  forceCollide,
+  forceLink,
+  forceManyBody,
+  forceRadial,
+  forceSimulation,
+  select,
+  Simulation,
+  SimulationLinkDatum,
+  SimulationNodeDatum,
   zoom,
+  zoomIdentity,
 } from "d3"
-import { Text, Graphics, Application, Container, Circle } from "pixi.js"
+import { Application, Circle, Container, Graphics, Text } from "pixi.js"
 import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
-import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { FullSlug, getFullSlug, resolveRelative, SimpleSlug, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
 
 type GraphicsInfo = {
@@ -172,7 +172,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
 
   const radius = (Math.min(width, height) / 2) * 0.8
-  if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
+  if (enableRadial) {
+    simulation.force("radial", forceRadial(radius).strength(0.2))
+  }
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -366,9 +368,18 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const stage = app.stage
   stage.interactive = false
 
-  const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
-  const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
-  const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
+  const labelsContainer = new Container<Text>({
+    zIndex: 3,
+    isRenderGroup: true,
+  })
+  const nodesContainer = new Container<Graphics>({
+    zIndex: 2,
+    isRenderGroup: true,
+  })
+  const linkContainer = new Container<Graphics>({
+    zIndex: 1,
+    isRenderGroup: true,
+  })
   stage.addChild(nodesContainer, labelsContainer, linkContainer)
 
   for (const n of graphData.nodes) {

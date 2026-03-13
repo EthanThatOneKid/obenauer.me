@@ -85,7 +85,8 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                   console.log(
                     styleText(
                       "yellow",
-                      `\nWarning: ${file.data.filePath!} isn't yet tracked by git, dates will be inaccurate`,
+                      `\nWarning: ${file.data
+                        .filePath!} isn't yet tracked by git, dates will be inaccurate`,
                     ),
                   )
                 }

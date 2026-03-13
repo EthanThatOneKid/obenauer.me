@@ -6,22 +6,24 @@ import { google } from "@ai-sdk/google"
 import { JSDOM } from "jsdom"
 import TurndownService from "turndown"
 import {
-  STORE_NAME,
-  STORE_DISPLAY_NAME,
   CONCEPTS_DIR,
   DATA_DIR,
+  googleModel,
   RSS_URL,
   SITEMAP_PATH,
-  googleModel,
+  STORE_DISPLAY_NAME,
+  STORE_NAME,
 } from "./lib/config.js"
-import { loadCheckpoint, saveCheckpoint, clearCheckpoint } from "./lib/checkpoint.js"
+import { clearCheckpoint, loadCheckpoint, saveCheckpoint } from "./lib/checkpoint.js"
 import { GoogleGenAI } from "@google/genai"
 import { FileSearchStore, OperationHelper, PagerHelper } from "./lib/types.js"
 
 // Helper to delay to avoid rate limits
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms))
 
-const aiClient = new GoogleGenAI({ apiKey: process.env.GOOGLE_GENERATIVE_AI_API_KEY as string })
+const aiClient = new GoogleGenAI({
+  apiKey: process.env.GOOGLE_GENERATIVE_AI_API_KEY as string,
+})
 
 function slugify(text: string): string {
   return text
@@ -87,7 +89,9 @@ function cleanHtml(html: string, url: string): string {
   ]
 
   let preCleanedHtml = html
-  for (const sink of tokenSinks) preCleanedHtml = preCleanedHtml.replace(sink, "")
+  for (const sink of tokenSinks) {
+    preCleanedHtml = preCleanedHtml.replace(sink, "")
+  }
 
   const dom = new JSDOM(preCleanedHtml)
   const doc = dom.window.document
@@ -112,19 +116,26 @@ function cleanHtml(html: string, url: string): string {
     ".site-footer",
   ]
 
-  if (url.includes("/weekly/"))
+  if (url.includes("/weekly/")) {
     commonRemovals.push("#weekly .column.hide900", ".verticalBorder", ".weekly-archives")
-  else if (url.includes("/labnotes/"))
+  } else if (url.includes("/labnotes/")) {
     commonRemovals.push(".labnotes-header", ".labnotesnav", "#labnotes-list", "hr + p")
-  else if (url.includes("/thinking/")) commonRemovals.push(".thinking-header")
+  } else if (url.includes("/thinking/")) {
+    commonRemovals.push(".thinking-header")
+  }
 
-  for (const selector of commonRemovals) doc.querySelectorAll(selector).forEach((el) => el.remove())
+  for (const selector of commonRemovals) {
+    doc.querySelectorAll(selector).forEach((el) => el.remove())
+  }
   doc.querySelectorAll("div:empty, p:empty, section:empty").forEach((el) => el.remove())
   return doc.body.innerHTML
 }
 
 async function scrape() {
-  const turndownService = new TurndownService({ headingStyle: "atx", codeBlockStyle: "fenced" })
+  const turndownService = new TurndownService({
+    headingStyle: "atx",
+    codeBlockStyle: "fenced",
+  })
   turndownService.remove([
     "script",
     "style",
@@ -228,8 +239,9 @@ async function walkFiles(dir: string, baseDir: string = dir): Promise<string[]> 
     const dirEntries = await fs.readdir(dir, { withFileTypes: true })
     for (const entry of dirEntries) {
       const entryPath = path.join(dir, entry.name)
-      if (entry.isDirectory()) files.push(...(await walkFiles(entryPath, baseDir)))
-      else if (entry.isFile() && entry.name.endsWith(".md")) {
+      if (entry.isDirectory()) {
+        files.push(...(await walkFiles(entryPath, baseDir)))
+      } else if (entry.isFile() && entry.name.endsWith(".md")) {
         if (entry.name === "rss.xml.md") continue
         files.push(path.relative(baseDir, entryPath).replace(/\\/g, "/"))
       }
@@ -286,7 +298,9 @@ async function ingest(isReload: boolean = false) {
 
     // Re-fetch store after deletion
     const newStore = await getOrCreateStore(STORE_DISPLAY_NAME)
-    if (!newStore.name) throw new Error("Store name is undefined after recreation")
+    if (!newStore.name) {
+      throw new Error("Store name is undefined after recreation")
+    }
     store.name = newStore.name
   }
 
@@ -316,7 +330,9 @@ async function ingest(isReload: boolean = false) {
         } as any)) as unknown as OperationHelper
       }
       checkpointedFiles.add(filePath)
-      await saveCheckpoint({ ingest: { uploadedFiles: Array.from(checkpointedFiles) } })
+      await saveCheckpoint({
+        ingest: { uploadedFiles: Array.from(checkpointedFiles) },
+      })
     } catch (error) {
       console.error(`Error processing ${filePath}:`, error)
     }
@@ -356,7 +372,9 @@ async function getRootConcepts(): Promise<string[]> {
         e.message?.includes("RESOURCE_EXHAUSTED")
       ) {
         console.warn(
-          `Rate limit exceeded during root concept extraction. Retrying in 30s... (Attempt ${retryCount + 1}/${maxRetries})`,
+          `Rate limit exceeded during root concept extraction. Retrying in 30s... (Attempt ${
+            retryCount + 1
+          }/${maxRetries})`,
         )
         await sleep(30000)
         retryCount++

@@ -141,7 +141,9 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       \`;
       document.head.appendChild(goatcounterScriptPre);
 
-      const endpoint = "https://${cfg.analytics.websiteId}.${cfg.analytics.host ?? "goatcounter.com"}/count";
+      const endpoint = "https://${cfg.analytics.websiteId}.${
+        cfg.analytics.host ?? "goatcounter.com"
+      }/count";
       const goatcounterScript = document.createElement('script');
       goatcounterScript.src = "${cfg.analytics.scriptSrc ?? "https://gc.zgo.at/count.js"}";
       goatcounterScript.defer = true;

@@ -1,6 +1,6 @@
 import { generateText } from "ai"
 import { google } from "@ai-sdk/google"
-import { STORE_NAME, STORE_DISPLAY_NAME, googleModel, MODEL_NAME } from "./lib/config"
+import { googleModel, MODEL_NAME, STORE_DISPLAY_NAME, STORE_NAME } from "./lib/config"
 import * as readline from "readline/promises"
 import { stdin as input, stdout as output } from "process"
 import { fileURLToPath } from "url"

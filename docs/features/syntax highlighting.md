@@ -4,14 +4,20 @@ tags:
   - feature/transformer
 ---
 
-Syntax highlighting in Quartz is completely done at build-time. This means that Quartz only ships pre-calculated CSS to highlight the right words so there is no heavy client-side bundle that does the syntax highlighting.
+Syntax highlighting in Quartz is completely done at build-time. This means that
+Quartz only ships pre-calculated CSS to highlight the right words so there is no
+heavy client-side bundle that does the syntax highlighting.
 
-And, unlike some client-side highlighters, it has a full TextMate parser grammar instead of using Regexes, allowing for highly accurate code highlighting.
+And, unlike some client-side highlighters, it has a full TextMate parser grammar
+instead of using Regexes, allowing for highly accurate code highlighting.
 
-In short, it generates HTML that looks exactly like your code in an editor like VS Code. Under the hood, it's powered by [Rehype Pretty Code](https://rehype-pretty-code.netlify.app/) which uses [Shiki](https://github.com/shikijs/shiki).
+In short, it generates HTML that looks exactly like your code in an editor like
+VS Code. Under the hood, it's powered by
+[Rehype Pretty Code](https://rehype-pretty-code.netlify.app/) which uses
+[Shiki](https://github.com/shikijs/shiki).
 
-> [!warning]
-> Syntax highlighting does have an impact on build speed if you have a lot of code snippets in your notes.
+> [!warning] Syntax highlighting does have an impact on build speed if you have
+> a lot of code snippets in your notes.
 
 ## Formatting
 
@@ -97,7 +103,8 @@ const [name, setName] = useState("Taylor")
 
 ### Inline Highlighting
 
-Append {:lang} to the end of inline code to highlight it like a regular code block.
+Append {:lang} to the end of inline code to highlight it like a regular code
+block.
 
 ```
 This is an array `[1, 2, 3]{:js}` of numbers 1 through 3.
@@ -107,7 +114,8 @@ This is an array `[1, 2, 3]{:js}` of numbers 1 through 3.
 
 ### Line numbers
 
-Syntax highlighting has line numbers configured automatically. If you want to start line numbers at a specific number, use `showLineNumbers{number}`:
+Syntax highlighting has line numbers configured automatically. If you want to
+start line numbers at a specific number, use `showLineNumbers{number}`:
 
 ````
 ```js showLineNumbers{number}
@@ -127,7 +135,8 @@ export function trimPathSuffix(fp: string): string {
 
 ### Escaping code blocks
 
-You can format a codeblock inside of a codeblock by wrapping it with another level of backtick fences that has one more backtick than the previous fence.
+You can format a codeblock inside of a codeblock by wrapping it with another
+level of backtick fences that has one more backtick than the previous fence.
 
 `````
 ````
@@ -140,4 +149,5 @@ const [name, setName] = useState('Taylor');
 
 ## Customization
 
-Syntax highlighting is a functionality of the [[SyntaxHighlighting]] plugin. See the plugin page for customization options.
+Syntax highlighting is a functionality of the [[SyntaxHighlighting]] plugin. See
+the plugin page for customization options.

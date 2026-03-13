@@ -350,12 +350,16 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       <p class="card-description">${content}</p>
     `
     itemTile.addEventListener("click", (event) => {
-      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
+      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) {
+        return
+      }
       hideSearch()
     })
 
     const handler = (event: MouseEvent) => {
-      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
+      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) {
+        return
+      }
       hideSearch()
     }
 

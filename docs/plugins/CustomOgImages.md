@@ -4,10 +4,13 @@ tags:
   - feature/emitter
 ---
 
-The Custom OG Images emitter plugin generates social media preview images for your pages. It uses [satori](https://github.com/vercel/satori) to convert HTML/CSS into images, allowing you to create beautiful and consistent social media preview cards for your content.
+The Custom OG Images emitter plugin generates social media preview images for
+your pages. It uses [satori](https://github.com/vercel/satori) to convert
+HTML/CSS into images, allowing you to create beautiful and consistent social
+media preview cards for your content.
 
-> [!note]
-> For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
+> [!note] For information on how to add, remove or configure plugins, see the
+> [[configuration#Plugins|Configuration]] page.
 
 ## Features
 
@@ -21,7 +24,8 @@ The Custom OG Images emitter plugin generates social media preview images for yo
 
 > [!info] Info
 >
-> The `baseUrl` property in your [[configuration]] must be set properly for social images to work correctly, as they require absolute paths.
+> The `baseUrl` property in your [[configuration]] must be set properly for
+> social images to work correctly, as they require absolute paths.
 
 This plugin accepts the following configuration options:
 
@@ -62,21 +66,42 @@ The following properties can be used to customize your link previews:
 | `socialDescription` | `description`    | Description to be used for preview. |
 | `socialImage`       | `image`, `cover` | Link to preview image.              |
 
-The `socialImage` property should contain a link to an image either relative to `quartz/static`, or a full URL. If you have a folder for all your images in `quartz/static/my-images`, an example for `socialImage` could be `"my-images/cover.png"`. Alternatively, you can use a fully qualified URL like `"https://example.com/cover.png"`.
+The `socialImage` property should contain a link to an image either relative to
+`quartz/static`, or a full URL. If you have a folder for all your images in
+`quartz/static/my-images`, an example for `socialImage` could be
+`"my-images/cover.png"`. Alternatively, you can use a fully qualified URL like
+`"https://example.com/cover.png"`.
 
 > [!info] Info
 >
-> The priority for what image will be used for the cover image looks like the following: `frontmatter property > generated image (if enabled) > default image`.
+> The priority for what image will be used for the cover image looks like the
+> following:
+> `frontmatter property > generated image (if enabled) > default image`.
 >
-> The default image (`quartz/static/og-image.png`) will only be used as a fallback if nothing else is set. If the Custom OG Images emitter plugin is enabled, it will be treated as the new default per page, but can be overwritten by setting the `socialImage` frontmatter property for that page.
+> The default image (`quartz/static/og-image.png`) will only be used as a
+> fallback if nothing else is set. If the Custom OG Images emitter plugin is
+> enabled, it will be treated as the new default per page, but can be
+> overwritten by setting the `socialImage` frontmatter property for that page.
 
 ## Customization
 
-You can fully customize how the images being generated look by passing your own component to `imageStructure`. This component takes JSX + some page metadata/config options and converts it to an image using [satori](https://github.com/vercel/satori). Vercel provides an [online playground](https://og-playground.vercel.app/) that can be used to preview how your JSX looks like as a picture. This is ideal for prototyping your custom design.
+You can fully customize how the images being generated look by passing your own
+component to `imageStructure`. This component takes JSX + some page
+metadata/config options and converts it to an image using
+[satori](https://github.com/vercel/satori). Vercel provides an
+[online playground](https://og-playground.vercel.app/) that can be used to
+preview how your JSX looks like as a picture. This is ideal for prototyping your
+custom design.
 
 ### Fonts
 
-You will also be passed an array containing a header and a body font (where the first entry is header and the second is body). The fonts matches the ones selected in `theme.typography.header` and `theme.typography.body` from `quartz.config.ts` and will be passed in the format required by [`satori`](https://github.com/vercel/satori). To use them in CSS, use the `.name` property (e.g. `fontFamily: fonts[1].name` to use the "body" font family).
+You will also be passed an array containing a header and a body font (where the
+first entry is header and the second is body). The fonts matches the ones
+selected in `theme.typography.header` and `theme.typography.body` from
+`quartz.config.ts` and will be passed in the format required by
+[`satori`](https://github.com/vercel/satori). To use them in CSS, use the
+`.name` property (e.g. `fontFamily: fonts[1].name` to use the "body" font
+family).
 
 An example of a component using the header font could look like this:
 
@@ -88,7 +113,8 @@ export const myImage: SocialImageOptions["imageStructure"] = (...) => {
 
 > [!example]- Local fonts
 >
-> For cases where you use a local fonts under `static` folder, make sure to set the correct `@font-face` in `custom.scss`
+> For cases where you use a local fonts under `static` folder, make sure to set
+> the correct `@font-face` in `custom.scss`
 >
 > ```scss title="custom.scss"
 > @font-face {
@@ -234,7 +260,8 @@ export const customImage: SocialImageOptions["imageStructure"] = (
 
 ### Advanced Example
 
-The following example includes a customized social image with a custom background and formatted date:
+The following example includes a customized social image with a custom
+background and formatted date:
 
 ```typescript title="custom-og.tsx"
 export const og: SocialImageOptions["Component"] = (
@@ -245,17 +272,19 @@ export const og: SocialImageOptions["Component"] = (
   description: string,
   fonts: SatoriOptions["fonts"],
 ) => {
-  let created: string | undefined
-  let reading: string | undefined
+  let created: string | undefined;
+  let reading: string | undefined;
   if (fileData.dates) {
-    created = formatDate(getDate(cfg, fileData)!, cfg.locale)
+    created = formatDate(getDate(cfg, fileData)!, cfg.locale);
   }
-  const { minutes, text: _timeTaken, words: _words } = readingTime(fileData.text!)
+  const { minutes, text: _timeTaken, words: _words } = readingTime(
+    fileData.text!,
+  );
   reading = i18n(cfg.locale).components.contentMeta.readingTime({
     minutes: Math.ceil(minutes),
-  })
+  });
 
-  const Li = [created, reading]
+  const Li = [created, reading];
 
   return (
     <div
@@ -277,7 +306,8 @@ export const og: SocialImageOptions["Component"] = (
           left: 0,
           right: 0,
           bottom: 0,
-          background: "radial-gradient(circle at center, transparent, rgba(0, 0, 0, 0.4) 70%)",
+          background:
+            "radial-gradient(circle at center, transparent, rgba(0, 0, 0, 0.4) 70%)",
         }}
       />
       <div
@@ -332,7 +362,7 @@ export const og: SocialImageOptions["Component"] = (
           >
             {Li.map((item, index) => {
               if (item) {
-                return <li key={index}>{item}</li>
+                return <li key={index}>{item}</li>;
               }
             })}
           </ul>
@@ -355,6 +385,6 @@ export const og: SocialImageOptions["Component"] = (
         </p>
       </div>
     </div>
-  )
-}
+  );
+};
 ```

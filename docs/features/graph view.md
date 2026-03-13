@@ -4,17 +4,25 @@ tags:
   - component
 ---
 
-Quartz features a graph-view that can show both a local graph view and a global graph view.
+Quartz features a graph-view that can show both a local graph view and a global
+graph view.
 
-- The local graph view shows files that either link to the current file or are linked from the current file. In other words, it shows all notes that are _at most_ one hop away.
-- The global graph view can be toggled by clicking the graph icon on the top-right of the local graph view. It shows _all_ the notes in your graph and how they connect to each other.
+- The local graph view shows files that either link to the current file or are
+  linked from the current file. In other words, it shows all notes that are _at
+  most_ one hop away.
+- The global graph view can be toggled by clicking the graph icon on the
+  top-right of the local graph view. It shows _all_ the notes in your graph and
+  how they connect to each other.
 
-By default, the node radius is proportional to the total number of incoming and outgoing internal links from that file.
+By default, the node radius is proportional to the total number of incoming and
+outgoing internal links from that file.
 
-Additionally, similar to how browsers highlight visited links a different colour, the graph view will also show nodes that you have visited in a different colour.
+Additionally, similar to how browsers highlight visited links a different
+colour, the graph view will also show nodes that you have visited in a different
+colour.
 
-> [!info]
-> Graph View requires the `ContentIndex` emitter plugin to be present in the [[configuration]].
+> [!info] Graph View requires the `ContentIndex` emitter plugin to be present in
+> the [[configuration]].
 
 ## Customization
 
@@ -55,11 +63,13 @@ Component.Graph({
 })
 ```
 
-When passing in your own options, you can omit any or all of these fields if you'd like to keep the default value for that field.
+When passing in your own options, you can omit any or all of these fields if
+you'd like to keep the default value for that field.
 
 Want to customize it even more?
 
-- Removing graph view: delete all usages of `Component.Graph()` from `quartz.layout.ts`.
+- Removing graph view: delete all usages of `Component.Graph()` from
+  `quartz.layout.ts`.
 - Component: `quartz/components/Graph.tsx`
 - Style: `quartz/components/styles/graph.scss`
 - Script: `quartz/components/scripts/graph.inline.ts`

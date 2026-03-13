@@ -57,7 +57,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <article class={classes}>
             <p>{content}</p>
           </article>
-          <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
+          <p>
+            {i18n(cfg.locale).pages.tagContent.totalTags({
+              count: tags.length,
+            })}
+          </p>
           <div>
             {tags.map((tag) => {
               const pages = tagItemMap.get(tag)!
@@ -87,7 +91,9 @@ export default ((opts?: Partial<TagContentOptions>) => {
                   {content && <p>{content}</p>}
                   <div class="page-listing">
                     <p>
-                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
+                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({
+                        count: pages.length,
+                      })}
                       {pages.length > options.numPages && (
                         <>
                           {" "}
@@ -118,7 +124,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
         <div class="popover-hint">
           <article class={classes}>{content}</article>
           <div class="page-listing">
-            <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+            <p>
+              {i18n(cfg.locale).pages.tagContent.itemsUnderTag({
+                count: pages.length,
+              })}
+            </p>
             <div>
               <PageList {...listProps} sort={options?.sort} />
             </div>

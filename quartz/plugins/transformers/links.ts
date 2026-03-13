@@ -3,11 +3,11 @@ import {
   FullSlug,
   RelativeURL,
   SimpleSlug,
-  TransformOptions,
-  stripSlashes,
   simplifySlug,
   splitAnchor,
+  stripSlashes,
   transformLink,
+  TransformOptions,
 } from "../../util/path"
 import path from "path"
 import { visit } from "unist-util-visit"

@@ -17,20 +17,20 @@ import { Mutex } from "async-mutex"
 import { CreateArgv } from "./args.js"
 import { globby } from "globby"
 import {
-  exitIfCancel,
   escapePath,
+  exitIfCancel,
   gitPull,
   popContentFolder,
   stashContentFolder,
 } from "./helpers.js"
 import {
-  UPSTREAM_NAME,
-  QUARTZ_SOURCE_BRANCH,
-  ORIGIN_NAME,
-  version,
-  fp,
   cacheFile,
   cwd,
+  fp,
+  ORIGIN_NAME,
+  QUARTZ_SOURCE_BRANCH,
+  UPSTREAM_NAME,
+  version,
 } from "./constants.js"
 
 /**
@@ -111,7 +111,11 @@ export async function handleCreate(argv) {
         message: `Choose how to initialize the content in \`${contentFolder}\``,
         options: [
           { value: "new", label: "Empty Quartz" },
-          { value: "copy", label: "Copy an existing folder", hint: "overwrites `content`" },
+          {
+            value: "copy",
+            label: "Copy an existing folder",
+            hint: "overwrites `content`",
+          },
           {
             value: "symlink",
             label: "Symlink an existing folder",
@@ -208,7 +212,9 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
   // now, do config changes
   const configFilePath = path.join(cwd, "quartz.config.ts")
-  let configContent = await fs.promises.readFile(configFilePath, { encoding: "utf-8" })
+  let configContent = await fs.promises.readFile(configFilePath, {
+    encoding: "utf-8",
+  })
   configContent = configContent.replace(
     /markdownLinkResolution: '(.+)'/,
     `markdownLinkResolution: '${linkResolutionStrategy}'`,

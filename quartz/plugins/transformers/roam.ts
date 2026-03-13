@@ -1,8 +1,8 @@
 import { QuartzTransformerPlugin } from "../types"
 import { PluggableList } from "unified"
 import { visit } from "unist-util-visit"
-import { ReplaceFunction, findAndReplace as mdastFindReplace } from "mdast-util-find-and-replace"
-import { Root, Html, Paragraph, Text, Link, Parent } from "mdast"
+import { findAndReplace as mdastFindReplace, ReplaceFunction } from "mdast-util-find-and-replace"
+import { Html, Link, Paragraph, Parent, Root, Text } from "mdast"
 import { BuildVisitor } from "unist-util-visit"
 
 export interface Options {
@@ -165,7 +165,9 @@ export const RoamFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | un
                 }
                 const optionsString: string = matchResult[1]
                 const options: string[] = optionsString.split("|")
-                const selectHtml: string = `<select>${options.map((option: string) => `<option value="${option}">${option}</option>`).join("")}</select>`
+                const selectHtml: string = `<select>${options
+                  .map((option: string) => `<option value="${option}">${option}</option>`)
+                  .join("")}</select>`
                 return { type: "html", value: selectHtml }
               },
             ])
