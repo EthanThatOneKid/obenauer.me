@@ -1,6 +1,6 @@
 ---
 title: container
-date: 2026-03-07
+date: 2026-03-07T00:00:00.000Z
 tags:
   - container
   - portability
@@ -11,12 +11,4 @@ tags:
   - thinking
 ---
 
-True ==universal [[reference]] containers== transcend the rigid, siloed apps of
-today, allowing for fluid [[portability]] across our digital lives. When we
-break free from these boundaries, we realize that all [[item|items]]—from
-[[note|notes]] and [[task|tasks]] to images—possess the inherent potential to
-act as a container for others. By integrating these
-[[relationship|relationships]] into a cohesive [[system]], we empower ourselves
-to compose [[workspace|workspaces]] where data lives wherever we place it,
-shifting our [[interaction]] from fragmented [[task|tasks]] to unified
-[[thinking]].
+A [[container]] is a fundamental shift in how we structure digital existence, moving beyond the rigid, siloed environments of current [[software]]. By enabling [[portability]], we transcend the limitations of specific applications, allowing any [[item|item]]—whether a [[note|note]], [[task|task]], or event—to become a vessel for others. This principle asserts that ==all things can contain other things==, fostering a fluid, interconnected digital landscape where the [[relationship|relationship]] between the container and its content dynamically shapes our [[thinking]] and discovery.
