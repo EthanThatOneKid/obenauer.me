@@ -22,19 +22,11 @@ Table of Contents
 
 # The Lab Notes
 
-These Lab Notes document the progress, experiments, and concepts in my research,
-which focuses on the future of personal computing. This work is primarily shaped
-by exploring the “operating system of the future,” and with those concepts,
-creating an experimental new environment for personal computing.
+These Lab Notes document the progress, experiments, and concepts in my research, which focuses on the future of personal computing. This work is primarily shaped by exploring the “operating system of the future,” and with those concepts, creating an experimental new environment for personal computing.
 
-The most recent notes are listed on the left starting at the top. As a sort of
-table of contents, here is a living guide to diving in.
+The most recent notes are listed on the left starting at the top. As a sort of table of contents, here is a living guide to diving in.
 
-If you’re reading for the first time, you can start with
-[LN 002: Universal data portability](/labnotes/002) and progress sequentially,
-or a good single one to start with is [LN 014: The Graph OS](/labnotes/014). If
-you want to jump into the more recent stuff, start with
-[LN 037: Gestural view construction](/labnotes/037).
+If you’re reading for the first time, you can start with [LN 002: Universal data portability](/labnotes/002) and progress sequentially, or a good single one to start with is [LN 014: The Graph OS](/labnotes/014). If you want to jump into the more recent stuff, start with [LN 037: Gestural view construction](/labnotes/037).
 
 ## Having fun with items
 
@@ -120,45 +112,25 @@ you want to jump into the more recent stuff, start with
 
 ## Context
 
-It is the goal of these Lab Notes to explore how personal computing might be
-improved in order to expand human capacity to think, create, collaborate, and
-do.
+It is the goal of these Lab Notes to explore how personal computing might be improved in order to expand human capacity to think, create, collaborate, and do.
 
-Much of what we explore will revolve around new and renewed ideas for the user
-environment of the operating system of the future. We will also explore how
-software is built, the business of software development, and a few other related
-topics.
+Much of what we explore will revolve around new and renewed ideas for the user environment of the operating system of the future. We will also explore how software is built, the business of software development, and a few other related topics.
 
-These Lab Notes will be published regularly. In general, they will be short,
-seeking to quickly but meaningfully illustrate a discrete topic, insight, or
-experiment that has come out of my research. I hope to as often as possible
-include demos, live or in video, that bring the topic to life on your screen.
+These Lab Notes will be published regularly. In general, they will be short, seeking to quickly but meaningfully illustrate a discrete topic, insight, or experiment that has come out of my research. I hope to as often as possible include demos, live or in video, that bring the topic to life on your screen.
 
-Some of the Lab Notes will build on each other, and some will present new
-starting points for exploring possible answers to our key questions.
+Some of the Lab Notes will build on each other, and some will present new starting points for exploring possible answers to our key questions.
 
-A primary goal of these Lab Notes is to open up meaningful discussion on the
-topic areas being covered. If you think of something interesting, or see how
-work relates to something else you found curious, please reach out.
+A primary goal of these Lab Notes is to open up meaningful discussion on the topic areas being covered. If you think of something interesting, or see how work relates to something else you found curious, please reach out.
 
-For more, read the article on [how I approach my core work](/work/), which
-concludes with a discussion on how these Lab Notes contribute to that work.
+For more, read the article on [how I approach my core work](/work/), which concludes with a discussion on how these Lab Notes contribute to that work.
 
-In sum, I believe that there exists a better way forward for personal computing.
-I do not purport to have all the answers, but I am coming at this equipped with
-some intriguing starting points, and motivated by a lifelong obsession with what
-potential personal computing presents to the future of our society.
+In sum, I believe that there exists a better way forward for personal computing. I do not purport to have all the answers, but I am coming at this equipped with some intriguing starting points, and motivated by a lifelong obsession with what potential personal computing presents to the future of our society.
 
 One long-form article has resulted from these Lab Notes so far:
 
-[The Potential Merits of an Itemized OS](/articles/os/1/) is an article that
-illustrates many of the concepts explored in the earlier Lab Notes, brought
-together into one cohesive concept.
+[The Potential Merits of an Itemized OS](/articles/os/1/) is an article that illustrates many of the concepts explored in the earlier Lab Notes, brought together into one cohesive concept.
 
-**Something spark a thought?** , or come chat
-[on Bluesky](https://bsky.app/profile/alexanderobenauer.com),
-[on Mastodon](https://mastodon.social/@alexobenauer), or
-[on Twitter](https://twitter.com/alexobenauer).
+**Something spark a thought?** , or come chat [on Bluesky](https://bsky.app/profile/alexanderobenauer.com), [on Mastodon](https://mastodon.social/@alexobenauer), or [on Twitter](https://twitter.com/alexobenauer).
 
 ---
 

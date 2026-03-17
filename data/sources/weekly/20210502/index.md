@@ -10,13 +10,11 @@ May 2, 2021
 
 How will we organize our things in the operating system of the future?
 
-Today’s lab note jumps into an initial thought on the topic, leveraging the
-fundamentals of the OS as described in the first few lab notes.
+Today’s lab note jumps into an initial thought on the topic, leveraging the fundamentals of the OS as described in the first few lab notes.
 
 Dive in:\
 [LN 012: References box & Topics »](/labnotes/012/)
 
-I’ve now published enough lab notes to organize a table of contents by topic. If
-you’re diving back in, you can use [that here](/labnotes/000/).
+I’ve now published enough lab notes to organize a table of contents by topic. If you’re diving back in, you can use [that here](/labnotes/000/).
 
 ---

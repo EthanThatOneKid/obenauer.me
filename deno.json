@@ -5,7 +5,7 @@
     "indentWidth": 2,
     "singleQuote": false,
     "semiColons": false,
-    "proseWrap": "preserve",
+    "proseWrap": "never",
     "exclude": [
       "public",
       "node_modules",

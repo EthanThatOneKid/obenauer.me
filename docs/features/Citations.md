@@ -4,11 +4,9 @@ tags:
   - feature/transformer
 ---
 
-Quartz uses [rehype-citation](https://github.com/timlrx/rehype-citation) to
-support parsing of a BibTex bibliography file.
+Quartz uses [rehype-citation](https://github.com/timlrx/rehype-citation) to support parsing of a BibTex bibliography file.
 
-Under the default configuration, a citation key `[@templeton2024scaling]` will
-be exported as `(Templeton et al., 2024)`.
+Under the default configuration, a citation key `[@templeton2024scaling]` will be exported as `(Templeton et al., 2024)`.
 
 > [!example]- BibTex file
 >
@@ -24,13 +22,10 @@ be exported as `(Templeton et al., 2024)`.
 
 > [!note] Behaviour of references
 >
-> By default, the references will be included at the end of the file. To control
-> where the references to be included, uses `[^ref]`
+> By default, the references will be included at the end of the file. To control where the references to be included, uses `[^ref]`
 >
 > Refer to `rehype-citation` docs for more information.
 
 ## Customization
 
-Citation parsing is a functionality of the [[plugins/Citations|Citation]]
-plugin. **This plugin is not enabled by default**. See the plugin page for
-customization options.
+Citation parsing is a functionality of the [[plugins/Citations|Citation]] plugin. **This plugin is not enabled by default**. See the plugin page for customization options.

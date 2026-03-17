@@ -4,26 +4,15 @@ tags:
   - component
 ---
 
-Quartz features an explorer that allows you to navigate all files and folders on
-your site. It supports nested folders and is highly customizable.
+Quartz features an explorer that allows you to navigate all files and folders on your site. It supports nested folders and is highly customizable.
 
-By default, it shows all folders and files on your page. To display the explorer
-in a different spot, you can edit the [[layout]].
+By default, it shows all folders and files on your page. To display the explorer in a different spot, you can edit the [[layout]].
 
-Display names for folders get determined by the `title` frontmatter field in
-`folder/index.md` (more detail in [[authoring content | Authoring Content]]). If
-this file does not exist or does not contain frontmatter, the local folder name
-will be used instead.
+Display names for folders get determined by the `title` frontmatter field in `folder/index.md` (more detail in [[authoring content | Authoring Content]]). If this file does not exist or does not contain frontmatter, the local folder name will be used instead.
 
-> [!info] The explorer uses local storage by default to save the state of your
-> explorer. This is done to ensure a smooth experience when navigating to
-> different pages.
+> [!info] The explorer uses local storage by default to save the state of your explorer. This is done to ensure a smooth experience when navigating to different pages.
 >
-> To clear/delete the explorer state from local storage, delete the `fileTree`
-> entry (guide on how to delete a key from local storage in chromium based
-> browsers can be found
-> [here](https://docs.devolutions.net/kb/general-knowledge-base/clear-browser-local-storage/clear-chrome-local-storage/)).
-> You can disable this by passing `useSavedState: false` as an argument.
+> To clear/delete the explorer state from local storage, delete the `fileTree` entry (guide on how to delete a key from local storage in chromium based browsers can be found [here](https://docs.devolutions.net/kb/general-knowledge-base/clear-browser-local-storage/clear-chrome-local-storage/)). You can disable this by passing `useSavedState: false` as an argument.
 
 ## Customization
 
@@ -46,26 +35,20 @@ Component.Explorer({
 })
 ```
 
-When passing in your own options, you can omit any or all of these fields if
-you'd like to keep the default value for that field.
+When passing in your own options, you can omit any or all of these fields if you'd like to keep the default value for that field.
 
 Want to customize it even more?
 
 - Removing explorer: remove `Component.Explorer()` from `quartz.layout.ts`
-  - (optional): After removing the explorer component, you can move the [[table
-    of contents | Table of Contents]] component back to the `left` part of the
-    layout
-- Changing `sort`, `filter` and `map` behavior: explained in [[#Advanced
-  customization]]
+  - (optional): After removing the explorer component, you can move the [[table of contents | Table of Contents]] component back to the `left` part of the layout
+- Changing `sort`, `filter` and `map` behavior: explained in [[#Advanced customization]]
 - Component: `quartz/components/Explorer.tsx`
 - Style: `quartz/components/styles/explorer.scss`
 - Script: `quartz/components/scripts/explorer.inline.ts`
 
 ## Advanced customization
 
-This component allows you to fully customize all of its behavior. You can pass a
-custom `sort`, `filter` and `map` function. All functions you can pass work with
-the `FileTrieNode` class, which has the following properties:
+This component allows you to fully customize all of its behavior. You can pass a custom `sort`, `filter` and `map` function. All functions you can pass work with the `FileTrieNode` class, which has the following properties:
 
 ```ts title="quartz/components/Explorer.tsx"
 class FileTrieNode {
@@ -85,8 +68,7 @@ export type ContentDetails = {
 }
 ```
 
-Every function you can pass is optional. By default, only a `sort` function will
-be used:
+Every function you can pass is optional. By default, only a `sort` function will be used:
 
 ```ts title="Default sort function"
 // Sort order: folders first, then files. Sort folders and files alphabetically
@@ -110,17 +92,9 @@ Component.Explorer({
 
 ---
 
-You can pass your own functions for `sortFn`, `filterFn` and `mapFn`. All
-functions will be executed in the order provided by the `order` option (see
-[[#Customization]]). These functions behave similarly to their `Array.prototype`
-counterpart, except they modify the entire `FileNode` tree in place instead of
-returning a new one.
+You can pass your own functions for `sortFn`, `filterFn` and `mapFn`. All functions will be executed in the order provided by the `order` option (see [[#Customization]]). These functions behave similarly to their `Array.prototype` counterpart, except they modify the entire `FileNode` tree in place instead of returning a new one.
 
-For more information on how to use `sort`, `filter` and `map`, you can check
-[Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort),
-[Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
-and
-[Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map).
+For more information on how to use `sort`, `filter` and `map`, you can check [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort), [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) and [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map).
 
 Type definitions look like this:
 
@@ -148,8 +122,7 @@ Component.Explorer({
 
 ### Change display names (`map`)
 
-Using this example, the display names of all `FileNodes` (folders + files) will
-be converted to full upper case.
+Using this example, the display names of all `FileNodes` (folders + files) will be converted to full upper case.
 
 ```ts title="quartz.layout.ts"
 Component.Explorer({
@@ -162,9 +135,7 @@ Component.Explorer({
 
 ### Remove list of elements (`filter`)
 
-Using this example, you can remove elements from your explorer by providing an
-array of folders/files to exclude. Note that this example filters on the title
-but you can also do it via slug or any other field available on `FileTrieNode`.
+Using this example, you can remove elements from your explorer by providing an array of folders/files to exclude. Note that this example filters on the title but you can also do it via slug or any other field available on `FileTrieNode`.
 
 ```ts title="quartz.layout.ts"
 Component.Explorer({
@@ -195,8 +166,7 @@ Component.Explorer({
 
 ### Show every element in explorer
 
-By default, the explorer will filter out the `tags` folder. To override the
-default filter function, you can set the filter function to `undefined`.
+By default, the explorer will filter out the `tags` folder. To override the default filter function, you can set the filter function to `undefined`.
 
 ```ts title="quartz.layout.ts"
 Component.Explorer({
@@ -206,9 +176,7 @@ Component.Explorer({
 
 ## Advanced examples
 
-> [!tip] When writing more complicated functions, the `layout` file can start to
-> look very cramped. You can fix this by defining your sort functions outside of
-> the component and passing it in.
+> [!tip] When writing more complicated functions, the `layout` file can start to look very cramped. You can fix this by defining your sort functions outside of the component and passing it in.
 >
 > ```ts title="quartz.layout.ts"
 > import { Options } from "./quartz/components/Explorer"
@@ -233,8 +201,7 @@ Component.Explorer({
 
 ### Add emoji prefix
 
-To add emoji prefixes (📁 for folders, 📄 for files), you could use a map
-function like this:
+To add emoji prefixes (📁 for folders, 📄 for files), you could use a map function like this:
 
 ```ts title="quartz.layout.ts"
 Component.Explorer({

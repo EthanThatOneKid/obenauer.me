@@ -8,13 +8,9 @@ September 18, 2022
 
 # New ideas for interfaces in the itemized OS
 
-Once I started using my itemized OS, I quickly felt limited by some of the basic
-concepts.
+Once I started using my itemized OS, I quickly felt limited by some of the basic concepts.
 
-Today’s lab note explores one experiment to change that. A word of warning: it’s
-somewhat complex to discuss, because it entails the consequences of two
-alternate ideas for navigation in an OS of the future — so maybe grab your cup
-of coffee first.
+Today’s lab note explores one experiment to change that. A word of warning: it’s somewhat complex to discuss, because it entails the consequences of two alternate ideas for navigation in an OS of the future — so maybe grab your cup of coffee first.
 
 Read on:\
 [LN 031: Fluid workspaces »](https://alexanderobenauer.com/labnotes/031/)

@@ -1,16 +1,8 @@
 ---
 title: intent
-date: 2026-03-07T00:00:00.000Z
-tags:
-  - intent
-  - computing
-  - thinking
-  - interface
-  - agency
-  - context
 ---
 
-[[intent]] represents the [[fundamental]] bridge between human desire and machine [[execution]]. It is the core of meaningful [[computing]], where [[software]] transitions from a rigid [[tool]] to an active participant in our [[cognition]]. By anchoring the [[interface]] in the user's purpose rather than the mechanical state of the machine, we move toward a [[future]] where [[agency|Agency]] is amplified rather than hindered by the constraints of current digital [[environment|environments]].
+[[intent]] represents the [[fundamental]] bridge between human desire and machine [[execution]]. It is the core of meaningful [[computing]], where [[software]] transitions from a rigid [[tool]] to an active participant in our [[thinking|cognition]]. By anchoring the [[interface]] in the user's purpose rather than the mechanical state of the machine, we move toward a [[future]] where [[agency]] is amplified rather than hindered by the constraints of current digital [[environment|environments]].
 
 > [!idea] We must shift from designing for _tasks_ to designing for _intent_.
 

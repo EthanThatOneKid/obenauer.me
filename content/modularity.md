@@ -1,14 +1,5 @@
 ---
 title: modularity
-date: 2026-03-07T00:00:00.000Z
-tags:
-  - modularity
-  - item
-  - automation
-  - os
-  - integration
-  - evolvability
-  - intent
 ---
 
 Modularity is the art of composing a cohesive [[unit|units]]—a ==module==—from [[fundamental]] [[primitive|primitives]] like [[item|items]], [[view|views]], [[action|actions]], and [[automation|automations]]. By bundling these parts, we transform static data into interactive, functional experiences that can be shared or published across the [[internet]], inviting others to engage with our [[intent]] in ways that transcend traditional, siloed [[software]].

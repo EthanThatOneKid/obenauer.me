@@ -2,16 +2,11 @@
 title: Higher-Order Layout Components
 ---
 
-Quartz provides several higher-order components that help with layout
-composition and responsive design. These components wrap other components to add
-additional functionality or modify their behavior.
+Quartz provides several higher-order components that help with layout composition and responsive design. These components wrap other components to add additional functionality or modify their behavior.
 
 ## `Flex` Component
 
-The `Flex` component creates a
-[flexible box layout](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
-that can arrange child components in various ways. It's particularly useful for
-creating responsive layouts and organizing components in rows or columns.
+The `Flex` component creates a [flexible box layout](https://developer.mozilla.org/en-US/docs/Web/CSS/flex) that can arrange child components in various ways. It's particularly useful for creating responsive layouts and organizing components in rows or columns.
 
 ```typescript
 type FlexConfig = {
@@ -46,10 +41,7 @@ Component.Flex({
 })
 ```
 
-> [!note] Overriding behavior Components inside `Flex` get an additional CSS
-> class `flex-component` that add the `display: flex` property. If you want to
-> override this behavior, you can add a `display` property to the component's
-> CSS class in your custom CSS file.
+> [!note] Overriding behavior Components inside `Flex` get an additional CSS class `flex-component` that add the `display: flex` property. If you want to override this behavior, you can add a `display` property to the component's CSS class in your custom CSS file.
 >
 > ```scss
 > .flex-component {
@@ -59,9 +51,7 @@ Component.Flex({
 
 ## `MobileOnly` Component
 
-The `MobileOnly` component is a wrapper that makes its child component only
-visible on mobile devices. This is useful for creating responsive layouts where
-certain components should only appear on smaller screens.
+The `MobileOnly` component is a wrapper that makes its child component only visible on mobile devices. This is useful for creating responsive layouts where certain components should only appear on smaller screens.
 
 ### Example Usage
 
@@ -71,9 +61,7 @@ Component.MobileOnly(Component.Spacer())
 
 ## `DesktopOnly` Component
 
-The `DesktopOnly` component is the counterpart to `MobileOnly`. It makes its
-child component only visible on desktop devices. This helps create responsive
-layouts where certain components should only appear on larger screens.
+The `DesktopOnly` component is the counterpart to `MobileOnly`. It makes its child component only visible on desktop devices. This helps create responsive layouts where certain components should only appear on larger screens.
 
 ### Example Usage
 
@@ -83,10 +71,7 @@ Component.DesktopOnly(Component.TableOfContents())
 
 ## `ConditionalRender` Component
 
-The `ConditionalRender` component is a wrapper that conditionally renders its
-child component based on a provided condition function. This is useful for
-creating dynamic layouts where components should only appear under certain
-conditions.
+The `ConditionalRender` component is a wrapper that conditionally renders its child component based on a provided condition function. This is useful for creating dynamic layouts where components should only appear under certain conditions.
 
 ```typescript
 type ConditionalRenderConfig = {
@@ -104,8 +89,7 @@ Component.ConditionalRender({
 })
 ```
 
-The example above would only render the Search component when the page is not in
-fullpage mode.
+The example above would only render the Search component when the page is not in fullpage mode.
 
 ```typescript
 Component.ConditionalRender({

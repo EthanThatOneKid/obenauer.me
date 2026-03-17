@@ -4,24 +4,19 @@ url: https://alexanderobenauer.com/membership/portal/
 scraped_at: 2026-03-06T21:06:01.763Z
 ---
 
-This is the old member portal —
-[click here to go to the new one](https://lab.alexanderobenauer.com).
+This is the old member portal — [click here to go to the new one](https://lab.alexanderobenauer.com).
 
 ---
 
 # Welcome, member!
 
-[Manage your account](https://alexander.memberful.com/account) or
-[change your plan](https://alexander.memberful.com/account/subscriptions).
+[Manage your account](https://alexander.memberful.com/account) or [change your plan](https://alexander.memberful.com/account/subscriptions).
 
-Just checking things out? [Become a member](/membership/) to activate the links
-below.
+Just checking things out? [Become a member](/membership/) to activate the links below.
 
 ## Message
 
-Have a question? Something you’d like to see in the next member mag? Send a
-message here. Questions of general interest may be included in members-only
-areas.
+Have a question? Something you’d like to see in the next member mag? Send a message here. Questions of general interest may be included in members-only areas.
 
 ## Experimenting with spaced review in OLLOS
 
@@ -39,10 +34,7 @@ Member update & demo
 
 ## Directions
 
-Where is personal computing headed? What should we expect of our software? What
-should we expect of our hardware? How should we direct the future of personal
-computing? How might these wonder machines finally help us to work “at the speed
-of thought”?
+Where is personal computing headed? What should we expect of our software? What should we expect of our hardware? How should we direct the future of personal computing? How might these wonder machines finally help us to work “at the speed of thought”?
 
 [
 
@@ -52,9 +44,7 @@ Member download
 
 ---
 
-**Contents:** Letter to the Members / Towards Symbiosis in Personal Computing /
-Experimental Prototype Computer of Tomorrow / My personal stack of home brewed
-software / Challenges in Research
+**Contents:** Letter to the Members / Towards Symbiosis in Personal Computing / Experimental Prototype Computer of Tomorrow / My personal stack of home brewed software / Challenges in Research
 
 ![Member Magazine, Issue 1: Foundations. Winter 2022.](/assets/imgs/memberMag-1.png)
 
@@ -62,10 +52,7 @@ software / Challenges in Research
 
 ## Foundations
 
-Why does personal computing matter? Why does _better_ personal computing matter?
-What are the fundamental units of personal computing? What _is_ personal
-computing? What kinds of things do we externalize, and why? How do you represent
-thoughts?
+Why does personal computing matter? Why does _better_ personal computing matter? What are the fundamental units of personal computing? What _is_ personal computing? What kinds of things do we externalize, and why? How do you represent thoughts?
 
 [
 
@@ -75,18 +62,12 @@ Member download
 
 ---
 
-**Contents:** Letter to the Members / Introduction to the Member Magazine /
-Personal computers are amazing / Thinking Out Loud / Making things better / An
-item-centric perspective on personal computing / The future of personal
-computing
+**Contents:** Letter to the Members / Introduction to the Member Magazine / Personal computers are amazing / Thinking Out Loud / Making things better / An item-centric perspective on personal computing / The future of personal computing
 
 **Share your support**
 
 Want to share your support of this research?
 
-[Share on Twitter](https://twitter.com/intent/tweet?text=I'm%20a%20supporting%20member%20of%20%40alexobenauer's%20research.%20You%20can%20support%20too%3A%20https%3A//alexanderobenauer.com)
-/
-[Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//alexanderobenauer.com&title=Alexander%20Obenauer's%20research%20on%20personal%20computing&summary=I'm%20a%20supporting%20member%20of%20Alexander%20Obenauer's%20research.%20You%20can%20support%20too.&source=)
-/
+[Share on Twitter](https://twitter.com/intent/tweet?text=I'm%20a%20supporting%20member%20of%20%40alexobenauer's%20research.%20You%20can%20support%20too%3A%20https%3A//alexanderobenauer.com) / [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//alexanderobenauer.com&title=Alexander%20Obenauer's%20research%20on%20personal%20computing&summary=I'm%20a%20supporting%20member%20of%20Alexander%20Obenauer's%20research.%20You%20can%20support%20too.&source=) /
 
 ---

@@ -1,14 +1,5 @@
 ---
 title: item
-date: 2026-03-07T00:00:00.000Z
-tags:
-  - item
-  - os
-  - agency
-  - thinking
-  - composition
-  - integration
-  - graph
 ---
 
 An ==item== is the [[fundamental]] [[unit]] of our digital existence, transcending traditional file formats and application silos to become the primary primitive of an [[os]]. By reimagining our digital environment through itemization, we allow every email, note, or webpage to coexist as a first-class citizen within a unified workspace.

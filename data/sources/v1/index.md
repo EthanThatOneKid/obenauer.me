@@ -12,9 +12,7 @@ Hey there, I’m Alexander.
 
 I’m interested in how software can better serve people’s daily lives.
 
-My experiments often involve designing and developing many ideas — some of which
-I build into publicly available products, which further informs my research.
-Below is a compendium of my research areas, projects, and products.
+My experiments often involve designing and developing many ideas — some of which I build into publicly available products, which further informs my research. Below is a compendium of my research areas, projects, and products.
 
 My work is graciously supported by the community — if you want to join us, see .
 
@@ -22,20 +20,15 @@ My work is graciously supported by the community — if you want to join us, see
 
 ## The future of the operating system
 
-In my current work, I am exploring new and renewed ideas for how personal
-computing can better support people’s lives, expanding opportunity, agency,
-curiosity, and creativity.
+In my current work, I am exploring new and renewed ideas for how personal computing can better support people’s lives, expanding opportunity, agency, curiosity, and creativity.
 
-This work is primarily shaped by exploring the “operating system of the future,”
-and creating an experimental new environment for personal computing.
+This work is primarily shaped by exploring the “operating system of the future,” and creating an experimental new environment for personal computing.
 
 [
 
 ### Lab Notes
 
-While exploring the OS of the future, I publish Lab Notes that document my
-progress, experiments, and concepts to intentionally “work with the lab door
-open,” inviting others’ thoughts along the way.
+While exploring the OS of the future, I publish Lab Notes that document my progress, experiments, and concepts to intentionally “work with the lab door open,” inviting others’ thoughts along the way.
 
 Go to the Lab Notes
 
@@ -53,8 +46,7 @@ Article  ·  34 min. read  ·  Publ. June 6, 2021
 
 ### Projects
 
-These projects experiment with the concepts from my research on the future of
-the OS.
+These projects experiment with the concepts from my research on the future of the OS.
 
 [
 
@@ -74,19 +66,11 @@ Plugin for Obsidian
 
 ## Reimagining email
 
-My career began with reimagining email and finding ways to build that vision on
-top of the existing email protocols.
+My career began with reimagining email and finding ways to build that vision on top of the existing email protocols.
 
-Mail Pilot is an email client that introduced new perspectives and useful
-features to email in 2012, including reminders (later adopted by other apps as
-“snooze”). After a record-breaking Kickstarter campaign, it went on to become
-the #1 paid app in the Mac App Store at launch. It is available today as a
-native app for macOS and iOS.
+Mail Pilot is an email client that introduced new perspectives and useful features to email in 2012, including reminders (later adopted by other apps as “snooze”). After a record-breaking Kickstarter campaign, it went on to become the #1 paid app in the Mac App Store at launch. It is available today as a native app for macOS and iOS.
 
-Throttle is a service that introduced sender-specific addresses in 2015 to give
-email receivers fine-grained oversight and control over the transactional and
-bulk email headed their way, and is often turned to as a home away from the
-inbox for less urgent email.
+Throttle is a service that introduced sender-specific addresses in 2015 to give email receivers fine-grained oversight and control over the transactional and bulk email headed their way, and is often turned to as a home away from the inbox for less urgent email.
 
 ### Products
 
@@ -116,16 +100,11 @@ Email throttling service
 
 My work is independent research — [more on that here](work/).
 
-It is graciously supported by the community. Supporting members get access to my
-Member Magazine, member-exclusive demos, and other perks.
+It is graciously supported by the community. Supporting members get access to my Member Magazine, member-exclusive demos, and other perks.
 
-[Consider becoming a member](/membership/) — you'll receive all the member
-exclusives, and help make more of this work happen, most of which is published
-for members and non-members alike.
+[Consider becoming a member](/membership/) — you'll receive all the member exclusives, and help make more of this work happen, most of which is published for members and non-members alike.
 
-If you’d like to make a bigger contribution to support my work, you can
-[become a sponsor](https://wonderos.org/sponsor/) of WonderOS, my current
-research project.
+If you’d like to make a bigger contribution to support my work, you can [become a sponsor](https://wonderos.org/sponsor/) of WonderOS, my current research project.
 
 ## Interviews & more
 
@@ -173,11 +152,4 @@ Subscribe by RSS
 
 ---
 
-[I wrote a book!](/weekly/20250201/) ·
-[Thinking about the interfaces with which we think](/weekly/20240622/) ·
-[A new experiment, and an Ink & Switch collab](/weekly/20240121/) ·
-[An understanding of time in the OS of the future](/weekly/20231021/) ·
-[How semantic zoom supports agency in personal software](/weekly/20230828/) ·
-[A gestural environment for the OS of the future](/weekly/20230729/) ·
-[Making the OS of the future more helpful](/weekly/20230422/) ·
-[**All archives »**](/weekly/)
+[I wrote a book!](/weekly/20250201/) · [Thinking about the interfaces with which we think](/weekly/20240622/) · [A new experiment, and an Ink & Switch collab](/weekly/20240121/) · [An understanding of time in the OS of the future](/weekly/20231021/) · [How semantic zoom supports agency in personal software](/weekly/20230828/) · [A gestural environment for the OS of the future](/weekly/20230729/) · [Making the OS of the future more helpful](/weekly/20230422/) · [**All archives »**](/weekly/)

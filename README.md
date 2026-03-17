@@ -2,24 +2,16 @@
 
 > "Itemize everything. Emails, notes, tasks—triples in a graph."
 
-This is the digital garden and research repository for
-[Alexander Obenauer](https://alexanderobenauer.com), deployed at
-[obenauer.etok.me](https://obenauer.etok.me). It serves as a living document of
-core philosophies—Agency, Malleability, Augmentation, and the Itemized OS—and
-functions as a networked graph of concepts.
+This is the digital garden and research repository for [Alexander Obenauer](https://alexanderobenauer.com), deployed at [obenauer.etok.me](https://obenauer.etok.me). It serves as a living document of core philosophies—Agency, Malleability, Augmentation, and the Itemized OS—and functions as a networked graph of concepts.
 
 The site is powered by [Quartz v4](https://quartz.jzhao.xyz/).
 
 ## Core concepts
 
-- **[[item|Itemization]]**: Break down digital silos into atomic, interrelated
-  units.
-- **[[graph|The Graph]]**: Move beyond hierarchical folders into a fluid web of
-  triples.
-- **[[sovereignty|Sovereignty]]**: Architect personal computing environments
-  that prioritize human agency.
-- **[[localfirst|Local-first]]**: Build tools that are fast, private, and owned
-  by the user.
+- **[[item|Itemization]]**: Break down digital silos into atomic, interrelated units.
+- **[[graph|The Graph]]**: Move beyond hierarchical folders into a fluid web of triples.
+- **[[sovereignty|Sovereignty]]**: Architect personal computing environments that prioritize human agency.
+- **[[localfirst|Local-first]]**: Build tools that are fast, private, and owned by the user.
 
 ## Getting started
 
@@ -35,14 +27,10 @@ The site is powered by [Quartz v4](https://quartz.jzhao.xyz/).
 
 ## Data & intelligence workflow
 
-This project provides a specialized `data` workspace for content processing,
-scraping, and AI-assisted synthesis.
+This project provides a specialized `data` workspace for content processing, scraping, and AI-assisted synthesis.
 
-- `npm run generate`: Process sources and generate concept pages. This performs
-  a full pipeline: syncing from RSS, scraping content, and generating the
-  research graph.
-- `npm run generate -- --reload`: Reset the pipeline and regenerate all concepts
-  from scratch.
+- `npm run generate`: Process sources and generate concept pages. This performs a full pipeline: syncing from RSS, scraping content, and generating the research graph.
+- `npm run generate -- --reload`: Reset the pipeline and regenerate all concepts from scratch.
 - `npm run chat`: Interactive CLI for data management and research tasks.
 
 ### Pipeline overview
@@ -69,8 +57,7 @@ graph TD
     class AIGen,Discovery,FileStore ai;
 ```
 
-Commands in the `data` workspace use environment variables defined in the root
-`.env` file.
+Commands in the `data` workspace use environment variables defined in the root `.env` file.
 
 ## License
 

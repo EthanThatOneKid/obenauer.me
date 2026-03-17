@@ -4,8 +4,7 @@ title: index
 
 Welcome.
 
-Itemize everything. [[email|Emails]], [[note|notes]], [[task|tasks]]—just
-[[tuple|tuples]] in a [[graph]].
+Itemize everything. [[email|Emails]], [[note|notes]], [[task|tasks]]—just [[tuple|tuples]] in a [[graph]].
 
 Read deeply, synthesize connections, and architect your own [[environment]].
 

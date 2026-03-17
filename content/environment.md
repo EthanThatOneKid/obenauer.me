@@ -1,12 +1,5 @@
 ---
 title: environment
-date: 2026-03-07T00:00:00.000Z
-tags:
-  - environment
-  - interface
-  - software
-  - computing
-  - creativity
 ---
 
 An [[environment]] is defined by the physical and digital cues we intentionally surround ourselves with to shape our focus, linking directly to our [[interface|interfaces]], the [[software]] we inhabit, and the [[computing]] [[system|systems]] we utilize daily. These spaces act as scaffolding for our [[intent]], far beyond the arbitrary, restrictive boundaries of modern application [[silo|silos]].
