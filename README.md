@@ -1,8 +1,12 @@
 # obenauer.me
 
-> "Itemize everything. Emails, notes, tasks—triples in a graph."
+> Exploring new and renewed ideas for how personal computing and the interfaces with which we think can better serve people’s lives – expanding opportunity, agency, curiosity, and creativity.
 
 This is the digital garden and research repository for [Alexander Obenauer](https://alexanderobenauer.com), deployed at [obenauer.etok.me](https://obenauer.etok.me). It serves as a living document of core philosophies—Agency, Malleability, Augmentation, and the Itemized OS—and functions as a networked graph of concepts.
+
+[Read the announcement post on Bluesky](https://bsky.app/profile/etok.me/post/3mhbzq5u4xk2f)
+
+Inspired by [this LinkedIn post](https://www.linkedin.com/posts/justin1ee_i-need-to-prove-that-ai-agents-can-do-more-activity-7374804713906606080-nan-/).
 
 The site is powered by [Quartz v4](https://quartz.jzhao.xyz/).
 
@@ -62,3 +66,7 @@ Commands in the `data` workspace use environment variables defined in the root `
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+Developed with 🧪 by [**@EthanThatOneKid**](https://etok.me/)
