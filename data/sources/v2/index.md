@@ -16,7 +16,7 @@ Want to receive my work as I publish it?
 
 ---
 
-##
+## 
 
 How might the interfaces we think with better serve people’s daily lives?
 
@@ -68,7 +68,7 @@ environment.
 
 →Explore WonderOS.org
 
-](https://wonderos.org/)[→Explore *Hello, Operator!* — the WonderOS handbook](https://wonderos.org/hello/)
+](https://wonderos.org/)[→Explore _Hello, Operator!_ — the WonderOS handbook](https://wonderos.org/hello/)
 
 ---
 

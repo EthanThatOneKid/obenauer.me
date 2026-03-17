@@ -3,10 +3,10 @@ import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
-import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
+import { FullSlug, joinSegments, normalizeHastElement, RelativeURL } from "../util/path"
 import { clone } from "../util/clone"
 import { visit } from "unist-util-visit"
-import { Root, Element, ElementContent } from "hast"
+import { Element, ElementContent, Root } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { styleText } from "util"
@@ -28,7 +28,8 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const contentIndexScript =
+    `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
 
   const resources: StaticResources = {
     css: [
@@ -127,9 +128,15 @@ function renderTranscludes(
               {
                 type: "element",
                 tagName: "a",
-                properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+                properties: {
+                  href: inner.properties?.href,
+                  class: ["internal", "transclude-src"],
+                },
                 children: [
-                  { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+                  {
+                    type: "text",
+                    value: i18n(cfg.locale).components.transcludes.linkToOriginal,
+                  },
                 ],
               },
             ]
@@ -142,7 +149,9 @@ function renderTranscludes(
           let endIdx = undefined
           for (const [i, el] of page.htmlAst.children.entries()) {
             // skip non-headers
-            if (!(el.type === "element" && el.tagName.match(headerRegex))) continue
+            if (!(el.type === "element" && el.tagName.match(headerRegex))) {
+              continue
+            }
             const depth = Number(el.tagName.substring(1))
 
             // lookin for our blockref
@@ -165,14 +174,20 @@ function renderTranscludes(
 
           node.children = [
             ...(page.htmlAst.children.slice(startIdx, endIdx) as ElementContent[]).map((child) =>
-              normalizeHastElement(child as Element, slug, transcludeTarget),
+              normalizeHastElement(child as Element, slug, transcludeTarget)
             ),
             {
               type: "element",
               tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              properties: {
+                href: inner.properties?.href,
+                class: ["internal", "transclude-src"],
+              },
               children: [
-                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+                {
+                  type: "text",
+                  value: i18n(cfg.locale).components.transcludes.linkToOriginal,
+                },
               ],
             },
           ]
@@ -186,8 +201,7 @@ function renderTranscludes(
               children: [
                 {
                   type: "text",
-                  value:
-                    page.frontmatter?.title ??
+                  value: page.frontmatter?.title ??
                     i18n(cfg.locale).components.transcludes.transcludeOf({
                       targetSlug: page.slug!,
                     }),
@@ -195,14 +209,20 @@ function renderTranscludes(
               ],
             },
             ...(page.htmlAst.children as ElementContent[]).map((child) =>
-              normalizeHastElement(child as Element, slug, transcludeTarget),
+              normalizeHastElement(child as Element, slug, transcludeTarget)
             ),
             {
               type: "element",
               tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              properties: {
+                href: inner.properties?.href,
+                class: ["internal", "transclude-src"],
+              },
               children: [
-                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+                {
+                  type: "text",
+                  value: i18n(cfg.locale).components.transcludes.linkToOriginal,
+                },
               ],
             },
           ]
@@ -243,17 +263,13 @@ export function renderPage(
 
   const LeftComponent = (
     <div class="left sidebar">
-      {left.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
+      {left.map((BodyComponent) => <BodyComponent {...componentData} />)}
     </div>
   )
 
   const RightComponent = (
     <div class="right sidebar">
-      {right.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
+      {right.map((BodyComponent) => <BodyComponent {...componentData} />)}
     </div>
   )
 
@@ -269,22 +285,16 @@ export function renderPage(
             <div class="center">
               <div class="page-header">
                 <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
+                  {header.map((HeaderComponent) => <HeaderComponent {...componentData} />)}
                 </Header>
                 <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
+                  {beforeBody.map((BodyComponent) => <BodyComponent {...componentData} />)}
                 </div>
               </div>
               <Content {...componentData} />
               <hr />
               <div class="page-footer">
-                {afterBody.map((BodyComponent) => (
-                  <BodyComponent {...componentData} />
-                ))}
+                {afterBody.map((BodyComponent) => <BodyComponent {...componentData} />)}
               </div>
             </div>
             {RightComponent}

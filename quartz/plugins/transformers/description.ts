@@ -70,10 +70,9 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             }
 
             // truncate to max length if necessary
-            file.data.description =
-              finalDesc.length > opts.maxDescriptionLength
-                ? finalDesc.slice(0, opts.maxDescriptionLength) + "..."
-                : finalDesc
+            file.data.description = finalDesc.length > opts.maxDescriptionLength
+              ? finalDesc.slice(0, opts.maxDescriptionLength) + "..."
+              : finalDesc
             file.data.text = text
           }
         },

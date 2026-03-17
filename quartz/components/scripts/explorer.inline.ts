@@ -48,10 +48,10 @@ function toggleFolder(evt: MouseEvent) {
   // corresponding <ul> element relative to clicked button/folder
   const folderContainer = (
     isSvg
-      ? // svg -> div.folder-container
-        target.parentElement
-      : // button.folder-button -> div -> div.folder-container
-        target.parentElement?.parentElement
+      // svg -> div.folder-container
+      ? target.parentElement
+      // button.folder-button -> div -> div.folder-container
+      : target.parentElement?.parentElement
   ) as MaybeHTMLElement
   if (!folderContainer) return
   const childFolderContainer = folderContainer.nextElementSibling as MaybeHTMLElement
@@ -130,8 +130,7 @@ function createFolderNode(
   }
 
   // if the saved state is collapsed or the default state is collapsed
-  const isCollapsed =
-    currentExplorerState.find((item) => item.path === folderPath)?.collapsed ??
+  const isCollapsed = currentExplorerState.find((item) => item.path === folderPath)?.collapsed ??
     opts.folderDefaultState === "collapsed"
 
   // if this folder is a prefix of the current path we
@@ -201,8 +200,9 @@ async function setupExplorer(currentSlug: FullSlug) {
       const previousState = oldIndex.get(path)
       return {
         path,
-        collapsed:
-          previousState === undefined ? opts.folderDefaultState === "collapsed" : previousState,
+        collapsed: previousState === undefined
+          ? opts.folderDefaultState === "collapsed"
+          : previousState,
       }
     })
 

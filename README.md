@@ -1,42 +1,77 @@
-# Quartz v4
+# obenauer.me
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> "Itemize everything. Emails, notes, tasks—triples in a graph."
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+This is the digital garden and research repository for
+[Alexander Obenauer](https://alexanderobenauer.com), deployed at
+[obenauer.etok.me](https://obenauer.etok.me). It serves as a living document of
+core philosophies—Agency, Malleability, Augmentation, and the Itemized OS—and
+functions as a networked graph of concepts.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+The site is powered by [Quartz v4](https://quartz.jzhao.xyz/).
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Core concepts
 
-## Getting Started
+- **[[item|Itemization]]**: Break down digital silos into atomic, interrelated
+  units.
+- **[[graph|The Graph]]**: Move beyond hierarchical folders into a fluid web of
+  triples.
+- **[[sovereignty|Sovereignty]]**: Architect personal computing environments
+  that prioritize human agency.
+- **[[localfirst|Local-first]]**: Build tools that are fast, private, and owned
+  by the user.
 
-1.  **Install dependencies**: `npm install`
-2.  **Start the development server**: `npm run start`
+## Getting started
 
-The scripts use `npx quartz` to ensure the binary is correctly resolved.
+1. **Install dependencies**: `npm install`
+2. **Start the development server**: `npm run start`
 
 ## Scripts
 
 - `npm run start`: Build and serve the site locally with hot reloading.
-- `npm run docs`: Build and serve the site from the `docs` directory.
-- `npm run check`: Run TypeScript type checking and Prettier linting.
-- `npm run format`: Format the codebase using Prettier.
-- `npm run test`: Run automated tests using `tsx`.
+- `npm run build`: Build the production site.
+- `npm run check`: Run TypeScript type checking and [deno fmt](https://docs.deno.com/examples/deno_fmt/) checking.
+- `npm run format`: Format the codebase using [deno fmt](https://docs.deno.com/examples/deno_fmt/).
 
-## Data Workflow
+## Data & intelligence workflow
 
-The project contains a `data` workspace for content management and processing.
+This project provides a specialized `data` workspace for content processing,
+scraping, and AI-assisted synthesis.
 
-- `npm run scrape`: Scrape content from external sources (configured in `data/src/scrape.ts`).
-- `npm run generate`: Process scraped data and generate content (configured in `data/src/generate.ts`).
-- `npm run chat`: Interactive CLI for data tasks (configured in `data/src/chat.ts`).
+- `npm run generate`: Process sources and generate concept pages. This performs
+  a full pipeline: syncing from RSS, scraping content, and generating the
+  research graph.
+- `npm run generate -- --reload`: Reset the pipeline and regenerate all concepts
+  from scratch.
+- `npm run chat`: Interactive CLI for data management and research tasks.
 
-Commands in the `data` workspace use environment variables from the root `.env` file.
+### Pipeline overview
 
-## Sponsors
+```mermaid
+graph TD
+    subgraph Scraping_Phase["Phase 1: Scraping & Ingestion"]
+        RSS["RSS Feed"] -->|syncSources| Queue["URL Queue (checkpoint.json)"]
+        Queue -->|scrape| Scraper["Scraper (Turndown)"]
+        Scraper -->|save| SourcesDir["Sources Directory"]
+        SourcesDir -->|ingest| FileStore["Google AI File Store"]
+    end
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+    subgraph Generation_Phase["Phase 2 & 3: AI Synthesis"]
+        FileStore -->|getRootConcepts| Discovery["AI Discovery"]
+        Discovery -->|populate| ConceptQueue["Concept Queue"]
+        ConceptQueue -->|extractConceptNode| AIGen["AI Generation (Gemini)"]
+        AIGen -->|writeConceptFile| ContentDir["Content Directory (.md)"]
+        ContentDir -->|find related| ConceptQueue
+        ContentDir -->|retroactive| Linker["Wikilinking Pass"]
+    end
+
+    classDef ai fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
+    class AIGen,Discovery,FileStore ai;
+```
+
+Commands in the `data` workspace use environment variables defined in the root
+`.env` file.
+
+## License
+
+This project is licensed under the MIT License.

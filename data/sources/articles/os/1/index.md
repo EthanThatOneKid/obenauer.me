@@ -966,7 +966,7 @@ Framework,” can be read
 [\[7\]](#return7) The article, “As We May Think,” can be read
 [in full on The Atlantic’s website](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/).
 Even more delightful, Brett Victor has on his website a PDF scan
-[of the article as it appeared in The Atlantic in 1945](<http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf>),
+[of the article as it appeared in The Atlantic in 1945](http://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf),
 ads and all. [\[Return\]](#return7)
 
 ---

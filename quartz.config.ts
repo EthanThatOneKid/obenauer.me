@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "obenauer.me",
+    pageTitle: "obenauer",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,20 +23,21 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Crimson Pro",
+        body: "Crimson Pro",
+        title: "Unica One",
+        code: "Inter",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#ffffff",
+          lightgray: "#eaeaea",
+          gray: "#666666",
+          darkgray: "#111111",
+          dark: "#000000",
+          secondary: "#007aff",
+          tertiary: "#0056b3",
+          highlight: "rgba(0, 122, 255, 0.05)",
           textHighlight: "#fff23688",
         },
         darkMode: {

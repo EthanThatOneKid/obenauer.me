@@ -8,11 +8,14 @@ May 7, 2022
 
 # The future of personal computing hardware
 
-In the [last few Lab Notes](https://alexanderobenauer.com/labnotes/000/), we explored what the future of the OS might look like on an itemized internet. Now let’s take that back to your own devices:
+In the [last few Lab Notes](https://alexanderobenauer.com/labnotes/000/), we
+explored what the future of the OS might look like on an itemized internet. Now
+let’s take that back to your own devices:
 
-What if you could have your own, personal computing network? And what kinds of devices could you add to it?
+What if you could have your own, personal computing network? And what kinds of
+devices could you add to it?
 
-Read the lab note:  
+Read the lab note:\
 [LN 027: Personal Computing Network & Devices »](https://alexanderobenauer.com/labnotes/027/)
 
 ---

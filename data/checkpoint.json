@@ -1,130 +1,130 @@
 {
   "concepts": {
     "processed": [
-      "computing",
-      "interface",
-      "software",
+      "action",
+      "additive",
       "agency",
-      "curiosity",
-      "creativity",
-      "opportunity",
-      "timeline",
-      "environment",
-      "document",
-      "research",
-      "experimentation",
-      "thinking",
-      "portability",
-      "zoom",
-      "gesturing",
-      "reference",
-      "navigation",
-      "design",
-      "os",
-      "shipping",
-      "engineering",
-      "actions",
       "architecture",
-      "assets",
+      "asset",
       "augmentation",
+      "automation",
+      "axiom",
       "bootstrapping",
+      "calendar",
+      "cloud",
+      "collaboration",
       "composition",
+      "computing",
+      "container",
       "context",
+      "convention",
+      "craft",
+      "creation",
+      "creativity",
       "culture",
-      "desktops",
+      "curiosity",
+      "design",
+      "desktop",
+      "device",
       "discovery",
+      "document",
+      "domain",
+      "drive",
+      "email",
+      "engineering",
+      "environment",
       "evolvability",
+      "execution",
+      "experimentation",
       "externalization",
-      "facts",
+      "fact",
+      "fundamental",
+      "future",
+      "gesturing",
       "graph",
+      "habit",
+      "independence",
+      "injection",
       "integration",
       "intent",
       "interaction",
+      "interface",
+      "internet",
       "interoperability",
-      "items",
+      "item",
+      "iteration",
+      "knowledge",
+      "language",
+      "layer",
+      "learning",
       "literacy",
+      "localfirst",
+      "log",
       "logic",
       "malleability",
+      "manual",
+      "mastery",
+      "membership",
+      "memory",
+      "messaging",
       "metadata",
+      "model",
       "modularity",
-      "notes",
-      "notifications",
+      "mutation",
+      "navigation",
+      "network",
+      "note",
+      "notification",
+      "opportunity",
       "organization",
+      "os",
+      "ownership",
+      "perfection",
+      "personal",
+      "plan",
+      "planning",
+      "plugin",
+      "portability",
+      "practice",
+      "primitive",
+      "principle",
+      "process",
+      "production",
       "programming",
-      "projects",
+      "project",
+      "publishing",
+      "quality",
       "quantity",
-      "relationships",
+      "query",
+      "reference",
+      "relationship",
       "rendering",
       "representation",
+      "research",
       "review",
+      "semantics",
+      "shipping",
+      "silo",
+      "software",
       "sovereignty",
       "symbiosis",
-      "tasks",
-      "units",
-      "views",
-      "windows",
+      "system",
+      "task",
+      "thinking",
+      "time",
+      "timeline",
+      "tool",
+      "topic",
+      "triple",
+      "undo",
+      "unit",
+      "view",
+      "widget",
+      "window",
       "wonderos",
       "workflow",
-      "workspaces",
-      "quality",
-      "independence",
-      "learning",
-      "production",
-      "perfection",
-      "iteration",
-      "mastery",
-      "localfirst",
-      "ownership",
-      "personal",
-      "automations",
-      "domains",
-      "fundamentals",
-      "tools",
-      "layers",
-      "models",
-      "system",
-      "conventions",
-      "principles",
-      "plans",
-      "silos",
-      "widgets",
-      "language",
-      "triples",
-      "queries",
-      "plugin",
-      "manual",
-      "future",
-      "membership",
-      "semantics",
-      "time",
-      "topics",
-      "cloud",
-      "calendar",
-      "drives",
-      "primitives",
-      "mutations",
-      "logs",
-      "publishing",
-      "internet",
-      "network",
-      "devices",
-      "injections",
-      "collaboration",
-      "messaging",
-      "habits",
-      "email",
-      "practice",
-      "process",
-      "craft",
-      "creation",
-      "memory",
-      "planning",
-      "containers",
-      "execution",
-      "knowledge",
-      "undo",
-      "additive",
-      "axioms"
+      "workspace",
+      "zoom"
     ],
     "queue": []
   },
@@ -255,127 +255,490 @@
   },
   "sources": {
     "processed": [
-      "https://alexanderobenauer.com/weekly/20250201/",
-      "https://alexanderobenauer.com/weekly/20240622/",
-      "https://alexanderobenauer.com/weekly/20240121/",
-      "https://alexanderobenauer.com/weekly/20231021/",
-      "https://alexanderobenauer.com/weekly/20230828/",
-      "https://alexanderobenauer.com/weekly/20230729/",
-      "https://alexanderobenauer.com/weekly/20230422/",
-      "https://alexanderobenauer.com/weekly/20230225/",
-      "https://alexanderobenauer.com/weekly/20230114/",
-      "https://alexanderobenauer.com/weekly/20230101/",
-      "https://alexanderobenauer.com/weekly/20221228/",
-      "https://alexanderobenauer.com/weekly/20221218/",
-      "https://alexanderobenauer.com/weekly/20221002/",
-      "https://alexanderobenauer.com/weekly/20220918/",
-      "https://alexanderobenauer.com/weekly/20220730/",
-      "https://alexanderobenauer.com/weekly/20220612/",
-      "https://alexanderobenauer.com/weekly/20220521/",
-      "https://alexanderobenauer.com/weekly/20220507/",
-      "https://alexanderobenauer.com/weekly/20220409/",
-      "https://alexanderobenauer.com/weekly/20220326/",
-      "https://alexanderobenauer.com/weekly/20220312/",
-      "https://alexanderobenauer.com/weekly/20220305/",
-      "https://alexanderobenauer.com/weekly/20220227/",
-      "https://alexanderobenauer.com/weekly/20220116/",
-      "https://alexanderobenauer.com/weekly/20220109/",
-      "https://alexanderobenauer.com/weekly/20220101/",
-      "https://alexanderobenauer.com/weekly/20211118/",
-      "https://alexanderobenauer.com/weekly/20211028/",
-      "https://alexanderobenauer.com/weekly/20211012/",
-      "https://alexanderobenauer.com/weekly/20211003/",
-      "https://alexanderobenauer.com/weekly/20210926/",
-      "https://alexanderobenauer.com/weekly/20210919/",
-      "https://alexanderobenauer.com/weekly/20210912/",
-      "https://alexanderobenauer.com/weekly/20210905/",
-      "https://alexanderobenauer.com/weekly/20210828/",
-      "https://alexanderobenauer.com/weekly/20210821/",
-      "https://alexanderobenauer.com/weekly/20210814/",
-      "https://alexanderobenauer.com/weekly/20210807/",
-      "https://alexanderobenauer.com/weekly/20210731/",
-      "https://alexanderobenauer.com/weekly/20210626/",
-      "https://alexanderobenauer.com/weekly/20210606/",
-      "https://alexanderobenauer.com/weekly/20210502/",
-      "https://alexanderobenauer.com/weekly/20201226/",
-      "https://alexanderobenauer.com/weekly/20210102/",
-      "https://alexanderobenauer.com/weekly/20210110/",
-      "https://alexanderobenauer.com/weekly/20210116/",
-      "https://alexanderobenauer.com/weekly/20210124/",
-      "https://alexanderobenauer.com/weekly/20210131/",
-      "https://alexanderobenauer.com/weekly/20210206/",
-      "https://alexanderobenauer.com/weekly/20210217/",
-      "https://alexanderobenauer.com/weekly/20210222/",
-      "https://alexanderobenauer.com/weekly/20210227/",
-      "https://alexanderobenauer.com/weekly/20210320/",
-      "https://alexanderobenauer.com/weekly/20210406/",
-      "https://alexanderobenauer.com/weekly/20210410/",
-      "https://alexanderobenauer.com/weekly/",
-      "https://alexanderobenauer.com/2022/",
-      "https://alexanderobenauer.com/2023/",
-      "https://alexanderobenauer.com/articles/email/1/",
-      "https://alexanderobenauer.com/articles/os/1/",
-      "https://alexanderobenauer.com/email/",
-      "https://alexanderobenauer.com/labnotes/000/",
-      "https://alexanderobenauer.com/labnotes/001/",
-      "https://alexanderobenauer.com/labnotes/002/",
-      "https://alexanderobenauer.com/labnotes/003/",
-      "https://alexanderobenauer.com/labnotes/004/",
-      "https://alexanderobenauer.com/labnotes/005/",
-      "https://alexanderobenauer.com/labnotes/006/",
-      "https://alexanderobenauer.com/labnotes/007/",
-      "https://alexanderobenauer.com/labnotes/008/",
-      "https://alexanderobenauer.com/labnotes/009/",
-      "https://alexanderobenauer.com/labnotes/010/",
-      "https://alexanderobenauer.com/labnotes/011/",
-      "https://alexanderobenauer.com/labnotes/012/",
-      "https://alexanderobenauer.com/labnotes/013/",
-      "https://alexanderobenauer.com/labnotes/014/",
-      "https://alexanderobenauer.com/labnotes/015/",
-      "https://alexanderobenauer.com/labnotes/016/",
-      "https://alexanderobenauer.com/labnotes/017/",
-      "https://alexanderobenauer.com/labnotes/018/",
-      "https://alexanderobenauer.com/labnotes/019/",
-      "https://alexanderobenauer.com/labnotes/020/",
-      "https://alexanderobenauer.com/labnotes/021/",
-      "https://alexanderobenauer.com/labnotes/022/",
-      "https://alexanderobenauer.com/labnotes/023/",
-      "https://alexanderobenauer.com/labnotes/024/",
-      "https://alexanderobenauer.com/labnotes/025/",
-      "https://alexanderobenauer.com/labnotes/026/",
-      "https://alexanderobenauer.com/labnotes/027/",
-      "https://alexanderobenauer.com/labnotes/028/",
-      "https://alexanderobenauer.com/labnotes/029/",
-      "https://alexanderobenauer.com/labnotes/030/",
-      "https://alexanderobenauer.com/labnotes/031/",
-      "https://alexanderobenauer.com/labnotes/032/",
-      "https://alexanderobenauer.com/labnotes/033/",
-      "https://alexanderobenauer.com/labnotes/034/",
-      "https://alexanderobenauer.com/labnotes/035/",
-      "https://alexanderobenauer.com/labnotes/036/",
-      "https://alexanderobenauer.com/labnotes/037/",
-      "https://alexanderobenauer.com/labnotes/038/",
-      "https://alexanderobenauer.com/labnotes/039/",
-      "https://alexanderobenauer.com/labnotes/040/",
-      "https://alexanderobenauer.com/labnotes/exp001/",
-      "https://alexanderobenauer.com/membership/",
-      "https://alexanderobenauer.com/membership/portal/",
-      "https://alexanderobenauer.com/ollos/",
-      "https://alexanderobenauer.com/os/",
-      "https://alexanderobenauer.com/privacy/",
-      "https://alexanderobenauer.com/sponsorship/",
-      "https://alexanderobenauer.com/think/1/",
-      "https://alexanderobenauer.com/think/2/",
-      "https://alexanderobenauer.com/think/",
-      "https://alexanderobenauer.com/thinking/dots/",
-      "https://alexanderobenauer.com/thinking/gatheracommunity/",
-      "https://alexanderobenauer.com/thinking/ideas/",
-      "https://alexanderobenauer.com/thinking/pioneeringusers/",
-      "https://alexanderobenauer.com/thinking/quality/",
-      "https://alexanderobenauer.com/thinking/rebuild/",
-      "https://alexanderobenauer.com/v1/",
-      "https://alexanderobenauer.com/v2/",
-      "https://alexanderobenauer.com/work/"
+      {
+        "url": "https://alexanderobenauer.com/weekly/20250201/",
+        "file": "weekly/20250201/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20240622/",
+        "file": "weekly/20240622/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20240121/",
+        "file": "weekly/20240121/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20231021/",
+        "file": "weekly/20231021/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20230828/",
+        "file": "weekly/20230828/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20230729/",
+        "file": "weekly/20230729/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20230422/",
+        "file": "weekly/20230422/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20230225/",
+        "file": "weekly/20230225/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20230114/",
+        "file": "weekly/20230114/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20230101/",
+        "file": "weekly/20230101/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20221228/",
+        "file": "weekly/20221228/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20221218/",
+        "file": "weekly/20221218/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20221002/",
+        "file": "weekly/20221002/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220918/",
+        "file": "weekly/20220918/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220730/",
+        "file": "weekly/20220730/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220612/",
+        "file": "weekly/20220612/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220521/",
+        "file": "weekly/20220521/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220507/",
+        "file": "weekly/20220507/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220409/",
+        "file": "weekly/20220409/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220326/",
+        "file": "weekly/20220326/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220312/",
+        "file": "weekly/20220312/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220305/",
+        "file": "weekly/20220305/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220227/",
+        "file": "weekly/20220227/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220116/",
+        "file": "weekly/20220116/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220109/",
+        "file": "weekly/20220109/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20220101/",
+        "file": "weekly/20220101/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20211118/",
+        "file": "weekly/20211118/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20211028/",
+        "file": "weekly/20211028/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20211012/",
+        "file": "weekly/20211012/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20211003/",
+        "file": "weekly/20211003/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210926/",
+        "file": "weekly/20210926/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210919/",
+        "file": "weekly/20210919/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210912/",
+        "file": "weekly/20210912/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210905/",
+        "file": "weekly/20210905/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210828/",
+        "file": "weekly/20210828/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210821/",
+        "file": "weekly/20210821/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210814/",
+        "file": "weekly/20210814/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210807/",
+        "file": "weekly/20210807/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210731/",
+        "file": "weekly/20210731/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210626/",
+        "file": "weekly/20210626/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210606/",
+        "file": "weekly/20210606/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210502/",
+        "file": "weekly/20210502/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20201226/",
+        "file": "weekly/20201226/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210102/",
+        "file": "weekly/20210102/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210110/",
+        "file": "weekly/20210110/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210116/",
+        "file": "weekly/20210116/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210124/",
+        "file": "weekly/20210124/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210131/",
+        "file": "weekly/20210131/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210206/",
+        "file": "weekly/20210206/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210217/",
+        "file": "weekly/20210217/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210222/",
+        "file": "weekly/20210222/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210227/",
+        "file": "weekly/20210227/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210320/",
+        "file": "weekly/20210320/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210406/",
+        "file": "weekly/20210406/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/20210410/",
+        "file": "weekly/20210410/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/weekly/",
+        "file": "weekly/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/2022/",
+        "file": "2022/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/2023/",
+        "file": "2023/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/articles/email/1/",
+        "file": "articles/email/1/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/articles/os/1/",
+        "file": "articles/os/1/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/email/",
+        "file": "email/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/000/",
+        "file": "labnotes/000/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/001/",
+        "file": "labnotes/001/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/002/",
+        "file": "labnotes/002/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/003/",
+        "file": "labnotes/003/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/004/",
+        "file": "labnotes/004/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/005/",
+        "file": "labnotes/005/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/006/",
+        "file": "labnotes/006/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/007/",
+        "file": "labnotes/007/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/008/",
+        "file": "labnotes/008/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/009/",
+        "file": "labnotes/009/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/010/",
+        "file": "labnotes/010/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/011/",
+        "file": "labnotes/011/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/012/",
+        "file": "labnotes/012/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/013/",
+        "file": "labnotes/013/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/014/",
+        "file": "labnotes/014/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/015/",
+        "file": "labnotes/015/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/016/",
+        "file": "labnotes/016/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/017/",
+        "file": "labnotes/017/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/018/",
+        "file": "labnotes/018/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/019/",
+        "file": "labnotes/019/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/020/",
+        "file": "labnotes/020/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/021/",
+        "file": "labnotes/021/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/022/",
+        "file": "labnotes/022/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/023/",
+        "file": "labnotes/023/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/024/",
+        "file": "labnotes/024/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/025/",
+        "file": "labnotes/025/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/026/",
+        "file": "labnotes/026/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/027/",
+        "file": "labnotes/027/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/028/",
+        "file": "labnotes/028/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/029/",
+        "file": "labnotes/029/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/030/",
+        "file": "labnotes/030/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/031/",
+        "file": "labnotes/031/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/032/",
+        "file": "labnotes/032/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/033/",
+        "file": "labnotes/033/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/034/",
+        "file": "labnotes/034/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/035/",
+        "file": "labnotes/035/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/036/",
+        "file": "labnotes/036/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/037/",
+        "file": "labnotes/037/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/038/",
+        "file": "labnotes/038/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/039/",
+        "file": "labnotes/039/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/040/",
+        "file": "labnotes/040/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/labnotes/exp001/",
+        "file": "labnotes/exp001/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/membership/",
+        "file": "membership/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/membership/portal/",
+        "file": "membership/portal/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/ollos/",
+        "file": "ollos/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/os/",
+        "file": "os/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/privacy/",
+        "file": "privacy/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/sponsorship/",
+        "file": "sponsorship/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/think/1/",
+        "file": "think/1/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/think/2/",
+        "file": "think/2/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/think/",
+        "file": "think/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/thinking/dots/",
+        "file": "thinking/dots/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/thinking/gatheracommunity/",
+        "file": "thinking/gatheracommunity/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/thinking/ideas/",
+        "file": "thinking/ideas/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/thinking/pioneeringusers/",
+        "file": "thinking/pioneeringusers/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/thinking/quality/",
+        "file": "thinking/quality/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/thinking/rebuild/",
+        "file": "thinking/rebuild/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/v1/",
+        "file": "v1/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/v2/",
+        "file": "v2/index.md"
+      },
+      {
+        "url": "https://alexanderobenauer.com/work/",
+        "file": "work/index.md"
+      }
     ],
     "queue": []
   }

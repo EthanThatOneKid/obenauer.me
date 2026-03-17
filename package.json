@@ -16,11 +16,10 @@
     "build": "npx quartz build",
     "start": "npx quartz build --serve",
     "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && prettier . --check",
-    "format": "prettier . --write",
+    "check": "tsc --noEmit && deno fmt --check --unstable-css --unstable-html --unstable-yaml .",
+    "format": "deno fmt --unstable-css --unstable-html --unstable-yaml .",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "scrape": "npm run scrape -w @obenauer/data",
     "generate": "npm run generate -w @obenauer/data",
     "chat": "npm run chat -w @obenauer/data"
   },
@@ -124,7 +123,6 @@
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.35",
     "esbuild": "^0.27.2",
-    "prettier": "^3.8.1",
     "quartz": "^0.0.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"

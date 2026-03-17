@@ -17,20 +17,20 @@ import { Mutex } from "async-mutex"
 import { CreateArgv } from "./args.js"
 import { globby } from "globby"
 import {
-  exitIfCancel,
   escapePath,
+  exitIfCancel,
   gitPull,
   popContentFolder,
   stashContentFolder,
 } from "./helpers.js"
 import {
-  UPSTREAM_NAME,
-  QUARTZ_SOURCE_BRANCH,
-  ORIGIN_NAME,
-  version,
-  fp,
   cacheFile,
   cwd,
+  fp,
+  ORIGIN_NAME,
+  QUARTZ_SOURCE_BRANCH,
+  UPSTREAM_NAME,
+  version,
 } from "./constants.js"
 
 /**
@@ -63,16 +63,22 @@ export async function handleCreate(argv) {
         outro(
           styleText(
             "red",
-            `Setup strategies (arg '${styleText(
-              "yellow",
-              `-${CreateArgv.strategy.alias[0]}`,
-            )}') other than '${styleText(
-              "yellow",
-              "new",
-            )}' require content folder argument ('${styleText(
-              "yellow",
-              `-${CreateArgv.source.alias[0]}`,
-            )}') to be set`,
+            `Setup strategies (arg '${
+              styleText(
+                "yellow",
+                `-${CreateArgv.strategy.alias[0]}`,
+              )
+            }') other than '${
+              styleText(
+                "yellow",
+                "new",
+              )
+            }' require content folder argument ('${
+              styleText(
+                "yellow",
+                `-${CreateArgv.source.alias[0]}`,
+              )
+            }') to be set`,
           ),
         )
         process.exit(1)
@@ -81,10 +87,12 @@ export async function handleCreate(argv) {
           outro(
             styleText(
               "red",
-              `Input directory to copy/symlink 'content' from not found ('${styleText(
-                "yellow",
-                sourceDirectory,
-              )}', invalid argument "${styleText("yellow", `-${CreateArgv.source.alias[0]}`)})`,
+              `Input directory to copy/symlink 'content' from not found ('${
+                styleText(
+                  "yellow",
+                  sourceDirectory,
+                )
+              }', invalid argument "${styleText("yellow", `-${CreateArgv.source.alias[0]}`)})`,
             ),
           )
           process.exit(1)
@@ -92,10 +100,12 @@ export async function handleCreate(argv) {
           outro(
             styleText(
               "red",
-              `Source directory to copy/symlink 'content' from is not a directory (found file at '${styleText(
-                "yellow",
-                sourceDirectory,
-              )}', invalid argument ${styleText("yellow", `-${CreateArgv.source.alias[0]}`)}")`,
+              `Source directory to copy/symlink 'content' from is not a directory (found file at '${
+                styleText(
+                  "yellow",
+                  sourceDirectory,
+                )
+              }', invalid argument ${styleText("yellow", `-${CreateArgv.source.alias[0]}`)}")`,
             ),
           )
           process.exit(1)
@@ -111,7 +121,11 @@ export async function handleCreate(argv) {
         message: `Choose how to initialize the content in \`${contentFolder}\``,
         options: [
           { value: "new", label: "Empty Quartz" },
-          { value: "copy", label: "Copy an existing folder", hint: "overwrites `content`" },
+          {
+            value: "copy",
+            label: "Copy an existing folder",
+            hint: "overwrites `content`",
+          },
           {
             value: "symlink",
             label: "Symlink an existing folder",
@@ -186,7 +200,8 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
     // get a preferred link resolution strategy
     linkResolutionStrategy = exitIfCancel(
       await select({
-        message: `Choose how Quartz should resolve links in your content. This should match Obsidian's link format. You can change this later in \`quartz.config.ts\`.`,
+        message:
+          `Choose how Quartz should resolve links in your content. This should match Obsidian's link format. You can change this later in \`quartz.config.ts\`.`,
         options: [
           {
             value: "shortest",
@@ -208,7 +223,9 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
   // now, do config changes
   const configFilePath = path.join(cwd, "quartz.config.ts")
-  let configContent = await fs.promises.readFile(configFilePath, { encoding: "utf-8" })
+  let configContent = await fs.promises.readFile(configFilePath, {
+    encoding: "utf-8",
+  })
   configContent = configContent.replace(
     /markdownLinkResolution: '(.+)'/,
     `markdownLinkResolution: '${linkResolutionStrategy}'`,
@@ -327,9 +344,11 @@ export async function handleBuild(argv) {
       const outputFileName = "quartz/.quartz-cache/transpiled-build.mjs"
       const meta = result.metafile.outputs[outputFileName]
       console.log(
-        `Successfully transpiled ${Object.keys(meta.inputs).length} files (${prettyBytes(
-          meta.bytes,
-        )})`,
+        `Successfully transpiled ${Object.keys(meta.inputs).length} files (${
+          prettyBytes(
+            meta.bytes,
+          )
+        })`,
       )
       console.log(await esbuild.analyzeMetafile(result.metafile, { color: true }))
     }
@@ -391,10 +410,9 @@ export async function handleBuild(argv) {
           ],
         })
         const status = res.statusCode
-        const statusString =
-          status >= 200 && status < 300
-            ? styleText("green", `[${status}]`)
-            : styleText("red", `[${status}]`)
+        const statusString = status >= 200 && status < 300
+          ? styleText("green", `[${status}]`)
+          : styleText("red", `[${status}]`)
         console.log(statusString + styleText("gray", ` ${argv.baseDir}${req.url}`))
         release()
       }

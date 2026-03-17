@@ -12,12 +12,14 @@ This week’s lab note begins a series of notes, all on the itemized internet.
 
 What might the internet look like when we introduce items?
 
-Read the lab note:  
+Read the lab note:\
 [LN 025: Publishing items »](https://alexanderobenauer.com/labnotes/025/)
 
-We’re now 25 lab notes (and one experiment) into these explorations. I last asked for some feedback at the fifth, so it’s a good time to do so again.
+We’re now 25 lab notes (and one experiment) into these explorations. I last
+asked for some feedback at the fifth, so it’s a good time to do so again.
 
-I’d love to hear from you: What do you want to see more of? What do you want to see less of? Any other thoughts or feedback?
+I’d love to hear from you: What do you want to see more of? What do you want to
+see less of? Any other thoughts or feedback?
 
 You can simply with your responses!
 

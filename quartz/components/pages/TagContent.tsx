@@ -32,7 +32,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
     const tag = simplifySlug(slug.slice("tags/".length) as FullSlug)
     const allPagesWithTag = (tag: string) =>
       allFiles.filter((file) =>
-        (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag),
+        (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag)
       )
 
     const content = (
@@ -57,7 +57,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
           <article class={classes}>
             <p>{content}</p>
           </article>
-          <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
+          <p>
+            {i18n(cfg.locale).pages.tagContent.totalTags({
+              count: tags.length,
+            })}
+          </p>
           <div>
             {tags.map((tag) => {
               const pages = tagItemMap.get(tag)!
@@ -69,10 +73,9 @@ export default ((opts?: Partial<TagContentOptions>) => {
               const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`).at(0)
 
               const root = contentPage?.htmlAst
-              const content =
-                !root || root?.children.length === 0
-                  ? contentPage?.description
-                  : htmlToJsx(contentPage.filePath!, root)
+              const content = !root || root?.children.length === 0
+                ? contentPage?.description
+                : htmlToJsx(contentPage.filePath!, root)
 
               const tagListingPage = `/tags/${tag}` as FullSlug
               const href = resolveRelative(fileData.slug!, tagListingPage)
@@ -87,7 +90,9 @@ export default ((opts?: Partial<TagContentOptions>) => {
                   {content && <p>{content}</p>}
                   <div class="page-listing">
                     <p>
-                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}
+                      {i18n(cfg.locale).pages.tagContent.itemsUnderTag({
+                        count: pages.length,
+                      })}
                       {pages.length > options.numPages && (
                         <>
                           {" "}
@@ -118,7 +123,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
         <div class="popover-hint">
           <article class={classes}>{content}</article>
           <div class="page-listing">
-            <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+            <p>
+              {i18n(cfg.locale).pages.tagContent.itemsUnderTag({
+                count: pages.length,
+              })}
+            </p>
             <div>
               <PageList {...listProps} sort={options?.sort} />
             </div>

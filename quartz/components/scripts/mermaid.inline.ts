@@ -41,8 +41,12 @@ class DiagramPanZoom {
     document.addEventListener("mousemove", mouseMoveHandler)
     document.addEventListener("mouseup", mouseUpHandler)
 
-    this.container.addEventListener("touchstart", touchStartHandler, { passive: false })
-    document.addEventListener("touchmove", touchMoveHandler, { passive: false })
+    this.container.addEventListener("touchstart", touchStartHandler, {
+      passive: false,
+    })
+    document.addEventListener("touchmove", touchMoveHandler, {
+      passive: false,
+    })
     document.addEventListener("touchend", touchEndHandler)
 
     window.addEventListener("resize", resizeHandler)
@@ -92,7 +96,10 @@ class DiagramPanZoom {
   private onMouseDown(e: MouseEvent) {
     if (e.button !== 0) return // Only handle left click
     this.isDragging = true
-    this.startPan = { x: e.clientX - this.currentPan.x, y: e.clientY - this.currentPan.y }
+    this.startPan = {
+      x: e.clientX - this.currentPan.x,
+      y: e.clientY - this.currentPan.y,
+    }
     this.container.style.cursor = "grabbing"
   }
 
@@ -117,7 +124,10 @@ class DiagramPanZoom {
     if (e.touches.length !== 1) return
     this.isDragging = true
     const touch = e.touches[0]
-    this.startPan = { x: touch.clientX - this.currentPan.x, y: touch.clientY - this.currentPan.y }
+    this.startPan = {
+      x: touch.clientX - this.currentPan.x,
+      y: touch.clientY - this.currentPan.y,
+    }
   }
 
   private onTouchMove(e: TouchEvent) {
@@ -154,7 +164,8 @@ class DiagramPanZoom {
   }
 
   private updateTransform() {
-    this.content.style.transform = `translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`
+    this.content.style.transform =
+      `translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`
   }
 
   private resetTransform() {
@@ -251,8 +262,7 @@ document.addEventListener("nav", async () => {
     const expandBtn = pre.querySelector(".expand-button") as HTMLButtonElement
 
     const clipboardStyle = window.getComputedStyle(clipboardBtn)
-    const clipboardWidth =
-      clipboardBtn.offsetWidth +
+    const clipboardWidth = clipboardBtn.offsetWidth +
       parseFloat(clipboardStyle.marginLeft || "0") +
       parseFloat(clipboardStyle.marginRight || "0")
 

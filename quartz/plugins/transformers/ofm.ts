@@ -1,20 +1,20 @@
 import { QuartzTransformerPlugin } from "../types"
 import {
-  Root,
-  Html,
   BlockContent,
-  PhrasingContent,
-  DefinitionContent,
-  Paragraph,
   Code,
+  DefinitionContent,
+  Html,
+  Paragraph,
+  PhrasingContent,
+  Root,
 } from "mdast"
 import { Element, Literal, Root as HtmlRoot } from "hast"
-import { ReplaceFunction, findAndReplace as mdastFindReplace } from "mdast-util-find-and-replace"
+import { findAndReplace as mdastFindReplace, ReplaceFunction } from "mdast-util-find-and-replace"
 import rehypeRaw from "rehype-raw"
 import { SKIP, visit } from "unist-util-visit"
 import path from "path"
 import { splitAnchor } from "../../util/path"
-import { JSResource, CSSResource } from "../../util/resources"
+import { CSSResource, JSResource } from "../../util/resources"
 // @ts-ignore
 import calloutScript from "../../components/scripts/callout.inline"
 // @ts-ignore
@@ -22,7 +22,7 @@ import checkboxScript from "../../components/scripts/checkbox.inline"
 // @ts-ignore
 import mermaidScript from "../../components/scripts/mermaid.inline"
 import mermaidStyle from "../../components/styles/mermaid.inline.scss"
-import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
+import { FilePath, pathToRoot, slugifyFilePath, slugTag } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
 import { capitalize } from "../../util/lang"
@@ -268,9 +268,10 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     return {
                       type: "html",
                       data: { hProperties: { transclude: true } },
-                      value: `<blockquote class="transclude" data-url="${url}" data-block="${block}" data-embed-alias="${alias}"><a href="${
-                        url + anchor
-                      }" class="transclude-inner">Transclude of ${url}${block}</a></blockquote>`,
+                      value:
+                        `<blockquote class="transclude" data-url="${url}" data-block="${block}" data-embed-alias="${alias}"><a href="${
+                          url + anchor
+                        }" class="transclude-inner">Transclude of ${url}${block}</a></blockquote>`,
                     }
                   }
 
@@ -486,7 +487,10 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   node.children = [
                     node.children[0],
                     {
-                      data: { hProperties: { className: ["callout-content"] }, hName: "div" },
+                      data: {
+                        hProperties: { className: ["callout-content"] },
+                        hName: "div",
+                      },
                       type: "blockquote",
                       children: [...calloutContent],
                     },

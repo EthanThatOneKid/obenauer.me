@@ -5,16 +5,19 @@ import { GlobalConfiguration } from "../cfg"
 import { Node } from "hast"
 import { BuildCtx } from "../util/ctx"
 
-export type QuartzComponentProps = {
-  ctx: BuildCtx
-  externalResources: StaticResources
-  fileData: QuartzPluginData
-  cfg: GlobalConfiguration
-  children: (QuartzComponent | JSX.Element)[]
-  tree: Node
-  allFiles: QuartzPluginData[]
-  displayClass?: "mobile-only" | "desktop-only"
-} & JSX.IntrinsicAttributes & {
+export type QuartzComponentProps =
+  & {
+    ctx: BuildCtx
+    externalResources: StaticResources
+    fileData: QuartzPluginData
+    cfg: GlobalConfiguration
+    children: (QuartzComponent | JSX.Element)[]
+    tree: Node
+    allFiles: QuartzPluginData[]
+    displayClass?: "mobile-only" | "desktop-only"
+  }
+  & JSX.IntrinsicAttributes
+  & {
     [key: string]: any
   }
 

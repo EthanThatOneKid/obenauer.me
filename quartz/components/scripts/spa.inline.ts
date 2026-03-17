@@ -1,5 +1,5 @@
 import micromorph from "micromorph"
-import { FullSlug, RelativeURL, getFullSlug, normalizeRelativeURLs } from "../../util/path"
+import { FullSlug, getFullSlug, normalizeRelativeURLs, RelativeURL } from "../../util/path"
 import { fetchCanonical } from "./util"
 
 // adapted from `micromorph`
@@ -32,11 +32,16 @@ const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined 
   if ("routerIgnore" in a.dataset) return
   const { href } = a
   if (!isLocalUrl(href)) return
-  return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }
+  return {
+    url: new URL(href),
+    scroll: "routerNoscroll" in a.dataset ? false : undefined,
+  }
 }
 
 function notifyNav(url: FullSlug) {
-  const event: CustomEventMap["nav"] = new CustomEvent("nav", { detail: { url } })
+  const event: CustomEventMap["nav"] = new CustomEvent("nav", {
+    detail: { url },
+  })
   document.dispatchEvent(event)
 }
 
@@ -78,7 +83,9 @@ async function _navigate(url: URL, isBack: boolean = false) {
   if (!contents) return
 
   // notify about to nav
-  const event: CustomEventMap["prenav"] = new CustomEvent("prenav", { detail: {} })
+  const event: CustomEventMap["prenav"] = new CustomEvent("prenav", {
+    detail: {},
+  })
   document.dispatchEvent(event)
 
   // cleanup old
@@ -165,7 +172,9 @@ function createRouter() {
 
     window.addEventListener("popstate", (event) => {
       const { url } = getOpts(event) ?? {}
-      if (window.location.hash && window.location.pathname === url?.pathname) return
+      if (window.location.hash && window.location.pathname === url?.pathname) {
+        return
+      }
       navigate(new URL(window.location.toString()), true)
       return
     })

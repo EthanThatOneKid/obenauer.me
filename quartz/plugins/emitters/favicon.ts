@@ -1,5 +1,5 @@
 import sharp from "sharp"
-import { joinSegments, QUARTZ, FullSlug } from "../../util/path"
+import { FullSlug, joinSegments, QUARTZ } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"

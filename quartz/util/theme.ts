@@ -18,10 +18,10 @@ interface Colors {
 export type FontSpecification =
   | string
   | {
-      name: string
-      weights?: number[]
-      includeItalic?: boolean
-    }
+    name: string
+    weights?: number[]
+    includeItalic?: boolean
+  }
 
 export interface Theme {
   typography: {
@@ -70,9 +70,9 @@ function formatFontSpecification(
   if (weights.length > 1) {
     const weightSpec = italic
       ? weights
-          .flatMap((w) => [`0,${w}`, `1,${w}`])
-          .sort()
-          .join(";")
+        .flatMap((w) => [`0,${w}`, `1,${w}`])
+        .sort()
+        .join(";")
       : weights.join(";")
 
     features.push(`wght@${weightSpec}`)
@@ -98,7 +98,11 @@ export function googleFontSubsetHref(theme: Theme, text: string) {
   const title = theme.typography.title || theme.typography.header
   const titleFont = formatFontSpecification("title", title)
 
-  return `https://fonts.googleapis.com/css2?family=${titleFont}&text=${encodeURIComponent(text)}&display=swap`
+  return `https://fonts.googleapis.com/css2?family=${titleFont}&text=${
+    encodeURIComponent(
+      text,
+    )
+  }&display=swap`
 }
 
 export interface GoogleFontFile {
@@ -155,7 +159,11 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
 
-  --titleFont: "${getFontSpecificationName(theme.typography.title || theme.typography.header)}", ${DEFAULT_SANS_SERIF};
+  --titleFont: "${
+    getFontSpecificationName(
+      theme.typography.title || theme.typography.header,
+    )
+  }", ${DEFAULT_SANS_SERIF};
   --headerFont: "${getFontSpecificationName(theme.typography.header)}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${getFontSpecificationName(theme.typography.body)}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${getFontSpecificationName(theme.typography.code)}", ${DEFAULT_MONO};

@@ -202,7 +202,7 @@ can start using another with a clean slate — a bandaid fix that just works,
 since apps have become data silos. [\[Return\]](#return1)
 
 [\[2\]](#return2) More about Willie Nelson's guitar Trigger is
-[on Wikipedia](<https://en.wikipedia.org/wiki/Trigger_(guitar)>). A lovely
+[on Wikipedia](https://en.wikipedia.org/wiki/Trigger_(guitar)). A lovely
 mini-doc on maintaining the instrument can be found
 [on YouTube](https://www.youtube.com/watch?v=b6IB0trJoJU) (featuring, as a
 commenter says, the "Bob Ross of guitar maintenance").

@@ -1,8 +1,8 @@
 import { QuartzTransformerPlugin } from "../types"
 import { PluggableList } from "unified"
 import { visit } from "unist-util-visit"
-import { ReplaceFunction, findAndReplace as mdastFindReplace } from "mdast-util-find-and-replace"
-import { Root, Html, Paragraph, Text, Link, Parent } from "mdast"
+import { findAndReplace as mdastFindReplace, ReplaceFunction } from "mdast-util-find-and-replace"
+import { Html, Link, Paragraph, Parent, Root, Text } from "mdast"
 import { BuildVisitor } from "unist-util-visit"
 
 export interface Options {
@@ -59,13 +59,13 @@ function transformSpecialEmbed(node: Paragraph, opts: Options): Html | null {
     case "audio":
       return opts.audioComponent
         ? {
-            type: "html",
-            value: `<audio controls>
+          type: "html",
+          value: `<audio controls>
           <source src="${url}" type="audio/mpeg">
           <source src="${url}" type="audio/ogg">
           Your browser does not support the audio tag.
         </audio>`,
-          }
+        }
         : null
     case "video":
       if (!opts.videoComponent) return null
@@ -102,9 +102,9 @@ function transformSpecialEmbed(node: Paragraph, opts: Options): Html | null {
     case "pdf":
       return opts.pdfComponent
         ? {
-            type: "html",
-            value: `<embed src="${url}" type="application/pdf" width="100%" height="600px" />`,
-          }
+          type: "html",
+          value: `<embed src="${url}" type="application/pdf" width="100%" height="600px" />`,
+        }
         : null
     default:
       return null
@@ -127,14 +127,18 @@ export const RoamFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | un
 
           // Handle special embeds (audio, video, PDF)
           if (opts.audioComponent || opts.videoComponent || opts.pdfComponent) {
-            visit(tree, "paragraph", ((node: Paragraph, index: number, parent: Parent | null) => {
-              if (isSpecialEmbed(node)) {
-                const transformedNode = transformSpecialEmbed(node, opts)
-                if (transformedNode && parent) {
-                  parent.children[index] = transformedNode
+            visit(
+              tree,
+              "paragraph",
+              ((node: Paragraph, index: number, parent: Parent | null) => {
+                if (isSpecialEmbed(node)) {
+                  const transformedNode = transformSpecialEmbed(node, opts)
+                  if (transformedNode && parent) {
+                    parent.children[index] = transformedNode
+                  }
                 }
-              }
-            }) as BuildVisitor<Root, "paragraph">)
+              }) as BuildVisitor<Root, "paragraph">,
+            )
           }
 
           // Roam italic syntax
@@ -165,7 +169,11 @@ export const RoamFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | un
                 }
                 const optionsString: string = matchResult[1]
                 const options: string[] = optionsString.split("|")
-                const selectHtml: string = `<select>${options.map((option: string) => `<option value="${option}">${option}</option>`).join("")}</select>`
+                const selectHtml: string = `<select>${
+                  options
+                    .map((option: string) => `<option value="${option}">${option}</option>`)
+                    .join("")
+                }</select>`
                 return { type: "html", value: selectHtml }
               },
             ])

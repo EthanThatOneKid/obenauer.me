@@ -1,13 +1,14 @@
 ---
-title: Welcome
+title: index
 ---
 
 Welcome.
 
-[[items|Itemize]] everything. Emails, notes, tasks—just [[triples]] in a [[graph]].
+Itemize everything. [[email|Emails]], [[note|notes]], [[task|tasks]]—just
+[[tuple|tuples]] in a [[graph]].
 
-[[learning|Read]] deeply, [[thinking|synthesize]] connections, and [[agency|architect]] your own environment.
+Read deeply, synthesize connections, and architect your own [[environment]].
 
-[[creation|Compose]] your own [[localfirst]] tools. Break down [[silos|walled gardens]].
+Compose your own [[localfirst]] [[tool|tools]]. Break down walled gardens.
 
 The result is [[sovereignty]].

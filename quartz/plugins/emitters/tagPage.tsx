@@ -3,7 +3,7 @@ import { QuartzComponentProps } from "../../components/types"
 import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
-import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../vfile"
+import { defaultProcessedContent, ProcessedContent, QuartzPluginData } from "../vfile"
 import { FullPageLayout } from "../../cfg"
 import { FullSlug, getAllSegmentPrefixes, joinSegments, pathToRoot } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
@@ -31,10 +31,9 @@ function computeTagInfo(
 
   const tagDescriptions: Record<string, ProcessedContent> = Object.fromEntries(
     [...tags].map((tag) => {
-      const title =
-        tag === "index"
-          ? i18n(locale).pages.tagContent.tagIndex
-          : `${i18n(locale).pages.tagContent.tag}: ${tag}`
+      const title = tag === "index"
+        ? i18n(locale).pages.tagContent.tagIndex
+        : `${i18n(locale).pages.tagContent.tag}: ${tag}`
       return [
         tag,
         defaultProcessedContent({

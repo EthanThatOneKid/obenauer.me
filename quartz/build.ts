@@ -25,12 +25,12 @@ import { minimatch } from "minimatch"
 type ContentMap = Map<
   FilePath,
   | {
-      type: "markdown"
-      content: ProcessedContent
-    }
+    type: "markdown"
+    content: ProcessedContent
+  }
   | {
-      type: "other"
-    }
+    type: "other"
+  }
 >
 
 type BuildData = {
@@ -74,7 +74,11 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const allFiles = await glob("**/*.*", argv.directory, cfg.configuration.ignorePatterns)
   const markdownPaths = allFiles.filter((fp) => fp.endsWith(".md")).sort()
   console.log(
-    `Found ${markdownPaths.length} input files from \`${argv.directory}\` in ${perf.timeSince("glob")}`,
+    `Found ${markdownPaths.length} input files from \`${argv.directory}\` in ${
+      perf.timeSince(
+        "glob",
+      )
+    }`,
   )
 
   const filePaths = markdownPaths.map((fp) => joinSegments(argv.directory, fp) as FilePath)

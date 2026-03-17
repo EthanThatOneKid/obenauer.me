@@ -67,8 +67,8 @@ export default {
         count === 1
           ? "Paskutinis 1 užrašas"
           : count < 10
-            ? `Paskutiniai ${count} užrašai`
-            : `Paskutiniai ${count} užrašų`,
+          ? `Paskutiniai ${count} užrašai`
+          : `Paskutiniai ${count} užrašų`,
     },
     error: {
       title: "Nerasta",
@@ -82,8 +82,8 @@ export default {
         count === 1
           ? "1 elementas šiame aplanke."
           : count < 10
-            ? `${count} elementai šiame aplanke.`
-            : `${count} elementų šiame aplanke.`,
+          ? `${count} elementai šiame aplanke.`
+          : `${count} elementų šiame aplanke.`,
     },
     tagContent: {
       tag: "Žyma",
@@ -92,16 +92,16 @@ export default {
         count === 1
           ? "1 elementas su šia žyma."
           : count < 10
-            ? `${count} elementai su šia žyma.`
-            : `${count} elementų su šia žyma.`,
+          ? `${count} elementai su šia žyma.`
+          : `${count} elementų su šia žyma.`,
       showingFirst: ({ count }) =>
         count < 10 ? `Rodomos pirmosios ${count} žymos.` : `Rodomos pirmosios ${count} žymų.`,
       totalTags: ({ count }) =>
         count === 1
           ? "Rasta iš viso 1 žyma."
           : count < 10
-            ? `Rasta iš viso ${count} žymos.`
-            : `Rasta iš viso ${count} žymų.`,
+          ? `Rasta iš viso ${count} žymos.`
+          : `Rasta iš viso ${count} žymų.`,
     },
   },
 } as const satisfies Translation
